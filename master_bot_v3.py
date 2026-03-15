@@ -112,6 +112,7 @@ def get_match_probabilities(league_name, home_team, away_team, verbose=True):
         return None
         
     df = pd.read_csv(filename)
+    df = df.fillna(0)
     if len(df) == 0: return None
     
     # --- TIME-WEIGHTED FORM (Exponential Smoothing) ---
@@ -155,22 +156,29 @@ def get_match_probabilities(league_name, home_team, away_team, verbose=True):
         # Expected Corners (only if data is available)
         home_exp_corners = None
         away_exp_corners = None
+        
+        # Filter out rows with no corner data so 0s don't ruin the averages
         if 'HC' in df.columns and 'AC' in df.columns:
-            avg_hc = np.average(df['HC'], weights=df['Weight'])
-            avg_ac = np.average(df['AC'], weights=df['Weight'])
+            df_corners = df[(df['HC'] > 0) | (df['AC'] > 0)]
+            if len(df_corners) > 0:
+                avg_hc = np.average(df_corners['HC'], weights=df_corners['Weight'])
+                avg_ac = np.average(df_corners['AC'], weights=df_corners['Weight'])
 
-            h_hc = weighted_mean(home_groups.get_group(home_team), 'HC') if home_team in home_groups.groups else avg_hc
-            h_ac = weighted_mean(home_groups.get_group(home_team), 'AC') if home_team in home_groups.groups else avg_ac
-            a_hc = weighted_mean(away_groups.get_group(away_team), 'HC') if away_team in away_groups.groups else avg_hc
-            a_ac = weighted_mean(away_groups.get_group(away_team), 'AC') if away_team in away_groups.groups else avg_ac
+                home_groups_c = df_corners.groupby('HomeTeam')
+                away_groups_c = df_corners.groupby('AwayTeam')
 
-            h_att_c = h_hc / avg_hc if avg_hc > 0 else 1.0
-            a_def_c = a_hc / avg_hc if avg_hc > 0 else 1.0
-            home_exp_corners = h_att_c * a_def_c * avg_hc
+                h_hc = weighted_mean(home_groups_c.get_group(home_team), 'HC') if home_team in home_groups_c.groups else avg_hc
+                h_ac = weighted_mean(home_groups_c.get_group(home_team), 'AC') if home_team in home_groups_c.groups else avg_ac
+                a_hc = weighted_mean(away_groups_c.get_group(away_team), 'HC') if away_team in away_groups_c.groups else avg_hc
+                a_ac = weighted_mean(away_groups_c.get_group(away_team), 'AC') if away_team in away_groups_c.groups else avg_ac
 
-            a_att_c = a_ac / avg_ac if avg_ac > 0 else 1.0
-            h_def_c = h_ac / avg_ac if avg_ac > 0 else 1.0
-            away_exp_corners = a_att_c * h_def_c * avg_ac
+                h_att_c = h_hc / avg_hc if avg_hc > 0 else 1.0
+                a_def_c = a_hc / avg_hc if avg_hc > 0 else 1.0
+                home_exp_corners = h_att_c * a_def_c * avg_hc
+
+                a_att_c = a_ac / avg_ac if avg_ac > 0 else 1.0
+                h_def_c = h_ac / avg_ac if avg_ac > 0 else 1.0
+                away_exp_corners = a_att_c * h_def_c * avg_ac
     except KeyError:
         if verbose: print(f"Error: Team '{home_team}' or '{away_team}' not found.")
         return None
@@ -492,6 +500,7 @@ def import_custom_results(league_name, filepath):
         if os.path.exists(target_file):
             existing_df = pd.read_csv(target_file)
             combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+            combined_df = combined_df.fillna(0)
             combined_df.to_csv(target_file, index=False)
             print(f"Success! Added {len(new_df)} new match results into {target_file}.")
     except Exception as e:
