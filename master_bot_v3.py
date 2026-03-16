@@ -6,12 +6,35 @@ import argparse
 import csv
 import numpy as np
 from scipy.stats import poisson
+import ssl
+import urllib3
+import io
+
+# Disable SSL certificate verification for pandas read_csv (urllib) and requests
+try:
+    ssl._create_default_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+
+"""The 22/23 season file -> 2223_E1.csv
+The 23/24 season file -> 2324_E1.csv
+The 24/25 season file -> 2425_E1.csv"""
 
 # --- CONFIGURATION ---
 EURO_LEAGUES = {
     "epl": ["E0"], "laliga": ["SP1"], "seriaa": ["I1"], 
     "ligue1": ["F1"], "bundesliga": ["D1"], "eredivisie": ["N1"], 
-    "championship": ["E1"]
+    "championship": ["E1"],
+    "league1_eng": ["E2"],
+    "league2_eng": ["E3"],
+    "bundesliga2": ["D2"],
+    "bundesliga3": ["D3"],
+    "serieb": ["I2"],
+    "seriec": ["I3"],
+    "eredivisie2": ["N2"],
+    "eredivisie3": ["N3"]
 }
 
 CUSTOM_LEAGUES = {
@@ -27,7 +50,7 @@ FBREF_LEAGUE_IDS = {
     "psl": "38", "saudi": "70", "hnl": "62", "eliteserien": "28"
 }
 
-SEASONS = ["2425", "2324", "2223"]
+SEASONS = ["2223", "2324", "2425"]
 
 DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -53,10 +76,26 @@ def update_euro_data(league_name):
     
     for season in SEASONS:
         for code in codes:
+            # Check if user manually downloaded the file (e.g., '2223_E1.csv')
+            local_file = f"{season}_{code}.csv"
+            if os.path.exists(local_file):
+                print(f"Found local file '{local_file}'! Reading instead of downloading...")
+                df = pd.read_csv(local_file, usecols=lambda c: c in cols)
+                data_frames.append(df)
+                continue
+                
             url = f"https://www.football-data.co.uk/mmz4281/{season}/{code}.csv"
             try:
                 print(f"Downloading {season}...")
-                df = pd.read_csv(url, usecols=lambda c: c in cols)
+                headers = {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                    "Accept-Language": "en-US,en;q=0.5",
+                    "Referer": "https://www.football-data.co.uk/"
+                }
+                response = requests.get(url, headers=headers, verify=False)
+                response.raise_for_status()
+                df = pd.read_csv(io.StringIO(response.text), usecols=lambda c: c in cols)
                 data_frames.append(df)
             except Exception as e:
                 print(f"Warning: Could not download data for {league_name} {season} from {url}. Error: {e}")
@@ -76,7 +115,7 @@ def update_custom_data(league_name):
 
     try:
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)
         response.raise_for_status()
         
         tables = pd.read_html(response.text)
@@ -384,7 +423,15 @@ def scrape_upcoming_fixtures(league_name):
         url = "https://www.football-data.co.uk/fixtures.csv"
         print(f"Downloading upcoming fixtures from {url}...")
         try:
-            df = pd.read_csv(url)
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.5",
+                "Referer": "https://www.football-data.co.uk/"
+            }
+            response = requests.get(url, headers=headers, verify=False)
+            response.raise_for_status()
+            df = pd.read_csv(io.StringIO(response.text))
             div_codes = EURO_LEAGUES[league_name]
             df = df[df['Div'].isin(div_codes)]
             

@@ -376,3 +376,106 @@ epl,MW38,Nott'm Forest,Bournemouth
 epl,MW38,Sunderland,Chelsea
 epl,MW38,Tottenham,Everton
 epl,MW38,West Ham,Leeds
+
+
+laliga,MW28,Rayo Vallecano,Levante
+laliga,MW29,Villarreal,Real Sociedad
+laliga,MW29,Elche,Mallorca
+laliga,MW29,Espanyol,Getafe
+laliga,MW29,Levante,Oviedo
+laliga,MW29,Osasuna,Girona
+laliga,MW29,Sevilla,Valencia
+laliga,MW29,Barcelona,Rayo Vallecano
+laliga,MW29,Celta Vigo,Alaves
+laliga,MW29,A Bilbao,Real Betis
+laliga,MW29,Real Madrid,Atlético
+laliga,MW30,Alaves,Osasuna
+laliga,MW30,Atlético,Barcelona
+laliga,MW30,Getafe,A Bilbao
+laliga,MW30,Girona,Villarreal
+laliga,MW30,Mallorca,Real Madrid
+laliga,MW30,Oviedo,Sevilla
+laliga,MW30,Rayo Vallecano,Elche
+laliga,MW30,Real Betis,Espanyol
+laliga,MW30,Real Sociedad,Levante
+laliga,MW30,Valencia,Celta Vigo
+laliga,MW31,A Bilbao,Villarreal
+laliga,MW31,Barcelona,Espanyol
+laliga,MW31,Celta Vigo,Oviedo
+laliga,MW31,Elche,Valencia
+laliga,MW31,Levante,Getafe
+laliga,MW31,Mallorca,Rayo Vallecano
+laliga,MW31,Osasuna,Real Betis
+laliga,MW31,Real Madrid,Girona
+laliga,MW31,Real Sociedad,Alaves
+laliga,MW31,Sevilla,Atlético
+laliga,MW32,Alaves,Mallorca
+laliga,MW32,Atlético,A Bilbao
+laliga,MW32,Espanyol,Levante
+laliga,MW32,Getafe,Barcelona
+laliga,MW32,Osasuna,Sevilla
+laliga,MW32,Oviedo,Elche
+laliga,MW32,Rayo Vallecano,Real Sociedad
+laliga,MW32,Real Betis,Real Madrid
+laliga,MW32,Valencia,Girona
+laliga,MW32,Villarreal,Celta Vigo
+laliga,MW33,A Bilbao,Osasuna
+laliga,MW33,Barcelona,Celta Vigo
+laliga,MW33,Elche,Atlético
+laliga,MW33,Girona,Real Betis
+laliga,MW33,Levante,Sevilla
+laliga,MW33,Mallorca,Valencia
+laliga,MW33,Oviedo,Villarreal
+laliga,MW33,Rayo Vallecano,Espanyol
+laliga,MW33,Real Madrid,Alaves
+laliga,MW33,Real Sociedad,Getafe
+laliga,MW34,Alaves,A Bilbao
+laliga,MW34,Celta Vigo,Elche
+laliga,MW34,Espanyol,Real Madrid
+laliga,MW34,Getafe,Rayo Vallecano
+laliga,MW34,Girona,Mallorca
+laliga,MW34,Osasuna,Barcelona
+laliga,MW34,Real Betis,Oviedo
+laliga,MW34,Sevilla,Real Sociedad
+laliga,MW34,Valencia,Atlético
+laliga,MW34,Villarreal,Levante
+laliga,MW35,A Bilbao,Valencia
+laliga,MW35,Atlético,Celta Vigo
+laliga,MW35,Barcelona,Real Madrid
+laliga,MW35,Elche,Alaves
+laliga,MW35,Levante,Osasuna
+laliga,MW35,Mallorca,Villarreal
+laliga,MW35,Oviedo,Getafe
+laliga,MW35,Rayo Vallecano,Girona
+laliga,MW35,Real Sociedad,Real Betis
+laliga,MW35,Sevilla,Espanyol
+laliga,MW36,Alaves,Barcelona
+laliga,MW36,Celta Vigo,Levante
+laliga,MW36,Espanyol,A Bilbao
+laliga,MW36,Getafe,Mallorca
+laliga,MW36,Girona,Real Sociedad
+laliga,MW36,Osasuna,Atlético
+laliga,MW36,Real Betis,Elche
+laliga,MW36,Real Madrid,Oviedo
+laliga,MW36,Valencia,Rayo Vallecano
+laliga,MW36,Villarreal,Sevilla
+laliga,MW37,A Bilbao,Celta Vigo
+laliga,MW37,Atlético,Girona
+laliga,MW37,Barcelona,Real Betis
+laliga,MW37,Elche,Getafe
+laliga,MW37,Levante,Mallorca
+laliga,MW37,Osasuna,Espanyol
+laliga,MW37,Oviedo,Alaves
+laliga,MW37,Rayo Vallecano,Villarreal
+laliga,MW37,Real Sociedad,Valencia
+laliga,MW37,Sevilla,Real Madrid
+laliga,MW38,Alaves,Rayo Vallecano
+laliga,MW38,Celta Vigo,Sevilla
+laliga,MW38,Espanyol,Real Sociedad
+laliga,MW38,Getafe,Osasuna
+laliga,MW38,Girona,Elche
+laliga,MW38,Mallorca,Oviedo
+laliga,MW38,Real Betis,Levante
+laliga,MW38,Real Madrid,A Bilbao
+laliga,MW38,Valencia,Barcelona
+laliga,MW38,Villarreal,Atlético
