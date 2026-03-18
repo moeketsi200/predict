@@ -1,0 +1,2545 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+HJK,Mariehamn,3,1
+Honka,VPS,1,1
+KuPS,JJK Jyvaskyla,2,2
+Lahti,Haka,1,0
+TPS,MyPa,0,1
+Lahti,Honka,2,1
+JJK Jyvaskyla,Haka,1,4
+Mariehamn,KuPS,1,1
+MyPa,Jaro,2,0
+TPS,HJK,3,1
+VPS,Inter Turku,0,2
+Haka,Mariehamn,0,2
+Honka,JJK Jyvaskyla,0,2
+Inter Turku,MyPa,2,0
+KuPS,TPS,1,1
+VPS,Lahti,2,1
+HJK,Jaro,4,1
+Jaro,KuPS,1,0
+Lahti,Inter Turku,0,5
+Mariehamn,Honka,0,0
+MyPa,HJK,1,0
+TPS,Haka,2,0
+JJK Jyvaskyla,VPS,0,2
+Jaro,Inter Turku,0,1
+KuPS,HJK,0,3
+Haka,Jaro,4,1
+Honka,TPS,0,2
+JJK Jyvaskyla,Lahti,2,1
+KuPS,MyPa,1,2
+VPS,Mariehamn,1,2
+HJK,Inter Turku,2,1
+HJK,KuPS,2,0
+Inter Turku,JJK Jyvaskyla,2,1
+Jaro,Honka,0,1
+MyPa,Haka,3,1
+TPS,VPS,1,0
+Mariehamn,Lahti,2,0
+Haka,HJK,0,1
+Honka,MyPa,2,1
+Inter Turku,KuPS,2,1
+JJK Jyvaskyla,Mariehamn,5,2
+Lahti,TPS,2,0
+VPS,Jaro,1,1
+HJK,Honka,3,0
+Jaro,Lahti,0,2
+KuPS,Haka,3,0
+Mariehamn,Inter Turku,2,1
+MyPa,VPS,1,0
+TPS,JJK Jyvaskyla,2,3
+Honka,KuPS,1,0
+Inter Turku,Haka,4,1
+JJK Jyvaskyla,Jaro,1,1
+Lahti,MyPa,0,0
+Mariehamn,TPS,2,1
+VPS,HJK,1,0
+HJK,Lahti,2,0
+Haka,Honka,2,1
+Jaro,Mariehamn,0,3
+KuPS,VPS,0,3
+MyPa,JJK Jyvaskyla,0,1
+Inter Turku,Lahti,2,0
+JJK Jyvaskyla,KuPS,1,5
+Haka,VPS,0,1
+Honka,Inter Turku,2,1
+JJK Jyvaskyla,HJK,0,3
+TPS,Jaro,2,3
+KuPS,Lahti,1,2
+Mariehamn,MyPa,0,0
+Inter Turku,Jaro,1,1
+Lahti,Haka,0,1
+Mariehamn,HJK,2,0
+TPS,MyPa,1,0
+VPS,Honka,2,0
+Haka,JJK Jyvaskyla,3,1
+HJK,TPS,0,0
+Honka,Lahti,3,2
+Inter Turku,VPS,1,1
+Jaro,MyPa,1,0
+KuPS,Mariehamn,2,0
+Jaro,HJK,2,2
+JJK Jyvaskyla,Honka,0,1
+Lahti,VPS,1,0
+Mariehamn,Haka,1,0
+MyPa,Inter Turku,4,0
+TPS,KuPS,3,0
+Haka,TPS,1,0
+HJK,MyPa,1,1
+KuPS,Jaro,1,0
+Lahti,Inter Turku,4,3
+VPS,JJK Jyvaskyla,2,0
+Honka,Mariehamn,2,2
+Inter Turku,HJK,2,0
+Jaro,Haka,1,0
+Mariehamn,VPS,0,0
+JJK Jyvaskyla,Lahti,3,1
+MyPa,KuPS,1,1
+TPS,Honka,2,1
+VPS,TPS,1,3
+Haka,MyPa,3,1
+Honka,Jaro,2,0
+Inter Turku,JJK Jyvaskyla,3,2
+Lahti,Mariehamn,2,0
+Jaro,VPS,0,0
+HJK,Haka,1,0
+Mariehamn,JJK Jyvaskyla,3,3
+KuPS,Inter Turku,0,6
+MyPa,Honka,0,0
+TPS,Lahti,4,0
+Honka,HJK,1,0
+Haka,KuPS,0,2
+JJK Jyvaskyla,TPS,2,1
+Lahti,Jaro,0,2
+VPS,MyPa,2,0
+Inter Turku,Mariehamn,0,3
+HJK,VPS,3,3
+MyPa,Lahti,3,1
+Haka,Inter Turku,0,2
+Jaro,JJK Jyvaskyla,0,3
+KuPS,Honka,0,2
+TPS,Mariehamn,1,1
+JJK Jyvaskyla,MyPa,0,3
+Mariehamn,Jaro,2,0
+Lahti,HJK,3,0
+Honka,Haka,2,2
+TPS,Inter Turku,4,1
+VPS,KuPS,0,1
+HJK,JJK Jyvaskyla,2,0
+Inter Turku,Honka,2,1
+KuPS,Lahti,1,0
+Jaro,TPS,0,1
+VPS,Haka,2,1
+MyPa,Mariehamn,2,1
+TPS,Haka,9,2
+Haka,Lahti,0,3
+HJK,Mariehamn,5,1
+Inter Turku,Jaro,3,1
+KuPS,JJK Jyvaskyla,2,3
+MyPa,TPS,1,1
+Honka,VPS,1,2
+Lahti,Honka,3,2
+TPS,HJK,1,2
+Jaro,MyPa,0,3
+JJK Jyvaskyla,Haka,5,0
+Mariehamn,KuPS,2,0
+Inter Turku,VPS,2,0
+KuPS,TPS,1,3
+Haka,Mariehamn,1,1
+HJK,Jaro,0,0
+MyPa,Inter Turku,0,0
+VPS,Lahti,1,3
+Honka,JJK Jyvaskyla,3,0
+Inter Turku,TPS,3,3
+Jaro,KuPS,1,1
+MyPa,HJK,1,4
+JJK Jyvaskyla,VPS,1,2
+Mariehamn,Honka,1,1
+Honka,TPS,0,1
+Haka,Jaro,0,0
+HJK,Inter Turku,1,1
+KuPS,MyPa,2,0
+Lahti,JJK Jyvaskyla,2,1
+VPS,Mariehamn,1,3
+HJK,KuPS,4,1
+Jaro,Honka,1,0
+JJK Jyvaskyla,Inter Turku,0,0
+Mariehamn,Lahti,2,2
+MyPa,Haka,1,0
+TPS,VPS,1,0
+Haka,HJK,2,2
+JJK Jyvaskyla,Mariehamn,3,2
+Lahti,TPS,1,0
+VPS,Jaro,2,1
+Inter Turku,KuPS,1,4
+Honka,MyPa,1,1
+Jaro,Lahti,2,1
+KuPS,Haka,1,1
+MyPa,VPS,1,1
+TPS,JJK Jyvaskyla,1,0
+HJK,Honka,1,0
+Inter Turku,Mariehamn,1,0
+Haka,Inter Turku,1,2
+Honka,KuPS,2,1
+JJK Jyvaskyla,Jaro,4,2
+Lahti,MyPa,3,1
+Mariehamn,TPS,1,0
+VPS,HJK,1,3
+Haka,Honka,1,0
+HJK,Lahti,2,0
+Inter Turku,TPS,0,0
+Jaro,Mariehamn,3,3
+KuPS,VPS,2,1
+MyPa,JJK Jyvaskyla,2,1
+Honka,Inter Turku,3,0
+JJK Jyvaskyla,HJK,3,6
+Lahti,KuPS,2,1
+Mariehamn,MyPa,2,2
+TPS,Jaro,1,2
+VPS,Haka,0,1
+TPS,Honka,2,0
+KuPS,MyPa,1,1
+Rovaniemi,Mariehamn,1,3
+TPS,VPS,0,1
+Rovaniemi,Lahti,3,0
+Jaro,KuPS,2,1
+Mariehamn,JJK Jyvaskyla,2,2
+MyPa,Inter Turku,1,0
+Honka,HJK,0,2
+JJK Jyvaskyla,Lahti,0,0
+KuPS,Mariehamn,0,1
+Rovaniemi,TPS,1,0
+VPS,Honka,0,0
+HJK,MyPa,2,0
+Inter Turku,Jaro,1,0
+Inter Turku,HJK,2,2
+Jaro,HJK,2,3
+Lahti,KuPS,1,0
+Mariehamn,Inter Turku,1,2
+MyPa,Honka,1,0
+TPS,JJK Jyvaskyla,1,0
+VPS,Rovaniemi,3,1
+HJK,Mariehamn,0,0
+Honka,Rovaniemi,2,0
+Inter Turku,Lahti,2,0
+JJK Jyvaskyla,VPS,0,1
+KuPS,TPS,4,1
+MyPa,Jaro,1,2
+Jaro,Honka,2,2
+Mariehamn,MyPa,0,4
+Rovaniemi,JJK Jyvaskyla,4,0
+VPS,KuPS,1,2
+Lahti,HJK,0,1
+TPS,Inter Turku,2,1
+HJK,TPS,0,2
+Honka,JJK Jyvaskyla,3,2
+Inter Turku,VPS,0,0
+KuPS,Rovaniemi,1,0
+Mariehamn,Jaro,1,0
+MyPa,Lahti,2,0
+HJK,VPS,1,2
+Honka,Mariehamn,2,1
+JJK Jyvaskyla,KuPS,0,0
+Lahti,Jaro,1,2
+Rovaniemi,Inter Turku,1,0
+HJK,Rovaniemi,2,0
+Inter Turku,JJK Jyvaskyla,3,1
+Jaro,TPS,1,1
+KuPS,Honka,1,2
+MyPa,VPS,3,0
+Mariehamn,Lahti,2,2
+Honka,Lahti,1,0
+JJK Jyvaskyla,HJK,1,3
+KuPS,Inter Turku,1,1
+Rovaniemi,MyPa,2,1
+TPS,Mariehamn,2,4
+VPS,Jaro,2,1
+HJK,KuPS,1,2
+Inter Turku,Honka,0,1
+Jaro,Rovaniemi,2,1
+Lahti,TPS,0,1
+Mariehamn,VPS,0,1
+MyPa,JJK Jyvaskyla,0,1
+HJK,Inter Turku,6,0
+Jaro,JJK Jyvaskyla,3,0
+Lahti,VPS,0,2
+Mariehamn,Rovaniemi,1,0
+MyPa,KuPS,2,0
+TPS,Honka,2,0
+Honka,HJK,1,0
+Inter Turku,MyPa,0,0
+JJK Jyvaskyla,Mariehamn,3,2
+KuPS,Jaro,3,0
+Lahti,Rovaniemi,0,0
+VPS,TPS,0,0
+Jaro,Inter Turku,0,0
+Lahti,JJK Jyvaskyla,2,1
+Mariehamn,KuPS,4,2
+MyPa,HJK,2,4
+TPS,Rovaniemi,2,1
+VPS,Honka,1,1
+HJK,Jaro,0,0
+Honka,MyPa,2,0
+Inter Turku,Mariehamn,0,2
+JJK Jyvaskyla,TPS,1,1
+KuPS,Lahti,0,1
+Rovaniemi,VPS,0,0
+Jaro,MyPa,2,0
+Lahti,Inter Turku,1,0
+Rovaniemi,Honka,0,1
+TPS,KuPS,0,0
+VPS,JJK Jyvaskyla,1,0
+Mariehamn,HJK,0,5
+Honka,Jaro,4,2
+Inter Turku,TPS,1,1
+JJK Jyvaskyla,Rovaniemi,1,1
+KuPS,VPS,1,0
+MyPa,Mariehamn,3,1
+HJK,Lahti,2,1
+Rovaniemi,KuPS,1,0
+JJK Jyvaskyla,Honka,1,0
+Mariehamn,Jaro,0,0
+VPS,Inter Turku,1,2
+Lahti,MyPa,3,0
+HJK,VPS,3,0
+Jaro,Lahti,7,1
+Inter Turku,Rovaniemi,0,0
+Mariehamn,Honka,1,4
+MyPa,TPS,2,1
+KuPS,JJK Jyvaskyla,2,1
+VPS,MyPa,4,1
+Rovaniemi,HJK,0,0
+Lahti,Mariehamn,2,1
+Honka,KuPS,1,0
+JJK Jyvaskyla,Inter Turku,2,0
+TPS,Jaro,2,2
+HJK,JJK Jyvaskyla,2,0
+Jaro,VPS,2,1
+Inter Turku,KuPS,2,2
+Lahti,Honka,0,1
+Mariehamn,TPS,2,0
+MyPa,Rovaniemi,0,1
+JJK Jyvaskyla,Jaro,0,0
+VPS,Lahti,0,3
+Rovaniemi,Jaro,0,0
+KuPS,HJK,0,0
+Honka,Inter Turku,0,0
+VPS,Mariehamn,2,2
+JJK Jyvaskyla,MyPa,0,3
+TPS,Lahti,1,2
+JJK Jyvaskyla,Jaro,0,0
+KuPS,MyPa,0,2
+Honka,TPS,2,1
+Inter Turku,HJK,1,1
+Rovaniemi,Mariehamn,0,2
+VPS,Lahti,3,1
+HJK,Honka,4,2
+MyPa,Inter Turku,1,1
+TPS,VPS,2,1
+Jaro,KuPS,2,2
+Lahti,Rovaniemi,2,3
+Mariehamn,JJK Jyvaskyla,4,1
+HJK,MyPa,2,1
+Honka,VPS,3,0
+JJK Jyvaskyla,Lahti,2,3
+KuPS,Mariehamn,3,2
+Rovaniemi,TPS,1,1
+Inter Turku,Jaro,1,0
+TPS,MyPa,1,2
+Lahti,KuPS,2,0
+TPS,JJK Jyvaskyla,2,2
+Jaro,HJK,1,5
+Mariehamn,Inter Turku,1,1
+MyPa,Honka,0,0
+VPS,Rovaniemi,1,1
+JJK Jyvaskyla,VPS,1,3
+MyPa,Jaro,1,0
+HJK,Mariehamn,6,1
+Honka,Rovaniemi,0,0
+Inter Turku,Lahti,1,3
+KuPS,TPS,1,1
+Jaro,Honka,1,3
+Lahti,HJK,0,2
+Mariehamn,MyPa,3,2
+Rovaniemi,JJK Jyvaskyla,1,1
+TPS,Inter Turku,1,1
+VPS,KuPS,2,1
+Inter Turku,VPS,1,2
+Jaro,Mariehamn,1,2
+HJK,TPS,3,1
+KuPS,Rovaniemi,2,0
+MyPa,Lahti,0,1
+Honka,JJK Jyvaskyla,3,3
+TPS,HJK,0,3
+Lahti,Jaro,5,2
+Mariehamn,Honka,3,2
+TPS,MyPa,2,1
+VPS,HJK,1,1
+JJK Jyvaskyla,KuPS,0,4
+Rovaniemi,Inter Turku,1,2
+Lahti,Mariehamn,5,1
+Inter Turku,JJK Jyvaskyla,2,0
+HJK,Rovaniemi,3,0
+Honka,KuPS,2,4
+Jaro,TPS,0,3
+MyPa,VPS,1,1
+Honka,Lahti,4,2
+JJK Jyvaskyla,HJK,0,5
+KuPS,Inter Turku,1,2
+Rovaniemi,MyPa,0,1
+TPS,Mariehamn,3,3
+VPS,Jaro,3,0
+HJK,KuPS,4,2
+Inter Turku,Honka,1,2
+Jaro,Rovaniemi,2,0
+Lahti,TPS,3,2
+Mariehamn,VPS,4,1
+MyPa,JJK Jyvaskyla,3,0
+HJK,Jaro,1,0
+MyPa,Honka,4,3
+Rovaniemi,VPS,0,2
+HJK,KuPS,3,1
+Rovaniemi,SJK,1,1
+TPS,Honka,0,1
+Jaro,Inter Turku,0,2
+Mariehamn,VPS,0,3
+MyPa,Lahti,1,1
+Honka,MyPa,1,2
+Inter Turku,SJK,2,1
+KuPS,Jaro,1,4
+Lahti,HJK,3,1
+Mariehamn,Rovaniemi,2,0
+VPS,TPS,1,0
+HJK,Honka,2,2
+Jaro,Lahti,2,1
+MyPa,VPS,1,1
+Rovaniemi,Inter Turku,1,0
+SJK,KuPS,2,0
+TPS,Mariehamn,0,1
+HJK,TPS,0,1
+Honka,Inter Turku,3,1
+KuPS,Lahti,0,2
+Mariehamn,Jaro,1,3
+Rovaniemi,MyPa,0,1
+TPS,Rovaniemi,0,2
+Honka,Jaro,1,1
+Inter Turku,KuPS,1,1
+Lahti,SJK,1,1
+Mariehamn,MyPa,2,1
+VPS,HJK,0,2
+HJK,Mariehamn,1,0
+Jaro,VPS,1,0
+KuPS,Rovaniemi,1,0
+Lahti,Inter Turku,0,0
+MyPa,TPS,4,1
+SJK,Honka,0,0
+Honka,Lahti,1,0
+Mariehamn,Inter Turku,2,2
+MyPa,Jaro,3,2
+Rovaniemi,HJK,0,1
+TPS,SJK,2,0
+VPS,KuPS,1,1
+HJK,MyPa,4,0
+Inter Turku,VPS,0,0
+Jaro,TPS,2,0
+KuPS,Honka,2,0
+Lahti,Rovaniemi,1,0
+SJK,Mariehamn,3,0
+Honka,Mariehamn,2,2
+Lahti,TPS,2,0
+MyPa,KuPS,2,0
+SJK,Jaro,0,1
+VPS,Rovaniemi,2,0
+HJK,SJK,1,0
+Mariehamn,Lahti,0,0
+MyPa,Inter Turku,1,1
+Rovaniemi,Jaro,2,1
+TPS,KuPS,0,3
+VPS,Honka,3,0
+Inter Turku,HJK,0,2
+Lahti,TPS,2,0
+SJK,MyPa,1,0
+Honka,Rovaniemi,1,0
+Inter Turku,TPS,2,1
+Jaro,HJK,0,2
+KuPS,Mariehamn,4,0
+Lahti,VPS,1,1
+TPS,Mariehamn,3,1
+Honka,Lahti,1,1
+Jaro,Inter Turku,2,0
+MyPa,SJK,1,3
+Rovaniemi,HJK,0,0
+VPS,KuPS,0,3
+HJK,VPS,3,0
+Inter Turku,MyPa,1,0
+KuPS,Honka,2,0
+SJK,Rovaniemi,1,0
+Mariehamn,Jaro,4,2
+Honka,HJK,1,1
+Jaro,MyPa,1,1
+Mariehamn,Lahti,0,1
+Rovaniemi,Inter Turku,3,0
+TPS,KuPS,1,1
+VPS,SJK,0,1
+HJK,TPS,5,0
+Inter Turku,VPS,3,0
+KuPS,Mariehamn,1,3
+MyPa,Rovaniemi,1,1
+SJK,Honka,2,1
+Lahti,Jaro,1,0
+Honka,Inter Turku,2,1
+Jaro,Rovaniemi,1,1
+Lahti,KuPS,0,1
+Mariehamn,HJK,0,2
+VPS,MyPa,4,0
+TPS,SJK,0,1
+HJK,Lahti,0,0
+Inter Turku,TPS,3,2
+KuPS,Jaro,1,1
+SJK,Mariehamn,3,0
+Honka,Rovaniemi,0,2
+Jaro,VPS,1,2
+KuPS,HJK,2,2
+Mariehamn,Inter Turku,3,1
+Lahti,SJK,1,1
+TPS,MyPa,3,0
+Rovaniemi,TPS,3,0
+SJK,KuPS,0,0
+MyPa,Mariehamn,3,0
+VPS,Honka,3,1
+Inter Turku,Lahti,0,1
+HJK,SJK,2,0
+Honka,Jaro,0,5
+KuPS,Inter Turku,4,2
+Lahti,MyPa,3,0
+Mariehamn,Rovaniemi,2,4
+TPS,VPS,0,0
+Jaro,SJK,0,1
+Inter Turku,HJK,3,3
+Honka,TPS,1,1
+MyPa,KuPS,5,3
+Rovaniemi,Lahti,0,1
+VPS,Mariehamn,1,2
+MyPa,HJK,0,1
+Honka,Mariehamn,1,1
+Rovaniemi,KuPS,3,1
+SJK,Inter Turku,2,2
+VPS,Lahti,1,3
+TPS,Jaro,2,2
+Inter Turku,SJK,1,1
+Jaro,TPS,1,1
+KuPS,Rovaniemi,1,0
+Lahti,VPS,4,1
+Mariehamn,Honka,4,1
+HJK,Inter Turku,2,0
+KuPS,MyPa,1,0
+Lahti,Rovaniemi,3,4
+Mariehamn,VPS,1,0
+SJK,Jaro,1,0
+TPS,Honka,2,1
+VPS,SJK,0,1
+Jaro,Honka,3,3
+MyPa,Lahti,2,2
+Rovaniemi,Mariehamn,1,3
+SJK,HJK,2,0
+Inter Turku,KuPS,0,0
+VPS,TPS,0,0
+Lahti,Inter Turku,0,0
+Honka,VPS,1,2
+Jaro,HJK,1,4
+KuPS,SJK,0,0
+Mariehamn,MyPa,3,1
+TPS,Rovaniemi,4,2
+HJK,KuPS,2,2
+Inter Turku,Mariehamn,0,2
+SJK,Lahti,1,1
+MyPa,TPS,2,1
+Rovaniemi,Honka,2,1
+VPS,Jaro,3,3
+Honka,MyPa,2,0
+Mariehamn,SJK,2,2
+TPS,Inter Turku,1,6
+VPS,Rovaniemi,2,0
+Jaro,KuPS,3,2
+SJK,TPS,2,1
+HJK,Mariehamn,5,1
+MyPa,VPS,0,0
+Inter Turku,Honka,2,2
+KuPS,Lahti,1,1
+Rovaniemi,Jaro,0,1
+Lahti,HJK,0,2
+Honka,SJK,1,1
+Jaro,Lahti,0,4
+Mariehamn,KuPS,3,1
+Rovaniemi,MyPa,0,0
+TPS,HJK,1,4
+VPS,Inter Turku,1,0
+SJK,VPS,0,3
+Inter Turku,Rovaniemi,4,1
+HJK,Honka,1,1
+KuPS,TPS,1,0
+Lahti,Mariehamn,1,1
+MyPa,Jaro,2,1
+HJK,MyPa,2,0
+Honka,KuPS,2,2
+Jaro,Mariehamn,1,0
+Rovaniemi,SJK,1,2
+TPS,Lahti,0,1
+MyPa,Inter Turku,2,2
+VPS,HJK,1,1
+Inter Turku,Jaro,0,1
+KuPS,VPS,0,1
+Lahti,Honka,2,0
+SJK,MyPa,3,1
+Mariehamn,TPS,3,1
+HJK,Rovaniemi,3,0
+Inter Turku,SJK,1,1
+Jaro,Mariehamn,1,1
+Lahti,KTP,1,1
+Rovaniemi,HJK,1,3
+HJK,Lahti,1,1
+Inter Turku,Ilves,3,1
+KTP,KuPS,0,1
+Mariehamn,HIFK,1,1
+SJK,Rovaniemi,1,0
+HIFK,HJK,1,1
+Ilves,KTP,0,0
+Jaro,SJK,0,1
+KuPS,VPS,1,0
+Lahti,Mariehamn,0,1
+Rovaniemi,Inter Turku,0,4
+HJK,KTP,1,0
+Jaro,Ilves,3,1
+Rovaniemi,HIFK,2,0
+VPS,Mariehamn,0,1
+HJK,Jaro,3,0
+Ilves,Rovaniemi,0,1
+KTP,VPS,3,2
+Lahti,Inter Turku,1,1
+Mariehamn,KuPS,1,1
+SJK,HIFK,2,0
+HIFK,Inter Turku,2,1
+Jaro,Rovaniemi,1,2
+KuPS,HJK,1,0
+Lahti,SJK,1,0
+Mariehamn,KTP,2,1
+VPS,Ilves,2,3
+HJK,VPS,1,0
+Inter Turku,Jaro,2,0
+SJK,KuPS,5,0
+HJK,Mariehamn,1,0
+Ilves,HIFK,1,1
+SJK,VPS,2,0
+Inter Turku,KTP,4,1
+Jaro,Lahti,1,1
+Rovaniemi,KuPS,1,0
+HIFK,Jaro,3,2
+KTP,SJK,0,0
+KuPS,Inter Turku,1,1
+Lahti,Rovaniemi,1,2
+Mariehamn,Ilves,2,0
+VPS,HJK,2,2
+KuPS,Lahti,0,3
+Mariehamn,Rovaniemi,1,0
+SJK,Ilves,3,0
+HJK,Inter Turku,2,0
+KTP,HIFK,1,2
+VPS,Jaro,1,2
+Ilves,Lahti,2,1
+Jaro,KTP,0,2
+SJK,HJK,1,2
+HIFK,KuPS,1,1
+Inter Turku,Mariehamn,1,1
+KTP,Lahti,0,0
+HJK,KuPS,1,1
+Rovaniemi,VPS,1,0
+HJK,Ilves,2,1
+Lahti,HIFK,2,0
+Mariehamn,SJK,0,3
+Rovaniemi,KTP,4,0
+VPS,Inter Turku,3,0
+Ilves,Inter Turku,1,0
+HIFK,Jaro,0,0
+KuPS,VPS,0,0
+Lahti,HJK,0,0
+SJK,Rovaniemi,0,1
+KTP,Mariehamn,0,2
+HIFK,Rovaniemi,1,1
+Jaro,Ilves,3,0
+HJK,SJK,3,1
+Inter Turku,KTP,3,0
+Mariehamn,KuPS,2,3
+VPS,Lahti,2,0
+HJK,Jaro,4,0
+Inter Turku,HIFK,3,1
+KTP,KuPS,3,1
+Lahti,Mariehamn,0,0
+Rovaniemi,Ilves,4,1
+SJK,VPS,3,2
+Jaro,KTP,0,0
+KuPS,Lahti,1,0
+Mariehamn,SJK,1,1
+Rovaniemi,Inter Turku,1,1
+VPS,HIFK,0,2
+Ilves,HJK,1,1
+HIFK,Mariehamn,1,1
+Jaro,Rovaniemi,0,1
+Inter Turku,HJK,3,0
+KuPS,Jaro,1,3
+Mariehamn,Ilves,0,0
+VPS,Inter Turku,0,0
+HJK,HIFK,1,1
+KTP,Rovaniemi,0,0
+Lahti,SJK,1,0
+Rovaniemi,HJK,2,1
+Ilves,KuPS,1,0
+Jaro,VPS,2,1
+SJK,KTP,1,0
+Inter Turku,Mariehamn,1,1
+KuPS,Inter Turku,1,1
+Lahti,Ilves,3,1
+Mariehamn,Jaro,4,3
+SJK,HIFK,4,1
+VPS,Rovaniemi,1,1
+HJK,KTP,2,1
+Jaro,HIFK,0,2
+Ilves,SJK,0,0
+Inter Turku,Lahti,0,2
+Rovaniemi,Mariehamn,1,1
+HIFK,Ilves,2,2
+SJK,Inter Turku,0,1
+KuPS,Rovaniemi,3,0
+Lahti,Jaro,1,1
+KTP,VPS,0,0
+Ilves,KTP,2,0
+Jaro,SJK,1,0
+KuPS,HIFK,2,0
+Rovaniemi,Lahti,1,2
+VPS,Mariehamn,1,0
+HJK,Lahti,1,0
+Inter Turku,Ilves,1,2
+Mariehamn,KTP,0,1
+Rovaniemi,SJK,2,0
+VPS,KuPS,2,2
+Ilves,Jaro,1,0
+Lahti,VPS,0,0
+HIFK,Rovaniemi,1,1
+KTP,Inter Turku,4,1
+KuPS,Mariehamn,0,0
+Rovaniemi,Ilves,0,0
+Jaro,Inter Turku,0,0
+KuPS,KTP,1,1
+Mariehamn,Lahti,0,2
+VPS,SJK,1,3
+HJK,HIFK,1,1
+SJK,KuPS,1,0
+VPS,Lahti,3,1
+Inter Turku,Rovaniemi,2,0
+KTP,Jaro,1,0
+HIFK,VPS,3,0
+Ilves,HJK,1,0
+Lahti,KuPS,1,0
+SJK,Mariehamn,4,0
+HJK,Inter Turku,0,2
+KuPS,SJK,1,1
+Lahti,KTP,3,2
+Mariehamn,HIFK,1,0
+Rovaniemi,Jaro,0,0
+VPS,Ilves,1,0
+SJK,Lahti,0,0
+Ilves,Mariehamn,1,3
+Jaro,HJK,1,1
+HIFK,KuPS,1,3
+Inter Turku,VPS,1,1
+KTP,Rovaniemi,0,4
+HIFK,VPS,0,3
+Ilves,KuPS,1,0
+Jaro,Mariehamn,0,0
+HJK,Rovaniemi,0,2
+KTP,SJK,1,3
+KuPS,Ilves,1,2
+Lahti,HIFK,0,5
+VPS,Jaro,2,1
+Mariehamn,Inter Turku,0,2
+SJK,HJK,3,0
+HIFK,KTP,0,0
+Jaro,KuPS,1,1
+Ilves,Lahti,1,2
+KTP,HJK,1,1
+Rovaniemi,VPS,2,1
+HIFK,SJK,1,0
+Inter Turku,KuPS,3,1
+Mariehamn,HJK,0,2
+KTP,HIFK,1,0
+KuPS,Jaro,2,0
+Lahti,Inter Turku,3,1
+SJK,Ilves,2,1
+VPS,HJK,1,2
+Mariehamn,Rovaniemi,1,0
+HIFK,Lahti,3,3
+Ilves,VPS,1,3
+Inter Turku,Jaro,1,0
+HJK,Mariehamn,4,0
+Ilves,HIFK,1,3
+Inter Turku,SJK,0,2
+Jaro,Lahti,1,1
+Rovaniemi,KuPS,2,1
+VPS,KTP,1,1
+HIFK,Inter Turku,2,0
+KTP,Ilves,1,2
+KuPS,HJK,0,1
+Lahti,Rovaniemi,1,4
+Mariehamn,VPS,2,0
+SJK,Jaro,2,0
+PK-35 Vantaa,KTP,0,0
+KTP,PK-35 Vantaa,2,3
+HJK,Mariehamn,2,0
+PK-35 Vantaa,Rovaniemi,3,4
+HJK,VPS,3,1
+Inter Turku,Lahti,1,1
+KuPS,Ilves,0,1
+Mariehamn,Rovaniemi,1,0
+PK-35 Vantaa,HIFK,0,2
+PS Kemi,SJK,3,0
+HIFK,Inter Turku,1,2
+KuPS,PK-35 Vantaa,2,3
+Rovaniemi,HJK,2,2
+SJK,Mariehamn,0,1
+PS Kemi,Mariehamn,1,2
+PK-35 Vantaa,VPS,0,2
+HJK,SJK,2,1
+Inter Turku,KuPS,3,1
+Lahti,HIFK,2,2
+KuPS,Lahti,2,0
+Rovaniemi,PK-35 Vantaa,1,0
+SJK,Ilves,0,2
+VPS,Inter Turku,0,0
+Mariehamn,HJK,0,0
+HIFK,PS Kemi,0,0
+HIFK,KuPS,3,2
+Inter Turku,Rovaniemi,1,2
+Lahti,VPS,4,0
+Ilves,Mariehamn,0,1
+PK-35 Vantaa,SJK,0,0
+PS Kemi,HJK,1,0
+HJK,Ilves,5,1
+KuPS,PS Kemi,2,0
+Mariehamn,PK-35 Vantaa,0,0
+VPS,HIFK,3,1
+Rovaniemi,Lahti,0,0
+SJK,Inter Turku,1,0
+KuPS,VPS,1,0
+PK-35 Vantaa,HJK,1,2
+PS Kemi,Ilves,1,0
+HIFK,Rovaniemi,1,1
+Inter Turku,Mariehamn,0,2
+Lahti,SJK,3,0
+Ilves,PK-35 Vantaa,2,0
+Rovaniemi,KuPS,0,1
+VPS,PS Kemi,0,1
+SJK,HIFK,2,1
+Mariehamn,Lahti,3,0
+HJK,Inter Turku,3,1
+HIFK,Mariehamn,0,1
+Lahti,HJK,1,2
+Inter Turku,Ilves,1,0
+KuPS,SJK,0,0
+PK-35 Vantaa,PS Kemi,2,2
+VPS,Rovaniemi,1,0
+Ilves,Lahti,2,0
+Mariehamn,KuPS,0,3
+PK-35 Vantaa,Inter Turku,3,1
+SJK,VPS,1,0
+HJK,HIFK,2,1
+Lahti,PK-35 Vantaa,2,1
+Rovaniemi,SJK,2,3
+Inter Turku,PS Kemi,0,2
+HIFK,Ilves,0,1
+KuPS,HJK,0,0
+Mariehamn,VPS,2,2
+HIFK,PK-35 Vantaa,1,2
+Ilves,KuPS,1,0
+Lahti,Inter Turku,1,0
+Rovaniemi,Mariehamn,0,0
+SJK,PS Kemi,1,0
+VPS,HJK,3,0
+HJK,Rovaniemi,1,1
+Ilves,VPS,1,0
+Inter Turku,HIFK,1,0
+Mariehamn,SJK,1,0
+PK-35 Vantaa,KuPS,1,1
+PS Kemi,Lahti,2,1
+HIFK,Lahti,2,2
+Rovaniemi,Ilves,1,0
+SJK,HJK,2,3
+KuPS,Inter Turku,2,1
+Mariehamn,PS Kemi,2,0
+PS Kemi,Rovaniemi,0,2
+Inter Turku,SJK,1,3
+VPS,Ilves,2,0
+Lahti,PS Kemi,1,0
+Ilves,SJK,2,1
+Lahti,KuPS,0,0
+PS Kemi,HIFK,1,2
+Inter Turku,VPS,0,2
+SJK,PK-35 Vantaa,3,2
+VPS,Lahti,1,0
+HJK,PS Kemi,2,0
+KuPS,HIFK,1,0
+Mariehamn,Ilves,3,1
+Rovaniemi,Inter Turku,2,1
+VPS,PK-35 Vantaa,2,1
+PS Kemi,KuPS,0,2
+Ilves,HJK,1,0
+Lahti,Rovaniemi,1,2
+PK-35 Vantaa,Mariehamn,0,2
+HIFK,VPS,0,1
+SJK,Lahti,4,1
+HJK,PK-35 Vantaa,4,2
+Ilves,PS Kemi,1,1
+Rovaniemi,HIFK,1,0
+Mariehamn,Inter Turku,0,0
+VPS,KuPS,3,0
+HIFK,SJK,1,1
+PS Kemi,VPS,0,0
+Inter Turku,HJK,0,0
+KuPS,Rovaniemi,1,1
+Lahti,Mariehamn,1,1
+PK-35 Vantaa,Ilves,1,1
+PS Kemi,PK-35 Vantaa,2,1
+Ilves,Inter Turku,0,0
+SJK,KuPS,1,0
+HJK,Lahti,2,2
+Mariehamn,HIFK,2,5
+Rovaniemi,VPS,2,0
+HIFK,HJK,0,0
+Inter Turku,PK-35 Vantaa,2,2
+KuPS,Mariehamn,1,0
+Lahti,Ilves,3,2
+Rovaniemi,PS Kemi,5,0
+VPS,SJK,2,1
+Ilves,HIFK,3,1
+PK-35 Vantaa,Lahti,1,1
+PS Kemi,Inter Turku,3,1
+SJK,Rovaniemi,3,1
+VPS,Mariehamn,0,2
+HJK,KuPS,2,3
+PS Kemi,Rovaniemi,3,1
+SJK,Ilves,4,0
+KuPS,PK-35 Vantaa,3,0
+Lahti,Inter Turku,1,2
+Mariehamn,HIFK,1,0
+VPS,HJK,0,0
+HJK,PK-35 Vantaa,2,0
+Ilves,Rovaniemi,1,1
+PK-35 Vantaa,PS Kemi,0,1
+HIFK,SJK,3,1
+Inter Turku,Ilves,0,1
+Rovaniemi,Lahti,3,0
+HJK,KuPS,1,0
+Mariehamn,VPS,0,0
+PS Kemi,HJK,0,2
+HIFK,VPS,0,1
+Ilves,Rovaniemi,2,1
+KuPS,Mariehamn,2,1
+Lahti,PK-35 Vantaa,2,0
+SJK,Inter Turku,1,0
+HJK,Lahti,1,4
+Inter Turku,HIFK,0,0
+Mariehamn,PS Kemi,1,0
+PK-35 Vantaa,Ilves,1,3
+Rovaniemi,SJK,1,1
+VPS,KuPS,1,1
+HIFK,PS Kemi,3,1
+Ilves,VPS,0,0
+Inter Turku,HJK,3,2
+Lahti,KuPS,1,1
+Rovaniemi,PK-35 Vantaa,1,0
+SJK,Mariehamn,1,0
+PK-35 Vantaa,HIFK,0,2
+PS Kemi,Lahti,2,4
+HJK,Rovaniemi,2,1
+KuPS,Ilves,1,2
+Mariehamn,Inter Turku,1,1
+VPS,SJK,1,2
+Ilves,PS Kemi,2,0
+Rovaniemi,Mariehamn,1,1
+Inter Turku,VPS,1,1
+Lahti,HIFK,0,0
+SJK,KuPS,1,0
+HIFK,HJK,2,1
+PS Kemi,SJK,1,3
+KuPS,Inter Turku,0,2
+Lahti,Ilves,0,0
+Mariehamn,PK-35 Vantaa,4,2
+VPS,Rovaniemi,1,0
+HJK,Mariehamn,1,1
+Ilves,HIFK,1,1
+Inter Turku,PS Kemi,0,0
+PK-35 Vantaa,VPS,1,2
+Rovaniemi,KuPS,2,1
+SJK,Lahti,2,2
+HIFK,KuPS,0,2
+Ilves,HJK,1,3
+Inter Turku,Rovaniemi,1,1
+Lahti,Mariehamn,0,2
+PS Kemi,VPS,1,4
+SJK,PK-35 Vantaa,5,0
+HJK,SJK,0,0
+KuPS,PS Kemi,1,0
+Mariehamn,Ilves,2,1
+PK-35 Vantaa,Inter Turku,2,1
+Rovaniemi,HIFK,0,0
+VPS,Lahti,0,1
+TPS,Inter Turku,0,0
+Inter Turku,TPS,2,0
+HJK,VPS,5,0
+SJK,Lahti,1,1
+Ilves,Lahti,1,1
+Mariehamn,JJK Jyvaskyla,5,2
+PS Kemi,HIFK,0,0
+VPS,SJK,1,3
+HJK,KuPS,2,0
+Inter Turku,Rovaniemi,6,2
+SJK,Ilves,1,2
+HIFK,JJK Jyvaskyla,0,0
+Mariehamn,HJK,1,1
+KuPS,Inter Turku,2,1
+Rovaniemi,VPS,2,4
+Inter Turku,Mariehamn,1,1
+Ilves,Rovaniemi,0,2
+PS Kemi,SJK,3,1
+VPS,KuPS,2,2
+JJK Jyvaskyla,HJK,1,5
+HIFK,Lahti,1,2
+SJK,HIFK,3,3
+HJK,Inter Turku,1,1
+KuPS,Ilves,0,1
+Lahti,JJK Jyvaskyla,1,1
+Rovaniemi,PS Kemi,3,1
+Mariehamn,VPS,1,1
+Ilves,Mariehamn,3,0
+JJK Jyvaskyla,Inter Turku,1,2
+Lahti,SJK,1,0
+PS Kemi,KuPS,1,4
+VPS,HJK,2,1
+HIFK,Rovaniemi,1,0
+HJK,Ilves,2,0
+Inter Turku,VPS,0,1
+KuPS,HIFK,2,1
+Mariehamn,PS Kemi,3,0
+Rovaniemi,Lahti,1,0
+SJK,JJK Jyvaskyla,1,0
+PS Kemi,HJK,0,1
+HIFK,Mariehamn,1,1
+Ilves,Inter Turku,0,2
+JJK Jyvaskyla,VPS,1,4
+Lahti,KuPS,1,2
+SJK,Rovaniemi,3,0
+HIFK,HJK,0,0
+Inter Turku,PS Kemi,1,3
+Mariehamn,Lahti,0,2
+KuPS,SJK,1,1
+Rovaniemi,JJK Jyvaskyla,2,1
+VPS,Ilves,0,2
+HIFK,Inter Turku,0,2
+Lahti,HJK,0,0
+PS Kemi,VPS,0,1
+JJK Jyvaskyla,Ilves,3,1
+Rovaniemi,KuPS,0,1
+SJK,Mariehamn,1,1
+HJK,SJK,6,0
+Ilves,PS Kemi,2,4
+Inter Turku,Lahti,0,0
+JJK Jyvaskyla,KuPS,0,0
+Mariehamn,Rovaniemi,2,1
+VPS,HIFK,1,1
+Lahti,VPS,0,0
+PS Kemi,JJK Jyvaskyla,1,1
+SJK,Inter Turku,0,3
+HIFK,Ilves,0,1
+KuPS,Mariehamn,1,2
+Rovaniemi,HJK,1,4
+HIFK,SJK,0,2
+KuPS,VPS,2,2
+PS Kemi,Mariehamn,3,0
+HJK,JJK Jyvaskyla,4,0
+Lahti,Ilves,0,0
+HIFK,PS Kemi,0,2
+Rovaniemi,Inter Turku,2,0
+SJK,VPS,0,1
+KuPS,HJK,0,2
+Mariehamn,JJK Jyvaskyla,2,1
+Inter Turku,KuPS,1,1
+JJK Jyvaskyla,HIFK,0,3
+PS Kemi,Lahti,1,1
+HJK,Mariehamn,2,0
+Ilves,SJK,1,0
+VPS,Rovaniemi,1,0
+Rovaniemi,Ilves,1,0
+SJK,PS Kemi,1,0
+Lahti,HIFK,4,1
+Mariehamn,Inter Turku,5,0
+PS Kemi,Rovaniemi,1,1
+Ilves,KuPS,1,0
+JJK Jyvaskyla,Lahti,1,3
+Inter Turku,HJK,1,1
+VPS,Mariehamn,0,0
+Lahti,PS Kemi,1,0
+Mariehamn,Ilves,2,2
+Inter Turku,JJK Jyvaskyla,4,0
+KuPS,PS Kemi,3,0
+Rovaniemi,HIFK,2,2
+Ilves,HJK,1,1
+JJK Jyvaskyla,SJK,0,2
+Lahti,Rovaniemi,1,1
+VPS,Inter Turku,3,2
+HIFK,KuPS,1,4
+Mariehamn,HIFK,1,1
+Inter Turku,Ilves,1,1
+KuPS,Lahti,2,2
+HJK,PS Kemi,3,1
+Rovaniemi,SJK,1,2
+VPS,JJK Jyvaskyla,1,1
+Ilves,VPS,0,0
+Lahti,Mariehamn,6,2
+PS Kemi,Inter Turku,2,1
+HJK,HIFK,2,0
+JJK Jyvaskyla,Rovaniemi,1,1
+SJK,KuPS,1,0
+Inter Turku,HIFK,3,0
+Ilves,JJK Jyvaskyla,2,1
+KuPS,Rovaniemi,3,0
+HJK,Lahti,0,0
+Mariehamn,SJK,0,0
+VPS,PS Kemi,3,3
+HIFK,VPS,2,1
+PS Kemi,Ilves,0,0
+KuPS,JJK Jyvaskyla,1,0
+Lahti,Inter Turku,1,0
+Rovaniemi,Mariehamn,3,0
+SJK,HJK,0,6
+JJK Jyvaskyla,PS Kemi,2,1
+HJK,Rovaniemi,0,1
+Ilves,HIFK,4,3
+Inter Turku,SJK,0,1
+Mariehamn,KuPS,2,1
+VPS,Lahti,0,2
+HIFK,Rovaniemi,1,0
+PS Kemi,Inter Turku,1,5
+SJK,Lahti,1,0
+JJK Jyvaskyla,HJK,0,4
+KuPS,Mariehamn,2,1
+VPS,Ilves,1,1
+Ilves,HIFK,2,1
+Lahti,PS Kemi,0,1
+Rovaniemi,Inter Turku,4,2
+SJK,JJK Jyvaskyla,0,4
+HJK,KuPS,1,0
+Mariehamn,VPS,1,0
+Inter Turku,Ilves,2,2
+JJK Jyvaskyla,Lahti,2,4
+Rovaniemi,PS Kemi,0,1
+HIFK,Mariehamn,0,0
+KuPS,SJK,2,1
+VPS,HJK,0,3
+Ilves,Rovaniemi,3,2
+PS Kemi,JJK Jyvaskyla,1,2
+Lahti,KuPS,1,1
+SJK,VPS,2,1
+HJK,HIFK,2,1
+Mariehamn,Inter Turku,2,1
+HIFK,JJK Jyvaskyla,1,1
+Ilves,HJK,1,4
+Rovaniemi,SJK,0,3
+VPS,KuPS,1,3
+Mariehamn,PS Kemi,3,2
+Inter Turku,Lahti,1,6
+PS Kemi,VPS,1,1
+KuPS,HIFK,3,2
+Lahti,Rovaniemi,1,1
+JJK Jyvaskyla,Inter Turku,1,3
+HJK,Mariehamn,1,0
+SJK,Ilves,0,0
+Inter Turku,KuPS,1,2
+VPS,HIFK,1,2
+HJK,PS Kemi,4,0
+Ilves,Lahti,2,1
+Rovaniemi,JJK Jyvaskyla,2,0
+Mariehamn,SJK,2,1
+HIFK,PS Kemi,4,0
+JJK Jyvaskyla,Ilves,0,0
+KuPS,Rovaniemi,1,1
+Lahti,Mariehamn,0,1
+VPS,Inter Turku,2,2
+SJK,HJK,0,2
+Ilves,KuPS,1,0
+PS Kemi,SJK,3,3
+Rovaniemi,VPS,3,0
+HJK,Lahti,3,0
+Inter Turku,HIFK,4,1
+JJK Jyvaskyla,Mariehamn,1,0
+HIFK,SJK,2,2
+Ilves,PS Kemi,1,0
+Inter Turku,HJK,1,3
+KuPS,JJK Jyvaskyla,2,1
+Rovaniemi,Mariehamn,0,3
+VPS,Lahti,2,1
+HJK,Rovaniemi,2,3
+JJK Jyvaskyla,VPS,2,0
+Lahti,HIFK,2,1
+Mariehamn,Ilves,0,1
+PS Kemi,KuPS,1,3
+SJK,Inter Turku,5,0
+Honka,HIFK,0,0
+HIFK,Honka,1,1
+VPS,Inter Turku,2,0
+SJK,PS Kemi,0,1
+Lahti,TPS,3,2
+HJK,Ilves,3,1
+KuPS,Honka,1,1
+Rovaniemi,Mariehamn,2,0
+Mariehamn,HJK,0,1
+VPS,Rovaniemi,0,1
+Honka,Lahti,0,0
+Ilves,KuPS,2,1
+PS Kemi,Inter Turku,2,4
+TPS,SJK,0,2
+KuPS,Rovaniemi,0,1
+SJK,HJK,0,1
+HJK,KuPS,1,2
+Inter Turku,TPS,1,2
+Lahti,Ilves,2,0
+SJK,Honka,2,0
+Mariehamn,VPS,2,2
+Rovaniemi,PS Kemi,3,0
+Inter Turku,HJK,0,0
+Rovaniemi,Lahti,2,0
+VPS,Ilves,1,1
+Mariehamn,KuPS,1,4
+Honka,Inter Turku,2,2
+TPS,Rovaniemi,0,0
+Ilves,SJK,1,1
+KuPS,Lahti,1,1
+VPS,HJK,1,2
+PS Kemi,Mariehamn,2,3
+HJK,Lahti,1,2
+Inter Turku,Ilves,0,1
+Rovaniemi,Honka,1,2
+SJK,KuPS,1,3
+VPS,PS Kemi,3,1
+Mariehamn,TPS,3,2
+PS Kemi,HJK,1,2
+Honka,Mariehamn,1,1
+Ilves,Rovaniemi,1,0
+KuPS,Inter Turku,5,1
+Lahti,SJK,1,0
+TPS,VPS,0,1
+PS Kemi,TPS,2,2
+Rovaniemi,KuPS,2,0
+Mariehamn,Ilves,2,0
+VPS,Honka,1,1
+Honka,PS Kemi,2,1
+Ilves,VPS,0,0
+KuPS,Mariehamn,2,1
+Lahti,Rovaniemi,0,0
+TPS,HJK,0,1
+SJK,Inter Turku,0,1
+HJK,Inter Turku,3,0
+PS Kemi,Ilves,0,2
+TPS,Honka,0,0
+VPS,KuPS,0,2
+Mariehamn,Lahti,1,2
+HJK,Honka,3,2
+Ilves,TPS,2,0
+Inter Turku,Rovaniemi,3,3
+KuPS,PS Kemi,2,3
+Lahti,VPS,1,1
+SJK,Mariehamn,1,1
+HJK,SJK,4,0
+Rovaniemi,HJK,1,2
+TPS,KuPS,0,0
+VPS,SJK,1,1
+Honka,Ilves,4,1
+PS Kemi,Lahti,0,0
+Mariehamn,Inter Turku,2,3
+HJK,Mariehamn,2,0
+Inter Turku,PS Kemi,1,0
+KuPS,Ilves,3,1
+Lahti,Honka,1,1
+Rovaniemi,VPS,1,0
+SJK,TPS,4,0
+TPS,Lahti,1,1
+Honka,KuPS,2,1
+Ilves,HJK,0,0
+Inter Turku,VPS,1,3
+PS Kemi,SJK,1,0
+Mariehamn,Rovaniemi,1,3
+Honka,SJK,3,1
+Ilves,Lahti,0,0
+KuPS,HJK,2,2
+TPS,Inter Turku,1,1
+VPS,Mariehamn,4,1
+PS Kemi,Rovaniemi,0,1
+HJK,VPS,5,0
+Lahti,KuPS,1,0
+Mariehamn,PS Kemi,2,1
+Inter Turku,Honka,2,3
+Rovaniemi,TPS,0,0
+SJK,Ilves,2,3
+TPS,Mariehamn,2,0
+Lahti,HJK,2,1
+Honka,Rovaniemi,2,2
+Ilves,Inter Turku,1,1
+KuPS,SJK,1,1
+PS Kemi,VPS,0,1
+HJK,PS Kemi,2,0
+Inter Turku,KuPS,0,1
+Rovaniemi,Ilves,2,0
+SJK,Lahti,1,0
+VPS,TPS,2,0
+Mariehamn,Honka,1,2
+TPS,PS Kemi,3,2
+Lahti,Inter Turku,1,2
+Honka,VPS,0,1
+SJK,Rovaniemi,2,1
+HJK,TPS,2,1
+Inter Turku,SJK,2,0
+PS Kemi,Honka,1,1
+Honka,TPS,2,0
+Rovaniemi,SJK,1,0
+Ilves,PS Kemi,2,0
+KuPS,VPS,1,2
+Lahti,Mariehamn,2,0
+Rovaniemi,Inter Turku,0,1
+Honka,HJK,1,2
+PS Kemi,KuPS,3,2
+Mariehamn,SJK,1,0
+TPS,Ilves,1,3
+VPS,Lahti,2,2
+SJK,VPS,0,0
+HJK,Rovaniemi,2,2
+Inter Turku,Mariehamn,3,0
+Ilves,Honka,3,3
+KuPS,TPS,3,2
+Lahti,PS Kemi,1,1
+Honka,TPS,3,0
+VPS,SJK,0,2
+KuPS,PS Kemi,3,1
+Lahti,Inter Turku,0,0
+Rovaniemi,Mariehamn,1,0
+TPS,VPS,4,1
+Inter Turku,KuPS,0,1
+HJK,PS Kemi,0,0
+Mariehamn,Honka,0,0
+Lahti,Rovaniemi,1,2
+SJK,Ilves,2,3
+VPS,Mariehamn,1,1
+Honka,Lahti,2,0
+Ilves,TPS,2,0
+Inter Turku,Rovaniemi,0,0
+PS Kemi,SJK,0,0
+KuPS,HJK,0,1
+Ilves,Mariehamn,1,2
+Lahti,VPS,1,1
+Rovaniemi,Honka,2,1
+TPS,PS Kemi,4,1
+SJK,KuPS,1,2
+HJK,Inter Turku,3,0
+Mariehamn,Ilves,3,6
+HJK,Mariehamn,2,0
+Ilves,Honka,0,1
+Inter Turku,VPS,1,1
+KuPS,Lahti,2,1
+SJK,TPS,1,0
+PS Kemi,Rovaniemi,0,2
+Honka,PS Kemi,2,1
+Lahti,HJK,0,2
+Rovaniemi,KuPS,1,1
+TPS,Inter Turku,1,0
+VPS,Ilves,1,2
+Mariehamn,SJK,1,0
+HJK,Rovaniemi,3,0
+SJK,Lahti,0,0
+PS Kemi,VPS,0,2
+Ilves,Inter Turku,1,0
+KuPS,Honka,1,1
+Mariehamn,TPS,2,2
+Ilves,HJK,1,2
+Inter Turku,Lahti,2,0
+Honka,HJK,0,0
+Ilves,PS Kemi,4,0
+Inter Turku,Mariehamn,1,1
+VPS,KuPS,0,3
+Lahti,TPS,2,5
+Rovaniemi,SJK,0,1
+PS Kemi,Inter Turku,0,2
+TPS,Rovaniemi,1,2
+SJK,Honka,0,1
+HJK,VPS,1,0
+KuPS,Ilves,2,0
+Mariehamn,Lahti,3,0
+HJK,SJK,1,0
+Ilves,Lahti,0,1
+Inter Turku,Honka,0,2
+KuPS,TPS,2,1
+PS Kemi,Mariehamn,2,0
+VPS,Rovaniemi,1,2
+Honka,VPS,3,1
+Lahti,PS Kemi,1,2
+Mariehamn,KuPS,1,2
+Rovaniemi,Ilves,1,0
+SJK,Inter Turku,2,2
+TPS,HJK,0,4
+KPV Kokkola,TPS,0,0
+TPS,KPV Kokkola,1,1
+HJK,Inter Turku,2,1
+KuPS,Rovaniemi,2,2
+SJK,HIFK,1,0
+Rovaniemi,Honka,1,2
+KPV Kokkola,Ilves,0,2
+Lahti,KuPS,3,3
+HJK,Mariehamn,2,1
+VPS,Inter Turku,1,2
+Inter Turku,SJK,1,2
+KPV Kokkola,Rovaniemi,0,1
+KuPS,HJK,0,0
+Ilves,VPS,0,0
+HIFK,Lahti,0,1
+Honka,Mariehamn,1,3
+SJK,HJK,0,0
+Lahti,Inter Turku,1,1
+KuPS,Honka,0,3
+VPS,KPV Kokkola,2,2
+Mariehamn,Rovaniemi,2,0
+SJK,Ilves,0,1
+HJK,HIFK,1,1
+Honka,Inter Turku,3,2
+KPV Kokkola,Mariehamn,0,4
+Ilves,Lahti,1,0
+Rovaniemi,KuPS,0,1
+VPS,SJK,1,1
+HIFK,Honka,2,0
+Inter Turku,HJK,4,1
+Lahti,VPS,1,1
+SJK,KPV Kokkola,1,0
+Mariehamn,KuPS,3,4
+HJK,Ilves,0,0
+Rovaniemi,HIFK,1,0
+KuPS,KPV Kokkola,3,1
+Lahti,SJK,1,1
+Ilves,Honka,1,1
+Inter Turku,Rovaniemi,3,0
+VPS,HJK,1,1
+HIFK,Mariehamn,1,1
+HJK,SJK,2,2
+Honka,VPS,1,1
+KPV Kokkola,Lahti,0,0
+HIFK,KuPS,1,1
+Mariehamn,Inter Turku,1,2
+Rovaniemi,Ilves,0,1
+Inter Turku,KuPS,1,0
+SJK,Honka,1,2
+Ilves,Mariehamn,0,0
+KPV Kokkola,HIFK,1,1
+Lahti,HJK,3,0
+VPS,Rovaniemi,0,1
+KuPS,Ilves,1,0
+HIFK,Inter Turku,1,1
+Rovaniemi,SJK,1,1
+HJK,KPV Kokkola,3,1
+Mariehamn,VPS,1,0
+Honka,Lahti,2,0
+HIFK,VPS,2,1
+Inter Turku,Ilves,2,3
+Rovaniemi,HJK,0,1
+Honka,KPV Kokkola,0,1
+KuPS,SJK,0,1
+Mariehamn,Lahti,0,1
+KPV Kokkola,Inter Turku,1,3
+VPS,KuPS,1,2
+HIFK,SJK,1,0
+Lahti,Rovaniemi,1,2
+HJK,Honka,0,1
+Mariehamn,HJK,0,2
+Honka,Rovaniemi,1,0
+Ilves,KPV Kokkola,4,2
+Inter Turku,VPS,1,1
+KuPS,Lahti,5,1
+HJK,KuPS,1,1
+VPS,Ilves,1,2
+Rovaniemi,KPV Kokkola,0,0
+Lahti,HIFK,0,0
+Mariehamn,Honka,2,2
+SJK,Inter Turku,2,1
+HIFK,HJK,0,2
+Inter Turku,Lahti,2,0
+Honka,KuPS,1,2
+KPV Kokkola,VPS,2,1
+Rovaniemi,Mariehamn,1,2
+Ilves,SJK,3,0
+Honka,HIFK,3,0
+SJK,VPS,1,0
+Lahti,Ilves,1,0
+Mariehamn,KPV Kokkola,3,0
+Ilves,HJK,1,1
+KPV Kokkola,SJK,1,2
+VPS,Lahti,1,1
+HIFK,Rovaniemi,1,0
+Inter Turku,Honka,3,1
+KuPS,Mariehamn,0,0
+SJK,Lahti,0,2
+HJK,VPS,1,1
+Honka,Ilves,1,2
+KPV Kokkola,KuPS,2,1
+Mariehamn,HIFK,1,3
+Rovaniemi,Inter Turku,0,2
+VPS,Honka,2,3
+Ilves,Rovaniemi,2,2
+KuPS,HIFK,1,1
+Lahti,KPV Kokkola,1,0
+Inter Turku,Mariehamn,1,0
+HIFK,KPV Kokkola,3,2
+HJK,Lahti,4,0
+Honka,SJK,0,0
+KuPS,Inter Turku,2,0
+Mariehamn,Ilves,0,1
+Rovaniemi,VPS,2,1
+SJK,Mariehamn,0,2
+Ilves,KuPS,0,2
+Inter Turku,HIFK,3,2
+KPV Kokkola,HJK,2,1
+Lahti,Honka,3,2
+SJK,Rovaniemi,0,0
+VPS,Mariehamn,2,1
+HIFK,Ilves,2,2
+Honka,HJK,0,1
+KuPS,VPS,5,0
+Mariehamn,SJK,1,0
+Rovaniemi,Lahti,3,0
+Inter Turku,KPV Kokkola,2,1
+Ilves,HIFK,3,1
+KPV Kokkola,Honka,0,1
+SJK,KuPS,1,3
+Ilves,Inter Turku,0,1
+VPS,HIFK,3,2
+Lahti,Mariehamn,0,1
+HJK,Rovaniemi,2,2
+HIFK,KPV Kokkola,3,1
+SJK,VPS,1,1
+Lahti,Rovaniemi,3,0
+Inter Turku,Mariehamn,2,0
+Ilves,Honka,0,2
+KuPS,HJK,1,0
+VPS,Lahti,1,2
+Honka,HJK,3,1
+KPV Kokkola,Rovaniemi,4,1
+HIFK,SJK,2,0
+Ilves,Inter Turku,1,0
+Mariehamn,KuPS,0,1
+KuPS,Ilves,2,0
+SJK,KPV Kokkola,0,2
+Lahti,HIFK,2,2
+Inter Turku,Honka,0,1
+Rovaniemi,VPS,2,1
+HJK,Mariehamn,3,0
+HJK,Inter Turku,0,1
+KuPS,Honka,1,1
+Lahti,KPV Kokkola,1,4
+Mariehamn,Ilves,2,2
+Rovaniemi,SJK,1,0
+VPS,HIFK,2,3
+HIFK,Rovaniemi,2,0
+Honka,Mariehamn,3,0
+Ilves,HJK,2,1
+Inter Turku,KuPS,0,2
+KPV Kokkola,VPS,2,3
+SJK,Lahti,0,0
+HJK,Lahti,2,2
+Mariehamn,HIFK,0,0
+TPS,KPV Kokkola,0,0
+KPV Kokkola,TPS,0,3
+HJK,Mariehamn,1,1
+Mariehamn,Honka,1,2
+Honka,Mariehamn,1,0
+Haka,Honka,1,1
+HIFK,KuPS,0,3
+Ilves,Mariehamn,4,3
+Lahti,HJK,0,4
+SJK,TPS,1,0
+Inter Turku,Rovaniemi,3,1
+KuPS,Inter Turku,1,0
+TPS,Ilves,0,1
+HJK,Haka,3,1
+Lahti,SJK,0,0
+Mariehamn,Honka,0,0
+Rovaniemi,HIFK,0,1
+Inter Turku,Ilves,5,1
+Honka,KuPS,1,1
+Ilves,KuPS,0,0
+Inter Turku,HJK,1,0
+Rovaniemi,Haka,2,2
+SJK,Mariehamn,1,2
+Honka,TPS,3,1
+HIFK,Lahti,0,3
+Rovaniemi,Ilves,1,1
+HIFK,SJK,2,1
+Honka,Inter Turku,1,1
+KuPS,Lahti,3,0
+Mariehamn,Haka,2,2
+TPS,HJK,0,2
+TPS,Lahti,1,3
+HJK,Ilves,2,0
+Honka,Rovaniemi,1,0
+Haka,Inter Turku,0,2
+KuPS,SJK,2,1
+Mariehamn,HIFK,0,3
+HJK,KuPS,2,2
+Ilves,HIFK,2,2
+Inter Turku,Mariehamn,2,1
+Rovaniemi,TPS,2,3
+SJK,Haka,1,1
+Lahti,Honka,0,0
+Haka,HIFK,0,2
+Ilves,Rovaniemi,1,0
+Mariehamn,Inter Turku,2,0
+SJK,KuPS,1,1
+HJK,Lahti,1,1
+TPS,Honka,0,2
+Rovaniemi,Mariehamn,2,3
+Inter Turku,Haka,2,0
+KuPS,HJK,0,3
+Lahti,Ilves,3,2
+HIFK,TPS,2,0
+Honka,SJK,0,0
+Haka,KuPS,2,4
+Inter Turku,HIFK,3,2
+Lahti,Rovaniemi,3,0
+HJK,Honka,1,1
+Ilves,SJK,0,0
+Mariehamn,TPS,1,0
+Haka,HJK,1,4
+Rovaniemi,Inter Turku,0,2
+SJK,Honka,0,2
+TPS,Inter Turku,1,0
+Ilves,Lahti,3,1
+KuPS,Mariehamn,2,1
+Rovaniemi,HJK,0,1
+HIFK,Haka,0,1
+Haka,Lahti,2,2
+HJK,SJK,2,0
+Mariehamn,Rovaniemi,4,0
+TPS,HIFK,1,0
+SJK,Rovaniemi,2,1
+KuPS,TPS,3,1
+HJK,Mariehamn,6,1
+Lahti,Inter Turku,2,2
+Haka,Ilves,0,2
+Honka,HIFK,0,1
+Honka,Ilves,3,2
+KuPS,Rovaniemi,3,0
+Mariehamn,Lahti,2,2
+SJK,Inter Turku,3,2
+TPS,Haka,2,3
+HIFK,HJK,4,3
+Haka,SJK,1,4
+Rovaniemi,Honka,1,3
+Ilves,HJK,1,2
+TPS,Mariehamn,1,1
+HIFK,Inter Turku,0,0
+Lahti,KuPS,1,2
+Lahti,TPS,1,1
+HIFK,Mariehamn,2,2
+Ilves,Haka,1,1
+Inter Turku,SJK,0,1
+Honka,HJK,0,0
+Rovaniemi,KuPS,0,2
+Haka,Rovaniemi,0,2
+Inter Turku,Honka,0,0
+Mariehamn,Ilves,0,2
+SJK,Lahti,0,1
+HJK,TPS,2,2
+Honka,Haka,1,2
+Ilves,TPS,4,0
+Mariehamn,KuPS,0,2
+HJK,Rovaniemi,4,0
+Inter Turku,Lahti,3,0
+SJK,HIFK,3,2
+HIFK,Honka,1,1
+Lahti,Mariehamn,3,1
+KuPS,Ilves,1,1
+KuPS,HIFK,3,2
+Rovaniemi,Lahti,0,4
+HIFK,Ilves,1,2
+Honka,Mariehamn,1,0
+Inter Turku,KuPS,2,0
+SJK,HJK,1,2
+Haka,TPS,2,1
+HJK,HIFK,3,0
+Ilves,Inter Turku,0,2
+KuPS,Honka,0,2
+Mariehamn,SJK,2,3
+Lahti,Haka,0,0
+TPS,Rovaniemi,4,1
+HIFK,Rovaniemi,1,0
+Honka,Lahti,2,1
+Inter Turku,TPS,3,0
+KuPS,Haka,2,3
+SJK,Ilves,1,3
+TPS,SJK,1,0
+Mariehamn,HJK,0,5
+Haka,Mariehamn,0,1
+HJK,Inter Turku,1,1
+Ilves,Honka,4,1
+Lahti,HIFK,2,1
+Rovaniemi,SJK,2,3
+TPS,KuPS,3,2
+KTP,TPS,0,0
+TPS,KTP,1,1
+HJK,Honka,4,2
+Inter Turku,KuPS,1,0
+KuPS,HJK,0,0
+AC Oulu,Ilves,0,2
+HIFK,Haka,2,0
+Honka,Mariehamn,0,2
+Lahti,Inter Turku,2,1
+SJK,KTP,1,1
+KTP,Honka,1,3
+SJK,HIFK,1,1
+Inter Turku,Haka,2,1
+Mariehamn,AC Oulu,3,1
+Ilves,HJK,0,3
+Lahti,KuPS,2,4
+Haka,KTP,0,3
+Honka,Inter Turku,1,2
+KuPS,Mariehamn,2,0
+AC Oulu,SJK,0,2
+HIFK,Ilves,1,1
+HJK,Lahti,2,0
+Inter Turku,KTP,2,1
+Lahti,Honka,1,0
+SJK,HJK,0,2
+Ilves,KuPS,3,2
+AC Oulu,HIFK,1,2
+Mariehamn,Haka,0,3
+HJK,AC Oulu,3,1
+Ilves,KTP,2,0
+Honka,SJK,0,1
+HIFK,Inter Turku,1,4
+KuPS,Haka,1,2
+Mariehamn,Lahti,0,3
+SJK,KuPS,0,1
+Lahti,Ilves,3,1
+KTP,HIFK,0,2
+Inter Turku,Mariehamn,3,0
+Haka,HJK,1,2
+AC Oulu,Honka,0,2
+KuPS,Inter Turku,1,0
+Mariehamn,HJK,0,1
+SJK,Ilves,1,0
+HIFK,Honka,1,0
+Haka,Lahti,1,1
+KTP,AC Oulu,1,3
+HJK,Ilves,2,1
+Inter Turku,SJK,2,0
+KuPS,Honka,2,1
+Ilves,Inter Turku,2,1
+Lahti,HIFK,0,0
+AC Oulu,KuPS,0,2
+HJK,KTP,2,0
+Honka,Haka,2,1
+Mariehamn,SJK,0,1
+Haka,Honka,1,1
+HIFK,HJK,0,1
+Inter Turku,Lahti,1,1
+KTP,Ilves,1,1
+KuPS,AC Oulu,2,0
+SJK,Mariehamn,3,0
+Lahti,SJK,2,1
+Mariehamn,HIFK,0,0
+AC Oulu,KTP,1,1
+Ilves,Haka,1,0
+Haka,KuPS,0,1
+Honka,AC Oulu,1,0
+HIFK,Lahti,0,1
+KTP,Mariehamn,1,3
+Ilves,SJK,0,1
+Lahti,Mariehamn,1,1
+AC Oulu,HJK,2,1
+Inter Turku,HIFK,0,1
+KTP,Haka,0,0
+HIFK,KTP,2,2
+HJK,Haka,2,0
+SJK,AC Oulu,3,2
+Mariehamn,Inter Turku,0,2
+Honka,Lahti,1,1
+KuPS,Ilves,1,0
+Ilves,AC Oulu,1,0
+Lahti,KTP,3,0
+HJK,SJK,0,0
+Inter Turku,Honka,2,2
+AC Oulu,Mariehamn,1,0
+KTP,HJK,0,1
+Haka,Inter Turku,1,0
+Honka,Ilves,4,1
+KuPS,Lahti,2,2
+Lahti,Haka,0,2
+AC Oulu,Inter Turku,2,0
+HJK,Mariehamn,1,0
+KuPS,KTP,4,0
+SJK,Honka,3,2
+Haka,AC Oulu,0,1
+Inter Turku,Ilves,2,0
+HIFK,KuPS,1,5
+Mariehamn,Honka,1,3
+Lahti,HJK,0,1
+SJK,Haka,4,0
+Honka,HIFK,0,3
+AC Oulu,Lahti,1,1
+HJK,KuPS,1,1
+Mariehamn,Ilves,1,0
+KTP,Inter Turku,1,3
+Mariehamn,KuPS,0,1
+HIFK,SJK,1,0
+Haka,Mariehamn,1,2
+HIFK,AC Oulu,3,1
+Honka,KTP,3,1
+Ilves,Lahti,1,0
+Inter Turku,HJK,1,3
+KuPS,SJK,3,0
+Ilves,HIFK,1,0
+KTP,SJK,0,1
+HIFK,Mariehamn,0,3
+Haka,Ilves,0,1
+KTP,KuPS,1,2
+Lahti,AC Oulu,0,0
+SJK,Inter Turku,2,2
+Honka,HJK,0,0
+Haka,SJK,4,0
+HJK,HIFK,0,2
+Honka,KuPS,0,1
+Ilves,Mariehamn,2,0
+Inter Turku,AC Oulu,4,0
+KTP,Lahti,1,2
+AC Oulu,Haka,0,1
+HJK,Inter Turku,0,1
+Ilves,Honka,0,0
+KuPS,HIFK,0,0
+Mariehamn,KTP,4,2
+SJK,Lahti,4,1
+Haka,HIFK,2,0
+Honka,Mariehamn,1,1
+KuPS,Ilves,2,1
+Lahti,KTP,2,1
+Haka,AC Oulu,0,0
+Inter Turku,HIFK,2,0
+HJK,SJK,2,3
+Ilves,HJK,2,3
+AC Oulu,Mariehamn,1,2
+Haka,Lahti,1,1
+HIFK,SJK,2,2
+Inter Turku,KuPS,2,3
+KTP,Honka,2,0
+Lahti,AC Oulu,0,0
+SJK,Ilves,4,2
+Honka,Haka,0,2
+KuPS,HIFK,0,0
+Mariehamn,KTP,5,1
+HJK,Inter Turku,2,1
+HJK,HIFK,1,0
+Honka,AC Oulu,6,1
+Ilves,Inter Turku,0,2
+KTP,Haka,2,4
+Mariehamn,Lahti,0,3
+SJK,KuPS,2,2
+AC Oulu,KTP,2,1
+Haka,Mariehamn,2,0
+Lahti,Honka,2,3
+HIFK,Ilves,0,3
+Inter Turku,SJK,2,5
+KuPS,HJK,1,1
+Rovaniemi,AC Oulu,2,1
+AC Oulu,Rovaniemi,2,0
+HJK,Honka,1,0
+Haka,Ilves,2,1
+KuPS,Inter Turku,2,1
+SJK,HIFK,2,1
+VPS,AC Oulu,2,2
+Mariehamn,Lahti,0,0
+Honka,Haka,3,2
+Lahti,VPS,0,5
+SJK,HJK,0,1
+Inter Turku,AC Oulu,2,1
+HIFK,Mariehamn,1,1
+Ilves,KuPS,1,2
+KuPS,SJK,2,0
+Inter Turku,Haka,0,2
+AC Oulu,Ilves,2,2
+HIFK,Lahti,0,3
+Mariehamn,Honka,1,1
+VPS,HJK,0,1
+Haka,HIFK,2,1
+Lahti,KuPS,0,1
+HJK,Inter Turku,1,4
+Ilves,VPS,3,2
+Mariehamn,AC Oulu,2,1
+Honka,SJK,5,1
+HIFK,HJK,0,2
+AC Oulu,Haka,3,0
+Ilves,SJK,3,1
+Inter Turku,Mariehamn,4,0
+KuPS,VPS,3,1
+Lahti,Honka,0,2
+Inter Turku,HJK,0,1
+SJK,Lahti,1,2
+AC Oulu,HIFK,1,1
+Haka,VPS,0,2
+Honka,Inter Turku,2,1
+HJK,Ilves,2,1
+Mariehamn,KuPS,1,1
+KuPS,Haka,2,1
+Lahti,HJK,1,1
+AC Oulu,Honka,2,1
+VPS,SJK,0,1
+Inter Turku,HIFK,2,2
+Ilves,Mariehamn,1,0
+AC Oulu,KuPS,0,3
+Haka,SJK,1,1
+HJK,Lahti,3,2
+VPS,Inter Turku,1,2
+Honka,Ilves,0,0
+SJK,Mariehamn,1,0
+Lahti,AC Oulu,0,2
+HJK,Haka,4,1
+HIFK,KuPS,0,1
+AC Oulu,SJK,1,0
+Haka,Lahti,1,1
+Inter Turku,Ilves,2,2
+HIFK,Honka,1,2
+KuPS,HJK,0,0
+Mariehamn,VPS,1,3
+Haka,Mariehamn,3,2
+Honka,KuPS,2,0
+HJK,AC Oulu,0,1
+Ilves,Lahti,3,2
+SJK,Inter Turku,1,1
+HIFK,VPS,1,5
+Ilves,HIFK,0,1
+Inter Turku,Lahti,5,1
+KuPS,AC Oulu,2,1
+SJK,Haka,2,2
+VPS,Honka,0,1
+Mariehamn,HJK,2,1
+Honka,Mariehamn,1,1
+AC Oulu,VPS,0,6
+HJK,KuPS,1,1
+Lahti,Inter Turku,2,1
+HIFK,Ilves,0,1
+HIFK,Haka,0,2
+VPS,Mariehamn,1,3
+KuPS,Lahti,4,0
+SJK,Honka,3,2
+Ilves,AC Oulu,0,2
+Honka,Lahti,5,0
+HJK,VPS,3,1
+Mariehamn,HIFK,1,1
+SJK,Ilves,3,3
+Haka,Inter Turku,3,2
+Ilves,HJK,1,2
+AC Oulu,Mariehamn,3,1
+VPS,Haka,3,3
+KuPS,HIFK,5,1
+Lahti,SJK,1,3
+Inter Turku,Honka,0,1
+Lahti,Ilves,1,1
+HJK,Mariehamn,1,0
+Honka,VPS,4,0
+Haka,KuPS,2,1
+SJK,AC Oulu,3,2
+HIFK,Inter Turku,0,3
+VPS,Ilves,3,0
+Inter Turku,SJK,1,0
+Mariehamn,Haka,2,0
+KuPS,Honka,1,1
+AC Oulu,HJK,1,1
+Lahti,HIFK,0,0
+Haka,AC Oulu,3,2
+Ilves,Honka,0,4
+Inter Turku,VPS,1,1
+KuPS,Mariehamn,1,0
+HIFK,SJK,0,2
+SJK,KuPS,2,1
+VPS,Lahti,2,3
+AC Oulu,Inter Turku,1,0
+Haka,HJK,0,3
+Mariehamn,Ilves,1,5
+Honka,HIFK,4,1
+Lahti,Mariehamn,0,2
+Honka,AC Oulu,2,2
+Ilves,Haka,2,3
+Inter Turku,KuPS,1,2
+VPS,HIFK,1,1
+HJK,SJK,1,0
+Haka,Honka,2,1
+KuPS,Ilves,0,0
+SJK,VPS,2,0
+AC Oulu,Lahti,0,0
+Mariehamn,Inter Turku,2,3
+HJK,HIFK,2,1
+HIFK,AC Oulu,1,6
+Honka,HJK,1,2
+Ilves,Inter Turku,1,1
+Lahti,Haka,0,1
+Mariehamn,SJK,2,0
+VPS,KuPS,0,1
+Ilves,VPS,2,3
+AC Oulu,HIFK,4,1
+HJK,SJK,2,1
+Mariehamn,Lahti,6,0
+HIFK,Ilves,1,5
+Inter Turku,Haka,0,1
+Lahti,VPS,0,2
+SJK,KuPS,3,1
+Mariehamn,AC Oulu,2,4
+Honka,HJK,3,1
+Ilves,Mariehamn,2,3
+AC Oulu,Lahti,2,1
+Haka,SJK,2,0
+KuPS,Honka,3,2
+VPS,HIFK,4,0
+HJK,Inter Turku,3,0
+KuPS,Haka,0,0
+Honka,Inter Turku,2,1
+HIFK,Mariehamn,2,3
+VPS,AC Oulu,2,1
+Ilves,Lahti,1,0
+KuPS,Inter Turku,2,0
+Haka,HJK,0,1
+SJK,Honka,0,0
+Lahti,HIFK,6,1
+AC Oulu,Ilves,0,2
+Mariehamn,VPS,2,2
+Honka,Haka,1,1
+HJK,KuPS,0,1
+Inter Turku,SJK,1,0
+TPS,Jaro,4,0
+SJK,AC Oulu,0,1
+Inter Turku,VPS,1,5
+TPS,Lahti,1,1
+AC Oulu,VPS,0,0
+Lahti,TPS,2,1
+VPS,Haka,0,3
+Haka,VPS,1,2
+KTP,AC Oulu,0,2
+KuPS,Inter Turku,1,2
+Mariehamn,Ilves,1,1
+SJK,Haka,2,1
+VPS,Lahti,0,0
+HJK,Honka,2,0
+Haka,AC Oulu,2,2
+KTP,KuPS,0,0
+Ilves,Inter Turku,2,1
+Honka,SJK,0,0
+VPS,HJK,0,1
+Mariehamn,Lahti,2,3
+HJK,VPS,4,0
+KuPS,Honka,0,1
+KTP,Mariehamn,2,1
+SJK,Lahti,0,0
+KuPS,Ilves,1,0
+HJK,AC Oulu,1,1
+Haka,Honka,1,1
+HJK,Haka,2,0
+AC Oulu,SJK,0,3
+Ilves,KTP,1,0
+VPS,Honka,0,0
+Mariehamn,KuPS,0,2
+Haka,KTP,4,2
+Honka,Lahti,3,0
+Ilves,AC Oulu,1,2
+SJK,Inter Turku,2,1
+VPS,Mariehamn,2,1
+KuPS,HJK,2,1
+AC Oulu,KuPS,0,2
+Honka,Haka,0,2
+KTP,HJK,3,3
+Lahti,KTP,0,0
+Honka,KuPS,0,1
+AC Oulu,VPS,2,1
+HJK,Inter Turku,4,1
+SJK,Ilves,1,0
+Mariehamn,Haka,2,1
+KuPS,Lahti,2,0
+Ilves,HJK,1,1
+AC Oulu,Honka,1,3
+Haka,VPS,2,2
+Inter Turku,Mariehamn,1,1
+KTP,SJK,0,2
+Honka,KTP,0,1
+Inter Turku,Haka,3,0
+Lahti,AC Oulu,1,2
+SJK,KuPS,1,0
+VPS,Ilves,0,2
+Mariehamn,HJK,0,0
+Inter Turku,Honka,2,0
+AC Oulu,Mariehamn,3,2
+HJK,SJK,0,0
+KTP,VPS,1,0
+KuPS,Haka,3,0
+Ilves,Lahti,2,2
+Haka,Ilves,1,1
+Honka,Mariehamn,2,1
+Inter Turku,KTP,2,1
+KuPS,AC Oulu,1,0
+Lahti,HJK,1,2
+SJK,VPS,2,1
+AC Oulu,Inter Turku,1,1
+Ilves,Honka,1,1
+HJK,KTP,1,0
+Lahti,Haka,1,0
+Mariehamn,SJK,0,2
+VPS,KuPS,0,2
+Haka,HJK,1,1
+Honka,VPS,1,0
+Inter Turku,Ilves,2,1
+KTP,Lahti,2,0
+KuPS,Mariehamn,0,1
+SJK,AC Oulu,1,4
+Honka,HJK,1,1
+AC Oulu,Haka,3,0
+Ilves,SJK,1,1
+VPS,Inter Turku,3,0
+Mariehamn,KTP,0,0
+Lahti,KuPS,3,4
+HJK,Lahti,0,1
+Haka,Inter Turku,2,2
+KTP,Ilves,0,0
+KuPS,VPS,0,1
+SJK,Honka,1,0
+Mariehamn,AC Oulu,1,2
+Inter Turku,VPS,0,2
+Ilves,Mariehamn,0,0
+VPS,AC Oulu,3,0
+Lahti,SJK,1,1
+Inter Turku,KuPS,1,1
+AC Oulu,KTP,3,1
+HJK,Ilves,1,0
+Inter Turku,SJK,1,2
+Lahti,Mariehamn,0,2
+VPS,Haka,4,1
+Ilves,VPS,0,2
+SJK,HJK,1,2
+Haka,Lahti,1,1
+Honka,AC Oulu,4,1
+KuPS,KTP,2,0
+Mariehamn,Inter Turku,0,2
+Ilves,Haka,1,2
+HJK,Mariehamn,4,2
+KTP,Inter Turku,1,4
+Lahti,Honka,1,0
+VPS,SJK,3,2
+Haka,Mariehamn,1,1
+AC Oulu,Lahti,1,1
+Honka,Inter Turku,1,0
+Ilves,KuPS,0,3
+SJK,KTP,2,3
+Lahti,VPS,0,2
+Mariehamn,Honka,0,1
+AC Oulu,Ilves,0,3
+Inter Turku,HJK,1,3
+KuPS,SJK,3,0
+KTP,Haka,1,2
+VPS,KTP,2,1
+Inter Turku,Lahti,2,1
+SJK,Mariehamn,3,2
+Haka,KuPS,2,2
+Honka,Ilves,2,0
+AC Oulu,HJK,1,3
+Lahti,Inter Turku,1,2
+Haka,SJK,1,0
+HJK,KuPS,2,2
+Inter Turku,AC Oulu,2,1
+KTP,Honka,1,2
+Lahti,Ilves,3,2
+Mariehamn,VPS,1,2
+Haka,Ilves,2,2
+Lahti,KTP,2,1
+AC Oulu,Mariehamn,3,2
+HJK,Inter Turku,2,0
+SJK,Honka,1,2
+KuPS,VPS,0,2
+Honka,VPS,0,3
+KTP,Ilves,0,3
+Lahti,AC Oulu,2,1
+Mariehamn,Haka,2,1
+Inter Turku,KuPS,0,1
+SJK,HJK,2,3
+HJK,Honka,3,0
+Ilves,Mariehamn,2,1
+AC Oulu,KTP,2,0
+VPS,Inter Turku,1,1
+Haka,Lahti,2,0
+KuPS,SJK,1,1
+Ilves,AC Oulu,3,2
+Inter Turku,SJK,1,2
+Haka,KTP,2,0
+Mariehamn,Lahti,0,0
+KuPS,Honka,3,1
+VPS,HJK,3,2
+AC Oulu,Haka,1,1
+KTP,Mariehamn,0,2
+Lahti,Ilves,1,5
+HJK,KuPS,1,2
+Honka,Inter Turku,3,0
+SJK,VPS,0,2
+Honka,Inter Turku,0,0
+SJK,AC Oulu,2,2
+Honka,AC Oulu,5,0
+Honka,VPS,0,1
+VPS,Honka,1,0
+Gnistan,Inter Turku,2,1
+Haka,VPS,1,2
+Ilves,Lahti,0,0
+Mariehamn,Ekenas,3,2
+SJK,AC Oulu,2,1
+KuPS,HJK,3,1
+HJK,Lahti,4,0
+Haka,Ekenas,2,1
+VPS,SJK,1,1
+Inter Turku,AC Oulu,3,3
+Ilves,Gnistan,4,6
+Mariehamn,KuPS,2,2
+Inter Turku,KuPS,1,1
+SJK,Ilves,1,0
+HJK,Mariehamn,2,1
+Lahti,Haka,1,1
+VPS,Gnistan,3,2
+Ekenas,AC Oulu,1,1
+SJK,HJK,3,3
+Inter Turku,Ekenas,2,1
+Haka,HJK,1,1
+Lahti,KuPS,0,1
+AC Oulu,VPS,1,2
+Gnistan,SJK,0,1
+Mariehamn,Ilves,0,1
+VPS,Lahti,3,0
+Ilves,AC Oulu,3,2
+HJK,Ekenas,0,0
+SJK,KuPS,1,1
+Gnistan,Haka,0,3
+Mariehamn,Inter Turku,3,1
+KuPS,VPS,2,1
+Haka,SJK,2,0
+AC Oulu,Gnistan,1,1
+Inter Turku,HJK,0,1
+Ekenas,Ilves,0,2
+Lahti,Mariehamn,3,0
+AC Oulu,Mariehamn,1,1
+HJK,VPS,1,2
+SJK,Inter Turku,3,1
+Ilves,Haka,5,0
+Gnistan,KuPS,0,0
+Ekenas,Lahti,1,1
+HJK,Gnistan,1,0
+VPS,KuPS,1,3
+Ilves,Inter Turku,3,0
+Haka,AC Oulu,4,3
+HJK,Ilves,1,1
+KuPS,Ekenas,4,1
+Mariehamn,Gnistan,1,1
+Lahti,SJK,0,4
+VPS,Inter Turku,3,1
+Ilves,KuPS,1,2
+Inter Turku,Haka,3,1
+SJK,Mariehamn,0,2
+AC Oulu,HJK,1,0
+Gnistan,Lahti,2,1
+Ekenas,VPS,1,2
+Haka,Mariehamn,2,0
+Lahti,Inter Turku,0,2
+VPS,Ilves,1,1
+HJK,SJK,4,1
+Ekenas,Gnistan,1,0
+KuPS,AC Oulu,4,1
+AC Oulu,Lahti,2,2
+Inter Turku,Ilves,0,2
+KuPS,Haka,0,1
+Mariehamn,VPS,0,0
+SJK,Ekenas,3,1
+Gnistan,HJK,0,4
+Ekenas,Mariehamn,1,2
+Haka,Inter Turku,0,0
+HJK,KuPS,3,1
+Ilves,SJK,2,2
+Lahti,Gnistan,3,3
+VPS,AC Oulu,1,1
+Inter Turku,VPS,3,1
+AC Oulu,KuPS,1,0
+SJK,Haka,2,1
+Lahti,Ilves,2,2
+Gnistan,Ekenas,1,2
+Mariehamn,HJK,1,2
+Ilves,HJK,3,0
+VPS,Ekenas,2,3
+KuPS,Gnistan,3,1
+Mariehamn,Haka,0,3
+AC Oulu,SJK,1,2
+Inter Turku,Lahti,3,0
+Ekenas,Inter Turku,0,7
+Lahti,AC Oulu,1,2
+Haka,Ilves,4,3
+AC Oulu,Ekenas,2,0
+HJK,Haka,2,0
+Mariehamn,SJK,0,4
+Ilves,VPS,3,2
+KuPS,Lahti,1,0
+Inter Turku,Gnistan,2,2
+HJK,AC Oulu,3,0
+SJK,Lahti,5,5
+Haka,Gnistan,1,2
+Ekenas,KuPS,1,2
+VPS,Mariehamn,2,1
+Inter Turku,Mariehamn,3,0
+Lahti,HJK,2,1
+AC Oulu,Ilves,0,1
+Ekenas,Haka,1,2
+Gnistan,VPS,3,0
+KuPS,SJK,2,1
+Lahti,Ekenas,4,0
+AC Oulu,Inter Turku,1,0
+Ilves,Mariehamn,2,0
+Haka,KuPS,2,2
+SJK,VPS,3,1
+Inter Turku,SJK,3,0
+Ekenas,HJK,0,3
+Gnistan,AC Oulu,2,0
+KuPS,Ilves,1,0
+Mariehamn,Lahti,0,0
+VPS,Haka,3,2
+Gnistan,Mariehamn,2,1
+AC Oulu,Haka,0,1
+Ilves,Ekenas,5,0
+HJK,Inter Turku,1,0
+KuPS,Mariehamn,3,0
+Lahti,VPS,0,0
+SJK,Gnistan,0,1
+Ekenas,SJK,1,1
+Gnistan,Ilves,1,1
+Haka,Lahti,1,1
+KuPS,Inter Turku,1,2
+Mariehamn,AC Oulu,2,1
+VPS,HJK,1,3
+Inter Turku,Ekenas,1,1
+HJK,SJK,2,2
+AC Oulu,Lahti,3,0
+Ilves,Haka,3,2
+KuPS,VPS,3,1
+Gnistan,Mariehamn,2,1
+Lahti,Mariehamn,2,1
+Haka,SJK,0,3
+VPS,HJK,1,1
+Ekenas,Gnistan,3,1
+AC Oulu,Inter Turku,1,0
+Ilves,KuPS,1,0
+Gnistan,AC Oulu,1,0
+SJK,VPS,1,4
+Mariehamn,Ekenas,3,0
+HJK,Ilves,0,1
+KuPS,Haka,2,0
+Inter Turku,Lahti,3,1
+VPS,Ilves,0,2
+Gnistan,Lahti,2,2
+Ekenas,AC Oulu,1,1
+SJK,KuPS,0,1
+Mariehamn,Inter Turku,0,1
+HJK,Haka,0,1
+AC Oulu,Mariehamn,1,2
+Inter Turku,Gnistan,3,2
+Lahti,Ekenas,0,0
+Haka,VPS,2,3
+Ilves,SJK,4,0
+KuPS,HJK,1,0
+Haka,Inter Turku,1,1
+VPS,Gnistan,0,1
+Jaro,Lahti,2,0
+Haka,Gnistan,2,2
+Lahti,Jaro,1,0
+Haka,SJK,1,2
+SJK,Haka,2,2
+Ilves,HJK,3,2
+Inter Turku,KuPS,1,1
+KTP,SJK,0,1
+Mariehamn,Jaro,0,2
+VPS,AC Oulu,4,3
+Haka,Gnistan,3,2
+KTP,VPS,2,2
+SJK,HJK,1,0
+Ilves,Jaro,2,1
+Haka,Mariehamn,0,1
+Inter Turku,Gnistan,3,0
+KuPS,AC Oulu,1,0
+VPS,Inter Turku,0,2
+Haka,AC Oulu,2,1
+KTP,Ilves,0,5
+Mariehamn,SJK,1,2
+KuPS,Jaro,1,0
+HJK,Gnistan,0,1
+KuPS,Mariehamn,4,1
+SJK,AC Oulu,3,1
+AC Oulu,Inter Turku,1,4
+Jaro,KTP,2,3
+HJK,VPS,3,1
+Gnistan,KuPS,1,2
+Mariehamn,Ilves,3,2
+SJK,Haka,2,2
+Haka,Jaro,0,1
+KTP,AC Oulu,1,3
+VPS,Ilves,1,0
+KuPS,SJK,1,0
+Gnistan,Mariehamn,2,0
+Inter Turku,HJK,1,1
+Ilves,Haka,3,2
+KuPS,KTP,3,0
+Mariehamn,Inter Turku,2,2
+AC Oulu,Gnistan,2,3
+Jaro,HJK,0,3
+SJK,VPS,2,3
+Gnistan,SJK,2,2
+Haka,KuPS,1,3
+AC Oulu,Mariehamn,0,1
+HJK,KTP,4,1
+Inter Turku,Ilves,3,1
+VPS,Jaro,0,0
+HJK,SJK,4,2
+Ilves,KuPS,3,0
+KTP,Haka,0,0
+Jaro,Gnistan,1,1
+Ilves,AC Oulu,0,0
+Mariehamn,HJK,0,4
+KuPS,VPS,0,2
+SJK,Inter Turku,0,1
+KTP,Mariehamn,2,2
+AC Oulu,SJK,2,2
+Haka,VPS,2,1
+HJK,KuPS,0,0
+Gnistan,Ilves,0,2
+Jaro,Inter Turku,0,1
+Inter Turku,Haka,1,1
+AC Oulu,HJK,0,4
+Gnistan,KTP,2,1
+KuPS,Ilves,0,3
+Mariehamn,VPS,1,5
+SJK,Jaro,3,1
+Ilves,SJK,2,3
+Mariehamn,KuPS,1,0
+HJK,Haka,3,1
+Jaro,AC Oulu,2,1
+VPS,Gnistan,0,0
+Inter Turku,KTP,5,0
+Gnistan,Inter Turku,2,2
+KuPS,HJK,3,0
+SJK,Mariehamn,4,1
+Haka,Ilves,0,4
+KTP,Jaro,3,2
+AC Oulu,VPS,2,1
+KuPS,Gnistan,6,2
+HJK,Jaro,2,3
+Ilves,KTP,2,1
+Inter Turku,Mariehamn,0,0
+VPS,Haka,1,2
+AC Oulu,KuPS,2,2
+SJK,Ilves,1,1
+VPS,HJK,0,2
+Jaro,Mariehamn,1,1
+Haka,Inter Turku,0,1
+KTP,Gnistan,0,0
+Inter Turku,Jaro,3,1
+Gnistan,Haka,2,0
+AC Oulu,KTP,3,2
+Ilves,VPS,3,2
+KTP,Inter Turku,2,2
+VPS,KuPS,1,1
+SJK,Gnistan,3,1
+HJK,AC Oulu,3,1
+Jaro,Ilves,0,1
+Mariehamn,Haka,1,1
+Jaro,VPS,2,2
+Haka,KTP,2,3
+Mariehamn,AC Oulu,0,1
+Inter Turku,SJK,4,1
+Gnistan,HJK,2,4
+VPS,Mariehamn,1,1
+KuPS,Haka,3,2
+AC Oulu,Jaro,0,1
+SJK,KTP,3,0
+Ilves,Gnistan,2,2
+HJK,Inter Turku,1,4
+Inter Turku,AC Oulu,3,2
+Jaro,Haka,2,1
+KTP,KuPS,0,2
+Mariehamn,Gnistan,2,5
+VPS,SJK,1,2
+HJK,Ilves,5,1
+Gnistan,VPS,0,0
+AC Oulu,Ilves,0,4
+Mariehamn,KTP,3,0
+Haka,HJK,1,2
+KuPS,Inter Turku,2,1
+Jaro,SJK,0,4
+VPS,KTP,3,2
+Ilves,Inter Turku,1,0
+HJK,Mariehamn,8,2
+Jaro,KuPS,1,3
+Haka,SJK,2,3
+Gnistan,AC Oulu,3,2
+AC Oulu,Haka,3,2
+Gnistan,Jaro,1,2
+Ilves,Mariehamn,2,1
+Inter Turku,VPS,2,1
+KTP,HJK,1,4
+SJK,KuPS,1,1
+Mariehamn,Haka,1,1
+Gnistan,Inter Turku,0,2
+VPS,KTP,2,1
+SJK,HJK,3,3
+Jaro,AC Oulu,1,2
+KuPS,Ilves,2,4
+Haka,AC Oulu,0,1
+KTP,Jaro,1,2
+Mariehamn,VPS,2,1
+Ilves,Gnistan,3,2
+KuPS,SJK,3,2
+Inter Turku,HJK,0,0
+VPS,Haka,1,0
+Gnistan,KuPS,0,4
+AC Oulu,KTP,0,2
+SJK,Inter Turku,2,1
+Jaro,Mariehamn,2,3
+HJK,Ilves,2,2
+Jaro,Haka,2,1
+HJK,Gnistan,2,3
+AC Oulu,VPS,2,0
+KTP,Mariehamn,1,1
+SJK,Ilves,2,1
+Inter Turku,KuPS,0,3
+Ilves,KuPS,1,1
+Haka,KTP,1,2
+Mariehamn,AC Oulu,2,0
+VPS,Jaro,1,3
+Gnistan,SJK,3,4
+Ilves,Inter Turku,1,2
+KuPS,HJK,3,1
+Inter Turku,Gnistan,2,1
+HJK,SJK,3,4
+Gnistan,Ilves,1,3
+HJK,Inter Turku,1,1
+SJK,KuPS,0,1
+Inter Turku,SJK,2,2
+KuPS,Gnistan,1,1
+Ilves,HJK,3,1
+KuPS,Inter Turku,3,2
+Ilves,SJK,3,3
+Gnistan,HJK,2,2
+HJK,KuPS,0,2
+Inter Turku,Ilves,2,0
+SJK,Gnistan,3,0

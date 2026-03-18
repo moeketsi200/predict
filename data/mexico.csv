@@ -1,0 +1,4586 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Chiapas,Tigres UANL,0,4
+Club Tijuana,Puebla,2,0
+Cruz Azul,Monarcas,0,0
+Queretaro,Club Leon,0,2
+Monterrey,Club America,0,0
+Santos Laguna,Atl. San Luis,2,1
+Atlas,UNAM Pumas,1,1
+Toluca,Guadalajara Chivas,2,1
+Atlante,Pachuca,0,0
+Monarcas,Monterrey,1,0
+Club Leon,Club Tijuana,4,0
+Club America,Chiapas,4,2
+Pachuca,Atlas,0,3
+Tigres UANL,Atlante,2,1
+Atl. San Luis,Cruz Azul,1,2
+Puebla,Toluca,1,3
+UNAM Pumas,Queretaro,3,0
+Guadalajara Chivas,Santos Laguna,0,1
+Santos Laguna,Puebla,2,2
+Club Tijuana,UNAM Pumas,1,0
+Monarcas,Atl. San Luis,3,3
+Cruz Azul,Guadalajara Chivas,0,0
+Queretaro,Pachuca,0,1
+Monterrey,Chiapas,2,1
+Atlas,Tigres UANL,0,0
+Toluca,Club Leon,2,1
+Atlante,Club America,2,2
+Chiapas,Atlante,1,2
+Club Leon,Santos Laguna,3,0
+Club America,Atlas,1,1
+Pachuca,Club Tijuana,2,2
+Tigres UANL,Queretaro,2,2
+Atl. San Luis,Monterrey,1,1
+Puebla,Cruz Azul,0,1
+UNAM Pumas,Toluca,1,2
+Guadalajara Chivas,Monarcas,1,1
+Club Tijuana,Tigres UANL,2,1
+Cruz Azul,Club Leon,1,1
+Monarcas,Puebla,3,0
+Queretaro,Club America,0,4
+Monterrey,Atlante,1,1
+Santos Laguna,UNAM Pumas,1,2
+Atl. San Luis,Guadalajara Chivas,0,1
+Atlas,Chiapas,1,1
+Toluca,Pachuca,1,0
+Chiapas,Queretaro,2,1
+Club Leon,Monarcas,1,3
+Club America,Club Tijuana,0,1
+Pachuca,Santos Laguna,0,0
+Tigres UANL,Toluca,1,1
+Puebla,Atl. San Luis,1,0
+UNAM Pumas,Cruz Azul,0,1
+Guadalajara Chivas,Monterrey,1,2
+Atlante,Atlas,1,0
+Club Tijuana,Chiapas,2,0
+Monarcas,UNAM Pumas,0,1
+Cruz Azul,Pachuca,1,1
+Queretaro,Atlante,0,1
+Monterrey,Atlas,1,1
+Santos Laguna,Tigres UANL,3,1
+Atl. San Luis,Club Leon,0,2
+Toluca,Club America,1,1
+Guadalajara Chivas,Puebla,1,1
+Chiapas,Toluca,2,0
+Pachuca,Monarcas,3,2
+Club Leon,Guadalajara Chivas,1,2
+Club America,Santos Laguna,2,0
+Tigres UANL,Cruz Azul,2,0
+Atlas,Queretaro,0,0
+Puebla,Monterrey,2,3
+UNAM Pumas,Atl. San Luis,0,1
+Atlante,Club Tijuana,1,2
+Puebla,Club Leon,1,1
+Monarcas,Tigres UANL,1,1
+Cruz Azul,Club America,1,1
+Atl. San Luis,Pachuca,1,0
+Monterrey,Queretaro,3,2
+Santos Laguna,Chiapas,0,0
+Club Tijuana,Atlas,1,1
+Toluca,Atlante,1,0
+Guadalajara Chivas,UNAM Pumas,0,0
+Chiapas,Cruz Azul,1,0
+Club Leon,Monterrey,2,0
+Club America,Monarcas,1,1
+Queretaro,Club Tijuana,0,1
+Pachuca,Guadalajara Chivas,1,0
+Tigres UANL,Atl. San Luis,0,0
+Atlas,Toluca,1,3
+UNAM Pumas,Puebla,2,1
+Atlante,Santos Laguna,1,3
+Guadalajara Chivas,Tigres UANL,2,1
+Atl. San Luis,Club America,1,2
+Cruz Azul,Atlante,4,0
+Puebla,Pachuca,2,0
+Toluca,Queretaro,4,1
+Santos Laguna,Atlas,2,1
+Club Leon,UNAM Pumas,2,1
+Monterrey,Club Tijuana,1,1
+Monarcas,Chiapas,1,1
+Club America,Guadalajara Chivas,1,3
+Pachuca,Club Leon,1,1
+Queretaro,Santos Laguna,1,1
+Tigres UANL,Puebla,1,2
+Atlas,Cruz Azul,1,1
+UNAM Pumas,Monterrey,3,2
+Chiapas,Atl. San Luis,4,0
+Atlante,Monarcas,2,2
+Club Tijuana,Toluca,1,0
+Cruz Azul,Queretaro,3,2
+Atl. San Luis,Atlante,2,2
+Club Leon,Tigres UANL,2,0
+Santos Laguna,Club Tijuana,2,2
+UNAM Pumas,Pachuca,1,0
+Guadalajara Chivas,Chiapas,1,1
+Chiapas,Puebla,2,0
+Club Tijuana,Cruz Azul,2,2
+Club America,Club Leon,2,1
+Queretaro,Monarcas,1,2
+Pachuca,Monterrey,1,1
+Tigres UANL,UNAM Pumas,5,0
+Atlas,Atl. San Luis,2,3
+Toluca,Santos Laguna,4,1
+Atlante,Guadalajara Chivas,3,1
+Monarcas,Atlas,2,0
+Puebla,Club America,0,1
+Club Leon,Chiapas,4,1
+Atl. San Luis,Queretaro,0,0
+Cruz Azul,Toluca,3,0
+Monarcas,Club Tijuana,1,1
+Monterrey,Santos Laguna,3,2
+Pachuca,Tigres UANL,1,0
+Puebla,Atlante,1,2
+UNAM Pumas,Club America,0,1
+Guadalajara Chivas,Atlas,2,0
+Chiapas,UNAM Pumas,3,0
+Santos Laguna,Cruz Azul,2,1
+Club America,Pachuca,4,0
+Queretaro,Guadalajara Chivas,0,1
+Monterrey,Tigres UANL,0,1
+Club Tijuana,Atl. San Luis,0,0
+Toluca,Monarcas,0,0
+Atlas,Puebla,2,2
+Atlante,Club Leon,2,3
+Monterrey,Toluca,2,2
+Club Leon,Atlas,3,1
+Monarcas,Santos Laguna,2,0
+Cruz Azul,Monterrey,1,1
+Pachuca,Chiapas,2,1
+Tigres UANL,Club America,1,1
+Atl. San Luis,Toluca,0,2
+Puebla,Queretaro,0,1
+UNAM Pumas,Atlante,3,2
+Guadalajara Chivas,Club Tijuana,0,2
+Cruz Azul,Club Leon,2,1
+Monarcas,Club America,0,2
+Monterrey,Club Tijuana,0,1
+Guadalajara Chivas,Toluca,1,2
+Club America,Monarcas,1,2
+Club Leon,Cruz Azul,3,0
+Toluca,Guadalajara Chivas,3,1
+Club Tijuana,Monterrey,1,1
+Club America,Toluca,0,2
+Club Leon,Club Tijuana,2,0
+Toluca,Club America,1,2
+Club Tijuana,Club Leon,3,0
+Club Tijuana,Toluca,2,1
+Toluca,Club Tijuana,0,2
+Monarcas,Cruz Azul,3,3
+Club America,Monterrey,2,1
+Pachuca,Atlante,2,0
+Tigres UANL,Chiapas,3,0
+Club Leon,Queretaro,2,2
+Atl. San Luis,Santos Laguna,1,1
+UNAM Pumas,Atlas,1,1
+Puebla,Club Tijuana,1,2
+Guadalajara Chivas,Toluca,1,1
+Chiapas,Club America,0,2
+Santos Laguna,Guadalajara Chivas,2,0
+Cruz Azul,Atl. San Luis,2,1
+Queretaro,UNAM Pumas,2,1
+Club Tijuana,Club Leon,1,0
+Monterrey,Monarcas,1,0
+Atlas,Pachuca,2,0
+Toluca,Puebla,1,1
+Atlante,Tigres UANL,1,3
+Chiapas,Monterrey,1,1
+Club Leon,Toluca,1,2
+Club America,Atlante,4,0
+Pachuca,Queretaro,1,1
+Tigres UANL,Atlas,1,0
+Atl. San Luis,Monarcas,1,2
+Puebla,Santos Laguna,2,1
+UNAM Pumas,Club Tijuana,1,2
+Guadalajara Chivas,Cruz Azul,1,1
+Monarcas,Guadalajara Chivas,1,1
+Santos Laguna,Club Leon,2,0
+Cruz Azul,Puebla,4,0
+Queretaro,Tigres UANL,0,2
+Club Tijuana,Pachuca,2,0
+Monterrey,Atl. San Luis,3,2
+Atlas,Club America,2,1
+Toluca,UNAM Pumas,0,1
+Atlante,Chiapas,4,3
+Chiapas,Atlas,1,2
+Club America,Queretaro,3,0
+Pachuca,Toluca,1,0
+Tigres UANL,Club Tijuana,2,2
+Club Leon,Cruz Azul,2,2
+Guadalajara Chivas,Atl. San Luis,1,1
+Puebla,Monarcas,3,1
+UNAM Pumas,Santos Laguna,0,0
+Atlante,Monterrey,3,1
+Monarcas,Club Leon,1,0
+Cruz Azul,UNAM Pumas,1,1
+Queretaro,Chiapas,1,1
+Club Tijuana,Club America,1,2
+Monterrey,Guadalajara Chivas,0,1
+Atl. San Luis,Puebla,1,3
+Atlas,Atlante,2,1
+Toluca,Tigres UANL,1,4
+Santos Laguna,Pachuca,0,1
+Chiapas,Club Tijuana,2,0
+Club America,Toluca,2,2
+Pachuca,Cruz Azul,2,1
+Tigres UANL,Santos Laguna,1,1
+Club Leon,Atl. San Luis,2,0
+Atlas,Monterrey,2,1
+UNAM Pumas,Monarcas,1,0
+Puebla,Guadalajara Chivas,1,1
+Atlante,Queretaro,1,1
+Monarcas,Pachuca,3,2
+Santos Laguna,Club America,1,0
+Cruz Azul,Tigres UANL,1,2
+Queretaro,Atlas,0,0
+Monterrey,Puebla,3,0
+Atl. San Luis,UNAM Pumas,0,2
+Club Tijuana,Atlante,2,0
+Toluca,Chiapas,2,1
+Guadalajara Chivas,Club Leon,2,1
+Chiapas,Santos Laguna,1,3
+Club America,Cruz Azul,3,0
+Queretaro,Monterrey,1,0
+Pachuca,Atl. San Luis,2,1
+Tigres UANL,Monarcas,1,1
+Club Leon,Puebla,0,1
+Atlas,Club Tijuana,1,0
+UNAM Pumas,Guadalajara Chivas,1,1
+Atlante,Toluca,0,1
+Monarcas,Club America,1,1
+Cruz Azul,Chiapas,1,1
+Club Tijuana,Queretaro,0,1
+Monterrey,Club Leon,2,1
+Santos Laguna,Atlante,2,1
+Atl. San Luis,Tigres UANL,1,2
+Toluca,Atlas,0,1
+Puebla,UNAM Pumas,0,1
+Guadalajara Chivas,Pachuca,1,0
+Chiapas,Monarcas,1,1
+Club America,Atl. San Luis,1,1
+Queretaro,Toluca,1,0
+Pachuca,Puebla,2,1
+Tigres UANL,Guadalajara Chivas,1,1
+Atlas,Santos Laguna,1,2
+Club Tijuana,Monterrey,2,2
+UNAM Pumas,Club Leon,0,0
+Atlante,Cruz Azul,0,3
+Cruz Azul,Atlas,1,2
+Toluca,Club Tijuana,1,0
+Monarcas,Atlante,4,0
+Monterrey,UNAM Pumas,3,0
+Santos Laguna,Queretaro,1,1
+Club Leon,Pachuca,0,0
+Atl. San Luis,Chiapas,3,0
+Puebla,Tigres UANL,1,2
+Guadalajara Chivas,Club America,0,2
+Chiapas,Guadalajara Chivas,3,2
+Club America,Puebla,1,1
+Queretaro,Cruz Azul,1,2
+Pachuca,UNAM Pumas,1,2
+Tigres UANL,Club Leon,0,0
+Atlas,Monarcas,0,0
+Club Tijuana,Santos Laguna,0,0
+Toluca,Monterrey,1,0
+Atlante,Atl. San Luis,0,1
+Santos Laguna,Toluca,2,1
+Monarcas,Queretaro,1,0
+Cruz Azul,Club Tijuana,5,0
+Monterrey,Pachuca,2,0
+Club Leon,Club America,1,1
+Atl. San Luis,Atlas,2,2
+Puebla,Chiapas,1,2
+UNAM Pumas,Tigres UANL,2,1
+Guadalajara Chivas,Atlante,1,2
+Chiapas,Club Leon,2,2
+Santos Laguna,Monterrey,1,0
+Queretaro,Atl. San Luis,2,1
+Atlas,Guadalajara Chivas,1,0
+Club Tijuana,Monarcas,1,2
+Tigres UANL,Pachuca,3,1
+Club America,UNAM Pumas,1,0
+Toluca,Cruz Azul,0,2
+Atlante,Puebla,2,0
+Monarcas,Toluca,2,1
+Cruz Azul,Santos Laguna,1,0
+Pachuca,Club America,2,4
+Tigres UANL,Monterrey,0,1
+Club Leon,Atlante,1,0
+Atl. San Luis,Club Tijuana,1,0
+Puebla,Atlas,1,1
+UNAM Pumas,Chiapas,3,0
+Guadalajara Chivas,Queretaro,1,2
+Chiapas,Pachuca,2,1
+Club Tijuana,Guadalajara Chivas,4,0
+Club America,Tigres UANL,0,2
+Monterrey,Cruz Azul,1,5
+Santos Laguna,Monarcas,1,2
+Atlas,Club Leon,0,1
+Queretaro,Puebla,2,3
+Toluca,Atl. San Luis,0,1
+Atlante,UNAM Pumas,1,2
+Monterrey,Tigres UANL,1,0
+UNAM Pumas,Club America,0,1
+Santos Laguna,Atlas,0,0
+Cruz Azul,Monarcas,4,2
+Club America,UNAM Pumas,2,1
+Tigres UANL,Monterrey,1,1
+Monarcas,Cruz Azul,1,0
+Atlas,Santos Laguna,1,3
+Monterrey,Club America,2,2
+Santos Laguna,Cruz Azul,0,3
+Club America,Monterrey,2,1
+Cruz Azul,Santos Laguna,2,1
+Cruz Azul,Club America,1,0
+Club America,Cruz Azul,2,1
+Queretaro,Monarcas,1,3
+Club Tijuana,Atlas,3,3
+Cruz Azul,Monterrey,1,0
+Veracruz,Chiapas,2,2
+Club Leon,Atlante,1,0
+Puebla,UNAM Pumas,1,1
+Toluca,Pachuca,0,1
+Monarcas,Toluca,3,4
+Santos Laguna,Cruz Azul,3,2
+Atlante,Veracruz,2,4
+Monterrey,Puebla,1,1
+Pachuca,Tigres UANL,2,1
+Atlas,Club Leon,1,2
+Chiapas,Guadalajara Chivas,1,1
+UNAM Pumas,Queretaro,0,3
+Cruz Azul,Chiapas,1,1
+Atlante,Atlas,1,1
+Club Tijuana,Pachuca,1,0
+Guadalajara Chivas,Veracruz,0,2
+Puebla,Santos Laguna,1,1
+Queretaro,Monterrey,3,3
+Toluca,UNAM Pumas,0,0
+Tigres UANL,Monarcas,1,2
+Club Leon,Club America,1,1
+Club America,Atlas,3,0
+Veracruz,Cruz Azul,3,2
+Monarcas,Club Tijuana,2,1
+Monterrey,Toluca,1,1
+Pachuca,Club Leon,1,1
+Santos Laguna,Queretaro,2,0
+Chiapas,Puebla,4,2
+UNAM Pumas,Tigres UANL,0,2
+Guadalajara Chivas,Atlante,1,0
+Queretaro,Chiapas,1,1
+Club Tijuana,UNAM Pumas,2,0
+Cruz Azul,Guadalajara Chivas,3,1
+Atlante,Club America,2,4
+Tigres UANL,Monterrey,3,1
+Club Leon,Monarcas,0,0
+Atlas,Pachuca,1,1
+Puebla,Veracruz,0,0
+Toluca,Santos Laguna,2,2
+Monarcas,Atlas,2,0
+Santos Laguna,Tigres UANL,3,0
+Cruz Azul,Atlante,1,0
+Veracruz,Queretaro,0,0
+Monterrey,Club Tijuana,2,1
+Pachuca,Club America,0,1
+Chiapas,Toluca,0,4
+UNAM Pumas,Club Leon,1,1
+Guadalajara Chivas,Puebla,2,4
+Queretaro,Guadalajara Chivas,2,0
+Club Tijuana,Santos Laguna,1,1
+Club America,Monarcas,3,1
+Atlante,Pachuca,1,1
+Tigres UANL,Chiapas,2,2
+Club Leon,Monterrey,3,1
+Atlas,UNAM Pumas,1,1
+Puebla,Cruz Azul,1,2
+Toluca,Veracruz,3,1
+Monarcas,Pachuca,4,1
+Santos Laguna,Club Leon,0,2
+Cruz Azul,Queretaro,0,2
+Veracruz,Tigres UANL,1,1
+Monterrey,Atlas,0,0
+Chiapas,Club Tijuana,3,1
+Puebla,Atlante,1,0
+Guadalajara Chivas,Toluca,0,0
+UNAM Pumas,Club America,1,4
+Queretaro,Puebla,1,0
+Club America,Monterrey,1,0
+Atlante,Monarcas,2,2
+Pachuca,UNAM Pumas,0,0
+Tigres UANL,Guadalajara Chivas,3,3
+Club Leon,Chiapas,0,1
+Atlas,Santos Laguna,2,2
+Club Tijuana,Veracruz,3,0
+Toluca,Cruz Azul,1,2
+Queretaro,Atlante,1,0
+Santos Laguna,Club America,2,1
+Cruz Azul,Tigres UANL,0,1
+Veracruz,Club Leon,0,1
+Monterrey,Pachuca,1,0
+Chiapas,Atlas,3,0
+Puebla,Toluca,1,1
+UNAM Pumas,Monarcas,0,1
+Guadalajara Chivas,Club Tijuana,2,2
+Monarcas,Monterrey,1,3
+Club Tijuana,Cruz Azul,0,0
+Club America,Chiapas,3,1
+Atlante,UNAM Pumas,1,0
+Pachuca,Santos Laguna,1,1
+Tigres UANL,Puebla,0,0
+Club Leon,Guadalajara Chivas,2,1
+Atlas,Veracruz,3,3
+Toluca,Queretaro,4,0
+Queretaro,Tigres UANL,2,2
+Santos Laguna,Monarcas,3,1
+Cruz Azul,Club Leon,1,0
+Veracruz,Club America,0,1
+Monterrey,UNAM Pumas,0,1
+Chiapas,Pachuca,2,1
+Puebla,Club Tijuana,2,0
+Toluca,Atlante,7,1
+Guadalajara Chivas,Atlas,1,1
+Club America,Club Tijuana,2,0
+Monarcas,Chiapas,2,1
+Club Tijuana,Queretaro,1,0
+Club America,Guadalajara Chivas,2,0
+Atlante,Monterrey,2,1
+Pachuca,Veracruz,1,1
+Tigres UANL,Toluca,1,2
+Club Leon,Puebla,3,1
+Atlas,Cruz Azul,1,2
+UNAM Pumas,Santos Laguna,0,1
+Queretaro,Club Leon,2,0
+Santos Laguna,Monterrey,3,2
+Cruz Azul,Club America,1,1
+Veracruz,Monarcas,1,0
+Tigres UANL,Atlante,3,1
+Chiapas,UNAM Pumas,1,1
+Puebla,Atlas,2,0
+Toluca,Club Tijuana,0,0
+Guadalajara Chivas,Pachuca,1,3
+Monarcas,Guadalajara Chivas,1,1
+Club Tijuana,Tigres UANL,0,0
+Club America,Puebla,3,1
+Atlante,Santos Laguna,1,3
+Monterrey,Chiapas,1,1
+Pachuca,Cruz Azul,0,0
+Club Leon,Toluca,2,2
+Atlas,Queretaro,3,1
+UNAM Pumas,Veracruz,0,0
+Tigres UANL,Club America,1,0
+Guadalajara Chivas,Santos Laguna,0,2
+Queretaro,Club America,0,0
+Club Tijuana,Atlante,4,1
+Cruz Azul,Monarcas,1,0
+Veracruz,Monterrey,0,3
+Tigres UANL,Club Leon,1,1
+Chiapas,Santos Laguna,2,1
+Puebla,Pachuca,1,1
+Toluca,Atlas,1,1
+Guadalajara Chivas,UNAM Pumas,1,0
+Monarcas,Puebla,1,0
+Santos Laguna,Veracruz,2,2
+Club America,Toluca,1,1
+Atlante,Chiapas,2,0
+Monterrey,Guadalajara Chivas,2,1
+Pachuca,Queretaro,0,1
+Club Leon,Club Tijuana,5,0
+Atlas,Tigres UANL,0,1
+UNAM Pumas,Cruz Azul,2,2
+Toluca,Cruz Azul,3,0
+Monarcas,Club Leon,3,3
+Tigres UANL,Club America,2,2
+Queretaro,Santos Laguna,2,3
+Cruz Azul,Toluca,1,1
+Club Leon,Monarcas,4,0
+Club America,Tigres UANL,1,1
+Santos Laguna,Queretaro,3,1
+Toluca,Club America,2,1
+Club Leon,Santos Laguna,3,1
+Club America,Toluca,2,0
+Santos Laguna,Club Leon,2,2
+Club Leon,Club America,2,0
+Club America,Club Leon,1,3
+Monarcas,Queretaro,0,1
+Santos Laguna,Guadalajara Chivas,1,1
+Club America,Tigres UANL,3,0
+Monterrey,Cruz Azul,0,0
+Pachuca,Toluca,0,1
+Atlas,Club Tijuana,0,0
+Chiapas,Veracruz,1,1
+UNAM Pumas,Puebla,2,2
+Atlante,Club Leon,1,1
+Queretaro,UNAM Pumas,1,0
+Club Tijuana,Club America,1,0
+Cruz Azul,Santos Laguna,2,1
+Veracruz,Atlante,2,1
+Tigres UANL,Pachuca,0,0
+Club Leon,Atlas,3,1
+Puebla,Monterrey,1,1
+Toluca,Monarcas,2,2
+Guadalajara Chivas,Chiapas,1,0
+Monarcas,Tigres UANL,2,0
+Santos Laguna,Puebla,0,0
+Club America,Club Leon,1,0
+Veracruz,Guadalajara Chivas,1,1
+Monterrey,Queretaro,3,1
+Pachuca,Club Tijuana,2,1
+Atlas,Atlante,0,1
+Chiapas,Cruz Azul,0,1
+UNAM Pumas,Toluca,0,2
+Queretaro,Santos Laguna,0,0
+Club Tijuana,Monarcas,1,0
+Cruz Azul,Veracruz,4,0
+Tigres UANL,UNAM Pumas,1,2
+Club Leon,Pachuca,1,3
+Atlas,Club America,1,2
+Puebla,Chiapas,2,3
+Toluca,Monterrey,2,0
+Atlante,Guadalajara Chivas,1,1
+Monarcas,Club Leon,0,0
+Club America,Atlante,1,0
+Santos Laguna,Toluca,2,0
+Veracruz,Puebla,0,1
+Guadalajara Chivas,Cruz Azul,0,2
+Monterrey,Tigres UANL,0,0
+Pachuca,Atlas,0,1
+Chiapas,Queretaro,1,0
+UNAM Pumas,Club Tijuana,3,0
+Club Tijuana,Monterrey,2,1
+Club America,Pachuca,0,1
+Tigres UANL,Santos Laguna,1,1
+Club Leon,UNAM Pumas,1,2
+Atlas,Monarcas,1,1
+Puebla,Guadalajara Chivas,0,1
+Toluca,Chiapas,2,0
+Atlante,Cruz Azul,1,4
+Queretaro,Veracruz,2,0
+Monarcas,Club America,1,0
+Santos Laguna,Club Tijuana,3,2
+Cruz Azul,Puebla,1,0
+Veracruz,Toluca,0,3
+Monterrey,Club Leon,0,2
+Pachuca,Atlante,0,1
+Chiapas,Tigres UANL,0,0
+UNAM Pumas,Atlas,1,1
+Guadalajara Chivas,Queretaro,2,1
+Queretaro,Cruz Azul,1,3
+Club Tijuana,Chiapas,0,3
+Club America,UNAM Pumas,1,3
+Pachuca,Monarcas,3,0
+Tigres UANL,Veracruz,1,0
+Club Leon,Santos Laguna,4,2
+Atlas,Monterrey,0,1
+Toluca,Guadalajara Chivas,1,0
+Atlante,Puebla,0,0
+Monarcas,Atlante,1,2
+Santos Laguna,Atlas,2,3
+Cruz Azul,Toluca,1,0
+Veracruz,Club Tijuana,1,1
+Monterrey,Club America,1,2
+Chiapas,Club Leon,0,3
+Puebla,Queretaro,1,0
+UNAM Pumas,Pachuca,0,0
+Guadalajara Chivas,Tigres UANL,0,0
+Monarcas,UNAM Pumas,3,1
+Club Leon,Veracruz,0,1
+Toluca,Puebla,3,0
+Club Tijuana,Guadalajara Chivas,2,0
+Club America,Santos Laguna,2,4
+Pachuca,Monterrey,2,0
+Tigres UANL,Cruz Azul,3,0
+Atlas,Chiapas,2,2
+Atlante,Queretaro,4,2
+Queretaro,Toluca,0,2
+Cruz Azul,Club Tijuana,2,1
+Veracruz,Atlas,0,1
+Monterrey,Monarcas,0,1
+Santos Laguna,Pachuca,3,1
+Chiapas,Club America,2,2
+Puebla,Tigres UANL,0,1
+UNAM Pumas,Atlante,5,0
+Guadalajara Chivas,Club Leon,1,0
+Monarcas,Santos Laguna,2,2
+Club Tijuana,Puebla,3,1
+Club America,Veracruz,0,0
+Pachuca,Chiapas,2,0
+Tigres UANL,Queretaro,0,2
+Club Leon,Cruz Azul,0,0
+Atlas,Guadalajara Chivas,1,1
+UNAM Pumas,Monterrey,1,2
+Atlante,Toluca,2,1
+Queretaro,Club Tijuana,2,1
+Santos Laguna,UNAM Pumas,2,1
+Cruz Azul,Atlas,1,3
+Veracruz,Pachuca,3,1
+Monterrey,Atlante,3,2
+Toluca,Tigres UANL,2,1
+Chiapas,Monarcas,1,0
+Puebla,Club Leon,1,1
+Guadalajara Chivas,Club America,0,4
+Monarcas,Veracruz,1,1
+Club Tijuana,Toluca,3,1
+Club America,Cruz Azul,1,2
+Monterrey,Santos Laguna,2,2
+Pachuca,Guadalajara Chivas,1,3
+Club Leon,Queretaro,1,1
+Atlas,Puebla,0,0
+UNAM Pumas,Chiapas,2,1
+Atlante,Tigres UANL,0,2
+Queretaro,Atlas,1,0
+Cruz Azul,Pachuca,2,2
+Veracruz,UNAM Pumas,1,1
+Tigres UANL,Club Tijuana,1,1
+Chiapas,Monterrey,1,1
+Puebla,Club America,0,1
+Toluca,Club Leon,2,1
+Guadalajara Chivas,Monarcas,1,1
+Santos Laguna,Atlante,4,3
+Monarcas,Cruz Azul,5,1
+Club America,Queretaro,0,0
+Monterrey,Veracruz,4,1
+Pachuca,Puebla,1,2
+Santos Laguna,Chiapas,2,3
+Club Leon,Tigres UANL,3,0
+Atlas,Toluca,1,0
+UNAM Pumas,Guadalajara Chivas,1,0
+Atlante,Club Tijuana,1,2
+Queretaro,Pachuca,3,4
+Club Tijuana,Club Leon,1,2
+Cruz Azul,UNAM Pumas,2,1
+Veracruz,Santos Laguna,2,2
+Tigres UANL,Atlas,2,1
+Chiapas,Atlante,5,2
+Puebla,Monarcas,3,1
+Toluca,Club America,1,1
+Guadalajara Chivas,Monterrey,0,1
+Club America,Santos Laguna,5,3
+Club Leon,Cruz Azul,1,1
+Pachuca,UNAM Pumas,1,1
+Club Tijuana,Toluca,0,0
+Cruz Azul,Club Leon,2,2
+Santos Laguna,Club America,3,1
+Toluca,Club Tijuana,3,1
+UNAM Pumas,Pachuca,2,4
+Pachuca,Santos Laguna,2,0
+Club Leon,Toluca,1,0
+Santos Laguna,Pachuca,4,2
+Toluca,Club Leon,0,1
+Club Leon,Pachuca,2,3
+Pachuca,Club Leon,0,1
+Queretaro,UNAM Pumas,1,3
+Club Tijuana,Puebla,0,1
+Cruz Azul,Pachuca,0,1
+Veracruz,Santos Laguna,0,1
+Monterrey,Leones Negros,3,1
+Club Leon,Club America,1,2
+Atlas,Tigres UANL,0,0
+Toluca,Monarcas,0,0
+Guadalajara Chivas,Chiapas,1,1
+Monarcas,Atlas,0,2
+Santos Laguna,Cruz Azul,1,1
+Club America,Club Tijuana,2,1
+Puebla,Veracruz,0,0
+Tigres UANL,Club Leon,4,2
+Pachuca,Monterrey,0,1
+Chiapas,Toluca,2,1
+UNAM Pumas,Guadalajara Chivas,0,1
+Leones Negros,Queretaro,0,1
+Queretaro,Pachuca,2,0
+Club Tijuana,Tigres UANL,1,1
+Cruz Azul,Veracruz,0,0
+Puebla,Club America,0,4
+Monterrey,Santos Laguna,0,0
+Club Leon,Monarcas,4,0
+Atlas,Chiapas,4,2
+Toluca,UNAM Pumas,2,1
+Monarcas,Club Tijuana,0,0
+Veracruz,Monterrey,2,1
+Cruz Azul,Puebla,1,0
+Tigres UANL,Club America,0,2
+Santos Laguna,Queretaro,2,3
+Pachuca,Guadalajara Chivas,3,0
+Chiapas,Club Leon,3,2
+UNAM Pumas,Atlas,0,1
+Leones Negros,Toluca,0,0
+Club Leon,UNAM Pumas,2,1
+Queretaro,Veracruz,0,0
+Club Tijuana,Chiapas,2,1
+Club America,Monarcas,3,2
+Puebla,Tigres UANL,1,1
+Monterrey,Cruz Azul,3,1
+Atlas,Leones Negros,1,0
+Toluca,Pachuca,3,0
+Guadalajara Chivas,Santos Laguna,0,1
+Monarcas,Tigres UANL,1,5
+Santos Laguna,Toluca,3,0
+Cruz Azul,Queretaro,2,1
+Veracruz,Guadalajara Chivas,0,0
+Monterrey,Puebla,1,0
+Pachuca,Atlas,3,1
+Chiapas,Club America,0,0
+UNAM Pumas,Club Tijuana,1,1
+Leones Negros,Club Leon,1,0
+Queretaro,Monterrey,0,1
+Club Tijuana,Leones Negros,1,1
+Club America,UNAM Pumas,0,1
+Puebla,Monarcas,3,2
+Tigres UANL,Chiapas,0,2
+Club Leon,Pachuca,1,2
+Atlas,Santos Laguna,1,1
+Toluca,Veracruz,2,1
+Guadalajara Chivas,Cruz Azul,0,0
+Guadalajara Chivas,Leones Negros,3,0
+Queretaro,Puebla,1,1
+Veracruz,Atlas,1,1
+Santos Laguna,Club Leon,2,0
+Cruz Azul,Toluca,1,2
+Pachuca,Club Tijuana,1,1
+Chiapas,Monarcas,1,1
+Leones Negros,Club America,0,0
+UNAM Pumas,Tigres UANL,2,2
+Club Tijuana,Santos Laguna,4,1
+Monarcas,UNAM Pumas,2,3
+Club America,Pachuca,2,1
+Puebla,Chiapas,1,1
+Tigres UANL,Leones Negros,1,0
+Club Leon,Veracruz,3,1
+Atlas,Cruz Azul,2,1
+Toluca,Monterrey,1,0
+Guadalajara Chivas,Queretaro,1,4
+Veracruz,Club Tijuana,1,0
+Queretaro,Toluca,1,1
+Santos Laguna,Club America,1,4
+Cruz Azul,Club Leon,1,0
+Monterrey,Atlas,2,1
+Pachuca,Tigres UANL,2,3
+Leones Negros,Monarcas,1,2
+UNAM Pumas,Chiapas,2,2
+Guadalajara Chivas,Puebla,0,0
+Club Leon,Monterrey,1,3
+Atlas,Queretaro,2,1
+Tigres UANL,Santos Laguna,1,1
+Puebla,UNAM Pumas,1,2
+Club America,Veracruz,2,0
+Monarcas,Pachuca,0,1
+Chiapas,Leones Negros,1,1
+Club Tijuana,Cruz Azul,0,0
+Toluca,Guadalajara Chivas,3,1
+Queretaro,Club Leon,1,2
+Cruz Azul,Club America,4,0
+Veracruz,Tigres UANL,0,1
+Monterrey,Club Tijuana,1,1
+Santos Laguna,Monarcas,2,2
+Pachuca,Chiapas,2,0
+Leones Negros,UNAM Pumas,1,0
+Toluca,Puebla,1,1
+Guadalajara Chivas,Atlas,0,1
+Monarcas,Veracruz,0,1
+Club Tijuana,Queretaro,2,1
+Club America,Monterrey,2,0
+Puebla,Leones Negros,1,1
+Tigres UANL,Cruz Azul,1,0
+Club Leon,Guadalajara Chivas,2,1
+Atlas,Toluca,0,2
+Chiapas,Santos Laguna,2,0
+UNAM Pumas,Pachuca,1,1
+Queretaro,Club America,3,2
+Santos Laguna,UNAM Pumas,1,1
+Cruz Azul,Monarcas,3,1
+Veracruz,Chiapas,1,2
+Monterrey,Tigres UANL,2,2
+Pachuca,Leones Negros,0,0
+Atlas,Puebla,2,1
+Toluca,Club Leon,2,3
+Guadalajara Chivas,Club Tijuana,3,3
+Monarcas,Monterrey,2,1
+Club Tijuana,Toluca,0,1
+Club America,Guadalajara Chivas,0,0
+Puebla,Pachuca,1,1
+Tigres UANL,Queretaro,1,0
+Club Leon,Atlas,4,0
+Chiapas,Cruz Azul,0,0
+Leones Negros,Santos Laguna,1,1
+UNAM Pumas,Veracruz,0,0
+Queretaro,Monarcas,2,0
+Santos Laguna,Pachuca,2,1
+Cruz Azul,UNAM Pumas,0,2
+Veracruz,Leones Negros,0,1
+Monterrey,Chiapas,1,2
+Club Leon,Puebla,0,0
+Atlas,Club Tijuana,1,1
+Toluca,Club America,2,2
+Guadalajara Chivas,Tigres UANL,0,0
+Monterrey,Guadalajara Chivas,1,0
+Monarcas,Guadalajara Chivas,1,2
+Club Tijuana,Club Leon,3,2
+Club America,Atlas,1,2
+Puebla,Santos Laguna,3,3
+Leones Negros,Cruz Azul,1,1
+Tigres UANL,Toluca,2,1
+Pachuca,Veracruz,1,0
+Chiapas,Queretaro,2,1
+UNAM Pumas,Monterrey,4,2
+Pachuca,Tigres UANL,1,1
+UNAM Pumas,Club America,1,0
+Monterrey,Atlas,0,1
+Chiapas,Toluca,1,1
+Club America,UNAM Pumas,1,0
+Tigres UANL,Pachuca,1,1
+Toluca,Chiapas,1,1
+Atlas,Monterrey,0,2
+Toluca,Tigres UANL,0,0
+Monterrey,Club America,0,3
+Tigres UANL,Toluca,0,0
+Club America,Monterrey,0,0
+Tigres UANL,Club America,1,0
+Club America,Tigres UANL,3,0
+Santos Laguna,Veracruz,1,2
+Monarcas,Toluca,0,0
+Club America,Club Leon,3,2
+Puebla,Club Tijuana,2,1
+Tigres UANL,Atlas,0,1
+Chiapas,Guadalajara Chivas,2,1
+Pachuca,Cruz Azul,0,1
+UNAM Pumas,Queretaro,1,1
+Leones Negros,Monterrey,1,0
+Queretaro,Leones Negros,1,0
+Veracruz,Puebla,3,1
+Club Tijuana,Club America,1,0
+Cruz Azul,Santos Laguna,1,0
+Monterrey,Pachuca,1,0
+Club Leon,Tigres UANL,0,1
+Atlas,Monarcas,2,1
+Toluca,Chiapas,3,0
+Guadalajara Chivas,UNAM Pumas,2,1
+Monarcas,Club Leon,0,0
+Veracruz,Cruz Azul,0,0
+Santos Laguna,Monterrey,4,1
+Club America,Puebla,0,0
+Tigres UANL,Club Tijuana,1,2
+Pachuca,Queretaro,2,1
+Chiapas,Atlas,3,1
+UNAM Pumas,Toluca,3,2
+Leones Negros,Guadalajara Chivas,1,1
+Queretaro,Santos Laguna,0,1
+Club Tijuana,Monarcas,4,2
+Club America,Tigres UANL,1,0
+Puebla,Cruz Azul,0,0
+Guadalajara Chivas,Pachuca,1,0
+Monterrey,Veracruz,1,1
+Club Leon,Chiapas,1,1
+Atlas,UNAM Pumas,1,1
+Toluca,Leones Negros,3,1
+Monarcas,Club America,2,2
+Veracruz,Queretaro,1,1
+Santos Laguna,Guadalajara Chivas,1,0
+Cruz Azul,Monterrey,1,0
+Tigres UANL,Puebla,1,0
+Pachuca,Toluca,1,1
+Chiapas,Club Tijuana,2,2
+UNAM Pumas,Club Leon,1,3
+Leones Negros,Atlas,0,2
+Queretaro,Cruz Azul,1,2
+Club Tijuana,UNAM Pumas,3,0
+Club America,Chiapas,5,0
+Puebla,Monterrey,2,0
+Tigres UANL,Monarcas,1,0
+Club Leon,Leones Negros,2,1
+Atlas,Pachuca,1,3
+Toluca,Santos Laguna,2,2
+Guadalajara Chivas,Veracruz,0,0
+Monarcas,Puebla,1,2
+Veracruz,Toluca,3,0
+Santos Laguna,Atlas,0,1
+Cruz Azul,Guadalajara Chivas,1,2
+Monterrey,Queretaro,2,1
+Pachuca,Club Leon,2,1
+Chiapas,Tigres UANL,1,0
+UNAM Pumas,Club America,0,1
+Leones Negros,Club Tijuana,0,1
+Monarcas,Chiapas,3,2
+Club Tijuana,Pachuca,3,2
+Club America,Leones Negros,0,1
+Puebla,Queretaro,4,1
+Tigres UANL,UNAM Pumas,3,0
+Club Leon,Santos Laguna,2,1
+Atlas,Veracruz,0,3
+Toluca,Cruz Azul,1,0
+Guadalajara Chivas,Monterrey,3,0
+Veracruz,Club Leon,1,0
+Queretaro,Guadalajara Chivas,1,0
+Cruz Azul,Atlas,1,1
+Monterrey,Toluca,3,2
+Santos Laguna,Club Tijuana,1,1
+Pachuca,Club America,0,0
+Chiapas,Puebla,2,2
+UNAM Pumas,Monarcas,2,1
+Leones Negros,Tigres UANL,2,1
+Monarcas,Leones Negros,0,1
+Club Tijuana,Veracruz,3,1
+Club America,Santos Laguna,1,0
+Puebla,Guadalajara Chivas,1,2
+Tigres UANL,Pachuca,2,1
+Club Leon,Cruz Azul,2,2
+Atlas,Monterrey,2,1
+Chiapas,UNAM Pumas,0,2
+Toluca,Queretaro,1,0
+Queretaro,Atlas,2,0
+Veracruz,Club America,4,0
+Santos Laguna,Tigres UANL,2,2
+Cruz Azul,Club Tijuana,2,1
+Monterrey,Club Leon,5,1
+Pachuca,Monarcas,2,0
+Leones Negros,Chiapas,0,1
+UNAM Pumas,Puebla,2,1
+Guadalajara Chivas,Toluca,1,0
+Monarcas,Santos Laguna,0,1
+Club America,Cruz Azul,1,0
+Puebla,Toluca,0,1
+Chiapas,Pachuca,2,2
+Tigres UANL,Veracruz,3,1
+Club Leon,Queretaro,4,5
+Atlas,Guadalajara Chivas,1,1
+Club Tijuana,Monterrey,3,4
+UNAM Pumas,Leones Negros,2,0
+Queretaro,Club Tijuana,2,1
+Veracruz,Monarcas,1,1
+Santos Laguna,Chiapas,4,3
+Cruz Azul,Tigres UANL,2,0
+Monterrey,Club America,1,1
+Pachuca,UNAM Pumas,3,1
+Leones Negros,Puebla,1,1
+Toluca,Atlas,0,0
+Guadalajara Chivas,Club Leon,1,0
+Monarcas,Cruz Azul,2,0
+Chiapas,Veracruz,1,1
+Club Tijuana,Guadalajara Chivas,1,1
+Club America,Queretaro,0,4
+Puebla,Atlas,0,1
+Tigres UANL,Monterrey,3,0
+Club Leon,Toluca,1,1
+UNAM Pumas,Santos Laguna,1,0
+Leones Negros,Pachuca,1,1
+Queretaro,Tigres UANL,1,3
+Veracruz,UNAM Pumas,3,3
+Santos Laguna,Leones Negros,1,0
+Cruz Azul,Chiapas,0,1
+Monterrey,Monarcas,1,0
+Pachuca,Puebla,2,1
+Atlas,Club Leon,3,2
+Toluca,Club Tijuana,2,0
+Guadalajara Chivas,Club America,1,1
+Monarcas,Queretaro,1,2
+Club Tijuana,Atlas,1,2
+Puebla,Club Leon,2,0
+Club America,Toluca,3,1
+Tigres UANL,Guadalajara Chivas,2,1
+Pachuca,Santos Laguna,2,3
+Chiapas,Monterrey,0,2
+UNAM Pumas,Cruz Azul,0,1
+Leones Negros,Veracruz,1,2
+Queretaro,Chiapas,1,0
+Veracruz,Pachuca,1,2
+Monterrey,UNAM Pumas,2,2
+Club Leon,Club Tijuana,6,2
+Cruz Azul,Leones Negros,0,2
+Santos Laguna,Puebla,2,2
+Atlas,Club America,1,2
+Toluca,Tigres UANL,0,0
+Guadalajara Chivas,Monarcas,2,3
+Santos Laguna,Tigres UANL,1,1
+Pachuca,Club America,3,2
+Queretaro,Veracruz,2,1
+Guadalajara Chivas,Atlas,0,0
+Club America,Pachuca,3,4
+Tigres UANL,Santos Laguna,0,1
+Atlas,Guadalajara Chivas,1,4
+Veracruz,Queretaro,2,2
+Pachuca,Queretaro,2,0
+Santos Laguna,Guadalajara Chivas,0,0
+Guadalajara Chivas,Santos Laguna,0,3
+Queretaro,Pachuca,2,0
+Santos Laguna,Queretaro,5,0
+Queretaro,Santos Laguna,3,0
+Veracruz,Guadalajara Chivas,2,0
+Cruz Azul,Monarcas,0,3
+Tigres UANL,Toluca,0,1
+Pachuca,Club Tijuana,2,1
+Atlas,Queretaro,0,2
+Dorados de Sinaloa,Chiapas,0,0
+Santos Laguna,Club Leon,1,3
+UNAM Pumas,Monterrey,3,0
+Puebla,Club America,4,2
+Queretaro,Pachuca,1,2
+Club Tijuana,Dorados de Sinaloa,1,2
+Club America,Atlas,1,3
+Club Leon,Veracruz,4,1
+Monarcas,Tigres UANL,1,0
+Chiapas,Santos Laguna,2,1
+Toluca,UNAM Pumas,2,1
+Guadalajara Chivas,Cruz Azul,0,1
+Veracruz,Chiapas,2,1
+Santos Laguna,Club Tijuana,0,1
+Cruz Azul,Club Leon,2,0
+Pachuca,Club America,0,3
+Atlas,Monterrey,0,3
+Dorados de Sinaloa,Queretaro,1,1
+Toluca,Monarcas,0,1
+Puebla,UNAM Pumas,3,2
+Tigres UANL,Guadalajara Chivas,2,2
+Club America,Dorados de Sinaloa,4,0
+Queretaro,Santos Laguna,1,2
+Monterrey,Pachuca,4,3
+Club Tijuana,Veracruz,1,3
+Puebla,Toluca,1,0
+Club Leon,Tigres UANL,2,1
+Guadalajara Chivas,Monarcas,2,0
+Chiapas,Cruz Azul,2,1
+UNAM Pumas,Atlas,5,0
+Veracruz,Queretaro,2,2
+Santos Laguna,Club America,0,2
+Cruz Azul,Club Tijuana,1,3
+Monarcas,Club Leon,3,4
+Tigres UANL,Chiapas,4,1
+Pachuca,UNAM Pumas,1,2
+Atlas,Puebla,2,1
+Dorados de Sinaloa,Monterrey,1,4
+Toluca,Guadalajara Chivas,3,1
+Queretaro,Cruz Azul,4,2
+Club Tijuana,Tigres UANL,1,2
+Club America,Veracruz,3,1
+Monterrey,Santos Laguna,1,1
+Club Leon,Guadalajara Chivas,1,0
+Atlas,Toluca,1,2
+Chiapas,Monarcas,3,1
+UNAM Pumas,Dorados de Sinaloa,2,0
+Puebla,Pachuca,3,2
+Veracruz,Monterrey,2,1
+Santos Laguna,UNAM Pumas,3,4
+Cruz Azul,Club America,0,2
+Tigres UANL,Queretaro,5,1
+Pachuca,Atlas,1,1
+Monarcas,Club Tijuana,1,2
+Dorados de Sinaloa,Puebla,1,0
+Toluca,Club Leon,1,3
+Guadalajara Chivas,Chiapas,4,1
+Queretaro,Monarcas,0,1
+Club Tijuana,Guadalajara Chivas,2,1
+Club America,Tigres UANL,0,1
+Monterrey,Cruz Azul,1,1
+Pachuca,Toluca,3,4
+Atlas,Dorados de Sinaloa,3,2
+Chiapas,Club Leon,6,2
+UNAM Pumas,Veracruz,3,0
+Puebla,Santos Laguna,0,1
+Veracruz,Puebla,2,1
+Santos Laguna,Atlas,0,2
+Cruz Azul,UNAM Pumas,2,1
+Tigres UANL,Monterrey,3,1
+Club Leon,Club Tijuana,2,1
+Monarcas,Club America,0,3
+Dorados de Sinaloa,Pachuca,1,2
+Toluca,Chiapas,1,1
+Guadalajara Chivas,Queretaro,2,1
+Queretaro,Club Leon,3,0
+Club Tijuana,Chiapas,1,1
+Club America,Guadalajara Chivas,1,2
+Monterrey,Monarcas,2,2
+Pachuca,Santos Laguna,0,0
+Atlas,Veracruz,0,1
+Dorados de Sinaloa,Toluca,1,2
+UNAM Pumas,Tigres UANL,1,0
+Puebla,Cruz Azul,2,1
+Toluca,Club Tijuana,4,1
+Club Leon,Club America,3,0
+Guadalajara Chivas,Monterrey,2,1
+Chiapas,Queretaro,0,0
+Santos Laguna,Dorados de Sinaloa,1,1
+Veracruz,Pachuca,0,1
+Monarcas,UNAM Pumas,2,2
+Cruz Azul,Atlas,1,1
+Tigres UANL,Puebla,0,1
+Queretaro,Club Tijuana,2,1
+Club America,Chiapas,2,1
+Monterrey,Club Leon,4,0
+Santos Laguna,Toluca,0,0
+Atlas,Tigres UANL,0,1
+UNAM Pumas,Guadalajara Chivas,1,0
+Puebla,Monarcas,1,3
+Monterrey,Puebla,1,1
+Veracruz,Santos Laguna,0,3
+Club Tijuana,Club America,0,2
+Cruz Azul,Dorados de Sinaloa,1,1
+Tigres UANL,Pachuca,2,1
+Club Leon,UNAM Pumas,1,3
+Monarcas,Atlas,0,1
+Chiapas,Monterrey,2,2
+Toluca,Queretaro,4,2
+Guadalajara Chivas,Puebla,1,1
+Veracruz,Toluca,3,2
+Santos Laguna,Cruz Azul,1,2
+Club America,Queretaro,0,1
+Monterrey,Club Tijuana,3,1
+Pachuca,Monarcas,2,0
+Dorados de Sinaloa,Tigres UANL,0,0
+UNAM Pumas,Chiapas,2,3
+Puebla,Club Leon,1,0
+Queretaro,Monterrey,3,1
+Club Tijuana,UNAM Pumas,1,2
+Cruz Azul,Veracruz,1,1
+Tigres UANL,Santos Laguna,2,2
+Club Leon,Atlas,2,1
+Monarcas,Dorados de Sinaloa,4,0
+Chiapas,Puebla,1,0
+Toluca,Club America,2,3
+Guadalajara Chivas,Pachuca,4,4
+Veracruz,Tigres UANL,1,3
+Santos Laguna,Monarcas,2,3
+Cruz Azul,Toluca,1,2
+Monterrey,Club America,2,1
+Pachuca,Club Leon,3,2
+Atlas,Chiapas,2,3
+Dorados de Sinaloa,Guadalajara Chivas,2,1
+UNAM Pumas,Queretaro,2,1
+Puebla,Club Tijuana,2,1
+Dorados de Sinaloa,Veracruz,0,0
+Atlas,Guadalajara Chivas,0,1
+Pachuca,Cruz Azul,1,2
+Queretaro,Puebla,0,0
+Club Tijuana,Atlas,2,0
+Club America,UNAM Pumas,1,1
+Tigres UANL,Cruz Azul,0,0
+Club Leon,Dorados de Sinaloa,3,0
+Monarcas,Veracruz,1,2
+Chiapas,Pachuca,3,2
+Toluca,Monterrey,3,1
+Guadalajara Chivas,Santos Laguna,0,3
+Club America,Club Leon,4,1
+Tigres UANL,Chiapas,2,1
+Veracruz,UNAM Pumas,1,0
+Puebla,Toluca,2,2
+Chiapas,Tigres UANL,0,1
+Club Leon,Club America,2,1
+UNAM Pumas,Veracruz,1,0
+Toluca,Puebla,1,0
+Club America,UNAM Pumas,0,3
+Tigres UANL,Toluca,0,0
+UNAM Pumas,Club America,1,3
+Toluca,Tigres UANL,0,2
+Tigres UANL,UNAM Pumas,3,0
+UNAM Pumas,Tigres UANL,3,0
+Queretaro,Atlas,1,3
+Club Tijuana,Pachuca,1,1
+Club America,Puebla,0,0
+Monterrey,UNAM Pumas,1,0
+Club Leon,Santos Laguna,2,0
+Monarcas,Cruz Azul,2,2
+Chiapas,Dorados de Sinaloa,1,0
+Toluca,Tigres UANL,1,0
+Guadalajara Chivas,Veracruz,2,2
+Veracruz,Club Leon,1,3
+Santos Laguna,Chiapas,1,0
+Cruz Azul,Guadalajara Chivas,1,1
+Tigres UANL,Monarcas,2,0
+Pachuca,Queretaro,1,0
+Atlas,Club America,0,3
+Dorados de Sinaloa,Club Tijuana,0,1
+UNAM Pumas,Toluca,3,2
+Puebla,Monterrey,1,3
+Queretaro,Dorados de Sinaloa,3,0
+Club Tijuana,Santos Laguna,1,3
+Club America,Pachuca,1,4
+Monterrey,Atlas,1,0
+Club Leon,Cruz Azul,3,2
+Monarcas,Toluca,1,1
+Chiapas,Veracruz,1,1
+UNAM Pumas,Puebla,0,1
+Guadalajara Chivas,Tigres UANL,2,2
+Santos Laguna,Queretaro,2,0
+Veracruz,Club Tijuana,2,2
+Cruz Azul,Chiapas,2,1
+Monarcas,Guadalajara Chivas,2,0
+Tigres UANL,Club Leon,3,1
+Pachuca,Monterrey,3,1
+Atlas,UNAM Pumas,1,1
+Dorados de Sinaloa,Club America,0,3
+Toluca,Puebla,1,1
+Queretaro,Veracruz,2,1
+Chiapas,Tigres UANL,1,3
+Club Tijuana,Cruz Azul,1,1
+Club America,Santos Laguna,2,0
+Monterrey,Dorados de Sinaloa,3,0
+Puebla,Atlas,4,1
+Club Leon,Monarcas,1,2
+Guadalajara Chivas,Toluca,1,1
+UNAM Pumas,Pachuca,1,1
+Veracruz,Club America,1,1
+Toluca,Atlas,1,1
+Santos Laguna,Monterrey,1,2
+Cruz Azul,Queretaro,2,1
+Tigres UANL,Club Tijuana,1,2
+Dorados de Sinaloa,UNAM Pumas,2,3
+Guadalajara Chivas,Club Leon,0,1
+Pachuca,Puebla,5,2
+Queretaro,Tigres UANL,2,2
+Club Tijuana,Monarcas,1,1
+Club America,Cruz Azul,3,3
+Monterrey,Veracruz,5,1
+Club Leon,Toluca,5,1
+Atlas,Pachuca,1,0
+Chiapas,Guadalajara Chivas,1,1
+UNAM Pumas,Santos Laguna,1,1
+Puebla,Dorados de Sinaloa,3,2
+Veracruz,UNAM Pumas,0,0
+Cruz Azul,Monterrey,4,0
+Santos Laguna,Puebla,1,1
+Tigres UANL,Club America,4,1
+Club Leon,Chiapas,1,3
+Monarcas,Queretaro,1,1
+Dorados de Sinaloa,Atlas,2,1
+Toluca,Pachuca,0,1
+Guadalajara Chivas,Club Tijuana,1,1
+Club Tijuana,Club Leon,0,0
+Club America,Monarcas,4,1
+Queretaro,Guadalajara Chivas,0,2
+Monterrey,Tigres UANL,1,0
+Pachuca,Dorados de Sinaloa,2,2
+Atlas,Santos Laguna,1,2
+Chiapas,Toluca,3,2
+UNAM Pumas,Cruz Azul,2,2
+Puebla,Veracruz,1,1
+Santos Laguna,Pachuca,3,2
+Veracruz,Atlas,3,2
+Cruz Azul,Puebla,1,1
+Tigres UANL,UNAM Pumas,0,0
+Club Leon,Queretaro,2,0
+Monarcas,Monterrey,1,3
+Chiapas,Club Tijuana,1,2
+Toluca,Dorados de Sinaloa,3,0
+Guadalajara Chivas,Club America,1,2
+Queretaro,Chiapas,1,1
+Club Tijuana,Toluca,0,0
+Club America,Club Leon,2,1
+Monterrey,Guadalajara Chivas,1,3
+Pachuca,Veracruz,6,0
+Atlas,Cruz Azul,0,2
+Dorados de Sinaloa,Santos Laguna,3,1
+Puebla,Tigres UANL,0,0
+UNAM Pumas,Monarcas,4,2
+Monarcas,Chiapas,2,0
+Toluca,Santos Laguna,0,0
+Club Tijuana,Queretaro,2,4
+Veracruz,Dorados de Sinaloa,0,0
+Cruz Azul,Pachuca,0,0
+Tigres UANL,Atlas,2,2
+Club Leon,Monterrey,1,2
+Monarcas,Puebla,2,0
+Chiapas,Club America,0,2
+Guadalajara Chivas,UNAM Pumas,4,0
+Queretaro,Toluca,0,0
+Santos Laguna,Veracruz,2,0
+Club America,Club Tijuana,6,1
+Monterrey,Chiapas,6,0
+Pachuca,Tigres UANL,2,1
+Atlas,Monarcas,1,2
+Dorados de Sinaloa,Cruz Azul,3,0
+Puebla,Guadalajara Chivas,0,3
+UNAM Pumas,Club Leon,1,2
+Queretaro,Club America,1,0
+Club Tijuana,Monterrey,1,2
+Toluca,Veracruz,4,2
+Cruz Azul,Santos Laguna,0,1
+Tigres UANL,Dorados de Sinaloa,5,2
+Club Leon,Puebla,4,1
+Monarcas,Pachuca,1,0
+Chiapas,UNAM Pumas,1,2
+Guadalajara Chivas,Atlas,1,0
+UNAM Pumas,Club Tijuana,3,1
+Veracruz,Cruz Azul,2,1
+Club America,Toluca,0,1
+Monterrey,Queretaro,3,2
+Santos Laguna,Tigres UANL,2,1
+Pachuca,Guadalajara Chivas,1,1
+Atlas,Club Leon,1,1
+Dorados de Sinaloa,Monarcas,1,0
+Puebla,Chiapas,2,1
+Queretaro,UNAM Pumas,2,1
+Club Tijuana,Puebla,0,0
+Club America,Monterrey,3,3
+Tigres UANL,Veracruz,0,0
+Club Leon,Pachuca,0,0
+Monarcas,Santos Laguna,3,2
+Chiapas,Atlas,0,3
+Toluca,Cruz Azul,0,2
+Guadalajara Chivas,Dorados de Sinaloa,2,1
+Veracruz,Monarcas,1,2
+Santos Laguna,Guadalajara Chivas,0,1
+Cruz Azul,Tigres UANL,0,3
+Monterrey,Toluca,1,2
+Pachuca,Chiapas,2,1
+Atlas,Club Tijuana,0,0
+Dorados de Sinaloa,Club Leon,0,1
+UNAM Pumas,Club America,1,1
+Puebla,Queretaro,3,1
+Tigres UANL,Monterrey,1,3
+Monarcas,Club Leon,1,1
+Santos Laguna,Pachuca,1,1
+Guadalajara Chivas,Club America,0,0
+Monterrey,Tigres UANL,1,2
+Club Leon,Monarcas,4,1
+Club America,Guadalajara Chivas,2,1
+Pachuca,Santos Laguna,3,2
+Club America,Monterrey,1,0
+Club Leon,Pachuca,1,1
+Monterrey,Club America,4,2
+Pachuca,Club Leon,2,1
+Pachuca,Monterrey,1,0
+Monterrey,Pachuca,1,1
+Club Tijuana,Monarcas,2,0
+Queretaro,Veracruz,2,0
+Atlas,Toluca,1,1
+Monterrey,Puebla,1,1
+Pachuca,Club Leon,5,1
+Club America,Chiapas,2,0
+Necaxa,Cruz Azul,0,0
+UNAM Pumas,Guadalajara Chivas,1,0
+Santos Laguna,Tigres UANL,0,0
+Veracruz,Santos Laguna,2,0
+Chiapas,Pachuca,0,2
+Cruz Azul,UNAM Pumas,0,0
+Monarcas,Queretaro,2,2
+Tigres UANL,Atlas,0,0
+Club Leon,Necaxa,0,0
+Club America,Toluca,3,1
+Guadalajara Chivas,Monterrey,1,0
+Puebla,Club Tijuana,3,2
+Club Tijuana,Guadalajara Chivas,4,0
+Queretaro,Puebla,2,1
+Atlas,Veracruz,1,0
+Monterrey,Cruz Azul,1,1
+Pachuca,Necaxa,1,0
+Club America,Tigres UANL,0,3
+UNAM Pumas,Club Leon,1,0
+Chiapas,Toluca,1,0
+Santos Laguna,Monarcas,2,4
+Cruz Azul,Club Tijuana,1,2
+Monarcas,Atlas,3,2
+Tigres UANL,Chiapas,1,0
+Club Leon,Monterrey,0,3
+Guadalajara Chivas,Queretaro,0,0
+Necaxa,UNAM Pumas,2,2
+Veracruz,Club America,2,4
+Toluca,Pachuca,2,0
+Puebla,Santos Laguna,0,0
+Club Tijuana,Club Leon,2,0
+Queretaro,Cruz Azul,0,0
+Atlas,Puebla,3,2
+Monterrey,Necaxa,2,1
+Pachuca,UNAM Pumas,3,0
+Club America,Monarcas,1,1
+Toluca,Tigres UANL,0,0
+Chiapas,Veracruz,1,1
+Santos Laguna,Guadalajara Chivas,0,1
+Veracruz,Toluca,2,2
+Cruz Azul,Santos Laguna,3,1
+Monarcas,Chiapas,3,2
+Tigres UANL,Pachuca,4,2
+Club Leon,Queretaro,2,1
+Necaxa,Club Tijuana,1,1
+Guadalajara Chivas,Atlas,2,2
+UNAM Pumas,Monterrey,5,3
+Puebla,Club America,2,2
+Club Tijuana,UNAM Pumas,1,0
+Queretaro,Necaxa,1,2
+Atlas,Cruz Azul,1,1
+Tigres UANL,Veracruz,1,1
+Pachuca,Monterrey,1,1
+Club America,Guadalajara Chivas,0,3
+Toluca,Monarcas,2,2
+Chiapas,Puebla,0,3
+Santos Laguna,Club Leon,1,0
+Veracruz,Pachuca,1,0
+Cruz Azul,Club America,3,4
+Monarcas,Tigres UANL,0,2
+Monterrey,Club Tijuana,0,0
+Club Leon,Atlas,4,1
+Necaxa,Santos Laguna,2,1
+Guadalajara Chivas,Chiapas,2,0
+UNAM Pumas,Queretaro,4,1
+Puebla,Toluca,0,2
+Veracruz,Monarcas,1,3
+Toluca,Guadalajara Chivas,2,1
+Queretaro,Monterrey,1,0
+Atlas,Necaxa,0,0
+Chiapas,Cruz Azul,0,3
+Tigres UANL,Puebla,2,1
+Pachuca,Club Tijuana,2,2
+Club America,Club Leon,0,2
+Santos Laguna,UNAM Pumas,3,1
+Cruz Azul,Toluca,0,1
+Guadalajara Chivas,Tigres UANL,0,1
+Monarcas,Pachuca,1,5
+Puebla,Veracruz,3,2
+Necaxa,Club America,1,1
+Club Leon,Chiapas,0,0
+UNAM Pumas,Atlas,2,0
+Monterrey,Santos Laguna,5,2
+Club Tijuana,Queretaro,2,1
+Veracruz,Guadalajara Chivas,0,1
+Chiapas,Necaxa,2,2
+Atlas,Monterrey,3,1
+Monarcas,Puebla,2,3
+Tigres UANL,Cruz Azul,0,0
+Pachuca,Queretaro,2,0
+Club America,UNAM Pumas,2,1
+Toluca,Club Leon,1,1
+Santos Laguna,Club Tijuana,1,2
+Club Tijuana,Atlas,1,0
+Cruz Azul,Veracruz,5,3
+Queretaro,Santos Laguna,1,1
+Monterrey,Club America,1,1
+Club Leon,Tigres UANL,3,2
+Guadalajara Chivas,Monarcas,2,1
+Necaxa,Toluca,3,1
+UNAM Pumas,Chiapas,1,0
+Puebla,Pachuca,1,1
+Veracruz,Club Leon,2,3
+Chiapas,Monterrey,1,4
+Atlas,Queretaro,2,1
+Monarcas,Cruz Azul,1,1
+Tigres UANL,Necaxa,0,2
+Pachuca,Santos Laguna,3,0
+Club America,Club Tijuana,1,0
+Toluca,UNAM Pumas,2,1
+Puebla,Guadalajara Chivas,0,2
+Club Tijuana,Chiapas,2,0
+Cruz Azul,Puebla,1,2
+Monterrey,Toluca,1,1
+Queretaro,Club America,1,1
+Club Leon,Monarcas,3,1
+Necaxa,Veracruz,3,2
+UNAM Pumas,Tigres UANL,1,3
+Santos Laguna,Atlas,2,2
+Guadalajara Chivas,Pachuca,1,2
+Veracruz,UNAM Pumas,1,4
+Chiapas,Queretaro,1,2
+Monarcas,Necaxa,2,1
+Tigres UANL,Monterrey,1,1
+Pachuca,Atlas,3,2
+Club America,Santos Laguna,3,1
+Guadalajara Chivas,Cruz Azul,3,2
+Toluca,Club Tijuana,0,1
+Puebla,Club Leon,2,2
+Club Tijuana,Tigres UANL,0,1
+Cruz Azul,Pachuca,2,1
+Queretaro,Toluca,2,3
+Atlas,Club America,1,1
+Monterrey,Veracruz,4,0
+Club Leon,Guadalajara Chivas,1,1
+Necaxa,Puebla,3,1
+UNAM Pumas,Monarcas,1,1
+Santos Laguna,Chiapas,2,0
+Veracruz,Club Tijuana,2,1
+Chiapas,Atlas,1,0
+Cruz Azul,Club Leon,2,3
+Monarcas,Monterrey,1,2
+Tigres UANL,Queretaro,1,2
+Pachuca,Club America,3,3
+Guadalajara Chivas,Necaxa,1,1
+Toluca,Santos Laguna,1,2
+Puebla,UNAM Pumas,0,3
+Club Leon,Club Tijuana,3,0
+UNAM Pumas,Tigres UANL,2,2
+Necaxa,Pachuca,2,1
+Club America,Guadalajara Chivas,1,1
+Tigres UANL,UNAM Pumas,5,0
+Club Tijuana,Club Leon,3,2
+Guadalajara Chivas,Club America,0,1
+Pachuca,Necaxa,0,0
+Club Leon,Tigres UANL,0,1
+Necaxa,Club America,1,1
+Tigres UANL,Club Leon,2,1
+Club America,Necaxa,2,0
+Club America,Tigres UANL,1,1
+Tigres UANL,Club America,0,0
+Veracruz,Queretaro,1,0
+Cruz Azul,Necaxa,1,0
+Monarcas,Club Tijuana,2,0
+Tigres UANL,Santos Laguna,0,0
+Club Leon,Pachuca,2,4
+Guadalajara Chivas,UNAM Pumas,2,1
+Toluca,Atlas,4,1
+Puebla,Monterrey,2,3
+Club Tijuana,Puebla,6,2
+Queretaro,Monarcas,0,0
+Atlas,Tigres UANL,2,0
+Monterrey,Guadalajara Chivas,2,2
+Pachuca,Chiapas,1,0
+Necaxa,Club Leon,0,1
+UNAM Pumas,Cruz Azul,1,0
+Toluca,Club America,2,1
+Santos Laguna,Veracruz,2,1
+Veracruz,Atlas,1,0
+Cruz Azul,Monterrey,2,2
+Monarcas,Santos Laguna,1,1
+Tigres UANL,Club America,4,2
+Club Leon,UNAM Pumas,0,1
+Necaxa,Pachuca,1,0
+Guadalajara Chivas,Club Tijuana,0,1
+Toluca,Chiapas,0,1
+Puebla,Queretaro,0,0
+Club Tijuana,Cruz Azul,1,0
+Queretaro,Guadalajara Chivas,0,1
+Atlas,Monarcas,3,1
+Monterrey,Club Leon,0,0
+Pachuca,Toluca,0,0
+Club America,Veracruz,1,0
+UNAM Pumas,Necaxa,3,1
+Chiapas,Tigres UANL,1,0
+Santos Laguna,Puebla,2,0
+Puebla,Atlas,1,1
+Veracruz,Chiapas,2,0
+Cruz Azul,Queretaro,1,1
+Monarcas,Club America,0,2
+Tigres UANL,Toluca,0,1
+Club Leon,Club Tijuana,2,4
+Necaxa,Monterrey,1,1
+UNAM Pumas,Pachuca,1,1
+Guadalajara Chivas,Santos Laguna,1,1
+Chiapas,Club America,2,0
+Club Tijuana,Necaxa,1,2
+Queretaro,Club Leon,2,1
+Atlas,Guadalajara Chivas,1,2
+Monterrey,UNAM Pumas,2,0
+Pachuca,Tigres UANL,1,0
+Club America,Puebla,0,0
+Toluca,Veracruz,1,0
+Chiapas,Monarcas,1,2
+Santos Laguna,Cruz Azul,2,2
+Veracruz,Tigres UANL,0,3
+Cruz Azul,Atlas,0,1
+Monarcas,Toluca,1,2
+Monterrey,Pachuca,1,0
+Club Leon,Santos Laguna,2,2
+Necaxa,Queretaro,1,4
+Guadalajara Chivas,Club America,1,0
+UNAM Pumas,Club Tijuana,3,3
+Puebla,Chiapas,3,0
+Club Tijuana,Monterrey,2,0
+Queretaro,UNAM Pumas,4,3
+Atlas,Club Leon,2,0
+Tigres UANL,Monarcas,1,1
+Pachuca,Veracruz,1,0
+Club America,Cruz Azul,2,0
+Toluca,Puebla,1,3
+Chiapas,Guadalajara Chivas,4,3
+Santos Laguna,Necaxa,2,2
+Club Tijuana,Pachuca,2,3
+Cruz Azul,Chiapas,2,0
+Monarcas,Veracruz,1,0
+Monterrey,Queretaro,4,1
+Club Leon,Club America,1,1
+Necaxa,Atlas,1,1
+Guadalajara Chivas,Toluca,2,0
+Puebla,Tigres UANL,0,2
+UNAM Pumas,Santos Laguna,2,1
+Club Tijuana,Santos Laguna,1,1
+Cruz Azul,Tigres UANL,0,0
+Queretaro,Pachuca,3,0
+Monterrey,Atlas,2,0
+Club Leon,Toluca,2,3
+Necaxa,Chiapas,2,2
+Guadalajara Chivas,Veracruz,2,0
+UNAM Pumas,Club America,2,3
+Puebla,Monarcas,0,1
+Veracruz,Cruz Azul,3,1
+Chiapas,UNAM Pumas,0,3
+Atlas,Club Tijuana,3,3
+Monarcas,Guadalajara Chivas,0,0
+Tigres UANL,Club Leon,0,1
+Pachuca,Puebla,0,0
+Club America,Monterrey,1,0
+Toluca,Necaxa,2,0
+Santos Laguna,Queretaro,1,0
+Club Tijuana,Club America,0,0
+Cruz Azul,Monarcas,1,1
+Queretaro,Atlas,1,4
+Monterrey,Chiapas,4,1
+Club Leon,Veracruz,4,0
+Necaxa,Tigres UANL,1,1
+Guadalajara Chivas,Puebla,3,2
+UNAM Pumas,Toluca,0,1
+Santos Laguna,Pachuca,1,0
+Chiapas,Club Leon,0,0
+Tigres UANL,Guadalajara Chivas,3,0
+Veracruz,Puebla,3,2
+Queretaro,Club Tijuana,0,1
+Santos Laguna,Monterrey,2,2
+Club America,Necaxa,1,0
+Pachuca,Monarcas,0,0
+Atlas,UNAM Pumas,1,1
+Toluca,Cruz Azul,0,2
+Chiapas,Club Tijuana,1,2
+Atlas,Santos Laguna,1,1
+Monarcas,Club Leon,1,2
+Tigres UANL,UNAM Pumas,4,0
+Veracruz,Necaxa,0,1
+Pachuca,Guadalajara Chivas,0,0
+Club America,Queretaro,1,0
+Toluca,Monterrey,1,1
+Puebla,Cruz Azul,2,1
+Club Tijuana,Toluca,2,0
+Cruz Azul,Guadalajara Chivas,2,1
+Queretaro,Chiapas,2,2
+Atlas,Pachuca,1,0
+Monterrey,Tigres UANL,1,0
+Club Leon,Puebla,1,0
+Necaxa,Monarcas,2,1
+UNAM Pumas,Veracruz,0,2
+Santos Laguna,Club America,2,1
+Veracruz,Monterrey,1,0
+Chiapas,Santos Laguna,2,2
+Monarcas,UNAM Pumas,4,0
+Tigres UANL,Club Tijuana,3,0
+Guadalajara Chivas,Club Leon,1,1
+Pachuca,Cruz Azul,2,2
+Club America,Atlas,1,2
+Toluca,Queretaro,1,2
+Puebla,Necaxa,0,1
+Queretaro,Tigres UANL,1,5
+Club Leon,Cruz Azul,1,2
+Atlas,Chiapas,0,1
+Club America,Pachuca,2,3
+Club Tijuana,Veracruz,1,0
+Monterrey,Monarcas,1,2
+Necaxa,Guadalajara Chivas,0,0
+UNAM Pumas,Puebla,0,1
+Santos Laguna,Toluca,2,2
+Tigres UANL,Monterrey,4,1
+Santos Laguna,Toluca,1,4
+Monarcas,Club Tijuana,1,0
+Atlas,Guadalajara Chivas,1,0
+Monterrey,Tigres UANL,0,2
+Toluca,Santos Laguna,1,3
+Guadalajara Chivas,Atlas,1,0
+Club Tijuana,Monarcas,2,0
+Toluca,Guadalajara Chivas,1,1
+Tigres UANL,Club Tijuana,2,0
+Guadalajara Chivas,Toluca,1,1
+Club Tijuana,Tigres UANL,0,2
+Tigres UANL,Guadalajara Chivas,2,2
+Guadalajara Chivas,Tigres UANL,2,1
+Monarcas,Monterrey,0,0
+Club Tijuana,Cruz Azul,0,2
+Club America,Queretaro,0,1
+Lobos BUAP,Santos Laguna,2,2
+Tigres UANL,Puebla,5,0
+Club Leon,Atlas,0,3
+Guadalajara Chivas,Toluca,0,0
+UNAM Pumas,Pachuca,1,0
+Veracruz,Necaxa,0,2
+Puebla,Monarcas,1,1
+Atlas,UNAM Pumas,2,1
+Cruz Azul,Guadalajara Chivas,1,1
+Queretaro,Lobos BUAP,0,4
+Monterrey,Veracruz,1,0
+Pachuca,Club America,0,2
+Necaxa,Club Tijuana,1,0
+Toluca,Club Leon,3,1
+Santos Laguna,Tigres UANL,1,1
+Monarcas,Santos Laguna,1,1
+Club Tijuana,Monterrey,0,3
+Lobos BUAP,Pachuca,3,2
+Tigres UANL,Queretaro,1,1
+Club Leon,Cruz Azul,2,2
+Club America,UNAM Pumas,2,1
+Guadalajara Chivas,Necaxa,2,2
+Toluca,Atlas,3,2
+Veracruz,Puebla,2,0
+Puebla,Club Tijuana,1,1
+Atlas,Club America,0,1
+Cruz Azul,Toluca,0,0
+Queretaro,Monarcas,2,1
+Monterrey,Guadalajara Chivas,4,1
+Pachuca,Tigres UANL,2,1
+Necaxa,Club Leon,0,3
+UNAM Pumas,Lobos BUAP,2,0
+Santos Laguna,Veracruz,2,3
+Monarcas,Pachuca,1,2
+Club Tijuana,Santos Laguna,2,0
+Cruz Azul,Atlas,2,1
+Lobos BUAP,Club America,2,3
+Tigres UANL,UNAM Pumas,2,0
+Veracruz,Queretaro,1,1
+Club Leon,Monterrey,1,2
+Guadalajara Chivas,Puebla,0,1
+Toluca,Necaxa,0,0
+Pachuca,Veracruz,4,1
+Atlas,Lobos BUAP,1,1
+Queretaro,Club Tijuana,1,3
+UNAM Pumas,Monarcas,1,2
+Club America,Tigres UANL,2,2
+Puebla,Club Leon,0,1
+Santos Laguna,Guadalajara Chivas,1,1
+Monterrey,Toluca,4,1
+Necaxa,Cruz Azul,1,1
+Club Tijuana,Pachuca,2,1
+Cruz Azul,Monterrey,1,1
+Tigres UANL,Lobos BUAP,3,2
+Club Leon,Santos Laguna,1,2
+Monarcas,Club America,2,0
+Necaxa,Atlas,2,1
+Guadalajara Chivas,Queretaro,0,0
+Toluca,Puebla,2,1
+Veracruz,UNAM Pumas,1,0
+Puebla,Cruz Azul,0,0
+Lobos BUAP,Monarcas,1,3
+Queretaro,Club Leon,1,2
+Monterrey,Necaxa,1,0
+Pachuca,Guadalajara Chivas,1,3
+Club America,Veracruz,2,0
+UNAM Pumas,Club Tijuana,0,2
+Santos Laguna,Toluca,0,0
+Monarcas,Tigres UANL,3,3
+Club Tijuana,Club America,1,1
+Cruz Azul,Santos Laguna,2,1
+Monterrey,Atlas,2,1
+Club Leon,Pachuca,3,1
+Necaxa,Puebla,1,1
+Guadalajara Chivas,UNAM Pumas,1,1
+Toluca,Queretaro,3,2
+Veracruz,Lobos BUAP,0,1
+Guadalajara Chivas,Lobos BUAP,1,2
+Puebla,Atlas,1,2
+Veracruz,Monarcas,2,1
+Club Tijuana,Tigres UANL,0,1
+Club Leon,Club America,2,1
+Necaxa,Queretaro,1,0
+Toluca,UNAM Pumas,2,1
+Pachuca,Cruz Azul,4,0
+Monarcas,Club Tijuana,3,0
+Atlas,Veracruz,2,0
+Lobos BUAP,Club Leon,0,3
+Queretaro,Monterrey,2,2
+Tigres UANL,Guadalajara Chivas,1,0
+Pachuca,Necaxa,0,0
+Toluca,Club America,1,2
+UNAM Pumas,Cruz Azul,1,4
+Santos Laguna,Puebla,0,0
+Toluca,Lobos BUAP,3,1
+Puebla,Queretaro,2,2
+Club Tijuana,Veracruz,0,0
+Cruz Azul,Club America,1,3
+Monterrey,Pachuca,2,0
+Club Leon,Tigres UANL,1,0
+Necaxa,UNAM Pumas,0,0
+Guadalajara Chivas,Monarcas,1,2
+Santos Laguna,Atlas,0,1
+Lobos BUAP,Club Tijuana,1,2
+Queretaro,Cruz Azul,1,2
+Tigres UANL,Veracruz,1,0
+UNAM Pumas,Club Leon,2,0
+Atlas,Monarcas,0,1
+Santos Laguna,Necaxa,3,2
+Pachuca,Toluca,2,2
+Club America,Guadalajara Chivas,2,1
+Puebla,Monterrey,2,0
+Monarcas,Club Leon,0,0
+Atlas,Club Tijuana,1,0
+Lobos BUAP,Cruz Azul,3,0
+Queretaro,Santos Laguna,1,2
+Tigres UANL,Toluca,3,0
+Pachuca,Puebla,1,0
+Club America,Necaxa,0,1
+UNAM Pumas,Monterrey,0,1
+Veracruz,Guadalajara Chivas,2,3
+Puebla,UNAM Pumas,3,0
+Cruz Azul,Tigres UANL,1,2
+Queretaro,Atlas,2,2
+Monterrey,Club America,2,0
+Club Leon,Veracruz,6,2
+Necaxa,Lobos BUAP,5,0
+Guadalajara Chivas,Club Tijuana,3,1
+Toluca,Monarcas,0,1
+Santos Laguna,Pachuca,2,2
+Atlas,Tigres UANL,1,1
+Monarcas,Cruz Azul,1,2
+Club Tijuana,Club Leon,2,1
+Lobos BUAP,Monterrey,2,1
+Pachuca,Queretaro,0,1
+Club America,Puebla,1,1
+Guadalajara Chivas,Atlas,1,2
+UNAM Pumas,Santos Laguna,2,2
+Tigres UANL,Necaxa,1,0
+Veracruz,Toluca,0,1
+Monterrey,Santos Laguna,1,1
+Puebla,Lobos BUAP,0,1
+Atlas,Pachuca,1,1
+Cruz Azul,Veracruz,1,0
+Queretaro,UNAM Pumas,1,1
+Monterrey,Tigres UANL,2,0
+Club Leon,Guadalajara Chivas,0,2
+Necaxa,Monarcas,1,2
+Toluca,Club Tijuana,3,1
+Santos Laguna,Club America,0,1
+Toluca,Monarcas,2,1
+Club Leon,Tigres UANL,1,1
+Cruz Azul,Club America,0,0
+Atlas,Monterrey,1,2
+Tigres UANL,Club Leon,1,1
+Monarcas,Toluca,2,1
+Monterrey,Atlas,4,1
+Club America,Cruz Azul,0,0
+Club America,Tigres UANL,0,1
+Monarcas,Monterrey,0,1
+Tigres UANL,Club America,3,0
+Monterrey,Monarcas,4,0
+Tigres UANL,Monterrey,1,1
+Monterrey,Tigres UANL,1,2
+Puebla,Tigres UANL,2,1
+Atlas,Club Leon,1,2
+Cruz Azul,Club Tijuana,0,0
+Monterrey,Monarcas,1,1
+Pachuca,UNAM Pumas,2,3
+Necaxa,Veracruz,0,0
+Toluca,Guadalajara Chivas,1,1
+Queretaro,Club America,0,1
+Santos Laguna,Lobos BUAP,4,2
+Club Tijuana,Necaxa,1,0
+Monarcas,Puebla,1,0
+Club America,Pachuca,2,2
+Lobos BUAP,Queretaro,0,2
+Tigres UANL,Santos Laguna,2,1
+Club Leon,Toluca,3,1
+Guadalajara Chivas,Cruz Azul,1,3
+UNAM Pumas,Atlas,3,1
+Veracruz,Monterrey,0,2
+Puebla,Veracruz,2,0
+Atlas,Toluca,1,3
+Cruz Azul,Club Leon,0,0
+Queretaro,Tigres UANL,0,0
+Monterrey,Club Tijuana,0,0
+Pachuca,Lobos BUAP,3,1
+Necaxa,Guadalajara Chivas,1,3
+UNAM Pumas,Club America,0,0
+Santos Laguna,Monarcas,1,0
+Monarcas,Queretaro,1,0
+Club Tijuana,Puebla,2,0
+Lobos BUAP,UNAM Pumas,1,1
+Tigres UANL,Pachuca,3,2
+Club Leon,Necaxa,0,4
+Club America,Atlas,1,0
+Guadalajara Chivas,Monterrey,1,2
+Toluca,Cruz Azul,1,1
+Veracruz,Santos Laguna,1,1
+Puebla,Guadalajara Chivas,2,0
+Atlas,Cruz Azul,2,1
+Queretaro,Veracruz,0,1
+Monterrey,Club Leon,5,1
+Santos Laguna,Club Tijuana,0,0
+Pachuca,Monarcas,2,3
+Club America,Lobos BUAP,5,1
+Necaxa,Toluca,0,0
+UNAM Pumas,Tigres UANL,2,0
+Monarcas,UNAM Pumas,1,2
+Club Tijuana,Queretaro,0,2
+Cruz Azul,Necaxa,0,2
+Lobos BUAP,Atlas,3,1
+Tigres UANL,Club America,1,1
+Club Leon,Puebla,2,1
+Guadalajara Chivas,Santos Laguna,0,2
+Toluca,Monterrey,2,1
+Veracruz,Pachuca,0,1
+Atlas,Necaxa,1,1
+Lobos BUAP,Tigres UANL,0,0
+Club America,Monarcas,4,1
+Queretaro,Guadalajara Chivas,2,2
+Santos Laguna,Club Leon,5,1
+Monterrey,Cruz Azul,2,2
+Puebla,Toluca,2,0
+UNAM Pumas,Veracruz,1,2
+Pachuca,Club Tijuana,2,0
+Monarcas,Lobos BUAP,2,1
+Cruz Azul,Puebla,1,1
+Tigres UANL,Atlas,2,0
+Club Leon,Queretaro,1,1
+Club Tijuana,UNAM Pumas,4,1
+Necaxa,Monterrey,3,0
+Guadalajara Chivas,Pachuca,1,1
+Toluca,Santos Laguna,2,0
+Veracruz,Club America,1,1
+Atlas,Monterrey,0,1
+Puebla,Necaxa,1,1
+Lobos BUAP,Veracruz,5,0
+Queretaro,Toluca,0,2
+Tigres UANL,Monarcas,2,1
+Pachuca,Club Leon,2,1
+Club America,Club Tijuana,0,0
+UNAM Pumas,Guadalajara Chivas,1,1
+Santos Laguna,Cruz Azul,2,0
+Club Tijuana,Lobos BUAP,3,1
+Monarcas,Atlas,2,1
+Cruz Azul,Queretaro,0,1
+Monterrey,Puebla,1,3
+Club Leon,UNAM Pumas,3,0
+Necaxa,Santos Laguna,1,2
+Guadalajara Chivas,Club America,1,1
+Toluca,Pachuca,2,1
+Veracruz,Tigres UANL,0,2
+Monarcas,Veracruz,2,0
+Atlas,Puebla,1,0
+Cruz Azul,Pachuca,5,0
+Lobos BUAP,Guadalajara Chivas,0,1
+Queretaro,Necaxa,1,1
+Tigres UANL,Club Tijuana,1,0
+Club America,Club Leon,2,0
+UNAM Pumas,Toluca,0,1
+Santos Laguna,Monterrey,3,2
+Puebla,Santos Laguna,0,1
+Club Tijuana,Monarcas,1,1
+Cruz Azul,UNAM Pumas,1,1
+Monterrey,Queretaro,3,1
+Club Leon,Lobos BUAP,2,2
+Club America,Toluca,1,2
+Necaxa,Pachuca,1,1
+Guadalajara Chivas,Tigres UANL,0,0
+Veracruz,Atlas,3,1
+Monarcas,Guadalajara Chivas,1,2
+Atlas,Santos Laguna,3,2
+Lobos BUAP,Toluca,1,2
+Queretaro,Puebla,2,1
+Tigres UANL,Club Leon,4,1
+Pachuca,Monterrey,1,2
+Club America,Cruz Azul,2,1
+UNAM Pumas,Necaxa,1,1
+Veracruz,Club Tijuana,1,0
+Puebla,Pachuca,2,6
+Club Tijuana,Atlas,2,2
+Cruz Azul,Lobos BUAP,1,0
+Monterrey,UNAM Pumas,2,1
+Club Leon,Monarcas,2,3
+Necaxa,Club America,1,1
+Guadalajara Chivas,Veracruz,0,1
+Toluca,Tigres UANL,1,0
+Santos Laguna,Queretaro,3,0
+Atlas,Queretaro,1,0
+Club Tijuana,Guadalajara Chivas,3,0
+Lobos BUAP,Necaxa,0,1
+Tigres UANL,Cruz Azul,2,2
+Pachuca,Santos Laguna,3,1
+Monarcas,Toluca,0,1
+Club America,Monterrey,0,0
+UNAM Pumas,Puebla,4,2
+Veracruz,Club Leon,1,2
+Puebla,Club America,3,1
+Atlas,Guadalajara Chivas,1,0
+Cruz Azul,Monarcas,2,0
+Queretaro,Pachuca,0,0
+Monterrey,Lobos BUAP,4,0
+Club Leon,Club Tijuana,1,1
+Necaxa,Tigres UANL,1,1
+Toluca,Veracruz,3,0
+Santos Laguna,UNAM Pumas,1,2
+Monarcas,Necaxa,2,2
+Club Tijuana,Toluca,1,0
+Lobos BUAP,Puebla,0,1
+Tigres UANL,Monterrey,2,2
+Pachuca,Atlas,0,0
+Club America,Santos Laguna,1,0
+Guadalajara Chivas,Club Leon,0,2
+UNAM Pumas,Queretaro,1,1
+Veracruz,Cruz Azul,1,2
+UNAM Pumas,Club America,1,4
+Club Tijuana,Monterrey,1,1
+Tigres UANL,Santos Laguna,2,0
+Monarcas,Toluca,2,2
+Club America,UNAM Pumas,2,1
+Monterrey,Club Tijuana,1,2
+Toluca,Monarcas,2,2
+Santos Laguna,Tigres UANL,2,0
+Santos Laguna,Club America,4,1
+Club Tijuana,Toluca,2,1
+Toluca,Club Tijuana,4,1
+Club America,Santos Laguna,2,2
+Santos Laguna,Toluca,2,1
+Toluca,Santos Laguna,1,1
+Veracruz,UNAM Pumas,0,2
+Atlas,Queretaro,0,0
+Cruz Azul,Puebla,3,0
+Pachuca,Monterrey,0,1
+Club Tijuana,Guadalajara Chivas,2,1
+Tigres UANL,Club Leon,2,0
+Toluca,Monarcas,2,0
+Santos Laguna,Lobos BUAP,2,1
+Necaxa,Club America,2,1
+Monarcas,Santos Laguna,3,1
+Puebla,Toluca,2,1
+Queretaro,Pachuca,1,0
+Club America,Atlas,3,0
+Guadalajara Chivas,Cruz Azul,0,1
+UNAM Pumas,Necaxa,5,3
+Lobos BUAP,Veracruz,2,0
+Tigres UANL,Club Tijuana,1,0
+Club Leon,Monterrey,0,2
+Veracruz,Monarcas,2,2
+Atlas,UNAM Pumas,0,3
+Necaxa,Lobos BUAP,1,0
+Pachuca,Club America,1,3
+Cruz Azul,Tigres UANL,1,0
+Monterrey,Queretaro,2,1
+Toluca,Guadalajara Chivas,2,2
+Santos Laguna,Puebla,2,0
+Club Tijuana,Club Leon,1,1
+Puebla,Veracruz,1,2
+Monarcas,Necaxa,2,1
+Lobos BUAP,Atlas,0,0
+Club Leon,Queretaro,4,0
+Tigres UANL,Toluca,1,2
+Club America,Monterrey,3,0
+UNAM Pumas,Pachuca,0,0
+Guadalajara Chivas,Santos Laguna,1,2
+Club Tijuana,Cruz Azul,1,1
+Veracruz,Guadalajara Chivas,0,2
+Atlas,Monarcas,0,1
+Cruz Azul,Club Leon,3,0
+Pachuca,Lobos BUAP,3,0
+Necaxa,Puebla,2,2
+Queretaro,Club America,1,1
+Monterrey,UNAM Pumas,1,0
+Toluca,Club Tijuana,3,0
+Santos Laguna,Tigres UANL,3,1
+Monarcas,Pachuca,1,1
+UNAM Pumas,Queretaro,0,1
+Guadalajara Chivas,Necaxa,1,0
+Puebla,Atlas,2,0
+Club Leon,Club America,2,0
+Cruz Azul,Toluca,1,0
+Lobos BUAP,Monterrey,1,2
+Tigres UANL,Veracruz,4,0
+Club Tijuana,Santos Laguna,2,2
+Atlas,Guadalajara Chivas,0,1
+Pachuca,Puebla,2,0
+Club America,UNAM Pumas,2,2
+Veracruz,Club Tijuana,1,0
+Necaxa,Tigres UANL,1,1
+Monterrey,Monarcas,2,2
+Queretaro,Lobos BUAP,2,0
+Toluca,Club Leon,1,2
+Santos Laguna,Cruz Azul,1,1
+Monarcas,Queretaro,1,4
+Puebla,Monterrey,2,1
+Club Tijuana,Necaxa,1,0
+Cruz Azul,Veracruz,4,1
+Club Leon,UNAM Pumas,1,2
+Tigres UANL,Atlas,3,1
+Guadalajara Chivas,Pachuca,1,3
+Toluca,Santos Laguna,2,1
+Lobos BUAP,Club America,0,2
+Veracruz,Toluca,2,3
+Queretaro,Puebla,0,1
+Club America,Monarcas,2,1
+Pachuca,Tigres UANL,1,1
+Necaxa,Cruz Azul,2,0
+Monterrey,Guadalajara Chivas,2,4
+UNAM Pumas,Lobos BUAP,4,2
+Santos Laguna,Club Leon,3,0
+Atlas,Club Tijuana,0,1
+Monarcas,UNAM Pumas,0,0
+Puebla,Club America,2,3
+Toluca,Necaxa,3,2
+Club Leon,Lobos BUAP,0,1
+Cruz Azul,Atlas,2,0
+Club Tijuana,Pachuca,1,0
+Guadalajara Chivas,Queretaro,1,1
+Santos Laguna,Veracruz,1,1
+Tigres UANL,Monterrey,0,0
+Veracruz,Club Leon,0,4
+Atlas,Toluca,2,0
+Queretaro,Tigres UANL,0,2
+Pachuca,Cruz Azul,3,1
+Necaxa,Santos Laguna,0,1
+Monterrey,Club Tijuana,3,0
+UNAM Pumas,Puebla,2,2
+Lobos BUAP,Monarcas,3,1
+Club America,Guadalajara Chivas,1,1
+Santos Laguna,Atlas,3,1
+Veracruz,Necaxa,0,0
+Cruz Azul,Monterrey,2,1
+Club Leon,Monarcas,1,2
+Tigres UANL,Club America,2,3
+Guadalajara Chivas,UNAM Pumas,1,2
+Club Tijuana,Queretaro,1,1
+Toluca,Pachuca,2,1
+Puebla,Lobos BUAP,2,2
+Atlas,Veracruz,4,3
+Queretaro,Cruz Azul,2,0
+Club America,Club Tijuana,3,0
+Pachuca,Santos Laguna,1,1
+Necaxa,Club Leon,0,2
+Monterrey,Toluca,2,1
+Lobos BUAP,Guadalajara Chivas,1,1
+UNAM Pumas,Tigres UANL,3,3
+Monarcas,Puebla,2,0
+Santos Laguna,Monterrey,1,0
+Veracruz,Pachuca,2,3
+Necaxa,Atlas,2,2
+Guadalajara Chivas,Monarcas,1,2
+Tigres UANL,Lobos BUAP,2,2
+Cruz Azul,Club America,0,0
+Club Tijuana,UNAM Pumas,0,1
+Toluca,Queretaro,4,0
+Club Leon,Puebla,0,4
+Monarcas,Tigres UANL,0,2
+Puebla,Guadalajara Chivas,2,2
+Pachuca,Necaxa,6,2
+Club America,Toluca,1,1
+Monterrey,Veracruz,2,0
+Lobos BUAP,Club Tijuana,3,1
+UNAM Pumas,Cruz Azul,1,2
+Queretaro,Santos Laguna,2,1
+Atlas,Club Leon,0,0
+Veracruz,Queretaro,2,2
+Atlas,Pachuca,0,0
+Cruz Azul,Lobos BUAP,2,1
+Club Leon,Guadalajara Chivas,0,1
+Tigres UANL,Puebla,6,1
+Club Tijuana,Monarcas,2,3
+Necaxa,Monterrey,1,1
+Toluca,UNAM Pumas,0,1
+Santos Laguna,Club America,1,1
+Monarcas,Cruz Azul,0,2
+Puebla,Club Tijuana,0,0
+Queretaro,Necaxa,1,0
+Club America,Veracruz,4,1
+Pachuca,Club Leon,1,1
+Guadalajara Chivas,Tigres UANL,0,1
+Monterrey,Atlas,3,1
+UNAM Pumas,Santos Laguna,1,1
+Lobos BUAP,Toluca,2,0
+Queretaro,Cruz Azul,0,2
+Monterrey,Santos Laguna,1,0
+Toluca,Club America,2,2
+Tigres UANL,UNAM Pumas,2,1
+Cruz Azul,Queretaro,1,1
+Santos Laguna,Monterrey,0,2
+UNAM Pumas,Tigres UANL,3,1
+Club America,Toluca,3,2
+Monterrey,Cruz Azul,1,0
+UNAM Pumas,Club America,1,1
+Cruz Azul,Monterrey,1,0
+Club America,UNAM Pumas,6,1
+Club America,Cruz Azul,0,0
+Cruz Azul,Club America,0,2
+Monarcas,Toluca,1,3
+Puebla,Cruz Azul,1,1
+Queretaro,Atlas,1,2
+Monterrey,Pachuca,5,0
+Club Leon,Tigres UANL,2,2
+Guadalajara Chivas,Club Tijuana,2,0
+UNAM Pumas,Veracruz,0,0
+Lobos BUAP,Santos Laguna,2,0
+Veracruz,Lobos BUAP,0,1
+Atlas,Club America,1,2
+Monterrey,Club Leon,2,2
+Cruz Azul,Guadalajara Chivas,0,1
+Pachuca,Queretaro,3,0
+Club Tijuana,Tigres UANL,0,3
+Necaxa,UNAM Pumas,2,1
+Toluca,Puebla,2,0
+Santos Laguna,Monarcas,1,0
+Monarcas,Veracruz,2,0
+Puebla,Santos Laguna,1,1
+Queretaro,Monterrey,1,2
+Club America,Pachuca,3,0
+Tigres UANL,Cruz Azul,0,1
+UNAM Pumas,Atlas,2,2
+Lobos BUAP,Necaxa,2,3
+Guadalajara Chivas,Toluca,1,0
+Club Leon,Club Tijuana,0,1
+Veracruz,Puebla,0,1
+Atlas,Lobos BUAP,3,1
+Cruz Azul,Club Tijuana,1,0
+Monterrey,Club America,3,2
+Pachuca,UNAM Pumas,1,0
+Necaxa,Monarcas,0,0
+Toluca,Tigres UANL,0,1
+Queretaro,Club Leon,0,4
+Santos Laguna,Guadalajara Chivas,1,0
+Monarcas,Atlas,1,2
+Puebla,Necaxa,1,4
+Club America,Queretaro,2,0
+Club Leon,Cruz Azul,2,0
+Tigres UANL,Santos Laguna,2,1
+Club Tijuana,Toluca,2,0
+UNAM Pumas,Monterrey,1,1
+Lobos BUAP,Pachuca,1,1
+Guadalajara Chivas,Veracruz,0,0
+Veracruz,Tigres UANL,0,2
+Atlas,Puebla,1,2
+Monterrey,Lobos BUAP,4,0
+Queretaro,UNAM Pumas,0,2
+Club America,Club Leon,0,3
+Pachuca,Monarcas,2,0
+Necaxa,Guadalajara Chivas,3,3
+Toluca,Cruz Azul,1,1
+Santos Laguna,Club Tijuana,1,1
+Monarcas,Monterrey,2,3
+Puebla,Pachuca,1,1
+Club Tijuana,Veracruz,3,0
+Cruz Azul,Santos Laguna,1,2
+Club Leon,Toluca,3,0
+Tigres UANL,Necaxa,3,2
+Guadalajara Chivas,Atlas,3,0
+UNAM Pumas,Club America,1,0
+Lobos BUAP,Queretaro,3,1
+Atlas,Tigres UANL,0,1
+Veracruz,Cruz Azul,1,1
+Queretaro,Monarcas,3,0
+Club America,Lobos BUAP,3,0
+Monterrey,Puebla,0,0
+Necaxa,Club Tijuana,1,2
+Pachuca,Guadalajara Chivas,3,1
+UNAM Pumas,Club Leon,1,3
+Santos Laguna,Toluca,4,0
+Club Tijuana,Atlas,3,1
+Monarcas,Club America,2,2
+Cruz Azul,Necaxa,2,1
+Club Leon,Santos Laguna,3,0
+Tigres UANL,Pachuca,3,0
+Guadalajara Chivas,Monterrey,0,2
+Toluca,Veracruz,3,1
+Lobos BUAP,UNAM Pumas,2,1
+Puebla,Queretaro,1,0
+Club America,Necaxa,1,3
+Veracruz,Santos Laguna,2,2
+Atlas,Cruz Azul,0,2
+Pachuca,Club Tijuana,4,0
+Club America,Puebla,1,0
+Monterrey,Tigres UANL,1,1
+Necaxa,Toluca,1,1
+Queretaro,Guadalajara Chivas,0,0
+UNAM Pumas,Monarcas,2,2
+Lobos BUAP,Club Leon,0,1
+Monarcas,Lobos BUAP,1,1
+Puebla,UNAM Pumas,1,0
+Cruz Azul,Pachuca,4,1
+Guadalajara Chivas,Club America,0,2
+Tigres UANL,Queretaro,4,1
+Club Tijuana,Monterrey,1,0
+Toluca,Atlas,2,0
+Santos Laguna,Necaxa,1,2
+Club Leon,Veracruz,2,0
+Monarcas,Club Leon,2,3
+Atlas,Santos Laguna,1,0
+Queretaro,Club Tijuana,1,0
+Club America,Tigres UANL,3,0
+Pachuca,Toluca,3,2
+Monterrey,Cruz Azul,2,2
+Necaxa,Veracruz,2,0
+UNAM Pumas,Guadalajara Chivas,2,1
+Lobos BUAP,Puebla,0,4
+Veracruz,Atlas,0,1
+Puebla,Monarcas,1,1
+Cruz Azul,Queretaro,3,0
+Club Leon,Necaxa,2,1
+Tigres UANL,UNAM Pumas,2,0
+Guadalajara Chivas,Lobos BUAP,0,1
+Club Tijuana,Club America,3,2
+Toluca,Monterrey,5,1
+Santos Laguna,Pachuca,0,0
+Atlas,Necaxa,1,2
+Puebla,Club Leon,0,3
+Queretaro,Toluca,0,0
+Pachuca,Veracruz,9,2
+Monarcas,Guadalajara Chivas,1,0
+UNAM Pumas,Club Tijuana,1,0
+Lobos BUAP,Tigres UANL,0,3
+Club America,Cruz Azul,0,0
+Monterrey,Santos Laguna,4,0
+Veracruz,Monterrey,0,1
+Club Tijuana,Lobos BUAP,1,2
+Necaxa,Pachuca,2,2
+Club Leon,Atlas,5,2
+Cruz Azul,UNAM Pumas,2,1
+Tigres UANL,Monarcas,3,3
+Guadalajara Chivas,Puebla,1,3
+Toluca,Club America,3,2
+Santos Laguna,Queretaro,2,1
+Puebla,Tigres UANL,1,1
+Monarcas,Club Tijuana,1,4
+Pachuca,Atlas,1,0
+Club America,Santos Laguna,1,0
+Monterrey,Necaxa,2,2
+Guadalajara Chivas,Club Leon,2,1
+UNAM Pumas,Toluca,2,2
+Lobos BUAP,Cruz Azul,1,4
+Queretaro,Veracruz,2,1
+Veracruz,Club America,0,2
+Cruz Azul,Monarcas,1,1
+Club Leon,Pachuca,2,1
+Tigres UANL,Guadalajara Chivas,2,1
+Necaxa,Queretaro,1,0
+Club Tijuana,Puebla,4,0
+Toluca,Lobos BUAP,4,0
+Atlas,Monterrey,2,0
+Santos Laguna,UNAM Pumas,5,2
+Pachuca,Tigres UANL,1,1
+Club Tijuana,Club Leon,1,3
+Necaxa,Monterrey,1,0
+Club America,Cruz Azul,3,1
+Tigres UANL,Pachuca,1,1
+Club Leon,Club Tijuana,2,1
+Cruz Azul,Club America,1,0
+Monterrey,Necaxa,1,0
+Monterrey,Tigres UANL,1,0
+Club America,Club Leon,0,1
+Tigres UANL,Monterrey,1,0
+Club Leon,Club America,0,1
+Tigres UANL,Club Leon,1,0
+Club Leon,Tigres UANL,0,0
+Puebla,Club Tijuana,1,3
+Atlas,Juarez,1,0
+Atl. San Luis,UNAM Pumas,0,2
+Pachuca,Club Leon,1,3
+Club America,Monterrey,4,2
+Necaxa,Cruz Azul,0,0
+Tigres UANL,Monarcas,4,2
+Toluca,Queretaro,0,2
+Santos Laguna,Guadalajara Chivas,3,0
+Monarcas,Atlas,0,1
+Veracruz,Pachuca,3,3
+Club Leon,Club America,0,0
+Cruz Azul,Toluca,1,1
+Club Tijuana,Queretaro,1,1
+UNAM Pumas,Necaxa,2,0
+Atl. San Luis,Monterrey,1,0
+Santos Laguna,Juarez,3,0
+Guadalajara Chivas,Tigres UANL,2,0
+Puebla,Guadalajara Chivas,1,1
+Atlas,Santos Laguna,1,2
+Queretaro,Cruz Azul,3,0
+Club America,Club Tijuana,3,1
+Pachuca,Monarcas,1,2
+Necaxa,Veracruz,7,0
+Monterrey,Club Leon,3,2
+UNAM Pumas,Tigres UANL,0,1
+Juarez,Toluca,2,0
+Monarcas,Monterrey,0,1
+Veracruz,Atlas,1,2
+Club Tijuana,UNAM Pumas,1,0
+Cruz Azul,Juarez,2,0
+Queretaro,Pachuca,2,1
+Tigres UANL,Necaxa,3,1
+Guadalajara Chivas,Atl. San Luis,3,0
+Toluca,Club America,0,1
+Santos Laguna,Puebla,4,1
+Puebla,Pachuca,0,4
+Atlas,Cruz Azul,1,3
+Atl. San Luis,Tigres UANL,1,1
+Club Leon,Guadalajara Chivas,4,3
+Club America,Monarcas,1,0
+Monterrey,Toluca,2,0
+UNAM Pumas,Veracruz,2,0
+Necaxa,Santos Laguna,3,0
+Juarez,Queretaro,0,2
+Veracruz,Atl. San Luis,1,2
+Monarcas,UNAM Pumas,2,0
+Santos Laguna,Monterrey,2,1
+Queretaro,Club Leon,0,4
+Cruz Azul,Puebla,1,1
+Pachuca,Atlas,3,1
+Tigres UANL,Club America,1,1
+Toluca,Club Tijuana,2,0
+Guadalajara Chivas,Necaxa,1,2
+Atl. San Luis,Monarcas,1,1
+Atlas,Tigres UANL,1,1
+Veracruz,Queretaro,0,5
+Club America,Pachuca,1,1
+Club Leon,Santos Laguna,2,2
+Necaxa,Toluca,1,1
+Club Tijuana,Cruz Azul,3,2
+Puebla,Juarez,2,1
+Monterrey,UNAM Pumas,2,0
+Monarcas,Veracruz,1,0
+Atlas,Club America,3,0
+Necaxa,Club Tijuana,3,2
+Pachuca,Atl. San Luis,0,2
+Tigres UANL,Club Leon,1,1
+Cruz Azul,Guadalajara Chivas,1,1
+UNAM Pumas,Toluca,2,1
+Queretaro,Puebla,1,1
+Juarez,Monterrey,1,0
+Puebla,Atl. San Luis,1,3
+Veracruz,Cruz Azul,0,0
+Club Tijuana,Tigres UANL,1,1
+Monterrey,Necaxa,0,2
+Club Leon,Juarez,3,1
+Guadalajara Chivas,Atlas,1,0
+Club America,UNAM Pumas,1,1
+Toluca,Monarcas,0,2
+Santos Laguna,Pachuca,2,2
+Atlas,Toluca,0,1
+Monarcas,Guadalajara Chivas,1,0
+Atl. San Luis,Santos Laguna,2,3
+Monterrey,Puebla,3,2
+Necaxa,Club Leon,2,4
+Pachuca,Club Tijuana,4,1
+Club America,Queretaro,2,2
+UNAM Pumas,Cruz Azul,1,1
+Juarez,Veracruz,2,0
+Queretaro,Necaxa,1,2
+Tigres UANL,Puebla,0,1
+Club Leon,Atlas,1,1
+Guadalajara Chivas,Pachuca,2,4
+Juarez,Club America,1,1
+Santos Laguna,Veracruz,5,0
+Cruz Azul,Monterrey,1,1
+Club Tijuana,Monarcas,3,2
+Toluca,Atl. San Luis,3,1
+Puebla,Club Leon,2,1
+Atlas,Queretaro,2,0
+Pachuca,Cruz Azul,2,0
+Necaxa,Juarez,0,0
+Monterrey,Tigres UANL,0,2
+Club America,Guadalajara Chivas,4,1
+UNAM Pumas,Santos Laguna,2,0
+Atl. San Luis,Club Tijuana,2,3
+Veracruz,Toluca,1,1
+Monarcas,Necaxa,2,3
+Club Leon,Veracruz,1,1
+Cruz Azul,Club America,5,2
+Tigres UANL,Santos Laguna,4,0
+Guadalajara Chivas,UNAM Pumas,1,1
+Club Tijuana,Atlas,2,2
+Toluca,Puebla,1,1
+Juarez,Atl. San Luis,1,2
+Queretaro,Monterrey,2,1
+Puebla,Atlas,0,1
+Veracruz,Tigres UANL,1,3
+Santos Laguna,Club Tijuana,4,1
+Cruz Azul,Monarcas,2,3
+Pachuca,Juarez,0,1
+Necaxa,Club America,2,2
+UNAM Pumas,Club Leon,1,2
+Atl. San Luis,Queretaro,0,2
+Monterrey,Guadalajara Chivas,1,1
+Monarcas,Santos Laguna,2,2
+Atlas,Necaxa,0,2
+Club Tijuana,Veracruz,2,0
+Queretaro,UNAM Pumas,3,0
+Club America,Puebla,2,0
+Club Leon,Atl. San Luis,3,2
+Tigres UANL,Cruz Azul,1,1
+Toluca,Pachuca,2,0
+Juarez,Guadalajara Chivas,1,2
+Atl. San Luis,Club America,0,1
+Santos Laguna,Queretaro,1,0
+Veracruz,Puebla,1,0
+UNAM Pumas,Atlas,5,1
+Pachuca,Monterrey,2,3
+Guadalajara Chivas,Club Tijuana,0,1
+Tigres UANL,Toluca,1,0
+Monarcas,Juarez,6,1
+Cruz Azul,Club Leon,1,0
+Puebla,UNAM Pumas,1,1
+Atlas,Atl. San Luis,1,2
+Queretaro,Tigres UANL,0,0
+Club America,Santos Laguna,1,2
+Monterrey,Veracruz,1,1
+Necaxa,Pachuca,1,2
+Toluca,Guadalajara Chivas,1,3
+Juarez,Club Tijuana,3,0
+Club Leon,Monarcas,1,1
+Monarcas,Puebla,3,2
+Veracruz,Club America,0,5
+Club Tijuana,Monterrey,0,4
+Atl. San Luis,Necaxa,0,2
+Tigres UANL,Pachuca,0,0
+Club Leon,Toluca,4,0
+Guadalajara Chivas,Queretaro,3,2
+UNAM Pumas,Juarez,1,1
+Santos Laguna,Cruz Azul,3,1
+Puebla,Necaxa,3,0
+Club Tijuana,Club Leon,1,2
+Queretaro,Monarcas,3,1
+Cruz Azul,Atl. San Luis,3,1
+Monterrey,Atlas,2,0
+Guadalajara Chivas,Veracruz,3,1
+Pachuca,UNAM Pumas,2,0
+Toluca,Santos Laguna,2,2
+Juarez,Tigres UANL,1,2
+Monarcas,Club Leon,3,3
+Necaxa,Queretaro,3,0
+Monterrey,Santos Laguna,5,2
+Club America,Tigres UANL,1,2
+Club Leon,Monarcas,1,2
+Queretaro,Necaxa,2,3
+Santos Laguna,Monterrey,1,1
+Tigres UANL,Club America,2,4
+Monterrey,Necaxa,2,1
+Monarcas,Club America,2,0
+Necaxa,Monterrey,0,1
+Club America,Monarcas,2,0
+Monterrey,Club America,2,1
+Club America,Monterrey,2,1
+Monarcas,Toluca,0,1
+Club Tijuana,Santos Laguna,2,1
+Cruz Azul,Atlas,1,2
+Club Leon,Queretaro,3,1
+Guadalajara Chivas,Juarez,2,0
+Tigres UANL,Atl. San Luis,0,0
+UNAM Pumas,Pachuca,2,1
+Juarez,UNAM Pumas,4,4
+Atl. San Luis,Cruz Azul,2,1
+Atlas,Puebla,0,1
+Monterrey,Monarcas,2,2
+Pachuca,Guadalajara Chivas,0,0
+Club America,Tigres UANL,1,0
+Toluca,Necaxa,2,3
+Queretaro,Club Tijuana,3,0
+Santos Laguna,Club Leon,3,2
+Puebla,Queretaro,0,1
+Club Tijuana,Club America,0,0
+Cruz Azul,Santos Laguna,3,0
+Tigres UANL,Atlas,2,1
+Club Leon,Pachuca,3,0
+Guadalajara Chivas,Toluca,2,2
+UNAM Pumas,Monterrey,1,0
+Necaxa,Atl. San Luis,1,1
+Juarez,Monarcas,3,0
+Atl. San Luis,Guadalajara Chivas,2,2
+Atlas,Club Tijuana,2,1
+Monarcas,Club Leon,1,2
+Monterrey,Queretaro,1,2
+Necaxa,Puebla,2,0
+Pachuca,Tigres UANL,2,0
+Club America,Juarez,1,3
+Santos Laguna,UNAM Pumas,1,1
+Toluca,Cruz Azul,3,3
+Puebla,Club America,0,1
+Necaxa,Monterrey,2,2
+Atlas,Monarcas,1,3
+Puebla,Santos Laguna,2,2
+Club Tijuana,Toluca,1,1
+Cruz Azul,Pachuca,3,1
+Tigres UANL,Guadalajara Chivas,3,0
+Club Leon,Monterrey,3,1
+UNAM Pumas,Atl. San Luis,4,0
+Queretaro,Club America,1,2
+Juarez,Necaxa,2,1
+Atl. San Luis,Club Leon,3,1
+Monarcas,Club Tijuana,1,1
+Pachuca,Puebla,1,0
+Toluca,UNAM Pumas,2,3
+Club America,Atlas,2,0
+Monterrey,Juarez,1,1
+Guadalajara Chivas,Cruz Azul,1,2
+Necaxa,Queretaro,2,3
+Santos Laguna,Tigres UANL,2,1
+Atlas,Pachuca,0,2
+Puebla,Toluca,2,0
+Club Tijuana,Guadalajara Chivas,0,1
+Club Leon,Necaxa,2,1
+Cruz Azul,Tigres UANL,2,1
+Monterrey,Club America,0,1
+UNAM Pumas,Monarcas,1,2
+Queretaro,Atl. San Luis,0,1
+Juarez,Santos Laguna,1,2
+Atl. San Luis,Juarez,0,3
+Toluca,Monterrey,2,0
+Monarcas,Cruz Azul,2,4
+Club Tijuana,Puebla,0,1
+Pachuca,Queretaro,1,1
+Club America,Necaxa,0,3
+Tigres UANL,UNAM Pumas,3,0
+Guadalajara Chivas,Club Leon,2,0
+Santos Laguna,Atlas,1,0
+Queretaro,Toluca,1,1
+UNAM Pumas,Club America,3,3
+Puebla,Tigres UANL,0,0
+Cruz Azul,Club Tijuana,4,2
+Monterrey,Atl. San Luis,2,2
+Pachuca,Santos Laguna,1,0
+Atlas,Guadalajara Chivas,1,2
+Necaxa,Monarcas,1,2
+Juarez,Club Leon,1,4
+Monarcas,Queretaro,4,0
+Club Tijuana,Pachuca,3,2
+Atl. San Luis,Puebla,0,1
+Club Leon,UNAM Pumas,3,1
+Tigres UANL,Juarez,3,2
+Guadalajara Chivas,Monterrey,1,1
+Toluca,Atlas,2,3
+Santos Laguna,Necaxa,2,1
+Club America,Cruz Azul,0,1
+Necaxa,Tigres UANL,0,3
+Guadalajara Chivas,Club Leon,0,0
+Club Tijuana,Atlas,3,1
+Cruz Azul,Santos Laguna,2,0
+UNAM Pumas,Queretaro,3,2
+Atl. San Luis,Juarez,1,1
+Pachuca,Club America,1,2
+Mazatlan FC,Puebla,1,4
+Monterrey,Toluca,3,1
+Puebla,Cruz Azul,1,1
+Juarez,Necaxa,1,0
+Tigres UANL,Pachuca,1,1
+Club America,Club Tijuana,4,0
+Toluca,Atl. San Luis,3,2
+Queretaro,Mazatlan FC,1,1
+Santos Laguna,Guadalajara Chivas,2,0
+Atlas,UNAM Pumas,1,2
+Club Leon,Monterrey,1,0
+Pachuca,Queretaro,1,0
+Club Tijuana,Tigres UANL,0,0
+Necaxa,Club America,1,1
+Mazatlan FC,Toluca,2,1
+Cruz Azul,Club Leon,2,0
+Monterrey,Santos Laguna,2,2
+Guadalajara Chivas,Puebla,0,1
+UNAM Pumas,Juarez,1,1
+Atl. San Luis,Atlas,1,1
+Necaxa,Mazatlan FC,1,0
+Pachuca,Club Leon,0,1
+Tigres UANL,Puebla,2,1
+Queretaro,Cruz Azul,1,0
+Juarez,Guadalajara Chivas,0,2
+UNAM Pumas,Monterrey,1,1
+Club Tijuana,Atl. San Luis,0,2
+Atlas,Toluca,1,2
+Club America,Santos Laguna,3,1
+Puebla,Pachuca,0,1
+Guadalajara Chivas,Atl. San Luis,2,1
+Cruz Azul,Juarez,3,2
+Mazatlan FC,UNAM Pumas,0,0
+Monterrey,Necaxa,1,1
+Toluca,Tigres UANL,3,2
+Santos Laguna,Atlas,0,0
+Queretaro,Club America,4,1
+Club Leon,Club Tijuana,2,1
+Necaxa,Santos Laguna,2,1
+Juarez,Club Leon,0,0
+Atlas,Queretaro,1,0
+Tigres UANL,UNAM Pumas,1,1
+Club America,Monterrey,1,3
+Toluca,Guadalajara Chivas,1,0
+Atl. San Luis,Cruz Azul,1,3
+Club Tijuana,Puebla,1,0
+Pachuca,Mazatlan FC,4,3
+Puebla,Toluca,4,1
+Mazatlan FC,Tigres UANL,1,1
+Atl. San Luis,Club America,1,2
+Guadalajara Chivas,Pachuca,0,0
+Cruz Azul,Necaxa,3,0
+UNAM Pumas,Club Tijuana,3,0
+Santos Laguna,Queretaro,2,1
+Monterrey,Juarez,2,1
+Club Leon,Atlas,2,1
+Club America,Mazatlan FC,3,1
+Queretaro,Toluca,4,1
+Pachuca,Atl. San Luis,3,1
+Necaxa,Club Leon,0,2
+Club Tijuana,Monterrey,2,1
+Juarez,Santos Laguna,1,1
+UNAM Pumas,Puebla,4,1
+Atlas,Cruz Azul,1,0
+Tigres UANL,Guadalajara Chivas,1,3
+Atl. San Luis,Necaxa,2,1
+Toluca,Juarez,0,1
+Monterrey,Atlas,1,1
+Guadalajara Chivas,Queretaro,1,1
+Puebla,Club America,2,3
+Club Leon,Tigres UANL,1,1
+Cruz Azul,Pachuca,1,0
+Mazatlan FC,Club Tijuana,1,0
+Santos Laguna,UNAM Pumas,1,2
+Necaxa,Guadalajara Chivas,1,2
+Juarez,Puebla,1,0
+Atlas,Mazatlan FC,1,1
+Tigres UANL,Santos Laguna,2,0
+Club America,Toluca,1,1
+UNAM Pumas,Atl. San Luis,3,0
+Queretaro,Club Leon,2,3
+Club Tijuana,Cruz Azul,1,2
+Pachuca,Monterrey,1,1
+Necaxa,Puebla,0,1
+Mazatlan FC,Cruz Azul,2,3
+Atlas,Pachuca,0,1
+Tigres UANL,Queretaro,3,0
+Club America,Guadalajara Chivas,1,0
+Toluca,Santos Laguna,1,2
+Atl. San Luis,Monterrey,1,2
+Club Leon,UNAM Pumas,2,0
+Pachuca,Toluca,0,0
+Puebla,Queretaro,3,3
+Juarez,Atlas,0,1
+Guadalajara Chivas,Mazatlan FC,2,1
+UNAM Pumas,Necaxa,1,1
+Monterrey,Tigres UANL,0,2
+Atl. San Luis,Club Leon,0,2
+Cruz Azul,Club America,0,0
+Club Tijuana,Juarez,2,1
+Puebla,Santos Laguna,0,2
+Club Leon,Mazatlan FC,2,1
+Atlas,Necaxa,0,1
+Tigres UANL,Atl. San Luis,3,0
+Club America,UNAM Pumas,2,2
+Toluca,Cruz Azul,2,0
+Juarez,Pachuca,1,1
+Queretaro,Monterrey,1,2
+Club Tijuana,Guadalajara Chivas,0,0
+Santos Laguna,Club Tijuana,2,0
+Atl. San Luis,Queretaro,2,1
+Necaxa,Club Tijuana,2,0
+Mazatlan FC,Juarez,3,2
+Monterrey,Puebla,3,1
+Guadalajara Chivas,Atlas,3,2
+Cruz Azul,Tigres UANL,0,2
+UNAM Pumas,Toluca,1,0
+Santos Laguna,Pachuca,1,1
+Club Leon,Club America,3,2
+Puebla,Club Leon,1,2
+Queretaro,Necaxa,0,1
+Tigres UANL,Juarez,1,1
+Club America,Atlas,1,0
+Mazatlan FC,Monterrey,1,2
+Toluca,Club Tijuana,2,0
+Guadalajara Chivas,Cruz Azul,0,2
+Santos Laguna,Atl. San Luis,2,1
+Pachuca,UNAM Pumas,1,1
+Atl. San Luis,Mazatlan FC,0,5
+Necaxa,Toluca,3,2
+Club Tijuana,Pachuca,0,2
+Juarez,Queretaro,1,0
+Atlas,Puebla,0,1
+UNAM Pumas,Guadalajara Chivas,2,2
+Monterrey,Cruz Azul,1,0
+Club America,Tigres UANL,3,1
+Club Leon,Santos Laguna,2,1
+Puebla,Atl. San Luis,1,0
+Juarez,Club America,1,1
+Guadalajara Chivas,Monterrey,3,1
+Pachuca,Necaxa,0,1
+Tigres UANL,Atlas,1,1
+Cruz Azul,UNAM Pumas,1,2
+Toluca,Club Leon,2,2
+Santos Laguna,Mazatlan FC,4,0
+Queretaro,Club Tijuana,2,2
+Santos Laguna,Pachuca,0,3
+Guadalajara Chivas,Necaxa,1,0
+Tigres UANL,Toluca,2,1
+Monterrey,Puebla,2,2
+Puebla,Club Leon,2,1
+Guadalajara Chivas,Club America,1,0
+Tigres UANL,Cruz Azul,1,3
+Pachuca,UNAM Pumas,0,1
+Club Leon,Puebla,2,0
+Club America,Guadalajara Chivas,1,2
+UNAM Pumas,Pachuca,0,0
+Cruz Azul,Tigres UANL,0,1
+Guadalajara Chivas,Club Leon,1,1
+Cruz Azul,UNAM Pumas,4,0
+Club Leon,Guadalajara Chivas,1,0
+UNAM Pumas,Cruz Azul,4,0
+UNAM Pumas,Club Leon,1,1
+Club Leon,UNAM Pumas,2,0
+Puebla,Guadalajara Chivas,1,1
+Club Tijuana,UNAM Pumas,0,0
+Mazatlan FC,Necaxa,3,2
+Atlas,Monterrey,0,2
+Tigres UANL,Club Leon,2,0
+Club America,Atl. San Luis,2,1
+Toluca,Queretaro,3,1
+Santos Laguna,Cruz Azul,1,0
+Pachuca,Juarez,1,1
+Necaxa,Atl. San Luis,1,0
+Juarez,Club Tijuana,0,0
+Guadalajara Chivas,Toluca,1,1
+Cruz Azul,Puebla,0,1
+Monterrey,Club America,1,0
+UNAM Pumas,Mazatlan FC,3,0
+Santos Laguna,Tigres UANL,2,0
+Queretaro,Atlas,1,0
+Club Leon,Pachuca,0,0
+Atl. San Luis,Guadalajara Chivas,3,1
+Puebla,Club Tijuana,0,1
+Mazatlan FC,Santos Laguna,0,0
+Atlas,Tigres UANL,0,2
+Toluca,Necaxa,2,0
+Queretaro,UNAM Pumas,2,0
+Pachuca,Cruz Azul,0,1
+Club America,Juarez,2,0
+Tigres UANL,Necaxa,1,1
+Mazatlan FC,Pachuca,1,0
+Guadalajara Chivas,Juarez,1,2
+Cruz Azul,Queretaro,4,1
+Club Tijuana,Toluca,3,2
+UNAM Pumas,Atlas,0,0
+Santos Laguna,Club America,1,1
+Club Leon,Atl. San Luis,3,1
+Puebla,Monterrey,0,0
+Atl. San Luis,Club Tijuana,2,2
+Queretaro,Pachuca,3,1
+Necaxa,Cruz Azul,0,2
+Atlas,Santos Laguna,1,1
+Club America,Puebla,1,0
+Monterrey,UNAM Pumas,1,0
+Toluca,Mazatlan FC,4,1
+Club Leon,Guadalajara Chivas,1,3
+Puebla,Juarez,4,0
+Club Tijuana,Club Leon,2,0
+Mazatlan FC,Atl. San Luis,0,3
+Guadalajara Chivas,Necaxa,2,2
+Club America,Queretaro,2,1
+Toluca,UNAM Pumas,1,0
+Santos Laguna,Monterrey,1,0
+Pachuca,Atlas,0,1
+Tigres UANL,Cruz Azul,0,2
+Atl. San Luis,Santos Laguna,1,0
+Necaxa,Monterrey,1,1
+Juarez,Mazatlan FC,1,0
+Cruz Azul,Toluca,3,2
+Atlas,Club America,0,2
+UNAM Pumas,Club Leon,0,1
+Queretaro,Puebla,1,1
+Tigres UANL,Club Tijuana,3,2
+Pachuca,Guadalajara Chivas,1,1
+Atl. San Luis,Tigres UANL,2,2
+Puebla,Necaxa,1,0
+Mazatlan FC,Queretaro,3,0
+Toluca,Atlas,0,0
+Club America,Pachuca,2,0
+Club Leon,Cruz Azul,0,1
+Monterrey,Club Tijuana,1,1
+Santos Laguna,Juarez,3,2
+Guadalajara Chivas,UNAM Pumas,2,1
+Atlas,Atl. San Luis,3,1
+Tigres UANL,Toluca,0,1
+Club Leon,Puebla,1,2
+Juarez,Monterrey,1,6
+Queretaro,Guadalajara Chivas,2,2
+Cruz Azul,Mazatlan FC,1,0
+Club Tijuana,Club America,0,2
+Necaxa,Pachuca,2,2
+UNAM Pumas,Santos Laguna,1,0
+Atl. San Luis,Toluca,0,0
+Puebla,Tigres UANL,1,1
+Atlas,Juarez,2,0
+Club America,Club Leon,2,1
+Monterrey,Queretaro,2,1
+Mazatlan FC,Guadalajara Chivas,1,1
+Santos Laguna,Necaxa,3,1
+UNAM Pumas,Cruz Azul,0,1
+Pachuca,Club Tijuana,2,1
+Monterrey,Club Leon,1,1
+Puebla,Atlas,0,1
+Juarez,UNAM Pumas,1,1
+Tigres UANL,Mazatlan FC,1,2
+Cruz Azul,Monterrey,1,0
+Club Tijuana,Santos Laguna,0,1
+Toluca,Pachuca,0,2
+Queretaro,Atl. San Luis,2,1
+Guadalajara Chivas,Club America,0,3
+Club Leon,Necaxa,3,1
+Pachuca,Tigres UANL,1,0
+Necaxa,Juarez,1,0
+Mazatlan FC,Club America,0,1
+Atl. San Luis,UNAM Pumas,0,1
+Cruz Azul,Atlas,3,2
+Club Tijuana,Queretaro,3,1
+Toluca,Puebla,4,4
+Santos Laguna,Club Leon,1,2
+Puebla,Mazatlan FC,3,1
+Juarez,Cruz Azul,0,1
+Atlas,Club Tijuana,1,0
+Club America,Necaxa,2,1
+Monterrey,Atl. San Luis,2,0
+UNAM Pumas,Pachuca,2,2
+Guadalajara Chivas,Santos Laguna,1,1
+Queretaro,Tigres UANL,0,1
+Club Leon,Toluca,2,1
+Necaxa,UNAM Pumas,0,1
+Juarez,Atl. San Luis,2,1
+Atlas,Club Leon,1,3
+Cruz Azul,Guadalajara Chivas,1,0
+Tigres UANL,Club America,1,3
+Toluca,Monterrey,1,2
+Queretaro,Santos Laguna,1,0
+Club Tijuana,Mazatlan FC,2,3
+Pachuca,Puebla,1,3
+Juarez,Tigres UANL,2,3
+Necaxa,Queretaro,0,0
+Mazatlan FC,Atlas,0,0
+Atl. San Luis,Puebla,1,4
+Guadalajara Chivas,Club Tijuana,2,0
+Club America,Cruz Azul,1,1
+UNAM Pumas,Tigres UANL,0,0
+Santos Laguna,Toluca,3,1
+Monterrey,Pachuca,0,1
+Club Leon,Juarez,2,0
+Monterrey,Guadalajara Chivas,1,2
+Puebla,UNAM Pumas,0,0
+Club Tijuana,Necaxa,1,0
+Mazatlan FC,Club Leon,4,3
+Cruz Azul,Atl. San Luis,3,2
+Atlas,Guadalajara Chivas,0,1
+Tigres UANL,Monterrey,2,1
+Toluca,Club America,3,1
+Queretaro,Juarez,1,0
+Pachuca,Santos Laguna,1,0
+Atl. San Luis,Pachuca,1,5
+Necaxa,Atlas,1,5
+Juarez,Toluca,1,0
+Club Leon,Queretaro,2,1
+Guadalajara Chivas,Tigres UANL,0,0
+Cruz Azul,Club Tijuana,1,1
+Monterrey,Mazatlan FC,1,0
+Santos Laguna,Puebla,0,0
+UNAM Pumas,Club America,0,1
+Atlas,Tigres UANL,1,0
+Santos Laguna,Queretaro,5,0
+Club Leon,Toluca,2,2
+Pachuca,Guadalajara Chivas,4,2
+Toluca,Cruz Azul,2,1
+Atlas,Puebla,1,0
+Pachuca,Club America,3,1
+Santos Laguna,Monterrey,2,1
+Puebla,Atlas,1,0
+Cruz Azul,Toluca,3,1
+Monterrey,Santos Laguna,1,1
+Club America,Pachuca,4,2
+Pachuca,Cruz Azul,0,0
+Santos Laguna,Puebla,3,0
+Cruz Azul,Pachuca,1,0
+Puebla,Santos Laguna,1,0
+Santos Laguna,Cruz Azul,0,1
+Cruz Azul,Santos Laguna,1,1
+Queretaro,Club America,0,0
+Necaxa,Santos Laguna,0,3
+Juarez,Toluca,1,3
+Pachuca,Club Leon,4,0
+Guadalajara Chivas,Atl. San Luis,1,2
+UNAM Pumas,Atlas,0,0
+Monterrey,Puebla,1,1
+Club Tijuana,Tigres UANL,1,2
+Cruz Azul,Mazatlan FC,0,2
+Mazatlan FC,Pachuca,2,1
+Puebla,Guadalajara Chivas,0,2
+Club Leon,Club Tijuana,2,1
+Club America,Necaxa,2,1
+Monterrey,UNAM Pumas,2,0
+Atlas,Juarez,2,0
+Toluca,Tigres UANL,3,1
+Santos Laguna,Cruz Azul,1,1
+Atl. San Luis,Queretaro,1,1
+Queretaro,Club Leon,0,1
+Mazatlan FC,Monterrey,1,1
+Necaxa,Cruz Azul,1,2
+Club Tijuana,Toluca,0,2
+Guadalajara Chivas,Juarez,2,2
+Club America,Puebla,2,0
+Tigres UANL,Santos Laguna,1,1
+UNAM Pumas,Atl. San Luis,1,3
+Pachuca,Atlas,0,1
+Atl. San Luis,Necaxa,0,2
+Puebla,Tigres UANL,1,1
+Juarez,Club Tijuana,1,1
+UNAM Pumas,Queretaro,0,0
+Club Leon,Mazatlan FC,3,0
+Cruz Azul,Toluca,4,0
+Monterrey,Pachuca,3,1
+Atlas,Club America,0,1
+Santos Laguna,Guadalajara Chivas,0,0
+Toluca,Mazatlan FC,2,2
+Tigres UANL,Queretaro,3,0
+Necaxa,UNAM Pumas,3,0
+Club Tijuana,Puebla,1,1
+Cruz Azul,Monterrey,1,1
+Santos Laguna,Atlas,1,1
+Guadalajara Chivas,Club Leon,0,3
+Juarez,Club America,1,2
+Mazatlan FC,Tigres UANL,0,3
+Atlas,Toluca,0,0
+Club Leon,Santos Laguna,1,1
+Atl. San Luis,Cruz Azul,0,0
+Monterrey,Guadalajara Chivas,0,0
+UNAM Pumas,Puebla,2,0
+Club America,Club Tijuana,2,0
+Necaxa,Juarez,1,0
+Queretaro,Pachuca,0,2
+Mazatlan FC,Atl. San Luis,2,2
+Puebla,Queretaro,1,0
+Club Tijuana,Monterrey,2,2
+Guadalajara Chivas,Necaxa,2,1
+Tigres UANL,Atlas,1,1
+Club Leon,Club America,1,1
+Toluca,UNAM Pumas,2,1
+Santos Laguna,Juarez,2,0
+Cruz Azul,Pachuca,1,1
+Puebla,Atl. San Luis,2,2
+Juarez,Cruz Azul,2,1
+Club Tijuana,Santos Laguna,2,1
+Atlas,Monterrey,2,1
+Tigres UANL,Club Leon,2,2
+Club America,Mazatlan FC,2,0
+UNAM Pumas,Guadalajara Chivas,0,0
+Queretaro,Necaxa,3,0
+Pachuca,Toluca,1,2
+Atl. San Luis,Club Tijuana,4,1
+Necaxa,Atlas,0,3
+Club Leon,Juarez,0,1
+Toluca,Club America,3,1
+Guadalajara Chivas,Pachuca,1,0
+Mazatlan FC,UNAM Pumas,2,2
+Cruz Azul,Queretaro,2,0
+Monterrey,Tigres UANL,2,0
+Santos Laguna,Puebla,1,1
+Juarez,Atl. San Luis,1,0
+Monterrey,Toluca,2,0
+Pachuca,Necaxa,1,0
+Puebla,Cruz Azul,1,1
+Club Tijuana,Mazatlan FC,0,0
+Atlas,Club Leon,2,0
+Tigres UANL,UNAM Pumas,0,0
+Club America,Guadalajara Chivas,0,0
+Toluca,Atl. San Luis,1,2
+Santos Laguna,Monterrey,1,2
+Necaxa,Club Tijuana,3,0
+Mazatlan FC,Juarez,3,1
+Atlas,Puebla,0,1
+Pachuca,Club America,1,1
+Atl. San Luis,Tigres UANL,0,3
+Queretaro,Guadalajara Chivas,1,0
+Puebla,Pachuca,1,2
+Juarez,Monterrey,3,1
+Club Leon,Atl. San Luis,0,0
+Santos Laguna,Mazatlan FC,1,0
+Guadalajara Chivas,Atlas,0,1
+Toluca,Queretaro,1,1
+Club America,UNAM Pumas,2,0
+Tigres UANL,Necaxa,0,0
+Club Tijuana,Cruz Azul,0,1
+Juarez,Queretaro,0,0
+Queretaro,Club Tijuana,1,1
+Necaxa,Puebla,0,1
+Mazatlan FC,Atlas,1,0
+Monterrey,Club Leon,0,1
+Atl. San Luis,Club America,0,1
+Pachuca,Santos Laguna,1,1
+Cruz Azul,Tigres UANL,1,1
+UNAM Pumas,Juarez,1,0
+Guadalajara Chivas,Toluca,2,0
+Queretaro,Monterrey,1,0
+Puebla,Mazatlan FC,2,0
+Club America,Santos Laguna,2,1
+Atlas,Cruz Azul,0,0
+Club Leon,UNAM Pumas,1,2
+Toluca,Necaxa,1,1
+Tigres UANL,Pachuca,3,0
+Club Tijuana,Guadalajara Chivas,0,0
+Mazatlan FC,Queretaro,2,1
+Puebla,Club Leon,0,1
+Monterrey,Necaxa,0,1
+Club America,Tigres UANL,1,0
+Guadalajara Chivas,Cruz Azul,1,1
+UNAM Pumas,Club Tijuana,3,1
+Atl. San Luis,Atlas,2,6
+Santos Laguna,Toluca,2,2
+Pachuca,Juarez,1,1
+Atlas,Club Tijuana,0,2
+Necaxa,Mazatlan FC,2,1
+Juarez,Puebla,0,2
+Queretaro,Santos Laguna,2,3
+Pachuca,UNAM Pumas,1,1
+Tigres UANL,Guadalajara Chivas,2,1
+Toluca,Club Leon,0,0
+Cruz Azul,Club America,2,1
+Atl. San Luis,Monterrey,1,1
+Pachuca,Atl. San Luis,0,0
+Cruz Azul,Club Leon,0,1
+UNAM Pumas,Santos Laguna,0,3
+Atlas,Queretaro,2,0
+Puebla,Toluca,1,0
+Mazatlan FC,Guadalajara Chivas,0,1
+Club Leon,Necaxa,3,0
+Club America,Monterrey,0,0
+Tigres UANL,Juarez,3,0
+Club Tijuana,Pachuca,3,2
+UNAM Pumas,Cruz Azul,4,3
+Santos Laguna,Atl. San Luis,0,0
+Santos Laguna,Atl. San Luis,2,0
+Puebla,Guadalajara Chivas,2,2
+Toluca,UNAM Pumas,1,2
+Cruz Azul,Monterrey,1,4
+UNAM Pumas,Club America,0,0
+Monterrey,Atlas,0,0
+Puebla,Club Leon,2,1
+Santos Laguna,Tigres UANL,2,1
+Club America,UNAM Pumas,1,3
+Atlas,Monterrey,1,1
+Tigres UANL,Santos Laguna,1,0
+Club Leon,Puebla,2,0
+Tigres UANL,Club Leon,2,1
+UNAM Pumas,Atlas,0,1
+Club Leon,Tigres UANL,2,1
+Atlas,UNAM Pumas,0,1
+Club Leon,Atlas,3,2
+Atlas,Club Leon,1,0
+Atl. San Luis,Pachuca,0,2
+Juarez,Necaxa,2,1
+Puebla,Club America,1,1
+Monterrey,Queretaro,0,0
+Cruz Azul,Club Tijuana,2,0
+Guadalajara Chivas,Mazatlan FC,3,0
+UNAM Pumas,Toluca,5,0
+Santos Laguna,Tigres UANL,1,1
+Queretaro,UNAM Pumas,1,3
+Necaxa,Monterrey,0,4
+Atlas,Atl. San Luis,1,0
+Tigres UANL,Puebla,0,2
+Cruz Azul,Juarez,1,0
+Club Tijuana,Club Leon,1,1
+Toluca,Santos Laguna,3,1
+Pachuca,Guadalajara Chivas,2,1
+Club Leon,Atlas,1,1
+Atl. San Luis,Juarez,0,1
+Mazatlan FC,Toluca,1,2
+Guadalajara Chivas,Queretaro,1,1
+Club Leon,Pachuca,2,1
+Club America,Atlas,0,2
+Monterrey,Cruz Azul,2,2
+UNAM Pumas,Tigres UANL,1,2
+Santos Laguna,Necaxa,1,4
+Puebla,Club Tijuana,3,1
+Necaxa,Pachuca,1,3
+Club America,Atl. San Luis,2,3
+Club Tijuana,UNAM Pumas,1,0
+Queretaro,Puebla,0,2
+Atlas,Santos Laguna,2,1
+Tigres UANL,Mazatlan FC,4,3
+Club Leon,Cruz Azul,0,1
+Juarez,Guadalajara Chivas,1,3
+Mazatlan FC,Club Tijuana,2,0
+Puebla,Atlas,1,1
+Atl. San Luis,Toluca,0,1
+Guadalajara Chivas,Tigres UANL,1,3
+Cruz Azul,Necaxa,1,2
+Santos Laguna,Club America,2,3
+UNAM Pumas,Club Leon,2,1
+Pachuca,Queretaro,2,2
+Mazatlan FC,Club America,2,1
+Puebla,Monterrey,1,0
+Juarez,Santos Laguna,0,0
+Club Tijuana,Necaxa,1,1
+Queretaro,Mazatlan FC,2,0
+Tigres UANL,Atl. San Luis,2,1
+Club Leon,Guadalajara Chivas,2,1
+Club America,Pachuca,1,3
+Toluca,Cruz Azul,1,4
+Atlas,UNAM Pumas,0,0
+Pachuca,Mazatlan FC,3,1
+Queretaro,Toluca,1,1
+Necaxa,Club Leon,0,1
+Juarez,Tigres UANL,2,3
+Club Tijuana,Atlas,2,0
+Monterrey,Atl. San Luis,0,2
+Guadalajara Chivas,Puebla,2,3
+UNAM Pumas,Club America,0,0
+Cruz Azul,Santos Laguna,1,2
+Puebla,Juarez,1,1
+Toluca,Club Tijuana,1,2
+Club America,Queretaro,1,1
+Club Leon,Monterrey,0,0
+Mazatlan FC,Necaxa,0,0
+Atlas,Pachuca,0,1
+Tigres UANL,Cruz Azul,2,2
+Atl. San Luis,Guadalajara Chivas,2,2
+Santos Laguna,UNAM Pumas,3,2
+Necaxa,Toluca,0,1
+Juarez,Club Leon,0,1
+Queretaro,Atlas,0,3
+Monterrey,Club America,2,1
+Cruz Azul,Puebla,1,3
+Guadalajara Chivas,Santos Laguna,1,0
+Necaxa,Queretaro,1,0
+Juarez,Atlas,1,2
+Monterrey,Mazatlan FC,2,1
+Club Leon,Tigres UANL,0,3
+Cruz Azul,UNAM Pumas,2,1
+Guadalajara Chivas,Club America,0,0
+Toluca,Pachuca,0,3
+Atl. San Luis,Puebla,2,1
+Santos Laguna,Club Tijuana,4,0
+Monterrey,Juarez,3,0
+Queretaro,Atl. San Luis,2,1
+Puebla,Santos Laguna,2,2
+UNAM Pumas,Necaxa,1,3
+Tigres UANL,Monterrey,2,0
+Pachuca,Cruz Azul,1,0
+Club America,Toluca,3,0
+Atlas,Guadalajara Chivas,1,1
+Mazatlan FC,Club Leon,1,2
+Club Tijuana,Juarez,1,0
+UNAM Pumas,Mazatlan FC,1,1
+Atl. San Luis,Mazatlan FC,1,0
+Cruz Azul,Atlas,1,0
+Necaxa,Club America,0,1
+Juarez,UNAM Pumas,0,1
+Toluca,Puebla,2,1
+Club Leon,Queretaro,1,1
+Santos Laguna,Pachuca,3,1
+Tigres UANL,Club Tijuana,2,0
+Toluca,Monterrey,2,2
+Atlas,Necaxa,2,1
+Pachuca,Tigres UANL,2,1
+Club Tijuana,Atl. San Luis,1,1
+Puebla,UNAM Pumas,2,2
+Mazatlan FC,Cruz Azul,1,1
+Atl. San Luis,Club Leon,2,0
+Toluca,Guadalajara Chivas,1,1
+Monterrey,Santos Laguna,1,0
+Club America,Juarez,3,0
+Queretaro,Tigres UANL,0,1
+Pachuca,Club Tijuana,0,0
+Guadalajara Chivas,Monterrey,1,3
+Atlas,Mazatlan FC,1,2
+Necaxa,Atl. San Luis,4,2
+Juarez,Pachuca,1,2
+Club Tijuana,Club America,1,3
+Club Leon,Puebla,0,1
+Santos Laguna,Queretaro,1,1
+Tigres UANL,Toluca,3,0
+Cruz Azul,Guadalajara Chivas,0,1
+UNAM Pumas,Monterrey,2,0
+Necaxa,Tigres UANL,2,0
+Pachuca,Puebla,1,0
+Guadalajara Chivas,Club Tijuana,2,1
+Mazatlan FC,Santos Laguna,1,0
+Toluca,Juarez,0,1
+Atl. San Luis,UNAM Pumas,2,0
+Club America,Club Leon,2,0
+Monterrey,Atlas,0,0
+Queretaro,Cruz Azul,0,1
+Puebla,Necaxa,0,1
+Juarez,Mazatlan FC,0,2
+Pachuca,Monterrey,3,0
+Tigres UANL,Club America,0,2
+Guadalajara Chivas,UNAM Pumas,3,1
+Toluca,Atlas,2,4
+Cruz Azul,Atl. San Luis,0,1
+Santos Laguna,Club Leon,1,1
+Club Tijuana,Queretaro,2,2
+Necaxa,Guadalajara Chivas,0,1
+Mazatlan FC,Puebla,2,1
+Queretaro,Juarez,4,0
+Atlas,Tigres UANL,1,1
+Monterrey,Club Tijuana,2,0
+Club America,Cruz Azul,0,0
+UNAM Pumas,Pachuca,2,0
+Atl. San Luis,Santos Laguna,1,3
+Club Leon,Toluca,4,4
+Cruz Azul,Necaxa,1,1
+Monterrey,Atl. San Luis,2,2
+Puebla,Mazatlan FC,2,2
+Guadalajara Chivas,UNAM Pumas,4,1
+Atl. San Luis,Pachuca,2,2
+Puebla,Club America,1,1
+Cruz Azul,Tigres UANL,0,1
+Guadalajara Chivas,Atlas,1,2
+Club America,Puebla,3,2
+Pachuca,Atl. San Luis,3,2
+Atlas,Guadalajara Chivas,1,1
+Tigres UANL,Cruz Azul,0,1
+Atlas,Tigres UANL,3,0
+Club America,Pachuca,1,1
+Tigres UANL,Atlas,4,2
+Pachuca,Club America,3,0
+Atlas,Pachuca,2,0
+Pachuca,Atlas,2,1
+Mazatlan FC,Puebla,2,4
+Guadalajara Chivas,Juarez,0,0
+Necaxa,Toluca,1,3
+Tigres UANL,Cruz Azul,2,3
+Club America,Atlas,0,0
+UNAM Pumas,Club Tijuana,1,1
+Atl. San Luis,Club Leon,1,2
+Santos Laguna,Monterrey,4,3
+Pachuca,Queretaro,2,0
+Mazatlan FC,Tigres UANL,0,1
+Club Tijuana,Juarez,0,2
+Puebla,Santos Laguna,1,0
+Club Leon,UNAM Pumas,3,3
+Guadalajara Chivas,Atl. San Luis,0,1
+Cruz Azul,Pachuca,1,2
+Monterrey,Club America,3,2
+Toluca,Atlas,3,2
+Queretaro,Necaxa,1,2
+Club America,Toluca,1,0
+Puebla,Club Leon,1,1
+Juarez,Queretaro,1,1
+Atlas,Cruz Azul,3,2
+Santos Laguna,Guadalajara Chivas,1,1
+UNAM Pumas,Necaxa,1,0
+Atl. San Luis,Monterrey,0,1
+Tigres UANL,Club Tijuana,1,0
+Pachuca,Mazatlan FC,1,1
+Guadalajara Chivas,Club Leon,0,0
+Queretaro,Monterrey,0,3
+Mazatlan FC,Atl. San Luis,1,1
+Necaxa,Juarez,1,0
+Toluca,Santos Laguna,2,1
+Cruz Azul,Puebla,2,2
+Club Tijuana,Club America,2,0
+Tigres UANL,Atlas,2,0
+Pachuca,UNAM Pumas,0,0
+Atlas,Club Tijuana,1,2
+Juarez,Tigres UANL,0,1
+Monterrey,Puebla,1,0
+Atl. San Luis,Cruz Azul,0,0
+Club Leon,Toluca,0,1
+Necaxa,Pachuca,2,0
+Queretaro,Guadalajara Chivas,2,2
+UNAM Pumas,Mazatlan FC,1,1
+Juarez,Toluca,1,1
+Cruz Azul,Necaxa,1,0
+Tigres UANL,Queretaro,2,1
+Club Tijuana,Mazatlan FC,2,0
+Guadalajara Chivas,Pachuca,0,0
+Puebla,Atl. San Luis,0,0
+UNAM Pumas,Monterrey,1,1
+Santos Laguna,Atlas,1,0
+Club Leon,Club America,3,2
+Toluca,Puebla,1,1
+Juarez,Atl. San Luis,1,1
+Atlas,Queretaro,3,1
+Mazatlan FC,Guadalajara Chivas,2,1
+Monterrey,Club Leon,5,1
+Santos Laguna,Cruz Azul,4,0
+Toluca,Club Tijuana,3,1
+Atl. San Luis,Necaxa,1,2
+Pachuca,Tigres UANL,2,0
+Club America,Juarez,2,1
+Queretaro,Atl. San Luis,1,1
+Necaxa,Monterrey,1,2
+Club Tijuana,Puebla,3,3
+Club Leon,Mazatlan FC,0,3
+UNAM Pumas,Club America,0,3
+Guadalajara Chivas,Atlas,1,1
+Cruz Azul,Toluca,2,3
+Tigres UANL,Santos Laguna,2,0
+Atlas,Juarez,0,1
+Mazatlan FC,Queretaro,1,1
+Puebla,Necaxa,2,2
+Toluca,Monterrey,1,1
+Cruz Azul,Club Tijuana,1,2
+Pachuca,Club America,0,3
+Santos Laguna,Club Leon,2,1
+Atl. San Luis,UNAM Pumas,3,2
+Necaxa,Guadalajara Chivas,0,4
+Queretaro,Club Tijuana,2,0
+Atlas,Puebla,1,1
+Monterrey,Tigres UANL,0,0
+Club America,Cruz Azul,7,0
+Juarez,Mazatlan FC,1,1
+UNAM Pumas,Santos Laguna,1,5
+Atl. San Luis,Toluca,1,0
+Pachuca,Club Leon,1,0
+Guadalajara Chivas,Monterrey,1,0
+Queretaro,Club America,0,1
+UNAM Pumas,Tigres UANL,1,1
+Pachuca,Atlas,3,1
+Club Tijuana,Santos Laguna,0,2
+Puebla,Juarez,2,2
+Mazatlan FC,Club America,1,3
+Cruz Azul,Queretaro,2,1
+Tigres UANL,Necaxa,0,0
+Guadalajara Chivas,UNAM Pumas,3,1
+Toluca,Pachuca,1,4
+Club Leon,Atlas,4,2
+Santos Laguna,Atl. San Luis,4,1
+Club Tijuana,Monterrey,0,3
+Atl. San Luis,Club Tijuana,0,0
+Queretaro,Puebla,1,1
+Necaxa,Club Leon,3,2
+Juarez,Cruz Azul,2,2
+Pachuca,Santos Laguna,2,0
+Atlas,UNAM Pumas,0,0
+Monterrey,Mazatlan FC,0,0
+Club America,Tigres UANL,2,1
+Toluca,Guadalajara Chivas,0,0
+Club Leon,Juarez,1,0
+Santos Laguna,Necaxa,3,1
+Club America,Atl. San Luis,3,0
+Monterrey,Cruz Azul,3,2
+Puebla,Pachuca,2,2
+Tigres UANL,Toluca,3,1
+Mazatlan FC,Atlas,1,0
+Club Tijuana,Guadalajara Chivas,1,2
+UNAM Pumas,Queretaro,4,1
+Juarez,Monterrey,0,1
+Queretaro,Santos Laguna,3,3
+Necaxa,Club America,1,2
+Tigres UANL,Club Leon,0,1
+Guadalajara Chivas,Puebla,1,0
+Toluca,UNAM Pumas,2,2
+Cruz Azul,Mazatlan FC,2,0
+Atlas,Atl. San Luis,1,3
+Pachuca,Club Tijuana,6,1
+Guadalajara Chivas,Tigres UANL,1,4
+Club America,Santos Laguna,3,3
+Juarez,Pachuca,2,1
+Cruz Azul,Club Leon,2,1
+Puebla,Tigres UANL,2,1
+Mazatlan FC,Toluca,1,1
+Monterrey,Atlas,2,0
+Club America,Guadalajara Chivas,2,1
+UNAM Pumas,Cruz Azul,1,2
+Club Leon,Queretaro,3,1
+Santos Laguna,Juarez,2,0
+Atl. San Luis,Pachuca,1,2
+Club Tijuana,Necaxa,1,1
+Necaxa,Mazatlan FC,2,2
+Puebla,UNAM Pumas,2,1
+Puebla,Club America,1,2
+Juarez,UNAM Pumas,3,1
+Atl. San Luis,Tigres UANL,0,3
+Monterrey,Pachuca,0,0
+Atlas,Necaxa,1,0
+Cruz Azul,Guadalajara Chivas,2,1
+Toluca,Queretaro,4,1
+Santos Laguna,Mazatlan FC,3,0
+Club Leon,Club Tijuana,2,2
+Tigres UANL,Necaxa,2,0
+Cruz Azul,Club Leon,1,0
+Toluca,Juarez,3,0
+Puebla,Guadalajara Chivas,1,1
+Puebla,Club America,1,6
+Cruz Azul,Monterrey,0,0
+Toluca,Santos Laguna,4,3
+Tigres UANL,Pachuca,1,0
+Monterrey,Cruz Azul,3,0
+Club America,Puebla,5,1
+Santos Laguna,Toluca,1,2
+Pachuca,Tigres UANL,2,1
+Toluca,Club America,2,1
+Pachuca,Monterrey,5,2
+Club America,Toluca,1,1
+Monterrey,Pachuca,0,1
+Toluca,Pachuca,1,5
+Pachuca,Toluca,3,1
+Necaxa,Atl. San Luis,2,3
+Club America,Queretaro,0,0
+Monterrey,Guadalajara Chivas,0,1
+UNAM Pumas,Juarez,2,1
+Santos Laguna,Tigres UANL,0,3
+Club Tijuana,Cruz Azul,1,1
+Pachuca,Puebla,5,1
+Atlas,Mazatlan FC,2,1
+Atl. San Luis,Guadalajara Chivas,0,0
+Puebla,Queretaro,2,0
+Cruz Azul,Monterrey,2,3
+Juarez,Club Tijuana,3,0
+Toluca,Club America,2,2
+Santos Laguna,UNAM Pumas,3,0
+Tigres UANL,Pachuca,4,1
+Club Leon,Necaxa,2,1
+Mazatlan FC,Santos Laguna,1,2
+Club Tijuana,Tigres UANL,1,1
+Monterrey,Atl. San Luis,3,1
+Club America,Puebla,2,2
+Guadalajara Chivas,Toluca,1,2
+Necaxa,Cruz Azul,1,0
+UNAM Pumas,Club Leon,4,1
+Queretaro,Atlas,3,3
+Pachuca,Juarez,4,1
+Atlas,Santos Laguna,2,2
+Puebla,Monterrey,1,2
+Club Tijuana,UNAM Pumas,0,0
+Tigres UANL,Atl. San Luis,0,0
+Club America,Mazatlan FC,6,0
+Juarez,Guadalajara Chivas,1,2
+Toluca,Club Leon,0,0
+Pachuca,Necaxa,2,1
+Atlas,Toluca,0,0
+Atl. San Luis,Puebla,2,0
+Necaxa,Club Tijuana,1,1
+Mazatlan FC,Juarez,2,3
+Club Leon,Pachuca,0,1
+Cruz Azul,Tigres UANL,0,1
+Santos Laguna,Club America,2,2
+UNAM Pumas,Atlas,2,2
+Guadalajara Chivas,Queretaro,1,1
+Monterrey,Toluca,2,1
+Queretaro,Club Leon,0,3
+Atlas,Monterrey,0,2
+Puebla,Mazatlan FC,3,1
+Club Tijuana,Atl. San Luis,1,0
+Club America,Necaxa,2,1
+Juarez,Santos Laguna,3,1
+Tigres UANL,UNAM Pumas,4,2
+Pachuca,Guadalajara Chivas,1,1
+Toluca,Cruz Azul,3,1
+Club Leon,Puebla,2,0
+Tigres UANL,Juarez,0,0
+Atl. San Luis,Club America,1,3
+Guadalajara Chivas,Club Tijuana,2,1
+Monterrey,Queretaro,2,0
+Necaxa,UNAM Pumas,3,1
+Mazatlan FC,Pachuca,2,3
+Juarez,Club Leon,0,0
+Puebla,Cruz Azul,1,3
+Atl. San Luis,Santos Laguna,1,1
+Monterrey,Necaxa,2,1
+Atlas,Tigres UANL,0,1
+UNAM Pumas,Guadalajara Chivas,1,2
+Queretaro,Mazatlan FC,1,1
+Club America,Club Tijuana,2,1
+Pachuca,Toluca,1,2
+Cruz Azul,Atlas,1,0
+Santos Laguna,Toluca,0,5
+Necaxa,Queretaro,1,1
+Mazatlan FC,UNAM Pumas,1,2
+Cruz Azul,Juarez,1,0
+Tigres UANL,Guadalajara Chivas,1,2
+Atlas,Club America,2,2
+Toluca,Atl. San Luis,2,0
+Santos Laguna,Puebla,3,2
+Club Tijuana,Pachuca,2,0
+Club Leon,Monterrey,1,1
+Mazatlan FC,Cruz Azul,3,1
+Necaxa,Tigres UANL,0,1
+Club Tijuana,Atlas,1,1
+Club Leon,Atl. San Luis,2,0
+Club America,Pachuca,0,3
+Monterrey,Juarez,3,0
+Guadalajara Chivas,Santos Laguna,2,0
+UNAM Pumas,Puebla,2,4
+Queretaro,Toluca,1,0
+Atl. San Luis,Queretaro,2,0
+Puebla,Guadalajara Chivas,1,0
+Atlas,Club Leon,0,1
+Cruz Azul,UNAM Pumas,1,0
+Tigres UANL,Club America,0,2
+Toluca,Mazatlan FC,4,1
+Pachuca,Monterrey,1,2
+Santos Laguna,Club Tijuana,3,2
+Juarez,Necaxa,1,1
+Puebla,Atlas,0,4
+Club Tijuana,Toluca,3,3
+Mazatlan FC,Necaxa,0,1
+Cruz Azul,Atl. San Luis,1,0
+Tigres UANL,Monterrey,0,1
+Guadalajara Chivas,Club America,2,4
+UNAM Pumas,Pachuca,0,2
+Queretaro,Juarez,2,2
+Club Leon,Santos Laguna,4,1
+Mazatlan FC,Club Leon,1,2
+Queretaro,Cruz Azul,2,2
+Necaxa,Santos Laguna,0,0
+Juarez,Puebla,0,2
+Pachuca,Cruz Azul,0,2
+Club America,Club Leon,2,2
+Monterrey,Club Tijuana,4,0
+Atlas,Guadalajara Chivas,3,3
+Toluca,Tigres UANL,3,2
+Atl. San Luis,Mazatlan FC,2,1
+Queretaro,UNAM Pumas,1,0
+Puebla,Toluca,1,2
+Club Tijuana,Queretaro,1,2
+Guadalajara Chivas,Necaxa,1,0
+Club Leon,Cruz Azul,0,0
+Tigres UANL,Mazatlan FC,1,2
+Club America,Monterrey,2,1
+UNAM Pumas,Atl. San Luis,3,1
+Santos Laguna,Pachuca,1,4
+Juarez,Atlas,1,1
+Atl. San Luis,Juarez,2,0
+Necaxa,Puebla,1,1
+Mazatlan FC,Club Tijuana,1,2
+Atlas,Pachuca,4,1
+Club Leon,Guadalajara Chivas,0,2
+Cruz Azul,Club America,1,3
+UNAM Pumas,Toluca,3,1
+Queretaro,Tigres UANL,0,0
+Monterrey,Santos Laguna,1,2
+Tigres UANL,Puebla,1,0
+Mazatlan FC,Monterrey,0,2
+Necaxa,Atlas,1,3
+Club Tijuana,Club Leon,0,0
+Pachuca,Atl. San Luis,2,1
+Guadalajara Chivas,Cruz Azul,2,1
+Club America,UNAM Pumas,1,1
+Toluca,Juarez,1,1
+Santos Laguna,Queretaro,0,2
+Juarez,Club America,0,1
+Puebla,Club Tijuana,5,2
+Atl. San Luis,Atlas,0,0
+Guadalajara Chivas,Mazatlan FC,4,1
+Monterrey,UNAM Pumas,4,1
+Cruz Azul,Santos Laguna,3,2
+Toluca,Necaxa,3,0
+Queretaro,Pachuca,0,1
+Club Leon,Tigres UANL,3,0
+Cruz Azul,Atlas,0,1
+Pachuca,Santos Laguna,4,4
+Club Leon,Atl. San Luis,1,3
+Tigres UANL,Puebla,1,0
+Santos Laguna,Monterrey,0,0
+Atl. San Luis,Club America,1,3
+Atlas,Guadalajara Chivas,1,0
+Tigres UANL,Toluca,4,1
+Monterrey,Santos Laguna,2,0
+Club America,Atl. San Luis,1,2
+Toluca,Tigres UANL,3,1
+Guadalajara Chivas,Atlas,1,0
+Tigres UANL,Monterrey,1,1
+Guadalajara Chivas,Club America,0,1
+Monterrey,Tigres UANL,0,1
+Club America,Guadalajara Chivas,1,3
+Tigres UANL,Guadalajara Chivas,0,0
+Guadalajara Chivas,Tigres UANL,2,3
+Club America,Juarez,1,2
+Mazatlan FC,Pachuca,1,1
+Club Tijuana,UNAM Pumas,2,3
+Atl. San Luis,Monterrey,1,1
+Tigres UANL,Puebla,1,1
+Atlas,Cruz Azul,2,0
+Toluca,Necaxa,0,0
+Santos Laguna,Queretaro,0,2
+Club Leon,Guadalajara Chivas,1,2
+Puebla,Santos Laguna,2,3
+Necaxa,Club Tijuana,1,1
+Cruz Azul,Toluca,0,2
+Guadalajara Chivas,Atl. San Luis,3,1
+Juarez,Tigres UANL,1,1
+UNAM Pumas,Mazatlan FC,0,0
+Monterrey,Atlas,1,0
+Club Leon,Pachuca,4,0
+Santos Laguna,Atlas,0,0
+Guadalajara Chivas,Necaxa,2,0
+Mazatlan FC,Monterrey,0,3
+Club Tijuana,Cruz Azul,2,1
+Atl. San Luis,Queretaro,4,1
+Club America,Puebla,3,0
+Tigres UANL,Club Leon,1,0
+Toluca,Juarez,2,4
+Pachuca,UNAM Pumas,1,1
+Club Leon,Mazatlan FC,2,1
+UNAM Pumas,Toluca,1,1
+Puebla,Atl. San Luis,1,2
+Juarez,Guadalajara Chivas,1,1
+Cruz Azul,Santos Laguna,2,2
+Queretaro,Pachuca,1,1
+Club America,Atlas,1,1
+Necaxa,Tigres UANL,0,3
+Guadalajara Chivas,Club Tijuana,1,0
+Mazatlan FC,Puebla,1,0
+Juarez,UNAM Pumas,4,1
+Club America,Necaxa,3,2
+Pachuca,Cruz Azul,1,0
+Atl. San Luis,Club Leon,3,0
+Puebla,Juarez,1,0
+Club Tijuana,Mazatlan FC,1,1
+Atlas,Toluca,0,0
+Club America,Club Leon,1,1
+Santos Laguna,Guadalajara Chivas,2,1
+Necaxa,Queretaro,0,1
+UNAM Pumas,Tigres UANL,2,1
+Monterrey,Cruz Azul,1,2
+Pachuca,Atl. San Luis,0,2
+Toluca,Monterrey,1,0
+Queretaro,Atlas,1,2
+Tigres UANL,Santos Laguna,3,2
+Juarez,Mazatlan FC,3,1
+Puebla,Club Tijuana,3,0
+Club Leon,Necaxa,1,1
+Santos Laguna,UNAM Pumas,2,1
+Tigres UANL,Queretaro,5,0
+Cruz Azul,Club America,2,3
+Toluca,Pachuca,5,0
+Guadalajara Chivas,Monterrey,1,2
+Atl. San Luis,Atlas,2,0
+Mazatlan FC,Cruz Azul,2,2
+Club Tijuana,Toluca,2,1
+Necaxa,Juarez,1,1
+Monterrey,Club Leon,3,1
+Club America,Guadalajara Chivas,4,0
+UNAM Pumas,Atl. San Luis,3,2
+Queretaro,Puebla,1,1
+Atlas,Tigres UANL,2,0
+Pachuca,Santos Laguna,3,2
+Queretaro,Club America,1,2
+Atl. San Luis,Mazatlan FC,3,2
+Juarez,Atlas,1,2
+Puebla,UNAM Pumas,0,2
+Club Leon,Club Tijuana,1,0
+Guadalajara Chivas,Pachuca,0,0
+Tigres UANL,Monterrey,3,0
+Toluca,Club America,1,1
+Cruz Azul,Queretaro,1,3
+Santos Laguna,Necaxa,2,5
+Guadalajara Chivas,Mazatlan FC,1,3
+Atlas,Puebla,2,3
+Queretaro,Club Leon,1,1
+Atl. San Luis,Cruz Azul,1,2
+Club Tijuana,Juarez,5,1
+Pachuca,Necaxa,1,1
+Club America,UNAM Pumas,1,0
+Mazatlan FC,Tigres UANL,2,3
+Toluca,Guadalajara Chivas,1,1
+Puebla,Monterrey,1,1
+Club America,Pachuca,4,0
+Necaxa,Cruz Azul,1,3
+UNAM Pumas,Queretaro,4,0
+Santos Laguna,Club Tijuana,2,1
+Tigres UANL,Toluca,2,2
+Mazatlan FC,Club America,1,2
+Monterrey,Juarez,3,1
+Guadalajara Chivas,Atlas,4,1
+Pachuca,Tigres UANL,1,1
+Cruz Azul,UNAM Pumas,1,4
+Toluca,Queretaro,3,1
+Necaxa,Puebla,1,2
+Santos Laguna,Club Leon,0,2
+Club Tijuana,Atl. San Luis,2,1
+Atlas,Mazatlan FC,1,3
+Juarez,Pachuca,0,1
+Puebla,Guadalajara Chivas,0,2
+Club Leon,Toluca,1,0
+Club America,Santos Laguna,4,3
+Queretaro,Club Tijuana,1,0
+Tigres UANL,Cruz Azul,2,1
+UNAM Pumas,Monterrey,0,1
+Atl. San Luis,Necaxa,4,0
+Club Leon,Atlas,1,1
+Monterrey,Club Tijuana,3,1
+Juarez,Atl. San Luis,3,2
+Necaxa,UNAM Pumas,1,0
+Mazatlan FC,Queretaro,3,0
+Cruz Azul,Club Leon,1,0
+Guadalajara Chivas,Tigres UANL,0,4
+Pachuca,Puebla,1,1
+Monterrey,Club America,0,3
+Toluca,Atl. San Luis,3,1
+Santos Laguna,Juarez,5,1
+Club Tijuana,Atlas,2,0
+Queretaro,Guadalajara Chivas,1,2
+Toluca,Puebla,0,1
+Club Leon,UNAM Pumas,1,1
+Monterrey,Necaxa,3,0
+Atlas,Pachuca,0,2
+Cruz Azul,Juarez,2,0
+Atl. San Luis,Club America,0,1
+Club Tijuana,Tigres UANL,2,0
+Mazatlan FC,Santos Laguna,3,1
+Puebla,Club Leon,5,4
+Tigres UANL,Atl. San Luis,2,2
+Club America,Club Tijuana,3,0
+Guadalajara Chivas,Cruz Azul,1,0
+Pachuca,Monterrey,0,2
+UNAM Pumas,Atlas,3,0
+Necaxa,Mazatlan FC,4,0
+Santos Laguna,Toluca,3,1
+Juarez,Queretaro,0,3
+Monterrey,Santos Laguna,3,0
+Atlas,Necaxa,0,0
+Mazatlan FC,Toluca,1,0
+Club Tijuana,Pachuca,2,3
+Atl. San Luis,Santos Laguna,0,2
+Queretaro,Monterrey,0,0
+UNAM Pumas,Guadalajara Chivas,1,0
+Tigres UANL,Club America,0,0
+Cruz Azul,Puebla,1,2
+Club Leon,Juarez,2,1
+Atl. San Luis,Club Leon,3,2
+Santos Laguna,Mazatlan FC,2,1
+Club Leon,Santos Laguna,3,2
+Club Leon,Club America,2,2
+Atl. San Luis,Monterrey,1,0
+Puebla,Tigres UANL,2,2
+Guadalajara Chivas,UNAM Pumas,1,0
+Club America,Club Leon,2,0
+Monterrey,Atl. San Luis,1,1
+UNAM Pumas,Guadalajara Chivas,3,0
+Tigres UANL,Puebla,3,0
+Atl. San Luis,Club America,0,5
+UNAM Pumas,Tigres UANL,0,1
+Club America,Atl. San Luis,0,2
+Tigres UANL,UNAM Pumas,1,1
+Tigres UANL,Club America,1,1
+Club America,Tigres UANL,0,0
+Queretaro,Toluca,2,2
+Mazatlan FC,Atl. San Luis,0,1
+Cruz Azul,Pachuca,0,1
+Guadalajara Chivas,Santos Laguna,1,1
+Club Tijuana,Club America,0,2
+Monterrey,Puebla,2,0
+UNAM Pumas,Juarez,1,0
+Necaxa,Atlas,2,1
+Club Leon,Tigres UANL,1,2
+Puebla,Necaxa,1,2
+Atl. San Luis,UNAM Pumas,3,1
+Juarez,Cruz Azul,0,0
+Toluca,Mazatlan FC,4,1
+Club America,Queretaro,2,0
+Atlas,Club Tijuana,0,0
+Tigres UANL,Guadalajara Chivas,1,0
+Santos Laguna,Monterrey,0,2
+Atl. San Luis,Tigres UANL,1,2
+Monterrey,Queretaro,1,1
+Juarez,Club America,0,2
+Puebla,Toluca,1,1
+Club Tijuana,Guadalajara Chivas,1,1
+Club Leon,Santos Laguna,3,2
+Cruz Azul,Mazatlan FC,2,1
+Monterrey,Atl. San Luis,3,1
+Necaxa,Club America,0,0
+UNAM Pumas,Pachuca,3,1
+Atlas,Juarez,2,1
+Queretaro,Tigres UANL,1,1
+Cruz Azul,Club Tijuana,1,0
+Mazatlan FC,Club Leon,2,2
+Santos Laguna,Puebla,3,0
+Guadalajara Chivas,Toluca,3,2
+Pachuca,Atlas,4,3
+UNAM Pumas,Necaxa,2,2
+Queretaro,Cruz Azul,1,3
+Puebla,Mazatlan FC,3,2
+Toluca,Club Leon,4,1
+Juarez,Necaxa,2,2
+Tigres UANL,UNAM Pumas,2,2
+Pachuca,Club Tijuana,3,2
+Club America,Monterrey,1,1
+Atlas,Santos Laguna,3,0
+Atl. San Luis,Guadalajara Chivas,0,2
+Pachuca,Club Leon,3,2
+Mazatlan FC,Atlas,2,0
+Club Tijuana,Queretaro,1,1
+Necaxa,Toluca,3,3
+Guadalajara Chivas,Juarez,2,1
+Club Leon,Club America,0,1
+Cruz Azul,Atl. San Luis,3,0
+Monterrey,Pachuca,3,2
+Santos Laguna,Tigres UANL,0,3
+UNAM Pumas,Puebla,3,0
+Atlas,UNAM Pumas,0,0
+Queretaro,Necaxa,1,1
+Mazatlan FC,Guadalajara Chivas,2,2
+Atl. San Luis,Club Tijuana,3,3
+Pachuca,Club America,2,1
+Cruz Azul,Tigres UANL,1,0
+Atlas,Club Leon,0,1
+UNAM Pumas,Santos Laguna,3,0
+Monterrey,Toluca,0,0
+Puebla,Pachuca,1,4
+Necaxa,Guadalajara Chivas,1,0
+Toluca,Santos Laguna,1,0
+Club America,Mazatlan FC,2,2
+Club Leon,Cruz Azul,2,3
+Puebla,Queretaro,0,2
+Juarez,Monterrey,0,3
+Necaxa,Pachuca,1,1
+Club Leon,Atl. San Luis,1,0
+Tigres UANL,Atlas,1,1
+Guadalajara Chivas,UNAM Pumas,3,1
+Club America,Cruz Azul,1,0
+Toluca,Club Tijuana,2,0
+Santos Laguna,Mazatlan FC,1,0
+Queretaro,Atl. San Luis,4,1
+Tigres UANL,Juarez,1,0
+Club Tijuana,Monterrey,1,1
+Atl. San Luis,Puebla,4,0
+Queretaro,Santos Laguna,0,1
+Mazatlan FC,Necaxa,2,1
+Toluca,Tigres UANL,2,1
+Pachuca,Juarez,3,2
+Cruz Azul,Guadalajara Chivas,3,0
+Atlas,Club America,1,5
+Monterrey,UNAM Pumas,3,0
+Club Tijuana,Club Leon,1,1
+Puebla,Atlas,2,2
+Necaxa,Atl. San Luis,3,1
+Juarez,Toluca,1,1
+Guadalajara Chivas,Club Leon,1,2
+Pachuca,Queretaro,1,2
+Santos Laguna,Cruz Azul,3,0
+Club America,Tigres UANL,2,0
+UNAM Pumas,Club Tijuana,3,3
+Monterrey,Mazatlan FC,2,1
+Queretaro,Juarez,1,0
+Club Tijuana,Santos Laguna,2,2
+Cruz Azul,Necaxa,1,2
+Club Leon,Puebla,2,1
+Tigres UANL,Mazatlan FC,5,1
+Guadalajara Chivas,Club America,0,0
+Atlas,Monterrey,1,2
+Atl. San Luis,Pachuca,2,1
+Toluca,UNAM Pumas,3,0
+Juarez,Puebla,4,3
+Puebla,Tigres UANL,2,3
+Club America,Atl. San Luis,2,1
+Mazatlan FC,Club Tijuana,2,0
+Monterrey,Guadalajara Chivas,0,2
+Pachuca,Toluca,2,3
+UNAM Pumas,Cruz Azul,0,0
+Atlas,Queretaro,2,3
+Necaxa,Club Leon,1,2
+Juarez,Santos Laguna,2,1
+Mazatlan FC,UNAM Pumas,0,4
+Club Tijuana,Necaxa,2,3
+Club Leon,Queretaro,0,2
+Tigres UANL,Pachuca,0,3
+Guadalajara Chivas,Puebla,3,2
+Cruz Azul,Monterrey,2,1
+Santos Laguna,Club America,1,1
+Toluca,Atlas,4,1
+Atl. San Luis,Juarez,2,3
+Queretaro,Mazatlan FC,0,2
+Necaxa,Santos Laguna,2,0
+Puebla,Cruz Azul,0,1
+Pachuca,Guadalajara Chivas,0,1
+Club America,Toluca,5,1
+Monterrey,Tigres UANL,3,3
+Atlas,Atl. San Luis,2,1
+UNAM Pumas,Club Leon,1,0
+Juarez,Club Tijuana,0,1
+Mazatlan FC,Juarez,0,2
+Atl. San Luis,Toluca,1,5
+Club Tijuana,Puebla,3,1
+Club Leon,Monterrey,2,0
+Guadalajara Chivas,Queretaro,2,0
+Santos Laguna,Pachuca,0,2
+Tigres UANL,Necaxa,5,2
+UNAM Pumas,Club America,2,1
+Cruz Azul,Atlas,2,2
+Puebla,Club America,1,2
+Queretaro,UNAM Pumas,1,1
+Juarez,Club Leon,1,1
+Toluca,Cruz Azul,0,1
+Tigres UANL,Club Tijuana,4,1
+Pachuca,Mazatlan FC,1,1
+Atlas,Guadalajara Chivas,0,1
+Necaxa,Monterrey,2,5
+Santos Laguna,Atl. San Luis,0,3
+Necaxa,Queretaro,1,1
+Pachuca,UNAM Pumas,0,0
+Pachuca,Necaxa,2,1
+Tigres UANL,Monterrey,1,2
+UNAM Pumas,Cruz Azul,0,2
+Pachuca,Club America,1,1
+Guadalajara Chivas,Toluca,1,0
+Club America,Pachuca,1,1
+Toluca,Guadalajara Chivas,0,0
+Cruz Azul,UNAM Pumas,2,2
+Monterrey,Tigres UANL,1,1
+Guadalajara Chivas,Club America,0,0
+Monterrey,Cruz Azul,0,1
+Club America,Guadalajara Chivas,1,0
+Cruz Azul,Monterrey,1,2
+Cruz Azul,Club America,1,1
+Club America,Cruz Azul,1,0
+Puebla,Santos Laguna,1,0
+Queretaro,Club Tijuana,1,2
+Juarez,Atlas,2,2
+Atl. San Luis,Club America,2,1
+Guadalajara Chivas,Toluca,0,0
+Tigres UANL,Necaxa,1,0
+Cruz Azul,Mazatlan FC,1,0
+UNAM Pumas,Club Leon,4,1
+Pachuca,Monterrey,0,1
+Club America,Queretaro,3,1
+Club Tijuana,Guadalajara Chivas,4,2
+Mazatlan FC,Atl. San Luis,2,2
+Atlas,Tigres UANL,1,1
+Club Leon,Pachuca,0,0
+Necaxa,Puebla,4,1
+Toluca,Juarez,3,2
+Santos Laguna,UNAM Pumas,1,1
+Monterrey,Cruz Azul,0,4
+Atlas,Santos Laguna,1,0
+Pachuca,Atl. San Luis,2,0
+Queretaro,Guadalajara Chivas,0,2
+Puebla,Club Leon,2,2
+Cruz Azul,Club Tijuana,3,0
+Juarez,UNAM Pumas,1,2
+Necaxa,Monterrey,0,1
+Toluca,Mazatlan FC,3,0
+Tigres UANL,Club America,1,0
+Atl. San Luis,Club Tijuana,1,1
+Puebla,Atlas,1,2
+Guadalajara Chivas,Mazatlan FC,2,0
+Monterrey,Queretaro,2,1
+Santos Laguna,Tigres UANL,0,3
+Cruz Azul,Toluca,1,1
+Juarez,Club America,1,2
+UNAM Pumas,Pachuca,2,0
+Club Leon,Necaxa,1,1
+Puebla,Monterrey,1,2
+Club Tijuana,Santos Laguna,3,1
+Atl. San Luis,Queretaro,4,0
+Queretaro,Cruz Azul,0,2
+Mazatlan FC,Pachuca,3,0
+Club Tijuana,Monterrey,2,2
+Necaxa,Juarez,3,0
+Atlas,UNAM Pumas,2,1
+Club Leon,Santos Laguna,1,1
+Tigres UANL,Guadalajara Chivas,1,1
+Club America,Puebla,0,1
+Toluca,Atl. San Luis,2,1
+Atl. San Luis,Atlas,2,1
+Mazatlan FC,Puebla,1,1
+Club Tijuana,Club Leon,2,1
+Pachuca,Queretaro,1,1
+Guadalajara Chivas,Juarez,5,0
+Monterrey,Toluca,1,2
+Cruz Azul,Club America,4,1
+UNAM Pumas,Tigres UANL,1,3
+Santos Laguna,Necaxa,3,2
+Puebla,Queretaro,2,1
+Atlas,Pachuca,2,0
+Juarez,Mazatlan FC,1,0
+Tigres UANL,Atl. San Luis,1,0
+Necaxa,UNAM Pumas,2,0
+Toluca,Club Tijuana,4,0
+Club America,Guadalajara Chivas,1,0
+Club Leon,Cruz Azul,1,2
+Santos Laguna,Monterrey,0,2
+Atl. San Luis,Cruz Azul,3,1
+Club America,Atlas,3,0
+Pachuca,Toluca,2,2
+Queretaro,Tigres UANL,1,0
+UNAM Pumas,Puebla,1,0
+Guadalajara Chivas,Club Leon,2,0
+Mazatlan FC,Necaxa,0,0
+Monterrey,Juarez,3,2
+Atlas,Queretaro,0,1
+Puebla,Pachuca,2,3
+Club Leon,Atl. San Luis,1,0
+Monterrey,Mazatlan FC,0,0
+Necaxa,Club America,1,1
+Cruz Azul,Guadalajara Chivas,1,0
+UNAM Pumas,Club Tijuana,1,0
+Santos Laguna,Toluca,2,0
+Juarez,Tigres UANL,0,1
+Puebla,Juarez,2,3
+Queretaro,Necaxa,0,0
+Tigres UANL,Club Leon,2,2
+Club Tijuana,Mazatlan FC,1,0
+Toluca,Atlas,4,1
+Pachuca,Cruz Azul,2,4
+Guadalajara Chivas,Monterrey,1,1
+Atl. San Luis,Santos Laguna,3,1
+Club America,UNAM Pumas,0,1
+Mazatlan FC,Queretaro,2,2
+Club Tijuana,Pachuca,2,1
+Atl. San Luis,Monterrey,1,0
+Cruz Azul,Necaxa,3,0
+Tigres UANL,Puebla,1,0
+Toluca,UNAM Pumas,1,1
+Guadalajara Chivas,Atlas,2,3
+Club Leon,Club America,1,1
+Santos Laguna,Juarez,0,2
+Atlas,Mazatlan FC,0,0
+Queretaro,Toluca,0,1
+Necaxa,Club Tijuana,1,2
+Puebla,Cruz Azul,1,2
+Pachuca,Guadalajara Chivas,0,2
+Club America,Santos Laguna,3,0
+Juarez,Club Leon,2,3
+Monterrey,Tigres UANL,4,2
+UNAM Pumas,Atl. San Luis,3,0
+Santos Laguna,Pachuca,1,1
+Guadalajara Chivas,Necaxa,3,2
+Toluca,Puebla,5,0
+Mazatlan FC,Tigres UANL,2,0
+Cruz Azul,Juarez,4,0
+Monterrey,UNAM Pumas,0,0
+Club Leon,Atlas,0,0
+Club Tijuana,Club America,2,2
+Santos Laguna,Mazatlan FC,0,0
+Puebla,Guadalajara Chivas,1,0
+Club Leon,Queretaro,4,0
+UNAM Pumas,Cruz Azul,0,2
+Tigres UANL,Pachuca,2,1
+Atlas,Club Tijuana,0,0
+Necaxa,Toluca,1,3
+Juarez,Atl. San Luis,2,4
+Club America,Monterrey,2,1
+Queretaro,Juarez,1,2
+Mazatlan FC,Club America,0,5
+Club Tijuana,Tigres UANL,0,3
+Atl. San Luis,Puebla,2,0
+Toluca,Club Leon,2,2
+Guadalajara Chivas,UNAM Pumas,0,0
+Monterrey,Atlas,4,0
+Pachuca,Necaxa,6,2
+Cruz Azul,Santos Laguna,2,0
+Club Leon,Mazatlan FC,0,0
+Santos Laguna,Guadalajara Chivas,0,2
+UNAM Pumas,Queretaro,2,0
+Club America,Pachuca,2,1
+Necaxa,Atl. San Luis,1,1
+Tigres UANL,Toluca,2,1
+Atlas,Cruz Azul,2,2
+Juarez,Club Tijuana,1,1
+Queretaro,Santos Laguna,3,2
+Mazatlan FC,UNAM Pumas,0,1
+Guadalajara Chivas,Atl. San Luis,0,1
+Pachuca,Juarez,0,1
+Toluca,Club America,4,0
+Cruz Azul,Tigres UANL,1,1
+Necaxa,Atlas,0,0
+Monterrey,Club Leon,2,1
+Club Tijuana,Puebla,2,1
+Guadalajara Chivas,Atlas,1,2
+Club Tijuana,Club America,2,2
+Club Tijuana,Atlas,3,0
+Club America,Toluca,2,0
+Club Tijuana,Cruz Azul,3,0
+Atl. San Luis,Tigres UANL,3,0
+Monterrey,UNAM Pumas,1,0
+Toluca,Club America,0,2
+Cruz Azul,Club Tijuana,3,0
+UNAM Pumas,Monterrey,3,5
+Tigres UANL,Atl. San Luis,0,0
+Atl. San Luis,Monterrey,2,1
+Club America,Cruz Azul,0,0
+Monterrey,Atl. San Luis,5,1
+Cruz Azul,Club America,3,4
+Club America,Monterrey,2,1
+Monterrey,Club America,1,1
+Queretaro,Club America,0,1
+Mazatlan FC,Juarez,1,1
+Club Tijuana,Toluca,2,4
+Atl. San Luis,Tigres UANL,1,3
+Guadalajara Chivas,Santos Laguna,1,0
+Cruz Azul,Atlas,1,1
+UNAM Pumas,Necaxa,2,1
+Monterrey,Puebla,1,1
+Club America,Club Tijuana,1,1
+Puebla,Atl. San Luis,1,2
+Tigres UANL,Mazatlan FC,2,1
+Necaxa,Guadalajara Chivas,3,2
+Juarez,Cruz Azul,1,0
+Toluca,Monterrey,1,1
+Atlas,Club Leon,1,2
+Queretaro,UNAM Pumas,3,2
+Pachuca,Santos Laguna,2,1
+Atl. San Luis,Necaxa,0,3
+Club Tijuana,Queretaro,2,1
+Mazatlan FC,Toluca,2,1
+Club Leon,Juarez,1,0
+Cruz Azul,Puebla,1,1
+Guadalajara Chivas,Tigres UANL,1,1
+Santos Laguna,Club America,1,4
+Monterrey,Pachuca,2,3
+UNAM Pumas,Atlas,0,0
+Club America,Atl. San Luis,3,0
+Puebla,Mazatlan FC,0,1
+Club Leon,Guadalajara Chivas,2,1
+Tigres UANL,Club Tijuana,4,0
+Necaxa,Cruz Azul,1,3
+Atlas,Monterrey,3,3
+Queretaro,Pachuca,0,1
+Juarez,Santos Laguna,1,0
+UNAM Pumas,Toluca,1,1
+Mazatlan FC,Club Leon,1,2
+Club Tijuana,Cruz Azul,2,3
+Club America,Juarez,4,0
+Guadalajara Chivas,Queretaro,1,1
+Pachuca,Atlas,0,0
+Monterrey,Necaxa,1,0
+Toluca,Tigres UANL,1,0
+Santos Laguna,Puebla,0,2
+Atl. San Luis,UNAM Pumas,2,3
+Pachuca,Club Leon,1,2
+Necaxa,Santos Laguna,3,2
+Queretaro,Atl. San Luis,1,0
+Puebla,Club America,1,2
+Club Leon,Toluca,3,3
+Tigres UANL,Atlas,2,1
+Juarez,Monterrey,2,1
+Cruz Azul,Pachuca,2,1
+UNAM Pumas,Mazatlan FC,1,0
+Guadalajara Chivas,Club Tijuana,2,1
+Club America,Necaxa,2,3
+Club Tijuana,Juarez,1,2
+Mazatlan FC,Santos Laguna,1,1
+Atlas,Puebla,3,2
+Tigres UANL,Cruz Azul,2,1
+Toluca,Guadalajara Chivas,2,1
+Queretaro,Monterrey,2,4
+Atl. San Luis,Club Leon,1,2
+Pachuca,UNAM Pumas,2,1
+Santos Laguna,Cruz Azul,0,1
+Club America,Club Leon,1,1
+Atlas,Necaxa,0,4
+Necaxa,Mazatlan FC,3,1
+Puebla,Club Tijuana,2,0
+Juarez,Toluca,0,4
+Club Leon,Tigres UANL,1,0
+Monterrey,Atl. San Luis,3,1
+Guadalajara Chivas,Pachuca,2,1
+UNAM Pumas,Club America,0,2
+Santos Laguna,Atlas,2,0
+Cruz Azul,Queretaro,1,0
+Tigres UANL,Juarez,0,1
+Club Tijuana,UNAM Pumas,4,2
+Mazatlan FC,Monterrey,1,0
+Pachuca,Puebla,2,1
+Toluca,Queretaro,5,0
+Atl. San Luis,Guadalajara Chivas,3,1
+Mazatlan FC,Cruz Azul,1,1
+Club America,Toluca,3,0
+Juarez,Pachuca,2,2
+Club Leon,Club Tijuana,2,1
+Necaxa,Tigres UANL,1,2
+UNAM Pumas,Guadalajara Chivas,0,1
+Queretaro,Puebla,2,0
+Atlas,Atl. San Luis,3,1
+Monterrey,Santos Laguna,4,2
+Atl. San Luis,Juarez,1,0
+Tigres UANL,Queretaro,1,0
+Puebla,UNAM Pumas,1,3
+Toluca,Necaxa,5,2
+Pachuca,Mazatlan FC,1,1
+Cruz Azul,Monterrey,1,1
+Guadalajara Chivas,Club America,0,0
+Santos Laguna,Club Leon,2,1
+Club Tijuana,Atlas,3,4
+Necaxa,Club Leon,2,1
+Queretaro,Mazatlan FC,1,0
+Puebla,Toluca,0,3
+Tigres UANL,Santos Laguna,3,0
+Cruz Azul,Atl. San Luis,3,0
+Juarez,Guadalajara Chivas,1,1
+Atlas,Club America,1,3
+UNAM Pumas,Monterrey,1,3
+Pachuca,Club Tijuana,4,1
+Necaxa,Queretaro,2,0
+Mazatlan FC,Atlas,3,2
+Juarez,Puebla,2,0
+Toluca,Pachuca,3,2
+Club America,Tigres UANL,3,0
+Guadalajara Chivas,Cruz Azul,0,1
+Monterrey,Club Tijuana,1,2
+Santos Laguna,Atl. San Luis,2,3
+Club Leon,UNAM Pumas,1,2
+Queretaro,Club Leon,1,1
+Club Tijuana,Necaxa,1,2
+Puebla,Tigres UANL,0,0
+Atlas,Juarez,1,1
+Pachuca,Club America,1,0
+Atl. San Luis,Mazatlan FC,2,1
+Monterrey,Guadalajara Chivas,3,1
+Cruz Azul,UNAM Pumas,3,2
+Toluca,Santos Laguna,2,1
+Club Tijuana,Atl. San Luis,2,1
+Necaxa,Pachuca,3,5
+Mazatlan FC,Guadalajara Chivas,1,1
+Club Leon,Puebla,1,0
+UNAM Pumas,Juarez,0,0
+Tigres UANL,Monterrey,2,1
+Atlas,Toluca,2,3
+Club America,Cruz Azul,0,0
+Santos Laguna,Queretaro,1,2
+Pachuca,Tigres UANL,0,0
+Guadalajara Chivas,Puebla,1,0
+Juarez,Necaxa,2,2
+Cruz Azul,Club Leon,2,1
+Monterrey,Club America,1,0
+Queretaro,Atlas,1,2
+Atl. San Luis,Toluca,0,1
+Mazatlan FC,Club Tijuana,0,2
+UNAM Pumas,Santos Laguna,2,0
+Puebla,Necaxa,0,1
+Club America,Mazatlan FC,5,0
+Toluca,Cruz Azul,2,2
+Tigres UANL,UNAM Pumas,2,1
+Atlas,Guadalajara Chivas,1,1
+Santos Laguna,Club Tijuana,0,4
+Atl. San Luis,Pachuca,2,1
+Club Leon,Monterrey,0,2
+Juarez,Queretaro,0,2
+Juarez,UNAM Pumas,1,1
+Monterrey,Pachuca,1,2
+Monterrey,UNAM Pumas,2,0
+Monterrey,Toluca,3,2
+Pachuca,Club America,0,0
+Necaxa,Tigres UANL,0,0
+Club Leon,Cruz Azul,2,3
+Toluca,Monterrey,2,1
+Club America,Pachuca,2,0
+Cruz Azul,Club Leon,2,1
+Tigres UANL,Necaxa,2,2
+Tigres UANL,Toluca,1,1
+Cruz Azul,Club America,1,0
+Toluca,Tigres UANL,3,0
+Club America,Cruz Azul,2,1
+Club America,Toluca,0,0
+Toluca,Club America,2,0
+Puebla,Atlas,2,3
+Juarez,Club America,1,1
+Club Tijuana,Queretaro,1,0
+Santos Laguna,UNAM Pumas,3,0
+Toluca,Necaxa,3,1
+Cruz Azul,Mazatlan FC,0,0
+Pachuca,Monterrey,3,0
+Club Leon,Atl. San Luis,0,1
+Club America,Club Tijuana,3,1
+Santos Laguna,Toluca,2,4
+Necaxa,Queretaro,3,1
+Atl. San Luis,Monterrey,0,1
+Mazatlan FC,Puebla,2,1
+Club Leon,Guadalajara Chivas,1,0
+Tigres UANL,Juarez,1,0
+Atlas,Cruz Azul,3,3
+UNAM Pumas,Pachuca,2,3
+Puebla,Santos Laguna,1,0
+Queretaro,UNAM Pumas,0,2
+Club Tijuana,Juarez,1,1
+Pachuca,Mazatlan FC,1,0
+Guadalajara Chivas,Atl. San Luis,4,3
+Cruz Azul,Club Leon,4,1
+Monterrey,Atlas,3,1
+Toluca,Tigres UANL,3,4
+Necaxa,Club America,1,1
+Tigres UANL,Puebla,7,0
+Club America,Queretaro,1,0
+Mazatlan FC,Club Tijuana,2,2
+Atlas,Pachuca,0,3
+UNAM Pumas,Necaxa,1,1
+Santos Laguna,Guadalajara Chivas,1,0
+Club Leon,Monterrey,1,3
+Juarez,Toluca,0,2
+Atl. San Luis,Cruz Azul,1,2
+Puebla,Atl. San Luis,0,2
+Necaxa,Club Leon,0,1
+Guadalajara Chivas,Juarez,1,2
+Cruz Azul,Santos Laguna,3,2
+Pachuca,Club Tijuana,0,2
+Tigres UANL,Club America,1,3
+Toluca,UNAM Pumas,1,1
+Queretaro,Atlas,3,3
+Monterrey,Mazatlan FC,3,2
+Juarez,Santos Laguna,2,1
+Queretaro,Atl. San Luis,3,2
+Club Tijuana,Guadalajara Chivas,3,3
+Club Leon,Pachuca,1,1
+Mazatlan FC,Tigres UANL,2,2
+Monterrey,Necaxa,3,0
+Cruz Azul,Toluca,1,0
+UNAM Pumas,Puebla,0,0
+Atlas,Club America,2,4
+Atl. San Luis,Toluca,1,3
+Juarez,Mazatlan FC,1,0
+Puebla,Monterrey,2,4
+Club Leon,Queretaro,3,0
+Santos Laguna,Tigres UANL,0,1
+Guadalajara Chivas,Cruz Azul,1,2
+Club America,Pachuca,2,0
+UNAM Pumas,Atlas,1,0
+Club Tijuana,Necaxa,3,0
+Necaxa,Juarez,1,1
+Mazatlan FC,UNAM Pumas,1,4
+Pachuca,Cruz Azul,0,1
+Atlas,Santos Laguna,2,2
+Tigres UANL,Club Leon,0,0
+Toluca,Puebla,3,1
+Club America,Guadalajara Chivas,1,2
+Queretaro,Monterrey,0,1
+Atl. San Luis,Club Tijuana,1,1
+Guadalajara Chivas,Tigres UANL,0,0
+Cruz Azul,Juarez,3,2
+Necaxa,Puebla,1,0
+Mazatlan FC,Atlas,1,1
+Club Tijuana,Club Leon,5,0
+Pachuca,Queretaro,0,2
+UNAM Pumas,Tigres UANL,1,1
+Guadalajara Chivas,Toluca,0,3
+Monterrey,Club America,2,2
+Santos Laguna,Atl. San Luis,1,4
+Puebla,Pachuca,2,2
+Guadalajara Chivas,Necaxa,3,1
+Juarez,UNAM Pumas,3,1
+Club Leon,Mazatlan FC,2,2
+Cruz Azul,Queretaro,2,2
+Tigres UANL,Atlas,2,0
+Toluca,Monterrey,6,2
+Atl. San Luis,Club America,0,1
+Santos Laguna,Club Tijuana,1,0
+Juarez,Club Leon,2,0
+Atlas,Necaxa,3,2
+Pachuca,Atl. San Luis,2,1
+Puebla,Guadalajara Chivas,0,2
+Monterrey,Santos Laguna,1,0
+Toluca,Mazatlan FC,3,1
+Club America,UNAM Pumas,4,1
+Queretaro,Tigres UANL,0,2
+Club Tijuana,Cruz Azul,2,0
+Necaxa,Pachuca,0,1
+Mazatlan FC,Atl. San Luis,2,1
+Atlas,Juarez,3,1
+Queretaro,Puebla,3,1
+Club Leon,Toluca,2,4
+Tigres UANL,Cruz Azul,1,1
+Club America,Santos Laguna,3,0
+UNAM Pumas,Guadalajara Chivas,1,2
+Club Tijuana,Monterrey,2,2
+Puebla,Club Tijuana,4,3
+Atl. San Luis,Atlas,2,0
+Tigres UANL,Necaxa,5,3
+Juarez,Pachuca,2,2
+Santos Laguna,Club Leon,2,0
+Toluca,Queretaro,4,0
+Monterrey,UNAM Pumas,1,1
+Guadalajara Chivas,Mazatlan FC,2,0
+Cruz Azul,Club America,2,1
+Club America,Puebla,2,1
+Necaxa,Cruz Azul,1,1
+Mazatlan FC,Santos Laguna,2,2
+Monterrey,Juarez,4,2
+Pachuca,Tigres UANL,1,2
+Queretaro,Guadalajara Chivas,1,0
+Atlas,Club Leon,2,0
+Club Tijuana,Toluca,0,0
+UNAM Pumas,Atl. San Luis,0,1
+Juarez,Puebla,4,4
+Mazatlan FC,Club America,2,2
+Tigres UANL,Club Tijuana,2,0
+Club Leon,UNAM Pumas,1,1
+Guadalajara Chivas,Atlas,4,1
+Cruz Azul,Monterrey,2,0
+Santos Laguna,Queretaro,3,1
+Atl. San Luis,Necaxa,3,4
+Toluca,Pachuca,2,2
+Necaxa,Santos Laguna,4,1
+Atl. San Luis,Juarez,1,2
+Puebla,Cruz Azul,0,3
+Atlas,Toluca,0,0
+Monterrey,Tigres UANL,1,1
+Club America,Club Leon,2,0
+UNAM Pumas,Club Tijuana,4,1
+Queretaro,Mazatlan FC,1,0
+Pachuca,Guadalajara Chivas,0,1
+Juarez,Queretaro,1,2
+Club Tijuana,Atlas,2,0
+Mazatlan FC,Necaxa,1,1
+Tigres UANL,Atl. San Luis,3,1
+Guadalajara Chivas,Monterrey,4,2
+Club Leon,Puebla,1,2
+Toluca,Club America,2,0
+Cruz Azul,UNAM Pumas,2,3
+Santos Laguna,Pachuca,1,0
+Pachuca,UNAM Pumas,3,1
+Club Tijuana,Juarez,3,1
+Juarez,Toluca,1,2
+Monterrey,Club America,2,0
+Club Tijuana,Tigres UANL,3,0
+Guadalajara Chivas,Cruz Azul,0,0
+Club America,Monterrey,2,1
+Toluca,Juarez,0,0
+Tigres UANL,Club Tijuana,5,0
+Cruz Azul,Guadalajara Chivas,3,2
+Cruz Azul,Tigres UANL,1,1
+Monterrey,Toluca,1,0
+Toluca,Monterrey,3,2
+Tigres UANL,Cruz Azul,1,1
+Tigres UANL,Toluca,1,0
+Toluca,Tigres UANL,2,1
+Atl. San Luis,Tigres UANL,1,2
+UNAM Pumas,Queretaro,1,1
+Monterrey,Toluca,0,1
+Club Leon,Cruz Azul,2,1
+Santos Laguna,Necaxa,1,3
+Guadalajara Chivas,Pachuca,2,0
+Atlas,Puebla,1,0
+Club Tijuana,Club America,0,0
+Mazatlan FC,Juarez,1,2
+Puebla,Mazatlan FC,2,1
+Necaxa,Monterrey,0,2
+Pachuca,Club Leon,2,1
+Juarez,Guadalajara Chivas,0,1
+Cruz Azul,Atlas,2,0
+Queretaro,Club Tijuana,1,2
+Club America,Atl. San Luis,0,2
+Tigres UANL,UNAM Pumas,0,1
+Toluca,Santos Laguna,3,1
+Mazatlan FC,Monterrey,1,5
+Necaxa,Atlas,0,1
+Guadalajara Chivas,Queretaro,2,1
+Tigres UANL,Toluca,0,0
+Cruz Azul,Puebla,1,0
+Club Tijuana,Atl. San Luis,1,1
+UNAM Pumas,Club Leon,1,1
+Santos Laguna,Juarez,2,2
+Pachuca,Club America,0,0
+Puebla,Toluca,0,0
+UNAM Pumas,Santos Laguna,4,0
+Juarez,Cruz Azul,3,4
+Club America,Necaxa,2,0
+Atl. San Luis,Guadalajara Chivas,2,3
+Atlas,Mazatlan FC,1,0
+Monterrey,Club Tijuana,2,2
+Club Leon,Tigres UANL,1,2
+Queretaro,Pachuca,0,0
+Necaxa,Atl. San Luis,4,1
+Tigres UANL,Santos Laguna,5,1
+Club Tijuana,Puebla,0,0
+Mazatlan FC,Guadalajara Chivas,1,2
+Queretaro,Club Leon,2,0
+Toluca,Cruz Azul,1,1
+Atlas,UNAM Pumas,2,2
+Pachuca,Juarez,2,0
+Club America,Monterrey,1,0
+Puebla,UNAM Pumas,2,3
+Toluca,Club Tijuana,1,0
+Atl. San Luis,Queretaro,3,0
+Pachuca,Atlas,3,1
+Monterrey,Club Leon,1,0
+Juarez,Necaxa,1,2
+Guadalajara Chivas,Club America,1,0
+Cruz Azul,Tigres UANL,2,1
+Santos Laguna,Mazatlan FC,1,2
+Tigres UANL,Pachuca,1,2
+Puebla,Club America,0,4
+Atlas,Atl. San Luis,3,2
+Club Leon,Santos Laguna,2,1
+Necaxa,Toluca,0,3
+Cruz Azul,Guadalajara Chivas,2,1
+Club Tijuana,Mazatlan FC,1,1
+UNAM Pumas,Monterrey,2,0
+Mazatlan FC,Pachuca,1,0
+Queretaro,Santos Laguna,2,2
+Juarez,Atlas,3,1
+Club Tijuana,UNAM Pumas,1,1
+Atl. San Luis,Puebla,0,1
+Toluca,Guadalajara Chivas,2,0
+Monterrey,Cruz Azul,0,2
+Club Leon,Necaxa,2,1
+Club America,Tigres UANL,1,4
+Pachuca,Necaxa,2,1
+Santos Laguna,Cruz Azul,1,2
+Atl. San Luis,Mazatlan FC,4,1
+UNAM Pumas,Toluca,2,3
+Monterrey,Queretaro,4,0
+Puebla,Tigres UANL,3,1
+Atlas,Club Tijuana,2,1
+Club America,Juarez,1,2
+Mazatlan FC,Club Leon,4,2
+Necaxa,UNAM Pumas,0,1
+Cruz Azul,Atl. San Luis,3,0
+Queretaro,Club America,1,2
+Atlas,Guadalajara Chivas,1,2
+Pachuca,Puebla,2,1
+Tigres UANL,Monterrey,1,0
+Toluca,Juarez,3,1
+Club Tijuana,Santos Laguna,1,2
+Puebla,Necaxa,0,0
+Juarez,Monterrey,2,2
+Atl. San Luis,Pachuca,1,1
+Guadalajara Chivas,Santos Laguna,3,0
+Club Leon,Club Tijuana,0,3
+Toluca,Atlas,1,1
+UNAM Pumas,Cruz Azul,2,2
+Tigres UANL,Queretaro,0,0
+Club America,Mazatlan FC,2,0

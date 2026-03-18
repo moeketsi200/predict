@@ -1,0 +1,2093 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Luton,AFC Wimbledon,1,0,0,0,5,2,1,1,0,0
+Cardiff,Peterboro,2,1,0,1,4,2,3,1,0,0
+Blackpool,Stevenage,2,3,1,2,2,2,1,4,0,0
+Bradford,Wycombe,2,1,2,0,2,6,3,4,0,0
+Burton,Mansfield,2,1,1,0,1,7,2,2,0,0
+Doncaster,Exeter,1,0,0,0,7,1,0,0,0,0
+Huddersfield,Leyton Orient,3,0,1,0,6,3,3,0,0,0
+Lincoln,Reading,2,0,1,0,3,9,1,0,0,0
+Plymouth,Barnsley,1,3,0,2,9,5,2,3,0,1
+Rotherham,Port Vale,2,1,2,0,6,3,1,1,1,1
+Wigan,Northampton,3,1,2,0,9,3,0,2,0,0
+Stockport,Bolton,2,0,1,0,9,7,2,1,0,0
+Port Vale,Cardiff,0,0,0,0,5,4,3,1,0,0
+Peterboro,Luton,0,2,0,0,3,6,2,2,0,0
+Reading,Huddersfield,0,2,0,0,4,10,4,2,0,0
+AFC Wimbledon,Lincoln,2,0,1,0,6,3,0,0,0,1
+Barnsley,Burton,3,2,0,2,7,4,3,1,0,0
+Bolton,Plymouth,2,0,1,0,8,3,2,4,0,0
+Exeter,Blackpool,4,1,2,1,6,5,1,1,0,0
+Leyton Orient,Wigan,2,0,1,0,2,3,0,1,0,1
+Mansfield,Doncaster,1,2,0,0,2,5,2,1,0,0
+Northampton,Bradford,0,0,0,0,6,3,2,5,0,0
+Stevenage,Rotherham,1,0,1,0,5,5,3,2,0,0
+Wycombe,Stockport,1,2,0,1,8,4,3,1,0,0
+Burton,Port Vale,0,0,0,0,9,3,4,1,0,1
+Exeter,Mansfield,1,2,0,1,3,4,2,1,0,0
+Barnsley,Bolton,1,1,0,0,3,2,2,2,1,0
+Blackpool,Huddersfield,3,2,3,2,1,7,0,2,1,0
+Bradford,Luton,2,1,1,0,2,9,2,2,0,0
+Cardiff,Rotherham,3,0,1,0,7,0,2,3,0,0
+Doncaster,Wycombe,1,1,0,0,6,3,3,2,0,0
+Leyton Orient,Stockport,2,2,0,2,6,4,2,2,0,0
+Lincoln,Plymouth,3,2,1,0,4,6,6,3,0,1
+Reading,AFC Wimbledon,1,2,0,1,3,5,1,1,0,0
+Stevenage,Northampton,2,0,0,0,2,6,2,0,0,0
+Wigan,Peterboro,2,0,2,0,3,10,1,2,0,0
+AFC Wimbledon,Cardiff,0,1,0,0,5,2,2,2,0,0
+Huddersfield,Doncaster,2,0,0,0,7,6,3,3,0,0
+Luton,Wigan,1,0,1,0,8,4,1,2,0,0
+Mansfield,Blackpool,2,0,0,0,4,0,0,0,0,0
+Northampton,Lincoln,0,1,0,1,6,1,3,4,0,0
+Peterboro,Barnsley,0,1,0,1,2,5,1,3,0,0
+Plymouth,Leyton Orient,0,1,0,0,4,2,1,2,0,0
+Port Vale,Stevenage,1,2,1,0,4,2,1,2,0,0
+Stockport,Bradford,1,2,1,0,8,8,1,2,0,0
+Wycombe,Exeter,0,1,0,0,6,7,4,3,0,0
+Bolton,Reading,1,1,0,0,3,1,0,5,0,0
+Luton,Cardiff,0,1,0,0,5,8,2,1,0,0
+Rotherham,Wigan,2,2,0,1,4,6,1,3,0,0
+AFC Wimbledon,Barnsley,2,0,1,0,3,3,2,1,0,0
+Bolton,Lincoln,1,1,0,1,13,2,2,2,0,0
+Huddersfield,Stevenage,1,0,0,0,7,4,2,1,0,0
+Mansfield,Leyton Orient,4,1,2,1,7,7,2,0,0,1
+Northampton,Exeter,2,0,2,0,1,4,0,4,0,0
+Peterboro,Bradford,1,1,0,0,8,6,1,1,0,0
+Plymouth,Blackpool,1,0,0,0,4,4,1,3,0,0
+Port Vale,Doncaster,0,1,0,0,7,6,1,2,0,0
+Stockport,Burton,2,1,0,1,4,8,3,0,1,0
+Wycombe,Reading,2,2,1,2,5,8,1,3,0,0
+Cardiff,Plymouth,4,0,2,0,5,5,3,1,0,0
+Doncaster,Rotherham,1,0,1,0,2,6,3,1,0,0
+Barnsley,Huddersfield,3,1,2,0,3,6,1,2,0,1
+Blackpool,Bolton,1,1,1,0,0,5,1,2,0,0
+Bradford,AFC Wimbledon,3,2,1,1,7,2,0,1,0,0
+Burton,Luton,0,3,0,2,6,4,0,1,0,0
+Exeter,Peterboro,3,0,1,0,5,5,3,2,0,0
+Leyton Orient,Northampton,0,1,0,0,6,6,5,0,0,0
+Lincoln,Mansfield,1,1,1,0,3,11,6,2,1,0
+Reading,Port Vale,1,0,0,0,2,6,2,2,0,0
+Stevenage,Wycombe,1,0,1,0,5,2,2,2,0,0
+Wigan,Stockport,1,1,0,1,2,3,1,2,0,0
+Bolton,AFC Wimbledon,3,0,1,0,8,2,2,1,0,2
+Doncaster,Bradford,3,1,3,1,3,7,0,2,0,0
+Huddersfield,Peterboro,3,2,0,0,1,3,1,1,0,0
+Lincoln,Wigan,2,2,2,1,7,11,3,0,1,1
+Plymouth,Stockport,4,2,2,1,8,7,2,1,0,0
+Port Vale,Leyton Orient,2,3,1,2,5,2,1,3,0,0
+Rotherham,Exeter,1,0,1,0,9,5,1,0,0,0
+Wycombe,Mansfield,2,0,1,0,7,5,3,3,0,0
+Bradford,Huddersfield,3,1,3,0,5,11,1,5,0,0
+Northampton,Blackpool,1,0,0,0,5,5,1,1,0,0
+AFC Wimbledon,Rotherham,2,1,0,1,5,5,2,3,0,0
+Barnsley,Reading,3,2,1,1,5,4,3,5,0,0
+Burton,Lincoln,0,1,0,1,6,3,2,3,0,0
+Exeter,Port Vale,0,2,0,2,8,2,1,2,0,0
+Leyton Orient,Bolton,1,1,0,0,3,8,3,2,0,0
+Luton,Plymouth,2,3,1,2,16,3,2,3,0,1
+Mansfield,Stevenage,1,1,0,0,3,9,2,4,0,0
+Peterboro,Wycombe,2,1,2,0,3,3,3,1,0,0
+Stockport,Cardiff,1,1,1,0,7,2,0,1,0,0
+Wigan,Doncaster,3,0,2,0,10,10,2,1,0,0
+Blackpool,Barnsley,1,0,0,0,7,3,2,1,0,0
+Bolton,Wigan,4,1,3,0,4,16,0,1,0,0
+Lincoln,Luton,3,1,1,0,2,7,1,5,0,0
+Cardiff,Bradford,1,3,0,2,4,7,4,4,0,0
+Doncaster,AFC Wimbledon,1,2,0,0,2,6,1,2,0,0
+Huddersfield,Burton,0,0,0,0,15,5,0,1,0,0
+Plymouth,Peterboro,0,1,0,1,7,1,3,2,0,0
+Port Vale,Mansfield,2,1,0,0,7,0,2,1,0,1
+Reading,Leyton Orient,2,1,1,0,2,6,5,3,0,0
+Rotherham,Stockport,0,1,0,0,1,4,3,2,0,0
+Stevenage,Exeter,2,1,1,1,6,3,1,1,0,0
+Wycombe,Northampton,2,0,1,0,6,3,1,1,0,0
+AFC Wimbledon,Wycombe,2,1,2,0,0,7,0,0,0,0
+Leyton Orient,Stevenage,2,3,1,1,6,7,0,1,0,0
+Barnsley,Port Vale,0,2,0,0,4,3,1,2,0,0
+Bradford,Blackpool,1,0,0,0,3,5,3,0,0,0
+Burton,Plymouth,0,4,0,2,6,5,0,1,0,0
+Exeter,Huddersfield,0,1,0,1,5,8,3,1,0,0
+Luton,Doncaster,1,0,1,0,6,3,2,1,0,0
+Mansfield,Rotherham,2,1,0,1,4,2,3,4,0,0
+Northampton,Bolton,2,0,0,0,4,10,2,1,0,0
+Peterboro,Lincoln,0,3,0,1,1,0,0,2,0,0
+Stockport,Reading,1,1,1,0,5,3,1,1,0,0
+Wigan,Cardiff,0,2,0,1,7,5,1,1,1,0
+Blackpool,Luton,2,2,1,0,3,8,2,1,0,0
+Cardiff,Burton,0,1,0,0,8,3,2,4,0,0
+Rotherham,Bradford,2,2,1,0,5,4,4,4,0,0
+Doncaster,Burton,1,1,1,0,5,10,1,1,0,0
+Wycombe,Barnsley,2,2,0,1,11,4,1,2,0,0
+Blackpool,AFC Wimbledon,0,2,0,1,1,2,3,1,0,0
+Bolton,Peterboro,2,1,2,1,7,1,2,3,0,0
+Cardiff,Leyton Orient,4,3,1,1,6,8,2,2,0,0
+Huddersfield,Stockport,1,2,0,1,10,2,2,1,0,1
+Lincoln,Exeter,0,1,0,0,7,2,0,2,0,0
+Plymouth,Wigan,1,1,0,0,7,5,2,5,0,0
+Port Vale,Northampton,0,0,0,0,3,4,2,1,0,0
+Reading,Mansfield,1,1,0,1,4,5,2,1,0,0
+Stevenage,Luton,2,0,0,0,1,5,3,1,0,0
+Northampton,Rotherham,1,2,1,0,4,4,3,2,0,0
+AFC Wimbledon,Port Vale,1,1,0,0,5,11,2,2,0,0
+Burton,Bolton,3,0,1,0,2,5,1,2,0,0
+Exeter,Reading,1,1,1,1,5,5,1,1,0,0
+Leyton Orient,Doncaster,4,0,2,0,4,5,1,1,0,0
+Stockport,Blackpool,1,0,0,0,4,4,0,2,0,0
+Wigan,Wycombe,0,1,0,1,3,1,1,2,0,0
+Huddersfield,Bolton,1,2,1,0,6,8,1,4,0,0
+Burton,Peterboro,0,1,0,0,6,3,2,2,0,1
+Lincoln,Stevenage,1,0,0,0,1,2,1,1,0,0
+Blackpool,Wycombe,1,1,1,0,2,2,3,0,0,0
+Bradford,Barnsley,2,2,2,1,11,11,0,1,0,0
+Cardiff,Reading,2,1,0,1,4,10,1,0,0,0
+Doncaster,Northampton,1,2,1,0,2,7,1,1,0,0
+Luton,Mansfield,0,2,0,1,5,1,0,0,0,0
+Plymouth,AFC Wimbledon,1,2,1,1,10,2,0,3,0,0
+Rotherham,Leyton Orient,1,0,0,0,2,12,3,3,0,0
+Stockport,Exeter,1,0,1,0,4,3,1,1,0,0
+Wigan,Port Vale,1,0,0,0,4,7,1,2,1,0
+Reading,Northampton,1,0,0,0,8,4,3,0,0,0
+Exeter,Plymouth,2,0,1,0,4,4,3,2,0,0
+Bolton,Cardiff,1,0,0,0,7,3,2,1,0,0
+Mansfield,Wigan,1,1,1,0,10,3,1,3,0,0
+AFC Wimbledon,Burton,0,1,0,0,9,2,2,3,0,0
+Barnsley,Rotherham,0,1,0,0,11,3,4,0,0,0
+Leyton Orient,Lincoln,1,0,0,0,5,3,0,2,0,0
+Northampton,Luton,0,1,0,0,6,10,2,2,0,0
+Peterboro,Blackpool,1,2,1,1,9,1,3,4,0,0
+Reading,Doncaster,1,1,0,0,1,6,1,1,0,0
+Stevenage,Bradford,1,1,1,1,4,1,3,3,0,0
+Wycombe,Huddersfield,3,0,1,0,8,1,1,0,0,1
+Port Vale,Stockport,0,3,0,3,4,5,0,1,0,0
+Bradford,Lincoln,0,0,0,0,2,2,2,0,0,0
+Mansfield,Plymouth,2,0,1,0,7,4,1,2,0,0
+Rotherham,Burton,2,2,0,0,5,3,0,3,0,0
+Reading,Stevenage,1,0,1,0,4,7,3,4,0,0
+Northampton,Mansfield,2,1,0,1,5,4,1,0,0,0
+Wycombe,Leyton Orient,4,1,3,1,5,5,3,3,0,0
+Blackpool,Cardiff,3,1,0,0,5,7,2,2,0,0
+Bolton,Port Vale,4,0,2,0,7,5,1,2,0,0
+Bradford,Burton,1,2,0,2,7,2,2,4,0,0
+Doncaster,Barnsley,1,2,1,1,5,8,1,3,0,0
+Exeter,Wigan,1,1,0,1,8,4,1,1,0,0
+Huddersfield,Plymouth,3,1,1,0,11,3,2,6,0,0
+Peterboro,AFC Wimbledon,5,0,3,0,3,5,2,1,0,0
+Rotherham,Lincoln,3,0,2,0,4,6,1,1,0,0
+Stockport,Luton,0,3,0,2,5,3,0,4,1,0
+Burton,Blackpool,1,0,0,0,7,5,3,4,0,0
+Leyton Orient,Exeter,2,1,0,1,10,3,3,2,0,0
+Lincoln,Doncaster,2,1,1,0,3,1,2,3,0,0
+Luton,Rotherham,0,0,0,0,3,4,1,1,0,0
+Port Vale,Wycombe,0,0,0,0,7,6,6,1,0,0
+Peterboro,Stockport,3,0,2,0,3,6,1,1,0,0
+Port Vale,Plymouth,0,1,0,0,8,2,1,3,0,0
+AFC Wimbledon,Wigan,1,2,0,0,3,4,2,1,0,0
+Barnsley,Luton,5,0,3,0,2,4,2,2,0,0
+Bolton,Bradford,0,0,0,0,4,4,3,3,0,0
+Leyton Orient,Blackpool,1,1,1,0,3,9,3,3,1,0
+Mansfield,Huddersfield,1,3,0,3,4,4,1,1,0,0
+Northampton,Cardiff,1,3,0,1,6,2,0,2,0,0
+Reading,Rotherham,1,1,0,1,4,3,2,3,0,0
+Stevenage,Doncaster,0,0,0,0,4,4,1,2,0,0
+Wycombe,Lincoln,3,2,2,0,1,7,2,1,0,0
+Luton,Huddersfield,2,1,1,0,12,7,0,1,0,0
+Peterboro,Stevenage,0,1,0,1,4,3,3,2,0,0
+Blackpool,Reading,0,3,0,1,2,5,1,0,0,0
+Stockport,Barnsley,1,1,0,1,4,6,0,1,0,0
+Bradford,Exeter,1,0,1,0,7,7,3,2,0,0
+Burton,Leyton Orient,0,4,0,2,2,6,3,0,0,0
+Cardiff,Mansfield,3,0,1,0,6,4,1,1,0,0
+Doncaster,Peterboro,2,1,2,0,3,4,5,2,0,0
+Huddersfield,AFC Wimbledon,3,3,0,1,11,2,2,2,0,0
+Lincoln,Port Vale,1,0,1,0,3,5,3,2,0,0
+Luton,Bolton,1,1,0,1,13,2,1,1,0,1
+Plymouth,Northampton,0,3,0,0,4,8,1,5,1,0
+Rotherham,Wycombe,1,1,0,1,6,5,3,2,0,0
+Wigan,Stevenage,0,0,0,0,3,7,0,1,0,0
+Wigan,Burton,1,0,1,0,7,7,1,1,0,0
+Cardiff,Huddersfield,3,2,1,0,4,9,2,1,0,0
+Plymouth,Bradford,0,1,0,0,5,2,1,3,0,0
+Doncaster,Stockport,0,2,0,0,5,9,4,2,0,0
+Exeter,AFC Wimbledon,1,0,0,0,6,4,2,0,0,0
+Leyton Orient,Luton,1,1,0,0,2,2,1,2,0,0
+Lincoln,Barnsley,3,1,1,0,7,8,0,1,0,0
+Mansfield,Bolton,0,1,0,1,3,5,0,1,1,0
+Northampton,Huddersfield,1,1,1,1,5,1,0,0,0,0
+Wycombe,Plymouth,0,1,0,0,6,2,0,6,0,0
+Reading,Peterboro,1,2,0,1,5,3,1,3,0,0
+Stevenage,Cardiff,0,1,0,0,4,6,4,1,0,0
+Rotherham,Blackpool,0,3,0,2,10,3,1,3,0,0
+AFC Wimbledon,Mansfield,0,0,0,0,7,2,2,3,0,0
+Huddersfield,Wigan,1,1,1,0,6,3,2,2,0,0
+Barnsley,Leyton Orient,3,2,1,2,8,3,1,3,0,0
+Blackpool,Lincoln,2,2,1,2,8,6,1,2,0,0
+Bolton,Exeter,2,1,0,1,6,2,0,4,0,0
+Bradford,Reading,2,0,0,0,3,2,1,3,0,0
+Burton,Wycombe,0,0,0,0,6,6,0,1,0,0
+Cardiff,Doncaster,4,3,2,2,4,2,2,2,0,0
+Luton,Port Vale,2,2,1,1,8,4,1,2,0,0
+Peterboro,Northampton,2,1,1,0,4,8,3,0,0,1
+Plymouth,Rotherham,1,0,1,0,1,12,3,2,0,0
+Stockport,Stevenage,1,3,0,1,5,3,1,2,0,0
+Reading,Luton,3,2,1,0,0,5,2,1,0,0
+Northampton,AFC Wimbledon,3,1,1,1,4,1,2,2,0,0
+Stevenage,Burton,2,2,0,1,5,2,1,1,0,0
+Wigan,Blackpool,0,2,0,0,6,1,2,4,0,0
+Doncaster,Plymouth,1,5,1,3,15,4,2,2,0,0
+Exeter,Barnsley,3,0,1,0,6,3,1,2,0,0
+Leyton Orient,Bradford,2,1,1,1,2,10,3,3,0,0
+Lincoln,Cardiff,2,1,1,0,4,3,3,1,0,0
+Mansfield,Stockport,1,2,1,1,5,0,2,2,0,0
+Port Vale,Peterboro,0,1,0,0,8,5,3,2,0,0
+Rotherham,Huddersfield,1,3,0,3,5,4,2,1,0,0
+Wycombe,Bolton,2,1,2,1,5,7,2,0,0,0
+AFC Wimbledon,Stevenage,0,0,0,0,2,9,1,3,0,0
+Barnsley,Mansfield,2,3,2,1,6,1,0,4,0,0
+Blackpool,Doncaster,1,0,1,0,5,4,3,3,0,0
+Bolton,Rotherham,2,1,1,0,10,0,1,2,0,0
+Bradford,Wigan,2,1,1,0,7,2,2,1,0,2
+Burton,Northampton,5,1,4,1,5,7,3,2,0,0
+Cardiff,Exeter,1,0,0,0,5,4,3,1,0,0
+Huddersfield,Port Vale,5,0,3,0,6,5,2,2,0,0
+Luton,Wycombe,4,0,2,0,6,1,0,2,0,0
+Peterboro,Leyton Orient,1,0,0,0,8,6,2,3,0,0
+Plymouth,Reading,1,4,0,3,5,7,3,3,1,0
+Stockport,Lincoln,1,2,0,1,3,3,2,2,0,0
+AFC Wimbledon,Exeter,0,1,0,1,7,5,3,4,0,0
+Barnsley,Lincoln,0,2,0,1,5,2,4,2,0,0
+Blackpool,Rotherham,4,0,2,0,6,3,1,2,0,1
+Bolton,Mansfield,0,1,0,1,14,2,2,3,0,0
+Bradford,Port Vale,1,0,0,0,11,3,3,3,0,0
+Burton,Wigan,0,2,0,0,8,1,0,1,0,0
+Cardiff,Stevenage,2,1,0,0,6,4,1,2,0,0
+Huddersfield,Northampton,2,0,1,0,8,3,0,3,0,0
+Luton,Leyton Orient,3,0,3,0,2,9,2,0,0,0
+Peterboro,Reading,1,1,0,1,7,2,2,3,0,0
+Plymouth,Wycombe,1,1,0,1,10,6,2,2,0,0
+Stockport,Doncaster,4,2,1,1,4,3,3,2,0,0
+Doncaster,Bolton,1,1,0,0,3,3,2,3,0,0
+Exeter,Luton,1,0,0,0,6,1,3,1,0,0
+Leyton Orient,AFC Wimbledon,1,3,1,1,3,6,2,1,0,0
+Lincoln,Huddersfield,1,1,0,0,4,3,3,2,0,0
+Mansfield,Bradford,3,0,2,0,2,4,2,0,0,0
+Northampton,Stockport,0,0,0,0,5,5,1,3,0,0
+Port Vale,Blackpool,5,1,0,1,5,2,3,3,0,1
+Reading,Burton,2,0,2,0,5,3,0,0,0,0
+Rotherham,Peterboro,0,2,0,0,5,5,5,1,0,0
+Stevenage,Plymouth,1,1,0,0,6,5,2,1,0,0
+Wigan,Barnsley,1,1,1,0,8,6,1,0,0,1
+Wycombe,Cardiff,1,1,1,1,2,2,1,3,0,0
+Bolton,Northampton,0,0,0,0,8,3,0,0,0,0
+Lincoln,Peterboro,5,2,3,1,6,7,2,3,0,0
+Blackpool,Bradford,1,2,0,1,6,6,0,2,0,0
+Cardiff,Wigan,1,0,1,0,18,1,0,0,0,0
+Huddersfield,Exeter,2,2,2,1,6,5,1,1,0,0
+Plymouth,Burton,3,0,1,0,9,4,2,2,0,0
+Reading,Stockport,1,0,0,0,1,5,1,0,0,0
+Wycombe,AFC Wimbledon,2,0,1,0,4,2,2,2,0,0
+Luton,Stevenage,2,1,0,0,3,7,1,2,0,0
+Stockport,Huddersfield,1,0,0,0,8,2,3,1,0,0
+Leyton Orient,Cardiff,1,1,1,1,4,3,1,1,0,0
+Peterboro,Bolton,3,1,1,0,5,5,2,0,0,0
+Bradford,Cardiff,1,2,0,2,2,2,3,2,0,0
+Wigan,Bolton,0,1,0,0,1,6,0,1,0,0
+AFC Wimbledon,Doncaster,0,1,0,0,7,4,2,2,1,0
+Barnsley,Blackpool,2,1,1,0,3,7,2,2,0,0
+Burton,Huddersfield,3,1,1,1,3,8,1,4,0,0
+Exeter,Stevenage,3,0,0,0,1,4,2,2,0,0
+Leyton Orient,Reading,3,1,1,0,6,1,3,3,0,0
+Luton,Lincoln,2,2,2,2,8,7,1,5,0,0
+Mansfield,Port Vale,3,0,0,0,3,2,2,0,0,0
+Northampton,Wycombe,1,2,1,1,6,6,2,3,0,0
+Peterboro,Plymouth,0,1,0,1,8,10,5,4,1,0
+Stockport,Rotherham,3,2,1,1,2,4,3,3,0,0
+Stevenage,Bolton,0,0,0,0,6,4,0,1,0,0
+Lincoln,Burton,2,1,1,1,2,5,3,0,0,0
+Cardiff,Stockport,1,1,1,1,9,1,3,2,0,0
+Huddersfield,Bradford,1,0,1,0,3,2,2,1,1,0
+Plymouth,Luton,1,0,1,0,6,5,4,1,0,0
+Blackpool,Northampton,2,0,1,0,4,3,1,1,0,0
+Bolton,Leyton Orient,2,1,0,0,4,1,3,1,0,0
+Doncaster,Wigan,3,3,2,0,13,6,3,2,0,0
+Port Vale,Exeter,1,3,0,1,12,4,1,4,0,0
+Reading,Barnsley,2,2,1,1,9,6,0,3,0,0
+Rotherham,AFC Wimbledon,1,1,0,0,8,4,2,2,0,0
+Stevenage,Mansfield,1,1,0,0,5,1,4,2,0,0
+Wycombe,Peterboro,0,2,0,1,6,3,0,1,0,0
+Blackpool,Stockport,1,2,0,2,2,10,1,1,0,0
+Bolton,Burton,2,1,0,0,5,4,3,1,0,0
+Cardiff,Barnsley,4,0,2,0,6,3,1,2,0,0
+Huddersfield,Luton,1,0,0,0,6,9,1,2,1,0
+Lincoln,Bradford,3,0,2,0,5,1,1,1,0,0
+Plymouth,Mansfield,1,1,1,1,6,2,2,2,0,0
+Rotherham,Northampton,2,1,0,1,13,4,3,0,0,0
+Stevenage,Peterboro,1,0,0,0,8,4,3,1,0,0
+Wycombe,Wigan,2,0,1,0,3,9,0,0,0,0
+Doncaster,Leyton Orient,3,0,2,0,3,3,2,3,0,0
+Reading,Exeter,2,2,1,1,5,3,4,2,0,0
+AFC Wimbledon,Bolton,0,1,0,1,5,4,1,1,0,0
+Bradford,Doncaster,1,0,0,0,8,3,2,1,0,0
+Northampton,Reading,0,2,0,0,9,3,2,3,0,0
+Barnsley,Stevenage,3,1,2,1,3,7,3,2,0,0
+Burton,Cardiff,2,2,1,0,5,4,2,1,0,0
+Exeter,Rotherham,0,4,0,1,4,5,3,1,0,0
+Leyton Orient,Port Vale,0,1,0,1,5,6,2,2,0,0
+Luton,Blackpool,1,0,0,0,5,3,1,0,0,0
+Mansfield,Wycombe,0,0,0,0,5,6,0,1,0,0
+Peterboro,Huddersfield,2,3,0,1,7,4,5,3,0,0
+Stockport,Plymouth,2,1,0,1,6,6,0,4,0,0
+Wigan,Lincoln,0,1,0,1,6,1,1,1,0,0
+Port Vale,AFC Wimbledon,0,1,0,0,10,1,3,2,0,0
+Barnsley,Northampton,2,2,1,1,6,7,2,1,0,0
+Burton,Doncaster,1,2,0,2,20,7,1,2,0,0
+Luton,Bradford,2,1,1,0,5,5,2,2,0,0
+Port Vale,Burton,2,2,2,1,5,6,2,3,0,0
+AFC Wimbledon,Reading,3,2,1,1,6,3,0,1,0,0
+Bolton,Barnsley,3,2,3,0,11,1,3,2,0,0
+Huddersfield,Blackpool,2,2,0,2,4,6,2,5,0,0
+Mansfield,Exeter,0,0,0,0,4,4,1,4,0,0
+Northampton,Stevenage,3,1,2,1,7,3,4,3,0,0
+Peterboro,Wigan,6,1,3,1,3,10,1,3,0,0
+Plymouth,Lincoln,1,4,1,1,5,8,2,4,0,0
+Rotherham,Cardiff,0,3,0,1,5,5,3,3,0,1
+Stockport,Leyton Orient,0,0,0,0,4,2,1,2,1,0
+Wycombe,Doncaster,4,0,1,0,8,1,1,1,0,0
+Mansfield,Peterboro,1,2,0,0,19,0,2,2,0,0
+Wigan,Reading,1,2,0,0,3,4,1,1,0,0
+Reading,Wycombe,3,2,2,0,1,8,3,2,0,0
+Stevenage,Huddersfield,1,0,0,0,3,4,3,3,0,0
+Barnsley,AFC Wimbledon,3,3,2,2,10,5,2,0,0,0
+Blackpool,Plymouth,0,4,0,3,4,6,1,3,1,0
+Bradford,Peterboro,2,0,1,0,10,5,3,3,0,0
+Cardiff,Luton,3,1,3,1,7,3,3,2,0,0
+Exeter,Northampton,0,0,0,0,11,1,0,1,0,0
+Lincoln,Bolton,1,1,1,0,4,3,2,5,0,0
+Barnsley,Peterboro,2,1,1,1,3,5,2,1,0,0
+Bradford,Stockport,1,0,0,0,4,2,3,2,0,0
+Burton,Rotherham,1,0,1,0,10,3,1,2,0,0
+Cardiff,AFC Wimbledon,4,1,1,1,4,5,0,2,0,0
+Doncaster,Huddersfield,1,0,1,0,0,5,4,1,0,0
+Exeter,Wycombe,1,1,0,1,8,4,0,2,0,0
+Leyton Orient,Plymouth,1,3,1,1,6,6,4,2,0,0
+Lincoln,Northampton,4,0,1,0,9,1,1,1,0,1
+Stevenage,Port Vale,2,1,2,1,6,1,3,2,0,0
+Blackpool,Mansfield,1,0,1,0,4,1,5,0,0,0
+Reading,Bolton,1,1,1,0,4,6,4,1,0,0
+Wigan,Luton,1,0,0,0,7,4,4,2,0,0
+Plymouth,Cardiff,5,2,3,2,3,8,3,4,0,0
+Rotherham,Doncaster,1,2,1,0,2,3,3,3,0,0
+Wycombe,Stevenage,3,1,1,0,6,4,1,1,0,0
+AFC Wimbledon,Bradford,3,1,2,0,3,2,1,0,0,0
+Bolton,Blackpool,2,2,0,0,15,5,1,3,0,0
+Huddersfield,Barnsley,2,1,0,1,10,7,1,2,0,0
+Luton,Burton,1,1,1,0,1,6,3,3,0,0
+Mansfield,Lincoln,0,2,0,1,2,4,2,3,0,0
+Northampton,Leyton Orient,1,2,0,1,7,4,1,2,0,0
+Peterboro,Exeter,3,3,1,0,6,1,1,4,0,0
+Port Vale,Reading,1,1,0,1,9,3,0,2,0,0
+Stockport,Wigan,4,2,2,2,6,1,1,1,0,2
+Bradford,Rotherham,1,0,1,0,6,7,1,1,0,0
+Burton,Stockport,3,0,0,0,1,3,1,4,0,0
+Northampton,Port Vale,0,1,0,1,6,0,1,0,0,0
+Leyton Orient,Barnsley,1,3,1,1,5,1,1,1,0,0
+Northampton,Peterboro,1,1,1,0,5,2,1,2,0,0
+Doncaster,Cardiff,0,4,0,1,3,9,2,0,0,0
+Exeter,Bolton,1,5,0,1,4,3,2,1,0,0
+Lincoln,Blackpool,4,0,1,0,7,6,1,4,0,0
+Mansfield,AFC Wimbledon,2,2,2,1,7,6,2,1,0,0
+Port Vale,Luton,1,1,1,1,6,6,3,3,0,0
+Reading,Bradford,2,1,0,0,5,6,3,0,0,0
+Rotherham,Plymouth,1,0,1,0,3,8,5,5,0,0
+Stevenage,Stockport,2,1,1,1,2,7,1,5,0,0
+Wigan,Huddersfield,1,0,0,0,4,6,2,3,0,0
+Wycombe,Burton,3,0,1,0,3,4,3,2,0,0
+Barnsley,Wycombe,0,1,0,0,2,3,3,3,0,0
+Exeter,Burton,1,1,0,0,11,5,1,2,0,0
+Rotherham,Mansfield,0,0,0,0,3,6,2,1,0,0
+Cardiff,Lincoln,0,2,0,0,6,2,0,3,0,0
+Huddersfield,Rotherham,1,0,0,0,3,2,0,1,0,0
+Barnsley,Exeter,2,1,2,0,6,6,1,1,0,0
+Blackpool,Wigan,1,1,1,1,3,5,2,1,0,0
+Bolton,Wycombe,3,2,0,2,6,4,3,4,0,0
+Bradford,Leyton Orient,2,1,1,1,11,2,6,3,1,0
+Burton,Stevenage,0,1,0,1,9,5,1,3,0,0
+Luton,Reading,2,3,1,1,10,4,1,4,0,0
+Plymouth,Doncaster,2,1,1,1,1,2,5,4,0,0
+AFC Wimbledon,Northampton,1,0,1,0,9,6,0,1,0,0
+Barnsley,Cardiff,1,1,1,1,4,13,0,1,0,0
+Doncaster,Luton,1,1,0,1,5,3,1,3,0,0
+Exeter,Lincoln,0,1,0,1,6,7,2,4,0,0
+Mansfield,Reading,1,0,0,0,13,6,0,2,0,0
+Stevenage,Leyton Orient,1,2,1,1,5,2,1,4,0,0
+Wigan,Plymouth,0,3,0,2,5,8,0,2,0,0
+AFC Wimbledon,Blackpool,4,1,1,0,6,8,0,0,0,0
+Port Vale,Bradford,0,2,0,1,2,11,2,2,0,0
+Lincoln,Stockport,3,1,1,0,4,5,3,1,0,0
+Rotherham,Bolton,2,2,2,0,8,6,3,1,0,0
+Doncaster,Blackpool,2,1,1,0,7,1,0,3,0,1
+Exeter,Cardiff,0,4,0,2,0,10,0,0,0,0
+Leyton Orient,Peterboro,2,1,1,0,7,2,2,2,0,0
+Mansfield,Barnsley,2,2,0,1,3,5,0,3,0,0
+Northampton,Burton,0,2,0,1,7,4,2,2,0,0
+Port Vale,Huddersfield,0,0,0,0,2,6,3,1,0,0
+Reading,Plymouth,2,2,2,1,3,3,1,3,0,0
+Stevenage,AFC Wimbledon,1,0,1,0,1,7,2,2,0,0
+Wigan,Bradford,2,0,1,0,2,2,4,2,0,0
+Wycombe,Luton,1,2,0,2,3,3,3,1,0,0
+Barnsley,Mansfield,1,2,1,2,3,6,1,3,0,0
+Birmingham,Reading,1,1,0,1,3,6,0,1,0,0
+Bristol Rvs,Northampton,1,0,0,0,6,6,1,2,0,0
+Burton,Lincoln,2,3,2,2,4,4,1,2,0,0
+Crawley Town,Blackpool,2,1,2,0,2,10,4,2,0,0
+Exeter,Rotherham,1,0,0,0,2,4,2,1,0,0
+Leyton Orient,Bolton,1,2,1,1,7,2,4,0,0,0
+Peterboro,Huddersfield,0,2,0,2,3,10,1,1,0,0
+Stevenage,Shrewsbury,1,0,0,0,4,1,1,4,0,0
+Stockport,Cambridge,2,0,1,0,5,3,4,2,0,0
+Wigan,Charlton,0,1,0,0,7,6,1,1,0,0
+Wrexham,Wycombe,3,2,2,0,5,7,3,1,0,0
+Charlton,Leyton Orient,1,0,0,0,9,2,1,4,0,0
+Shrewsbury,Peterboro,1,4,1,1,3,7,3,0,0,0
+Blackpool,Stockport,0,3,0,0,3,2,3,1,0,0
+Cambridge,Crawley Town,0,1,0,0,2,5,4,4,0,0
+Huddersfield,Stevenage,2,1,1,0,8,4,4,2,0,0
+Lincoln,Barnsley,1,2,0,1,4,7,0,2,0,0
+Mansfield,Burton,3,3,2,1,5,7,1,3,0,0
+Northampton,Exeter,2,1,0,1,3,8,2,2,0,0
+Reading,Wigan,2,0,1,0,6,5,0,3,0,0
+Rotherham,Bristol Rvs,0,0,0,0,5,0,3,2,0,0
+Wycombe,Birmingham,2,3,1,1,1,9,3,2,0,0
+Bolton,Wrexham,0,0,0,0,8,8,2,1,0,0
+Burton,Stevenage,0,0,0,0,3,5,3,5,0,0
+Stockport,Bristol Rvs,2,0,1,0,8,4,0,3,0,0
+Barnsley,Northampton,2,2,1,0,2,3,2,0,0,0
+Cambridge,Blackpool,4,4,1,3,2,10,2,4,0,0
+Charlton,Bolton,2,0,1,0,3,3,3,3,0,0
+Exeter,Peterboro,1,2,1,2,11,5,1,3,0,0
+Huddersfield,Shrewsbury,1,0,1,0,5,2,1,0,0,0
+Leyton Orient,Birmingham,1,2,1,2,6,5,2,2,0,0
+Lincoln,Mansfield,4,1,2,0,8,3,3,3,0,0
+Wigan,Crawley Town,1,0,1,0,4,9,2,2,0,0
+Wrexham,Reading,3,0,2,0,2,3,0,2,0,0
+Wycombe,Rotherham,2,0,0,0,4,8,1,2,0,0
+Blackpool,Wycombe,2,2,1,1,6,1,2,1,0,0
+Rotherham,Huddersfield,2,1,0,0,17,3,2,3,0,1
+Birmingham,Wigan,2,1,1,0,7,3,0,3,0,0
+Bolton,Exeter,0,2,0,1,5,7,3,5,0,0
+Bristol Rvs,Cambridge,2,0,1,0,5,8,1,1,0,0
+Crawley Town,Barnsley,0,3,0,3,6,9,2,2,0,0
+Mansfield,Stockport,1,1,1,1,2,6,0,1,0,0
+Northampton,Burton,0,0,0,0,3,4,3,3,0,0
+Peterboro,Wrexham,0,2,0,2,2,5,1,2,0,0
+Reading,Charlton,2,0,0,0,5,5,4,3,0,0
+Shrewsbury,Leyton Orient,3,0,1,0,1,2,2,1,0,0
+Stevenage,Lincoln,0,1,0,0,5,2,3,3,0,1
+Barnsley,Bristol Rvs,2,1,1,1,12,5,4,0,0,0
+Charlton,Rotherham,1,1,0,0,2,3,1,0,0,0
+Wrexham,Shrewsbury,3,0,2,0,5,7,3,4,0,0
+Mansfield,Cambridge,2,1,1,0,3,4,1,3,0,0
+Northampton,Wycombe,1,2,1,1,5,2,2,4,0,0
+Blackpool,Exeter,2,1,1,0,11,5,7,4,0,0
+Bolton,Huddersfield,0,4,0,1,5,6,1,1,0,0
+Bristol Rvs,Wigan,0,4,0,2,5,4,0,1,1,0
+Crawley Town,Stockport,1,1,0,1,5,6,2,2,0,0
+Peterboro,Lincoln,1,1,0,1,5,3,3,1,0,0
+Reading,Leyton Orient,0,1,0,1,1,7,0,6,0,0
+Rotherham,Burton,2,2,1,1,7,4,1,1,0,0
+Shrewsbury,Charlton,0,1,0,0,7,7,1,3,0,0
+Stevenage,Barnsley,3,0,0,0,7,10,4,2,0,0
+Birmingham,Wrexham,3,1,1,1,5,1,3,3,1,0
+Exeter,Stevenage,2,0,1,0,8,4,1,2,0,0
+Lincoln,Wigan,0,0,0,0,3,1,2,1,0,0
+Bolton,Reading,5,2,4,1,6,7,4,2,0,0
+Burton,Barnsley,1,2,0,1,3,4,2,2,0,0
+Charlton,Blackpool,1,2,0,2,4,1,2,1,0,0
+Huddersfield,Northampton,1,3,0,2,7,1,2,4,0,1
+Mansfield,Shrewsbury,2,1,0,1,3,4,1,4,0,0
+Peterboro,Bristol Rvs,3,2,2,0,2,5,2,1,0,0
+Rotherham,Birmingham,0,2,0,2,9,8,3,2,0,0
+Stockport,Leyton Orient,1,4,0,2,6,1,1,2,0,0
+Wrexham,Crawley Town,2,1,1,0,7,8,1,0,0,0
+Wycombe,Cambridge,2,1,1,1,9,2,1,2,0,0
+Huddersfield,Blackpool,0,2,0,2,10,2,2,0,0,0
+Leyton Orient,Peterboro,2,2,1,2,7,3,2,1,0,0
+Wigan,Stevenage,0,0,0,0,8,1,3,4,0,0
+Crawley Town,Bolton,0,2,0,1,6,4,2,3,0,0
+Reading,Huddersfield,2,1,1,1,2,11,1,3,0,0
+Birmingham,Peterboro,3,2,1,2,7,6,3,3,0,0
+Blackpool,Burton,3,0,1,0,7,11,0,1,0,0
+Bristol Rvs,Wycombe,1,2,1,0,2,4,2,2,0,0
+Cambridge,Lincoln,0,2,0,1,6,2,1,3,0,0
+Leyton Orient,Wrexham,0,0,0,0,1,3,1,3,0,0
+Northampton,Mansfield,0,2,0,0,6,4,0,3,0,0
+Shrewsbury,Rotherham,1,1,1,0,3,5,2,2,0,0
+Stevenage,Charlton,1,0,0,0,12,6,4,4,0,0
+Wigan,Exeter,0,0,0,0,6,6,0,2,0,0
+Barnsley,Stockport,1,1,1,0,3,5,3,1,0,0
+Barnsley,Wycombe,2,2,0,0,14,7,1,3,0,0
+Birmingham,Huddersfield,1,0,0,0,5,3,4,1,0,0
+Blackpool,Lincoln,1,1,0,0,7,5,0,3,0,1
+Bristol Rvs,Charlton,3,2,1,0,4,7,1,2,0,0
+Cambridge,Rotherham,0,1,0,0,7,2,4,1,0,0
+Crawley Town,Mansfield,0,2,0,1,8,9,6,3,0,0
+Leyton Orient,Exeter,0,1,0,1,4,6,2,3,0,1
+Northampton,Bolton,2,4,0,2,4,5,4,4,0,0
+Shrewsbury,Stockport,0,2,0,1,5,5,2,6,0,0
+Stevenage,Wrexham,1,0,1,0,2,3,2,3,0,0
+Wigan,Peterboro,3,0,1,0,3,8,3,4,0,0
+Reading,Burton,3,1,2,0,4,5,2,2,0,0
+Huddersfield,Barnsley,2,0,0,0,17,4,4,2,0,0
+Peterboro,Stevenage,2,1,1,0,8,9,3,2,0,0
+Bolton,Shrewsbury,2,2,0,2,8,3,0,5,0,0
+Burton,Bristol Rvs,1,3,1,0,0,5,3,2,1,0
+Charlton,Birmingham,1,0,0,0,5,5,3,1,0,0
+Exeter,Cambridge,1,0,1,0,7,4,2,2,0,0
+Lincoln,Leyton Orient,2,1,0,0,3,7,4,3,0,0
+Mansfield,Blackpool,2,0,2,0,10,3,4,1,0,0
+Rotherham,Reading,2,1,0,1,9,5,3,3,0,1
+Stockport,Wigan,0,0,0,0,1,2,3,3,0,0
+Wrexham,Northampton,4,1,2,1,4,5,1,1,0,0
+Wycombe,Crawley Town,1,0,1,0,7,2,1,6,0,0
+Crawley Town,Shrewsbury,3,5,1,1,4,6,3,4,1,0
+Peterboro,Rotherham,3,3,1,3,8,3,3,1,0,0
+Shrewsbury,Exeter,0,2,0,1,3,4,0,1,0,0
+Reading,Crawley Town,4,1,2,1,2,13,1,2,0,0
+Wycombe,Peterboro,3,1,0,0,4,1,1,3,0,1
+Blackpool,Barnsley,1,2,0,1,4,6,2,1,0,0
+Bolton,Burton,2,1,0,0,8,4,2,3,0,0
+Cambridge,Wigan,2,0,2,0,0,4,5,2,0,0
+Charlton,Stockport,1,1,0,1,12,2,1,4,0,1
+Huddersfield,Bristol Rvs,3,1,2,0,9,1,1,2,0,0
+Lincoln,Birmingham,1,3,1,1,8,5,0,3,0,0
+Mansfield,Stevenage,0,1,0,1,9,2,2,1,0,0
+Northampton,Leyton Orient,1,0,0,0,0,4,3,3,0,0
+Rotherham,Wrexham,0,1,0,1,8,4,1,3,0,0
+Barnsley,Charlton,2,2,1,0,11,5,3,1,0,0
+Birmingham,Bolton,2,0,1,0,6,1,1,4,0,0
+Bristol Rvs,Shrewsbury,1,0,0,0,5,10,4,1,0,0
+Burton,Wycombe,2,3,1,1,5,6,1,4,0,0
+Crawley Town,Lincoln,3,0,0,0,0,10,2,2,0,0
+Exeter,Reading,1,2,0,2,8,5,1,1,0,0
+Leyton Orient,Rotherham,1,0,0,0,3,8,2,1,0,0
+Peterboro,Blackpool,5,1,3,1,2,3,1,1,0,0
+Stevenage,Cambridge,0,2,0,1,4,3,2,2,0,0
+Stockport,Northampton,1,1,0,0,6,1,1,4,0,0
+Wigan,Mansfield,1,2,0,1,4,1,0,3,0,0
+Wrexham,Huddersfield,0,0,0,0,5,3,1,3,0,0
+Mansfield,Birmingham,1,1,0,1,3,6,2,1,0,0
+Reading,Bristol Rvs,1,0,0,0,4,10,1,3,0,1
+Bolton,Peterboro,1,0,0,0,15,3,3,4,0,0
+Cambridge,Burton,1,0,0,0,4,3,2,3,0,0
+Charlton,Wrexham,2,2,1,1,6,2,3,4,0,0
+Huddersfield,Exeter,2,0,1,0,7,4,0,0,0,0
+Lincoln,Stockport,2,1,1,1,11,4,1,0,0,0
+Northampton,Crawley Town,3,0,2,0,8,9,1,2,0,0
+Rotherham,Stevenage,2,0,0,0,5,3,3,3,0,0
+Shrewsbury,Barnsley,0,2,0,1,4,8,1,1,0,0
+Wycombe,Leyton Orient,3,0,2,0,2,6,0,2,0,0
+Blackpool,Wigan,2,2,1,2,2,4,2,3,0,0
+Lincoln,Northampton,2,1,1,1,9,1,3,4,0,1
+Stevenage,Bolton,1,4,0,2,10,4,3,4,0,0
+Stockport,Reading,4,1,3,1,4,2,1,1,0,0
+Burton,Crawley Town,0,0,0,0,6,4,3,1,0,0
+Stockport,Wycombe,0,5,0,3,6,5,3,0,0,0
+Barnsley,Rotherham,2,0,1,0,8,5,1,1,0,0
+Burton,Shrewsbury,2,0,1,0,4,4,1,1,0,0
+Wrexham,Mansfield,1,0,1,0,0,4,2,2,0,0
+Birmingham,Northampton,1,1,0,0,10,2,1,3,0,0
+Bristol Rvs,Lincoln,1,1,1,0,6,6,4,2,0,0
+Crawley Town,Huddersfield,2,2,1,0,1,8,2,0,0,0
+Exeter,Charlton,1,0,0,0,13,8,2,1,0,0
+Leyton Orient,Blackpool,3,0,1,0,6,2,4,1,0,0
+Peterboro,Cambridge,6,1,4,0,3,8,2,0,0,0
+Stevenage,Reading,1,1,1,0,3,7,0,1,0,0
+Stockport,Bolton,5,0,1,0,4,6,1,0,0,0
+Wigan,Wycombe,0,1,0,1,9,5,2,2,0,0
+Exeter,Lincoln,0,0,0,0,5,5,1,2,1,0
+Blackpool,Northampton,0,0,0,0,5,6,0,1,0,0
+Bristol Rvs,Crawley Town,0,0,0,0,8,6,1,2,0,0
+Cambridge,Barnsley,1,1,1,1,4,5,3,3,0,0
+Stockport,Wrexham,1,0,1,0,9,2,4,3,0,0
+Bolton,Blackpool,2,1,0,1,1,3,5,5,0,0
+Shrewsbury,Birmingham,3,2,2,1,1,2,2,1,0,0
+Stevenage,Leyton Orient,0,0,0,0,4,5,2,3,0,0
+Barnsley,Wigan,0,1,0,1,10,2,2,3,0,0
+Burton,Stockport,0,3,0,2,2,4,3,3,0,0
+Crawley Town,Rotherham,1,0,1,0,3,6,3,2,0,0
+Huddersfield,Charlton,2,1,1,1,4,7,2,1,0,1
+Lincoln,Wycombe,2,3,1,2,4,7,4,1,0,0
+Mansfield,Bristol Rvs,0,1,0,0,8,4,3,2,0,0
+Northampton,Cambridge,0,0,0,0,4,8,0,1,0,0
+Peterboro,Reading,1,2,0,2,10,2,1,2,0,0
+Wrexham,Exeter,3,0,2,0,8,9,1,2,0,0
+Barnsley,Reading,2,2,1,0,11,4,1,0,0,0
+Bristol Rvs,Blackpool,0,2,0,1,2,2,3,4,0,0
+Burton,Charlton,0,1,0,0,3,7,0,6,1,0
+Cambridge,Bolton,1,1,0,0,4,5,2,5,1,0
+Exeter,Birmingham,0,2,0,1,2,7,4,2,0,0
+Leyton Orient,Huddersfield,0,2,0,1,8,4,2,1,0,0
+Wigan,Northampton,2,1,2,0,9,4,1,1,0,0
+Wrexham,Lincoln,1,0,0,0,1,6,1,0,0,0
+Wycombe,Mansfield,1,0,0,0,3,4,1,1,0,0
+Bolton,Mansfield,3,1,0,1,6,4,1,3,0,1
+Charlton,Crawley Town,1,2,0,1,3,0,0,1,0,0
+Exeter,Wycombe,2,2,2,1,6,1,0,1,0,0
+Leyton Orient,Bristol Rvs,3,0,3,0,5,1,1,1,0,0
+Rotherham,Lincoln,2,1,1,0,3,5,3,4,0,0
+Stevenage,Northampton,2,0,0,0,14,2,3,2,0,1
+Wrexham,Barnsley,1,0,0,0,5,4,3,3,0,0
+Huddersfield,Wigan,1,0,0,0,5,4,2,3,0,0
+Reading,Cambridge,3,0,0,0,6,4,2,1,0,0
+Birmingham,Stockport,2,0,2,0,5,5,4,2,0,0
+Peterboro,Burton,0,1,0,0,11,4,0,0,0,0
+Shrewsbury,Blackpool,1,2,1,0,7,4,3,1,0,0
+Lincoln,Charlton,0,0,0,0,7,4,0,2,0,0
+Wigan,Leyton Orient,0,2,0,1,3,1,1,1,0,0
+Barnsley,Birmingham,1,2,0,0,4,2,3,3,1,0
+Burton,Wrexham,0,1,0,0,4,8,1,0,0,0
+Cambridge,Shrewsbury,4,1,2,0,5,5,2,1,0,0
+Mansfield,Huddersfield,1,2,1,2,6,7,1,3,0,0
+Stockport,Exeter,2,0,0,0,2,2,2,3,0,0
+Wycombe,Reading,1,1,1,1,8,5,4,2,0,0
+Northampton,Peterboro,2,1,1,1,7,4,0,0,0,0
+Bolton,Wigan,0,2,0,1,2,2,3,4,0,0
+Leyton Orient,Burton,0,0,0,0,11,5,1,2,0,0
+Birmingham,Bristol Rvs,2,0,2,0,8,0,0,0,0,0
+Charlton,Mansfield,0,0,0,0,5,5,2,3,0,0
+Exeter,Barnsley,1,2,1,0,2,4,0,3,0,0
+Huddersfield,Lincoln,2,2,0,2,6,7,1,2,0,0
+Peterboro,Crawley Town,4,3,2,1,6,7,0,2,0,0
+Reading,Blackpool,0,3,0,2,7,6,3,0,0,0
+Rotherham,Northampton,3,0,2,0,4,1,1,2,0,0
+Shrewsbury,Wycombe,1,4,0,2,4,3,1,4,0,0
+Stevenage,Stockport,2,1,1,1,4,3,3,3,0,0
+Wrexham,Cambridge,2,2,1,1,6,9,3,2,0,0
+Cambridge,Huddersfield,0,4,0,3,3,4,1,2,0,0
+Stockport,Peterboro,2,1,1,1,2,1,3,4,0,0
+Wycombe,Bolton,0,0,0,0,7,3,1,3,0,0
+Bristol Rvs,Wrexham,1,1,0,1,3,7,3,4,0,0
+Lincoln,Reading,2,0,1,0,9,0,2,1,0,1
+Barnsley,Leyton Orient,0,4,0,2,5,8,0,3,0,0
+Blackpool,Stevenage,0,0,0,0,6,8,3,1,0,0
+Burton,Exeter,1,2,1,1,4,0,4,4,0,0
+Mansfield,Rotherham,1,0,1,0,4,8,1,0,0,0
+Northampton,Charlton,0,5,0,3,2,4,2,3,0,0
+Wigan,Shrewsbury,2,2,1,0,4,3,3,3,0,0
+Crawley Town,Birmingham,0,1,0,0,3,6,1,1,0,0
+Leyton Orient,Crawley Town,3,0,1,0,4,3,2,3,0,0
+Birmingham,Burton,2,0,1,0,8,0,0,2,0,0
+Bolton,Barnsley,1,2,1,0,7,8,4,4,0,0
+Charlton,Cambridge,2,1,2,0,4,2,0,1,0,0
+Exeter,Bristol Rvs,3,1,0,0,4,5,2,2,0,0
+Huddersfield,Stockport,1,0,1,0,2,5,1,2,0,0
+Peterboro,Mansfield,0,3,0,3,1,14,2,4,1,0
+Reading,Northampton,4,1,2,0,4,5,0,2,0,0
+Rotherham,Wigan,0,1,0,1,4,5,1,1,0,0
+Shrewsbury,Lincoln,1,0,1,0,6,2,4,4,0,0
+Stevenage,Wycombe,0,3,0,2,3,6,3,0,0,0
+Wrexham,Blackpool,2,1,1,1,5,1,0,1,0,0
+Charlton,Wycombe,2,1,0,0,3,2,1,1,0,0
+Rotherham,Stockport,1,1,1,1,3,5,3,2,0,0
+Birmingham,Blackpool,0,0,0,0,4,5,1,1,0,0
+Bolton,Lincoln,3,0,1,0,7,2,0,3,0,1
+Exeter,Crawley Town,4,4,1,4,6,3,3,2,0,0
+Huddersfield,Burton,1,1,0,1,17,4,1,1,0,1
+Leyton Orient,Cambridge,2,0,1,0,6,7,2,2,0,0
+Peterboro,Barnsley,1,3,0,0,1,7,0,2,1,0
+Reading,Mansfield,2,1,1,1,0,7,2,2,0,0
+Shrewsbury,Northampton,1,1,0,0,7,5,3,1,0,0
+Stevenage,Bristol Rvs,3,0,1,0,3,7,2,3,0,1
+Wrexham,Wigan,2,1,0,0,2,8,2,3,0,0
+Barnsley,Wrexham,2,1,2,0,5,11,3,0,0,0
+Blackpool,Shrewsbury,1,1,0,0,3,3,0,3,0,0
+Bristol Rvs,Leyton Orient,2,3,1,2,5,6,2,3,0,0
+Burton,Peterboro,2,2,2,1,3,11,3,1,0,0
+Cambridge,Reading,1,3,0,1,9,3,1,2,0,0
+Lincoln,Rotherham,0,1,0,0,1,2,0,1,0,0
+Mansfield,Bolton,2,1,2,1,4,8,4,5,0,0
+Northampton,Stevenage,0,0,0,0,6,4,2,0,0,0
+Stockport,Birmingham,1,1,0,1,9,3,2,1,0,0
+Wycombe,Exeter,2,1,0,0,2,4,0,4,0,0
+Burton,Northampton,0,1,0,0,4,1,1,1,0,0
+Cambridge,Bristol Rvs,0,1,0,1,4,2,2,4,1,0
+Barnsley,Crawley Town,3,0,1,0,4,4,3,2,0,0
+Charlton,Reading,0,0,0,0,7,5,0,2,0,0
+Exeter,Bolton,1,2,0,0,5,8,2,5,0,0
+Huddersfield,Rotherham,0,0,0,0,6,3,2,2,1,0
+Leyton Orient,Shrewsbury,1,0,0,0,9,7,1,2,0,0
+Lincoln,Stevenage,0,0,0,0,7,6,2,1,0,0
+Stockport,Mansfield,1,2,1,2,6,3,0,2,0,0
+Wigan,Birmingham,0,3,0,2,4,2,2,3,0,0
+Wrexham,Peterboro,1,0,0,0,7,6,2,2,0,0
+Wycombe,Blackpool,1,1,1,0,2,6,2,2,1,0
+Wycombe,Huddersfield,0,1,0,1,8,2,0,3,0,0
+Rotherham,Bolton,3,1,2,0,7,1,1,1,0,0
+Shrewsbury,Wrexham,2,1,1,1,2,4,4,2,0,0
+Blackpool,Huddersfield,2,2,2,0,5,6,0,2,0,0
+Peterboro,Leyton Orient,0,0,0,0,4,2,1,2,0,0
+Northampton,Lincoln,0,1,0,1,8,2,2,1,0,0
+Birmingham,Exeter,1,0,1,0,7,1,2,3,0,1
+Bolton,Cambridge,2,2,1,2,5,0,3,2,0,0
+Bristol Rvs,Barnsley,3,1,1,0,2,14,1,0,0,0
+Crawley Town,Burton,1,1,0,1,3,3,5,2,0,0
+Mansfield,Wycombe,1,2,0,0,5,5,1,1,0,0
+Reading,Stockport,1,3,0,2,1,2,3,2,0,0
+Rotherham,Charlton,4,2,3,1,4,1,2,1,0,0
+Stevenage,Wigan,1,2,0,0,3,3,1,3,1,1
+Bolton,Charlton,1,2,0,0,5,5,3,4,0,0
+Peterboro,Exeter,1,1,1,0,5,4,1,0,0,0
+Wigan,Burton,1,2,1,1,3,3,2,3,0,0
+Wrexham,Birmingham,1,1,1,1,5,5,1,0,0,0
+Cambridge,Mansfield,3,2,2,0,3,3,2,2,0,0
+Huddersfield,Bolton,0,1,0,0,7,1,2,5,0,0
+Barnsley,Stevenage,0,1,0,0,7,8,1,2,0,0
+Burton,Rotherham,4,2,3,1,6,5,2,0,0,0
+Charlton,Shrewsbury,1,0,0,0,9,5,3,1,0,0
+Exeter,Blackpool,1,3,0,3,5,9,1,2,0,0
+Leyton Orient,Reading,2,0,1,0,9,4,2,2,0,0
+Lincoln,Peterboro,5,1,2,0,2,2,2,3,0,0
+Stockport,Crawley Town,2,0,2,0,7,0,0,3,0,0
+Wigan,Bristol Rvs,2,0,1,0,2,3,1,3,0,0
+Wycombe,Northampton,0,0,0,0,3,1,0,2,0,0
+Bolton,Northampton,3,1,2,1,4,3,1,2,0,0
+Burton,Reading,3,2,2,0,6,6,0,2,0,0
+Charlton,Bristol Rvs,2,0,2,0,9,5,1,1,0,0
+Exeter,Leyton Orient,2,6,0,4,3,4,0,4,0,0
+Lincoln,Blackpool,0,2,0,1,5,3,0,3,0,0
+Mansfield,Crawley Town,0,1,0,0,7,6,1,2,0,0
+Peterboro,Wigan,1,0,1,0,4,5,3,2,0,0
+Rotherham,Cambridge,2,1,0,0,8,2,1,2,0,0
+Stockport,Shrewsbury,1,0,1,0,8,2,2,2,0,0
+Wrexham,Stevenage,2,3,0,2,4,2,1,3,0,0
+Wycombe,Barnsley,2,1,0,1,8,2,3,4,0,1
+Huddersfield,Birmingham,0,1,0,0,6,6,2,2,0,0
+Barnsley,Burton,0,0,0,0,6,4,1,2,0,0
+Stevenage,Exeter,4,1,2,1,4,4,3,1,0,0
+Birmingham,Rotherham,2,1,0,1,8,3,2,3,0,0
+Blackpool,Charlton,2,2,0,0,6,3,2,3,0,0
+Cambridge,Wycombe,1,1,0,1,5,2,3,0,0,1
+Crawley Town,Wrexham,1,2,0,1,7,6,1,1,0,0
+Leyton Orient,Stockport,0,1,0,1,4,6,1,2,0,0
+Northampton,Huddersfield,3,2,2,0,4,6,1,2,0,0
+Reading,Bolton,1,0,0,0,2,4,1,3,0,0
+Shrewsbury,Mansfield,2,1,0,1,7,7,1,1,1,0
+Wigan,Lincoln,1,1,1,0,4,6,5,2,0,0
+Bristol Rvs,Peterboro,3,1,1,0,8,6,2,3,0,0
+Mansfield,Northampton,0,1,0,0,4,3,3,2,0,0
+Charlton,Stevenage,2,0,1,0,10,1,1,2,0,0
+Stockport,Barnsley,2,1,2,0,2,3,0,0,0,0
+Bolton,Crawley Town,4,3,0,0,4,5,1,3,0,1
+Burton,Blackpool,1,1,1,0,2,7,2,0,0,0
+Huddersfield,Reading,0,0,0,0,6,0,2,3,0,0
+Lincoln,Cambridge,1,1,1,1,4,3,4,1,1,0
+Rotherham,Shrewsbury,1,2,0,0,8,1,1,0,0,0
+Birmingham,Cambridge,4,0,3,0,11,3,1,3,0,0
+Blackpool,Rotherham,0,0,0,0,4,9,1,2,0,0
+Bristol Rvs,Stockport,1,1,0,0,2,7,2,2,0,0
+Charlton,Peterboro,2,1,0,0,8,0,3,2,0,1
+Crawley Town,Stevenage,3,1,0,0,2,8,1,4,0,0
+Leyton Orient,Mansfield,3,0,3,0,5,3,2,6,0,0
+Reading,Shrewsbury,1,1,1,0,1,7,1,1,0,0
+Cambridge,Exeter,0,1,0,0,7,2,1,4,0,0
+Northampton,Wrexham,0,2,0,2,3,5,2,1,0,0
+Barnsley,Huddersfield,1,2,1,0,2,5,3,2,0,0
+Birmingham,Charlton,1,0,1,0,6,1,5,4,0,0
+Blackpool,Mansfield,3,3,1,2,8,7,0,0,0,0
+Bristol Rvs,Burton,3,1,1,0,4,9,2,2,0,0
+Crawley Town,Wycombe,1,1,1,1,4,7,1,2,0,0
+Leyton Orient,Lincoln,3,2,2,1,7,2,0,2,0,0
+Reading,Rotherham,2,1,1,0,8,5,1,3,0,0
+Shrewsbury,Bolton,2,3,1,0,5,3,2,3,0,0
+Stevenage,Peterboro,1,1,0,0,3,3,1,2,0,0
+Wigan,Stockport,0,2,0,0,8,10,1,2,0,0
+Crawley Town,Wigan,1,1,1,1,3,17,1,2,0,0
+Mansfield,Lincoln,0,3,0,1,3,8,2,3,0,0
+Shrewsbury,Huddersfield,0,1,0,0,8,6,4,2,0,0
+Stevenage,Burton,0,1,0,1,11,3,0,3,0,1
+Wrexham,Leyton Orient,1,2,1,1,7,5,1,2,0,1
+Wycombe,Bristol Rvs,2,0,0,0,6,1,1,1,0,1
+Reading,Birmingham,0,0,0,0,4,7,1,1,0,0
+Rotherham,Barnsley,0,1,0,0,11,3,1,1,0,0
+Blackpool,Crawley Town,3,1,2,1,5,2,1,1,1,0
+Bolton,Leyton Orient,2,1,0,1,5,7,2,3,0,0
+Cambridge,Stockport,2,0,2,0,0,5,1,0,0,1
+Charlton,Exeter,3,0,1,0,6,2,3,3,0,0
+Huddersfield,Peterboro,0,1,0,1,8,5,1,3,0,0
+Lincoln,Burton,0,1,0,0,4,4,3,2,0,0
+Northampton,Bristol Rvs,2,1,0,0,8,4,2,2,0,0
+Shrewsbury,Stevenage,0,1,0,1,5,5,0,0,0,0
+Wycombe,Wigan,0,0,0,0,6,2,3,1,0,0
+Mansfield,Wrexham,1,2,1,1,0,3,4,0,0,0
+Birmingham,Leyton Orient,2,0,0,0,8,3,1,1,0,1
+Northampton,Barnsley,1,2,0,1,5,3,1,3,0,1
+Wigan,Huddersfield,2,1,2,0,6,4,1,2,0,0
+Birmingham,Wycombe,1,0,1,0,5,3,0,1,0,1
+Wrexham,Bolton,0,0,0,0,5,6,2,3,0,0
+Barnsley,Lincoln,4,3,2,0,2,6,1,1,0,0
+Bristol Rvs,Rotherham,2,3,1,1,6,8,3,0,0,0
+Burton,Mansfield,1,1,1,0,1,3,2,2,0,0
+Crawley Town,Cambridge,0,2,0,1,6,7,2,3,1,1
+Exeter,Northampton,1,1,0,1,4,4,3,2,0,0
+Leyton Orient,Charlton,1,2,0,0,7,9,0,0,0,0
+Peterboro,Shrewsbury,3,1,2,1,9,4,2,1,0,1
+Stevenage,Huddersfield,1,2,1,2,3,5,0,3,0,0
+Stockport,Blackpool,2,1,0,1,4,3,3,2,0,0
+Wigan,Reading,1,2,0,0,8,7,0,1,0,0
+Blackpool,Peterboro,0,0,0,0,2,9,1,2,0,0
+Bolton,Birmingham,3,1,1,1,6,3,5,3,0,0
+Cambridge,Stevenage,0,1,0,0,4,6,2,2,0,0
+Charlton,Barnsley,1,0,1,0,4,3,1,0,0,0
+Huddersfield,Wrexham,0,1,0,0,5,4,0,2,0,0
+Lincoln,Crawley Town,4,1,3,1,7,2,0,1,0,0
+Mansfield,Wigan,0,0,0,0,5,4,0,2,0,0
+Northampton,Stockport,1,1,1,0,3,3,3,1,0,0
+Rotherham,Leyton Orient,1,0,0,0,5,5,1,1,0,0
+Shrewsbury,Bristol Rvs,0,0,0,0,3,8,3,2,0,0
+Reading,Exeter,0,0,0,0,6,4,0,5,0,0
+Wycombe,Burton,2,0,1,0,7,3,1,1,0,0
+Crawley Town,Reading,1,1,0,1,2,4,3,1,0,0
+Stockport,Charlton,0,0,0,0,8,0,0,1,0,0
+Barnsley,Blackpool,0,3,0,0,5,4,0,0,0,0
+Birmingham,Lincoln,1,0,0,0,7,2,3,1,0,0
+Bristol Rvs,Huddersfield,1,0,1,0,1,10,1,2,0,0
+Burton,Bolton,1,2,0,1,8,6,4,2,0,0
+Exeter,Shrewsbury,2,0,1,0,4,6,4,3,0,0
+Leyton Orient,Northampton,1,2,0,2,4,6,1,0,0,0
+Peterboro,Wycombe,1,1,1,0,3,2,1,0,0,0
+Stevenage,Mansfield,1,1,1,0,3,5,1,3,0,0
+Wigan,Cambridge,1,0,0,0,5,9,2,3,0,0
+Wrexham,Rotherham,1,0,0,0,2,7,0,1,0,0
+Birmingham,Stevenage,2,1,1,0,8,4,4,1,0,0
+Blackpool,Cambridge,2,1,1,1,6,7,1,1,0,0
+Bristol Rvs,Bolton,3,2,1,1,2,10,2,0,0,0
+Crawley Town,Charlton,0,1,0,1,7,4,2,2,0,0
+Exeter,Mansfield,2,0,1,0,5,1,1,1,0,0
+Reading,Wrexham,2,0,0,0,2,3,2,0,1,0
+Bolton,Stockport,0,1,0,0,6,4,2,4,0,0
+Cambridge,Peterboro,0,1,0,0,6,4,2,3,0,1
+Blackpool,Leyton Orient,1,2,0,1,5,5,1,2,0,0
+Charlton,Wigan,2,1,2,0,5,3,0,2,0,0
+Huddersfield,Crawley Town,5,1,4,0,9,7,2,3,0,0
+Lincoln,Bristol Rvs,5,0,1,0,7,5,0,1,0,0
+Mansfield,Barnsley,2,1,1,0,5,5,0,0,0,0
+Northampton,Birmingham,1,1,1,1,1,4,1,1,0,0
+Reading,Stevenage,1,1,0,0,6,3,2,0,0,0
+Rotherham,Exeter,1,1,1,0,7,8,0,1,0,0
+Shrewsbury,Burton,0,2,0,0,5,7,2,1,0,0
+Wycombe,Wrexham,0,1,0,0,2,2,0,2,0,0
+Rotherham,Wycombe,2,3,0,0,5,3,0,2,0,0
+Barnsley,Cambridge,1,1,0,1,5,4,3,4,0,0
+Crawley Town,Bristol Rvs,1,0,1,0,1,1,2,1,0,0
+Lincoln,Exeter,0,0,0,0,10,1,2,4,0,0
+Northampton,Blackpool,0,2,0,1,3,8,2,1,0,0
+Peterboro,Charlton,3,0,2,0,2,10,2,2,0,0
+Wrexham,Stockport,1,0,1,0,2,3,7,1,0,1
+Leyton Orient,Stevenage,1,0,1,0,5,4,0,0,0,0
+Charlton,Huddersfield,4,0,2,0,5,4,0,1,0,0
+Stockport,Burton,2,1,1,0,0,7,2,3,1,0
+Birmingham,Shrewsbury,4,1,1,0,7,1,0,1,0,0
+Blackpool,Bolton,2,1,1,1,2,6,3,1,0,1
+Bristol Rvs,Mansfield,1,2,1,1,6,2,0,4,0,0
+Cambridge,Northampton,1,1,0,1,7,3,2,0,0,0
+Exeter,Wrexham,0,2,0,1,6,4,1,0,0,0
+Reading,Peterboro,3,1,1,0,5,1,1,3,0,0
+Rotherham,Crawley Town,0,4,0,1,6,2,3,1,0,0
+Wigan,Barnsley,1,1,0,1,6,1,3,2,0,0
+Wycombe,Lincoln,1,0,0,0,1,2,1,2,0,1
+Barnsley,Exeter,1,2,0,1,8,6,2,1,0,0
+Blackpool,Reading,3,0,0,0,3,5,1,0,0,0
+Burton,Leyton Orient,2,1,0,1,4,4,1,1,0,0
+Cambridge,Wrexham,2,2,1,1,5,6,2,2,0,0
+Crawley Town,Peterboro,3,4,2,3,4,5,4,4,0,0
+Lincoln,Huddersfield,1,0,1,0,2,6,0,0,0,0
+Mansfield,Charlton,1,2,1,1,2,6,2,1,0,0
+Northampton,Rotherham,0,2,0,1,1,4,2,2,0,0
+Stockport,Stevenage,3,0,1,0,4,4,1,3,0,0
+Wigan,Bolton,0,1,0,0,0,4,6,0,0,0
+Wycombe,Shrewsbury,0,0,0,0,13,0,3,3,0,0
+Bristol Rvs,Birmingham,1,2,1,1,2,4,4,1,0,0
+Reading,Wycombe,1,0,0,0,4,9,3,4,0,0
+Wrexham,Burton,3,0,0,0,4,2,1,2,0,1
+Birmingham,Barnsley,6,2,1,1,11,3,1,1,0,1
+Bolton,Bristol Rvs,1,0,0,0,4,5,0,1,0,0
+Charlton,Lincoln,2,2,0,1,5,5,1,3,0,0
+Exeter,Stockport,0,2,0,2,3,1,3,1,0,0
+Huddersfield,Mansfield,2,1,0,0,7,6,1,3,0,0
+Leyton Orient,Wigan,0,0,0,0,16,1,1,1,0,0
+Peterboro,Northampton,0,4,0,3,4,7,0,1,1,0
+Rotherham,Blackpool,2,1,1,0,7,6,2,0,0,1
+Shrewsbury,Cambridge,0,1,0,0,3,7,1,1,0,0
+Stevenage,Crawley Town,3,1,1,0,2,2,1,1,0,0
+Bolton,Rotherham,0,1,0,1,12,2,1,0,0,0
+Exeter,Wigan,1,1,0,0,8,3,1,3,0,0
+Huddersfield,Wycombe,0,1,0,0,8,7,2,1,0,0
+Mansfield,Leyton Orient,2,3,1,1,3,3,5,2,0,0
+Peterboro,Birmingham,1,2,1,2,6,3,0,2,0,0
+Shrewsbury,Reading,1,3,0,1,10,9,1,3,0,0
+Wigan,Wrexham,0,0,0,0,5,5,1,0,0,0
+Wycombe,Stevenage,1,0,0,0,7,8,0,1,0,0
+Barnsley,Bolton,4,1,2,0,3,4,3,2,0,0
+Bristol Rvs,Exeter,1,2,0,2,8,1,1,4,0,0
+Burton,Huddersfield,3,0,2,0,7,4,2,3,0,0
+Cambridge,Charlton,0,1,0,1,6,2,1,5,0,0
+Crawley Town,Leyton Orient,1,3,0,0,3,5,2,3,0,0
+Lincoln,Shrewsbury,1,1,1,1,10,7,0,1,0,0
+Northampton,Reading,0,0,0,0,3,6,0,0,1,0
+Stockport,Rotherham,3,1,1,1,3,3,0,0,0,0
+Exeter,Burton,0,0,0,0,2,1,3,3,0,0
+Birmingham,Crawley Town,0,0,0,0,6,4,2,2,0,0
+Bolton,Wycombe,0,2,0,0,3,2,2,2,0,0
+Charlton,Northampton,2,1,1,1,1,5,5,3,0,0
+Huddersfield,Cambridge,1,2,0,0,6,2,1,4,0,0
+Leyton Orient,Barnsley,4,3,0,2,6,6,1,3,0,0
+Peterboro,Stockport,1,1,1,0,4,6,2,4,0,0
+Reading,Lincoln,0,1,0,0,3,9,4,4,0,0
+Rotherham,Mansfield,3,3,2,1,4,8,1,3,0,0
+Shrewsbury,Wigan,0,1,0,0,6,7,2,1,0,0
+Stevenage,Blackpool,1,3,0,0,3,3,3,2,0,0
+Wrexham,Bristol Rvs,1,1,0,1,7,3,0,2,0,0
+Barnsley,Peterboro,1,1,1,1,5,3,2,1,0,0
+Blackpool,Wrexham,1,2,0,0,7,6,1,2,0,0
+Bristol Rvs,Stevenage,0,1,0,1,7,2,1,3,0,0
+Burton,Birmingham,1,2,0,2,2,2,1,2,0,0
+Cambridge,Leyton Orient,1,2,1,0,3,2,2,1,0,0
+Crawley Town,Exeter,3,1,3,1,2,3,3,3,0,1
+Lincoln,Bolton,4,2,2,2,4,5,2,1,0,1
+Mansfield,Reading,1,5,0,1,4,4,1,1,0,0
+Northampton,Shrewsbury,4,1,2,0,8,3,3,2,0,0
+Stockport,Huddersfield,2,1,0,0,7,4,1,4,0,1
+Wigan,Rotherham,1,0,1,0,2,2,1,1,0,0
+Wycombe,Charlton,0,4,0,2,7,3,1,2,0,1
+Stevenage,Birmingham,0,1,0,0,6,3,2,1,0,0
+Bristol Rvs,Reading,0,2,0,0,5,5,1,1,0,0
+Leyton Orient,Wycombe,1,0,0,0,2,2,2,1,0,0
+Barnsley,Shrewsbury,1,2,0,1,7,3,0,1,0,0
+Burton,Cambridge,2,1,0,0,7,2,0,1,1,1
+Crawley Town,Northampton,3,0,1,0,3,3,1,0,0,0
+Exeter,Huddersfield,3,1,1,1,6,4,1,2,0,0
+Peterboro,Bolton,1,1,1,1,5,6,4,5,0,0
+Stockport,Lincoln,3,2,0,2,9,3,0,3,0,0
+Wigan,Blackpool,1,1,1,0,1,12,1,1,0,0
+Wrexham,Charlton,3,0,2,0,2,6,2,1,0,0
+Stevenage,Rotherham,1,1,0,1,7,1,1,2,0,0
+Birmingham,Mansfield,4,0,2,0,9,4,1,1,0,0
+Burton,Wigan,1,1,0,0,7,5,1,0,0,0
+Blackpool,Birmingham,0,2,0,1,2,4,1,0,0,0
+Mansfield,Peterboro,4,2,3,0,6,3,0,1,0,0
+Blackpool,Bristol Rvs,4,1,1,1,5,3,0,1,0,0
+Bolton,Stevenage,1,1,0,0,4,2,0,1,0,0
+Cambridge,Birmingham,1,2,1,1,3,3,2,1,1,0
+Charlton,Burton,3,1,2,1,3,3,2,1,0,0
+Huddersfield,Leyton Orient,1,4,1,2,6,4,1,4,0,0
+Lincoln,Wrexham,0,2,0,0,4,2,1,2,0,0
+Mansfield,Exeter,3,0,2,0,2,10,1,0,0,0
+Northampton,Wigan,1,1,1,0,0,9,1,2,0,1
+Reading,Barnsley,2,4,0,0,5,3,1,2,0,0
+Rotherham,Peterboro,2,1,1,1,6,4,1,4,0,0
+Shrewsbury,Crawley Town,1,2,0,0,8,4,5,2,1,0
+Wycombe,Stockport,1,3,1,0,2,5,1,1,0,0
+Barnsley,Port Vale,7,0,2,0,3,6,6,2,0,0
+Blackpool,Burton,2,0,2,0,7,4,4,1,0,0
+Bolton,Lincoln,3,0,1,0,10,1,3,3,0,0
+Cambridge,Oxford,2,0,2,0,2,10,4,1,0,0
+Carlisle,Fleetwood Town,1,1,1,1,5,2,2,3,0,0
+Charlton,Leyton Orient,1,0,1,0,2,3,3,2,0,0
+Derby,Wigan,1,2,0,1,11,4,2,2,0,0
+Northampton,Stevenage,0,1,0,0,7,4,2,3,0,0
+Portsmouth,Bristol Rvs,1,1,0,1,11,3,4,3,0,0
+Reading,Peterboro,0,1,0,1,6,6,6,4,0,0
+Shrewsbury,Cheltenham,1,0,0,0,5,4,3,2,0,0
+Wycombe,Exeter,0,3,0,2,4,5,2,2,0,0
+Bristol Rvs,Barnsley,1,1,0,1,7,2,0,3,0,0
+Burton,Derby,0,3,0,1,6,2,1,3,0,0
+Cheltenham,Bolton,0,3,0,3,3,9,2,1,0,0
+Exeter,Blackpool,0,0,0,0,6,7,2,1,0,0
+Fleetwood Town,Cambridge,0,2,0,1,9,6,3,3,0,0
+Leyton Orient,Portsmouth,0,4,0,2,3,3,2,2,0,0
+Lincoln,Wycombe,3,0,0,0,3,6,2,2,0,0
+Oxford,Carlisle,1,0,0,0,5,4,0,4,0,0
+Peterboro,Charlton,1,0,1,0,7,5,5,5,0,0
+Port Vale,Reading,1,0,0,0,5,2,0,2,0,0
+Stevenage,Shrewsbury,2,0,0,0,13,3,0,3,0,0
+Wigan,Northampton,2,1,0,1,8,5,4,4,0,0
+Barnsley,Peterboro,1,3,0,0,10,5,0,1,0,0
+Blackpool,Port Vale,0,0,0,0,4,2,1,1,0,0
+Bolton,Fleetwood Town,3,1,3,0,5,12,2,4,1,0
+Cambridge,Stevenage,1,2,0,1,6,3,0,3,0,0
+Carlisle,Wigan,1,1,0,1,3,5,4,2,0,0
+Charlton,Bristol Rvs,1,2,0,0,7,5,1,2,0,0
+Derby,Oxford,1,2,0,1,15,4,5,2,0,0
+Northampton,Lincoln,2,2,0,1,3,1,1,0,0,0
+Shrewsbury,Burton,2,1,2,0,4,3,1,4,0,0
+Wycombe,Leyton Orient,3,2,1,1,3,7,1,3,0,1
+Portsmouth,Exeter,1,0,0,0,8,6,5,1,0,0
+Reading,Cheltenham,1,0,1,0,7,7,2,2,0,0
+Bolton,Wigan,0,4,0,3,4,2,2,3,0,0
+Barnsley,Oxford,1,3,0,1,9,8,3,2,0,0
+Blackpool,Leyton Orient,0,0,0,0,8,1,0,4,0,0
+Cambridge,Bristol Rvs,2,0,0,0,6,4,1,3,0,0
+Carlisle,Exeter,0,2,0,0,11,3,0,1,0,0
+Charlton,Port Vale,2,3,1,0,9,4,4,3,0,0
+Derby,Fleetwood Town,1,0,1,0,7,9,3,3,0,0
+Northampton,Peterboro,1,0,0,0,4,5,1,2,0,0
+Portsmouth,Cheltenham,0,0,0,0,5,5,0,3,0,0
+Reading,Stevenage,2,0,1,0,7,0,0,3,0,1
+Shrewsbury,Lincoln,0,1,0,0,6,1,2,4,0,0
+Wycombe,Burton,0,0,0,0,6,2,2,2,0,0
+Bristol Rvs,Wycombe,1,2,0,1,7,3,3,0,0,0
+Burton,Bolton,1,1,0,0,4,8,6,2,0,0
+Cheltenham,Northampton,0,1,0,0,1,8,1,2,0,0
+Exeter,Reading,2,1,1,1,7,7,3,4,0,0
+Fleetwood Town,Shrewsbury,0,1,0,1,9,1,1,3,2,0
+Leyton Orient,Cambridge,2,0,1,0,5,7,4,4,0,0
+Lincoln,Blackpool,3,0,2,0,1,2,1,0,0,1
+Oxford,Charlton,2,1,1,0,7,1,3,6,0,0
+Peterboro,Derby,2,4,1,4,8,9,2,1,0,0
+Port Vale,Carlisle,1,0,0,0,8,8,0,0,0,0
+Stevenage,Portsmouth,0,0,0,0,4,7,4,3,1,1
+Wigan,Barnsley,0,2,0,1,4,5,1,3,1,0
+Blackpool,Wigan,2,1,1,0,4,3,3,3,0,0
+Bolton,Derby,2,1,1,1,7,6,3,2,0,1
+Bristol Rvs,Lincoln,1,1,0,0,7,5,2,3,0,0
+Burton,Exeter,0,1,0,0,3,5,2,1,1,0
+Carlisle,Shrewsbury,2,0,0,0,8,6,2,4,0,0
+Charlton,Fleetwood Town,2,1,1,1,13,4,4,3,0,0
+Cheltenham,Barnsley,0,2,0,0,7,4,3,3,0,0
+Leyton Orient,Stevenage,0,3,0,2,9,6,2,1,0,0
+Northampton,Wycombe,0,1,0,1,5,3,0,2,0,0
+Oxford,Port Vale,1,2,0,0,5,3,1,2,2,0
+Portsmouth,Peterboro,3,1,2,1,10,9,1,3,1,0
+Cambridge,Reading,1,0,0,0,9,5,1,4,0,0
+Exeter,Leyton Orient,1,2,0,0,4,10,3,3,0,0
+Stevenage,Carlisle,2,2,1,1,11,2,2,2,0,0
+Barnsley,Burton,2,0,1,0,0,2,0,0,0,0
+Derby,Portsmouth,1,1,0,0,4,8,2,3,0,0
+Exeter,Cheltenham,1,0,0,0,8,2,3,2,0,0
+Fleetwood Town,Oxford,0,3,0,2,9,4,2,0,0,0
+Lincoln,Carlisle,1,1,0,1,2,1,1,5,0,0
+Peterboro,Leyton Orient,1,1,1,1,6,3,2,3,0,0
+Port Vale,Northampton,1,0,0,0,5,3,1,0,0,0
+Reading,Bolton,2,1,0,1,6,4,3,4,0,1
+Shrewsbury,Bristol Rvs,0,2,0,0,5,6,2,3,0,0
+Stevenage,Charlton,1,1,1,0,5,4,3,3,0,0
+Wigan,Cambridge,2,1,0,0,3,2,2,0,0,0
+Wycombe,Blackpool,2,0,1,0,0,5,3,1,0,0
+Barnsley,Portsmouth,2,3,0,3,3,5,0,1,0,0
+Peterboro,Cheltenham,3,0,0,0,15,1,0,0,0,2
+Port Vale,Burton,2,3,1,1,7,1,2,3,0,0
+Blackpool,Reading,4,1,3,0,10,3,0,1,0,0
+Bolton,Peterboro,1,1,1,1,8,10,4,2,1,0
+Bristol Rvs,Wigan,4,1,2,1,3,5,3,2,0,0
+Burton,Fleetwood Town,1,1,1,1,4,5,2,0,0,0
+Cambridge,Port Vale,1,1,0,1,7,7,0,4,0,0
+Carlisle,Derby,0,2,0,1,8,2,1,1,0,0
+Charlton,Wycombe,3,1,1,0,7,6,3,2,0,0
+Cheltenham,Stevenage,0,3,0,1,5,4,1,1,0,0
+Leyton Orient,Shrewsbury,1,0,1,0,7,7,4,1,0,0
+Northampton,Barnsley,1,2,0,1,10,2,0,4,0,0
+Oxford,Exeter,3,0,1,0,3,4,1,1,0,0
+Portsmouth,Lincoln,2,1,2,1,3,1,3,2,0,0
+Barnsley,Blackpool,0,1,0,1,5,2,1,7,0,0
+Derby,Cambridge,0,0,0,0,9,3,2,2,0,0
+Exeter,Northampton,0,2,0,1,6,2,1,5,0,0
+Fleetwood Town,Leyton Orient,1,0,0,0,6,6,1,3,1,1
+Lincoln,Cheltenham,2,0,2,0,2,5,4,1,0,0
+Peterboro,Bristol Rvs,2,0,1,0,9,9,5,2,0,0
+Port Vale,Bolton,0,1,0,1,8,5,2,3,0,0
+Reading,Burton,0,0,0,0,5,2,1,4,0,0
+Shrewsbury,Charlton,0,0,0,0,7,7,1,4,0,0
+Stevenage,Oxford,1,3,1,1,9,8,1,2,0,0
+Wigan,Portsmouth,1,2,1,2,1,9,3,2,1,0
+Wycombe,Carlisle,2,0,1,0,8,2,2,1,0,1
+Blackpool,Derby,1,3,0,0,9,3,1,1,0,0
+Bolton,Stevenage,3,2,1,1,4,5,3,2,0,0
+Bristol Rvs,Port Vale,3,0,2,0,8,3,1,1,0,1
+Burton,Wigan,2,1,0,1,3,4,2,3,1,0
+Cambridge,Barnsley,0,4,0,2,6,6,2,2,0,0
+Carlisle,Peterboro,1,1,0,0,3,8,2,0,0,0
+Charlton,Exeter,4,1,1,1,9,5,1,0,0,1
+Cheltenham,Fleetwood Town,0,2,0,1,0,3,2,5,1,0
+Northampton,Reading,3,1,2,0,4,1,1,3,0,0
+Oxford,Shrewsbury,3,0,1,0,4,4,3,0,0,1
+Portsmouth,Wycombe,2,1,0,1,14,2,2,4,0,0
+Oxford,Bristol Rvs,2,1,1,0,8,3,2,2,2,1
+Bolton,Carlisle,1,3,1,1,7,7,2,3,0,0
+Charlton,Blackpool,2,2,0,1,5,3,2,3,0,0
+Cheltenham,Derby,1,1,1,1,1,8,1,0,0,0
+Exeter,Barnsley,0,1,0,0,6,6,2,2,0,0
+Fleetwood Town,Wycombe,1,4,0,3,5,3,2,2,1,0
+Leyton Orient,Reading,2,1,1,1,11,7,3,2,0,0
+Peterboro,Lincoln,2,0,0,0,6,4,1,2,0,0
+Portsmouth,Port Vale,2,0,0,0,6,6,1,3,0,0
+Shrewsbury,Northampton,1,0,0,0,3,10,1,3,0,0
+Stevenage,Wigan,1,0,1,0,8,3,3,9,1,1
+Burton,Cambridge,2,1,2,0,7,7,2,0,0,0
+Blackpool,Stevenage,3,0,1,0,6,7,1,3,0,0
+Cambridge,Shrewsbury,1,1,0,0,4,5,2,1,0,0
+Carlisle,Leyton Orient,0,1,0,1,9,3,0,3,0,0
+Lincoln,Burton,0,1,0,0,4,4,1,4,1,0
+Bolton,Northampton,2,1,2,0,6,2,0,1,0,0
+Burton,Bristol Rvs,4,1,2,1,4,5,3,1,0,1
+Charlton,Reading,4,0,0,0,6,11,0,0,0,0
+Cheltenham,Cambridge,1,0,1,0,4,3,4,1,0,0
+Exeter,Wigan,0,2,0,1,17,1,4,3,0,0
+Fleetwood Town,Lincoln,0,1,0,1,8,5,3,4,1,0
+Leyton Orient,Barnsley,1,1,1,0,5,4,0,0,0,1
+Oxford,Blackpool,1,1,1,0,2,1,0,5,0,0
+Peterboro,Wycombe,2,2,2,1,9,8,1,0,0,0
+Portsmouth,Carlisle,1,0,0,0,6,3,1,3,0,0
+Shrewsbury,Derby,1,0,0,0,9,8,1,2,0,0
+Stevenage,Port Vale,0,0,0,0,6,7,3,3,0,0
+Barnsley,Shrewsbury,3,0,2,0,3,7,1,2,0,0
+Blackpool,Cheltenham,3,2,3,1,2,4,0,2,0,0
+Bristol Rvs,Stevenage,1,1,0,1,4,4,6,4,0,0
+Cambridge,Portsmouth,0,0,0,0,4,7,1,4,0,0
+Carlisle,Burton,2,1,0,1,7,2,1,3,0,0
+Derby,Exeter,2,0,1,0,4,3,2,1,0,0
+Lincoln,Charlton,3,1,1,1,6,5,0,0,0,0
+Northampton,Leyton Orient,2,2,0,1,5,6,1,3,1,0
+Port Vale,Peterboro,0,1,0,1,6,5,1,5,0,0
+Wigan,Oxford,2,0,1,0,6,9,3,2,0,0
+Wycombe,Bolton,2,4,0,2,1,3,3,1,0,0
+Reading,Fleetwood Town,1,2,0,1,9,11,1,2,0,0
+Barnsley,Fleetwood Town,2,2,1,2,7,3,2,2,0,0
+Blackpool,Peterboro,2,4,0,1,2,6,2,3,1,0
+Bristol Rvs,Northampton,2,1,2,0,2,4,3,1,0,0
+Burton,Leyton Orient,0,0,0,0,3,4,1,1,0,0
+Cambridge,Carlisle,1,0,0,0,7,6,2,0,0,2
+Charlton,Bolton,0,2,0,2,9,3,1,1,0,0
+Exeter,Lincoln,1,1,0,1,7,9,4,4,0,0
+Oxford,Wycombe,2,2,1,0,7,5,3,5,0,0
+Port Vale,Cheltenham,1,2,1,1,11,7,2,4,0,0
+Reading,Portsmouth,2,3,2,2,6,9,4,2,1,0
+Stevenage,Derby,3,1,2,1,3,7,2,2,0,0
+Wigan,Shrewsbury,2,0,1,0,3,1,1,1,0,1
+Derby,Northampton,4,0,3,0,8,2,1,2,0,0
+Lincoln,Oxford,0,2,0,1,6,9,0,2,0,0
+Wigan,Charlton,2,3,0,3,3,4,2,1,0,0
+Wycombe,Cambridge,0,0,0,0,8,1,2,3,0,0
+Fleetwood Town,Blackpool,3,3,2,0,2,8,2,3,0,0
+Shrewsbury,Bolton,0,2,0,0,5,1,0,0,0,0
+Wigan,Peterboro,2,1,1,0,2,6,3,2,0,0
+Reading,Bristol Rvs,1,1,1,0,0,4,3,1,0,0
+Peterboro,Cambridge,5,0,3,0,4,5,0,0,0,0
+Bolton,Blackpool,1,0,0,0,6,4,5,1,0,0
+Carlisle,Bristol Rvs,0,1,0,1,10,0,4,3,0,1
+Cheltenham,Wigan,1,1,1,1,6,1,2,3,0,0
+Derby,Barnsley,3,0,1,0,7,8,2,1,0,0
+Fleetwood Town,Exeter,3,0,3,0,9,5,2,2,0,0
+Leyton Orient,Oxford,2,3,0,2,4,4,2,2,0,0
+Lincoln,Port Vale,1,1,0,1,9,1,0,1,1,1
+Northampton,Burton,2,0,0,0,5,7,0,2,0,0
+Portsmouth,Charlton,2,2,1,0,10,3,0,4,0,0
+Shrewsbury,Reading,3,2,1,2,11,5,2,2,0,0
+Wycombe,Stevenage,0,1,0,1,2,7,3,2,0,0
+Blackpool,Shrewsbury,4,0,2,0,5,4,0,1,0,0
+Stevenage,Lincoln,1,0,0,0,6,4,1,1,0,0
+Leyton Orient,Lincoln,0,1,0,0,3,4,2,0,0,0
+Bolton,Exeter,7,0,2,0,5,0,0,1,0,0
+Carlisle,Charlton,1,1,0,0,4,8,0,0,0,0
+Cheltenham,Oxford,2,0,1,0,8,10,3,2,1,1
+Derby,Bristol Rvs,2,1,0,0,8,1,0,0,0,0
+Fleetwood Town,Stevenage,0,3,0,1,10,6,0,0,0,0
+Leyton Orient,Wigan,1,1,1,1,3,3,5,1,0,0
+Lincoln,Barnsley,2,2,1,0,3,6,1,1,0,0
+Northampton,Cambridge,2,1,0,0,6,1,1,2,0,1
+Peterboro,Burton,4,0,2,0,4,2,1,3,0,0
+Portsmouth,Blackpool,0,4,0,1,7,5,3,3,1,0
+Shrewsbury,Port Vale,2,1,1,0,2,14,4,1,0,0
+Wycombe,Reading,1,2,1,2,4,7,2,0,0,0
+Barnsley,Wycombe,1,0,0,0,9,2,0,3,0,1
+Blackpool,Northampton,1,2,0,1,4,2,0,4,0,0
+Bristol Rvs,Leyton Orient,1,1,1,0,4,11,1,3,0,0
+Burton,Portsmouth,0,2,0,1,6,4,1,0,1,0
+Cambridge,Lincoln,0,3,0,2,2,4,2,2,0,0
+Charlton,Cheltenham,2,1,1,1,9,4,1,5,0,0
+Exeter,Shrewsbury,0,0,0,0,7,5,2,1,0,0
+Oxford,Bolton,0,0,0,0,5,4,2,2,0,0
+Port Vale,Derby,0,1,0,0,9,6,2,0,0,0
+Stevenage,Peterboro,2,2,2,0,5,9,2,0,0,0
+Wigan,Fleetwood Town,3,0,2,0,8,5,1,3,0,1
+Reading,Carlisle,5,1,3,1,2,5,1,1,0,0
+Northampton,Portsmouth,0,3,0,2,0,8,1,1,0,0
+Blackpool,Carlisle,3,0,1,0,9,4,0,3,0,0
+Bristol Rvs,Cheltenham,1,1,0,1,4,6,1,2,0,0
+Burton,Stevenage,1,2,1,1,3,5,3,2,0,0
+Charlton,Cambridge,2,2,0,0,6,10,0,0,0,0
+Exeter,Port Vale,0,1,0,1,12,6,1,2,1,0
+Leyton Orient,Derby,0,3,0,1,8,4,1,1,1,0
+Northampton,Fleetwood Town,3,0,2,0,2,6,1,1,0,0
+Peterboro,Oxford,3,0,2,0,5,4,1,1,0,0
+Reading,Barnsley,1,3,1,1,3,6,2,5,0,0
+Wigan,Lincoln,0,0,0,0,6,5,4,4,0,0
+Wycombe,Shrewsbury,0,1,0,1,7,4,0,0,0,0
+Portsmouth,Bolton,2,0,1,0,6,1,3,4,0,0
+Reading,Oxford,1,1,1,1,4,7,2,1,0,0
+Barnsley,Charlton,1,1,1,0,7,5,4,4,0,0
+Bolton,Bristol Rvs,1,2,0,2,6,7,4,3,1,0
+Cambridge,Blackpool,2,1,2,1,3,5,4,3,1,0
+Carlisle,Northampton,2,2,0,1,10,2,0,2,0,0
+Cheltenham,Leyton Orient,1,2,0,0,3,7,2,4,1,0
+Derby,Wycombe,1,1,0,0,5,2,5,3,0,0
+Fleetwood Town,Peterboro,0,1,0,1,4,12,2,0,0,0
+Lincoln,Reading,1,1,1,0,1,5,3,3,0,0
+Oxford,Burton,3,0,1,0,5,0,0,1,0,0
+Port Vale,Wigan,3,2,2,0,6,3,4,5,0,0
+Shrewsbury,Portsmouth,0,3,0,1,0,5,0,2,0,0
+Stevenage,Exeter,1,1,1,0,12,3,1,4,0,1
+Derby,Lincoln,3,1,1,1,4,3,2,3,0,0
+Cambridge,Exeter,2,0,1,0,5,6,0,2,0,0
+Barnsley,Stevenage,2,1,1,1,1,4,3,1,0,0
+Blackpool,Bristol Rvs,3,1,1,1,4,5,2,0,0,0
+Bolton,Leyton Orient,3,2,3,0,2,6,0,4,0,0
+Carlisle,Cheltenham,0,1,0,1,6,4,2,3,0,0
+Charlton,Burton,1,1,1,0,5,5,2,2,0,0
+Northampton,Oxford,2,1,0,0,5,1,2,1,0,0
+Portsmouth,Fleetwood Town,1,1,1,0,7,3,3,1,0,0
+Reading,Wigan,2,0,1,0,4,2,1,5,0,0
+Shrewsbury,Peterboro,1,2,0,0,4,9,3,1,0,0
+Wycombe,Port Vale,1,1,0,0,7,3,6,1,0,0
+Leyton Orient,Charlton,1,0,0,0,7,5,5,1,0,0
+Bristol Rvs,Portsmouth,2,1,0,0,3,3,4,6,0,0
+Burton,Blackpool,1,0,1,0,3,8,2,1,0,0
+Cheltenham,Shrewsbury,2,0,1,0,5,3,2,5,0,0
+Exeter,Wycombe,1,0,0,0,8,9,3,2,0,0
+Fleetwood Town,Carlisle,1,1,1,1,5,4,1,0,0,0
+Lincoln,Bolton,0,1,0,0,0,14,3,1,1,0
+Oxford,Cambridge,2,1,0,1,4,6,2,4,0,0
+Peterboro,Reading,2,2,1,0,16,2,1,3,0,0
+Port Vale,Barnsley,2,3,0,3,10,3,3,1,0,0
+Stevenage,Northampton,3,0,2,0,6,1,0,1,0,0
+Wigan,Derby,0,1,0,1,6,5,4,3,0,0
+Wigan,Carlisle,2,0,2,0,6,5,4,6,0,0
+Bristol Rvs,Charlton,2,1,0,0,7,4,0,3,0,0
+Burton,Shrewsbury,1,0,1,0,4,7,2,1,0,0
+Cheltenham,Reading,2,2,2,2,7,5,2,4,0,0
+Exeter,Portsmouth,0,0,0,0,3,6,1,2,0,0
+Fleetwood Town,Bolton,0,2,0,0,3,6,2,1,0,0
+Leyton Orient,Wycombe,0,0,0,0,10,6,1,0,0,0
+Lincoln,Northampton,1,2,0,1,8,4,1,5,1,0
+Oxford,Derby,2,3,2,1,2,19,1,4,0,0
+Peterboro,Barnsley,2,2,1,2,3,6,0,1,0,0
+Port Vale,Blackpool,3,0,1,0,3,10,1,2,0,0
+Barnsley,Wigan,1,1,1,0,3,7,3,2,0,0
+Blackpool,Lincoln,2,0,1,0,8,2,3,1,0,0
+Bolton,Burton,1,0,0,0,11,3,1,2,0,0
+Cambridge,Leyton Orient,0,2,0,0,4,5,1,5,0,0
+Carlisle,Port Vale,2,1,0,0,6,1,3,2,0,0
+Charlton,Oxford,1,2,1,1,9,3,2,2,0,0
+Derby,Peterboro,2,3,1,1,1,11,1,1,0,0
+Northampton,Cheltenham,1,0,0,0,7,2,2,3,0,0
+Portsmouth,Stevenage,2,1,2,1,1,5,3,5,0,1
+Reading,Exeter,3,2,2,1,0,4,2,0,0,0
+Shrewsbury,Fleetwood Town,3,1,2,0,4,8,4,2,0,0
+Wycombe,Bristol Rvs,3,2,1,0,6,6,6,2,1,0
+Fleetwood Town,Derby,1,3,0,2,3,11,1,1,0,0
+Burton,Wycombe,1,1,0,0,2,10,2,2,0,0
+Cheltenham,Portsmouth,2,1,0,0,3,9,4,5,0,0
+Exeter,Carlisle,2,1,0,0,7,3,4,1,0,0
+Port Vale,Charlton,3,3,1,1,12,4,1,4,0,0
+Barnsley,Bristol Rvs,2,1,1,0,6,3,3,1,0,0
+Blackpool,Exeter,2,0,1,0,9,4,4,5,0,0
+Cambridge,Fleetwood Town,2,1,0,0,5,2,0,2,0,0
+Carlisle,Oxford,1,3,0,1,3,3,4,2,0,0
+Charlton,Peterboro,1,2,0,1,1,6,1,1,0,0
+Northampton,Wigan,1,1,1,0,1,9,3,6,0,0
+Portsmouth,Leyton Orient,0,3,0,3,5,8,1,4,0,0
+Shrewsbury,Stevenage,0,1,0,0,3,2,1,2,0,0
+Wycombe,Lincoln,1,1,1,0,7,7,1,1,0,0
+Derby,Burton,3,2,1,0,4,3,0,1,0,0
+Barnsley,Carlisle,2,1,0,1,7,0,0,1,0,0
+Bristol Rvs,Blackpool,1,2,1,2,6,5,5,3,0,0
+Burton,Charlton,2,0,1,0,3,5,2,2,0,0
+Exeter,Cambridge,0,0,0,0,11,4,2,4,0,0
+Fleetwood Town,Portsmouth,0,1,0,1,2,10,4,4,0,0
+Leyton Orient,Bolton,1,0,0,0,3,3,1,2,0,0
+Lincoln,Derby,0,0,0,0,5,12,2,2,0,0
+Peterboro,Shrewsbury,2,1,0,1,4,4,2,3,0,0
+Wigan,Reading,1,0,1,0,1,3,2,1,0,0
+Bolton,Cheltenham,1,0,1,0,4,7,1,2,0,0
+Bristol Rvs,Exeter,0,1,0,1,10,7,1,2,0,0
+Charlton,Northampton,2,3,2,2,2,5,3,2,1,0
+Oxford,Barnsley,0,1,0,1,2,4,3,4,0,0
+Wigan,Wycombe,1,0,0,0,7,3,3,1,0,0
+Reading,Derby,1,0,0,0,6,6,1,0,0,0
+Barnsley,Exeter,1,2,0,2,7,10,1,3,0,0
+Blackpool,Charlton,1,1,0,0,9,2,1,5,0,0
+Bristol Rvs,Oxford,3,1,2,0,5,5,1,1,0,0
+Cambridge,Burton,0,0,0,0,4,0,4,5,0,1
+Carlisle,Bolton,1,4,0,2,5,5,1,2,0,0
+Derby,Cheltenham,2,1,0,0,11,1,1,2,0,0
+Lincoln,Peterboro,0,0,0,0,3,6,1,1,0,0
+Northampton,Shrewsbury,0,2,0,0,7,5,0,3,0,0
+Port Vale,Portsmouth,0,1,0,0,3,10,4,2,0,0
+Reading,Leyton Orient,1,1,1,1,5,5,2,1,0,0
+Wigan,Stevenage,2,3,2,1,4,2,4,4,0,0
+Wycombe,Fleetwood Town,2,2,0,2,11,7,1,3,0,1
+Oxford,Portsmouth,2,2,1,0,6,3,0,2,0,0
+Oxford,Reading,1,1,1,0,5,2,1,3,0,0
+Bolton,Barnsley,1,1,0,1,12,3,2,4,0,0
+Burton,Lincoln,0,1,0,0,5,5,8,2,0,1
+Charlton,Derby,0,1,0,1,6,3,2,5,0,0
+Cheltenham,Wycombe,1,3,0,2,8,6,1,2,0,0
+Exeter,Bristol Rvs,0,1,0,1,6,2,1,3,0,0
+Fleetwood Town,Port Vale,3,0,1,0,4,8,3,1,0,0
+Leyton Orient,Carlisle,3,2,2,1,6,2,4,0,0,0
+Peterboro,Wigan,2,3,0,1,5,1,2,5,0,1
+Portsmouth,Northampton,4,1,2,0,6,1,1,1,1,0
+Shrewsbury,Cambridge,1,2,1,1,5,2,1,2,1,0
+Stevenage,Blackpool,1,0,0,0,4,9,2,3,0,0
+Bristol Rvs,Fleetwood Town,0,2,0,1,11,4,3,3,1,0
+Exeter,Peterboro,2,1,0,1,4,5,1,1,0,1
+Port Vale,Leyton Orient,0,1,0,0,4,2,0,2,0,0
+Stevenage,Reading,0,1,0,1,9,3,0,4,0,0
+Barnsley,Leyton Orient,2,1,0,1,9,1,2,3,1,0
+Blackpool,Oxford,1,1,1,1,6,5,3,1,0,0
+Bristol Rvs,Burton,1,2,0,1,5,1,0,4,0,0
+Cambridge,Cheltenham,0,1,0,0,2,5,3,3,0,0
+Carlisle,Portsmouth,0,1,0,0,3,3,1,0,0,0
+Derby,Shrewsbury,1,1,0,0,4,2,2,3,0,0
+Lincoln,Fleetwood Town,2,1,0,1,6,0,3,1,0,1
+Northampton,Bolton,1,1,1,0,4,7,0,3,0,1
+Port Vale,Stevenage,2,2,1,0,4,1,3,4,0,0
+Reading,Charlton,2,0,0,0,11,5,1,1,0,0
+Wigan,Exeter,1,2,0,1,11,6,2,2,0,0
+Wycombe,Peterboro,5,2,2,0,3,11,2,1,0,0
+Bolton,Wycombe,2,1,1,0,6,2,1,1,0,0
+Charlton,Lincoln,1,1,0,1,5,6,3,4,0,0
+Cheltenham,Blackpool,2,0,1,0,7,3,4,3,0,0
+Exeter,Derby,0,3,0,1,3,1,2,3,0,0
+Fleetwood Town,Reading,1,1,0,0,5,2,0,3,0,0
+Leyton Orient,Northampton,4,3,1,1,8,2,2,2,0,0
+Oxford,Wigan,4,2,1,1,2,5,3,4,0,0
+Portsmouth,Cambridge,3,1,1,1,5,8,2,5,0,0
+Shrewsbury,Barnsley,1,1,1,0,5,8,3,2,0,0
+Stevenage,Bristol Rvs,2,3,2,1,6,1,0,1,0,1
+Bolton,Charlton,3,3,1,2,7,6,2,6,0,0
+Carlisle,Cambridge,0,4,0,1,5,6,2,1,0,0
+Cheltenham,Port Vale,3,2,1,1,7,2,1,3,0,0
+Derby,Stevenage,1,0,0,0,2,4,0,2,0,0
+Fleetwood Town,Barnsley,1,2,1,1,7,3,0,4,0,0
+Leyton Orient,Burton,1,2,1,0,4,6,1,1,0,0
+Lincoln,Exeter,1,0,0,0,7,5,1,3,0,0
+Northampton,Bristol Rvs,3,1,2,0,3,5,2,1,0,0
+Peterboro,Blackpool,1,2,1,0,7,1,1,4,0,0
+Portsmouth,Reading,4,1,1,0,3,6,4,3,0,0
+Shrewsbury,Wigan,0,1,0,0,14,5,4,3,0,0
+Wycombe,Oxford,0,0,0,0,8,3,0,3,0,0
+Cambridge,Bolton,1,2,1,0,3,4,2,2,1,0
+Oxford,Northampton,2,2,1,1,7,0,1,4,0,0
+Reading,Port Vale,2,0,0,0,4,3,0,0,0,0
+Wigan,Cheltenham,1,1,0,1,6,1,1,0,0,0
+Cambridge,Peterboro,0,1,0,0,2,5,4,2,0,0
+Barnsley,Derby,2,1,1,1,3,10,4,1,0,0
+Blackpool,Bolton,4,1,2,1,4,7,1,2,0,1
+Bristol Rvs,Carlisle,2,1,1,1,3,7,3,2,0,0
+Burton,Northampton,0,2,0,2,6,1,0,2,0,0
+Charlton,Portsmouth,0,0,0,0,4,5,2,0,0,0
+Exeter,Fleetwood Town,1,1,1,0,7,9,4,1,0,0
+Oxford,Leyton Orient,1,2,1,0,5,5,2,6,0,0
+Port Vale,Lincoln,0,2,0,1,2,5,4,1,0,0
+Reading,Shrewsbury,2,3,2,3,7,4,4,5,0,0
+Stevenage,Wycombe,1,0,1,0,8,2,1,1,0,1
+Burton,Carlisle,0,1,0,1,2,3,0,2,0,0
+Derby,Charlton,1,2,1,0,4,5,2,2,0,0
+Leyton Orient,Blackpool,1,0,0,0,2,2,1,2,0,0
+Lincoln,Shrewsbury,3,0,1,0,6,5,0,2,0,0
+Port Vale,Fleetwood Town,2,2,2,0,3,16,0,2,0,0
+Stevenage,Cambridge,1,0,1,0,2,2,2,1,0,0
+Wigan,Bolton,1,0,0,0,0,9,3,3,0,0
+Wycombe,Cheltenham,2,0,0,0,7,6,0,1,0,0
+Bolton,Cambridge,2,0,1,0,10,1,4,2,0,0
+Carlisle,Reading,1,3,0,2,3,5,0,0,0,0
+Cheltenham,Burton,0,0,0,0,1,2,1,4,0,0
+Derby,Port Vale,3,0,2,0,7,4,0,2,0,0
+Fleetwood Town,Wigan,4,2,2,2,5,4,0,1,0,0
+Leyton Orient,Bristol Rvs,0,1,0,1,18,2,1,3,0,1
+Lincoln,Stevenage,0,0,0,0,5,3,2,3,0,0
+Northampton,Charlton,1,1,0,1,3,6,2,2,0,0
+Peterboro,Exeter,2,1,1,1,9,6,0,5,0,0
+Portsmouth,Oxford,2,1,1,1,5,7,4,3,0,0
+Shrewsbury,Blackpool,0,2,0,1,4,6,2,1,0,0
+Wycombe,Barnsley,2,4,1,1,3,6,3,3,1,0
+Barnsley,Bolton,2,2,1,0,3,6,2,3,0,0
+Cheltenham,Charlton,1,3,0,1,2,9,0,2,0,0
+Peterboro,Northampton,5,1,3,1,4,2,1,1,0,0
+Barnsley,Lincoln,1,5,0,1,7,2,3,2,0,0
+Blackpool,Portsmouth,0,0,0,0,1,6,1,4,1,0
+Bristol Rvs,Derby,0,3,0,0,6,4,2,2,0,0
+Burton,Peterboro,1,3,0,0,3,3,2,1,0,0
+Cambridge,Northampton,1,1,1,0,0,8,1,0,0,0
+Charlton,Carlisle,3,2,1,1,6,2,2,1,0,0
+Exeter,Bolton,2,2,0,1,4,9,2,0,0,0
+Oxford,Cheltenham,2,1,1,0,4,3,1,3,0,0
+Port Vale,Shrewsbury,1,2,0,1,8,7,3,2,0,0
+Reading,Wycombe,1,2,0,1,9,5,2,2,0,0
+Stevenage,Fleetwood Town,0,0,0,0,7,1,1,2,0,1
+Wigan,Leyton Orient,1,0,0,0,6,2,1,1,0,1
+Carlisle,Barnsley,2,3,1,1,6,9,0,3,0,0
+Derby,Reading,2,1,0,0,7,2,3,4,0,1
+Fleetwood Town,Bristol Rvs,0,0,0,0,4,9,2,2,0,0
+Leyton Orient,Port Vale,0,0,0,0,9,2,0,1,0,0
+Lincoln,Cambridge,6,0,2,0,10,5,2,2,0,0
+Northampton,Blackpool,0,1,0,0,9,2,1,0,0,0
+Portsmouth,Burton,2,1,1,0,5,3,0,5,0,0
+Shrewsbury,Exeter,0,3,0,3,0,5,3,3,1,0
+Wycombe,Wigan,1,0,1,0,1,11,2,1,0,0
+Bolton,Oxford,5,0,2,0,6,1,0,3,0,0
+Peterboro,Stevenage,3,1,1,0,1,6,1,0,0,0
+Barnsley,Cheltenham,0,0,0,0,10,5,1,1,0,0
+Derby,Bolton,1,0,0,0,6,6,1,1,0,0
+Exeter,Burton,1,0,1,0,2,5,4,3,1,0
+Fleetwood Town,Charlton,1,1,0,1,10,6,3,1,0,0
+Lincoln,Bristol Rvs,5,0,3,0,8,4,2,1,1,0
+Peterboro,Portsmouth,0,1,0,0,8,5,1,2,0,0
+Port Vale,Oxford,0,2,0,1,3,7,2,0,0,0
+Reading,Cambridge,4,0,2,0,7,4,0,1,0,0
+Shrewsbury,Carlisle,1,0,1,0,7,3,1,2,0,0
+Stevenage,Leyton Orient,0,1,0,1,5,2,1,2,0,0
+Wigan,Blackpool,1,0,1,0,2,3,3,2,0,0
+Wycombe,Northampton,2,0,0,0,6,1,1,3,0,0
+Burton,Port Vale,0,1,0,0,6,6,2,0,0,0
+Carlisle,Stevenage,2,2,1,0,1,14,4,2,0,0
+Northampton,Derby,1,0,1,0,3,7,2,2,0,1
+Barnsley,Cambridge,0,2,0,1,0,3,2,2,0,0
+Derby,Blackpool,1,0,1,0,9,2,1,3,0,0
+Exeter,Charlton,1,1,1,0,11,2,1,1,0,0
+Fleetwood Town,Cheltenham,1,2,0,1,3,3,1,2,0,0
+Lincoln,Leyton Orient,1,0,0,0,2,5,1,3,0,0
+Peterboro,Carlisle,1,3,0,1,4,3,0,2,0,0
+Port Vale,Bristol Rvs,2,0,1,0,7,6,0,2,0,0
+Reading,Northampton,1,0,0,0,5,3,1,1,0,0
+Shrewsbury,Oxford,1,1,0,0,11,6,4,0,0,0
+Stevenage,Bolton,0,0,0,0,8,4,0,2,0,0
+Wigan,Burton,1,1,1,0,6,6,1,3,0,0
+Wycombe,Portsmouth,1,3,1,2,4,3,2,3,0,0
+Blackpool,Wycombe,0,0,0,0,4,1,2,1,0,0
+Bolton,Reading,5,2,2,1,13,3,2,0,0,0
+Bristol Rvs,Shrewsbury,0,0,0,0,5,4,1,3,0,0
+Burton,Barnsley,1,3,1,0,5,3,0,0,0,0
+Cambridge,Wigan,3,1,1,0,0,4,2,2,0,0
+Carlisle,Lincoln,1,3,0,1,10,3,2,0,0,0
+Charlton,Stevenage,0,0,0,0,1,2,1,2,0,0
+Cheltenham,Exeter,1,2,0,0,6,5,5,1,0,0
+Leyton Orient,Peterboro,1,2,0,2,7,2,1,0,0,0
+Northampton,Port Vale,2,0,1,0,2,2,2,2,0,0
+Oxford,Fleetwood Town,4,0,3,0,7,3,0,2,0,0
+Portsmouth,Derby,2,2,1,2,6,0,2,1,0,0
+Blackpool,Cambridge,1,0,1,0,7,3,0,2,0,0
+Bristol Rvs,Bolton,0,2,0,0,5,5,6,2,0,0
+Burton,Oxford,0,4,0,1,6,2,2,0,0,0
+Charlton,Barnsley,2,1,2,1,7,5,4,4,0,0
+Exeter,Stevenage,1,0,1,0,2,7,3,4,0,0
+Leyton Orient,Cheltenham,3,1,2,0,6,5,3,1,0,0
+Northampton,Carlisle,2,0,1,0,5,7,0,0,0,0
+Portsmouth,Shrewsbury,3,1,2,1,5,2,2,3,0,0
+Reading,Lincoln,1,1,0,0,3,2,2,0,0,0
+Wigan,Port Vale,0,0,0,0,4,6,2,1,0,0
+Blackpool,Fleetwood Town,1,0,1,0,5,6,2,3,0,0
+Bristol Rvs,Reading,0,2,0,2,1,7,2,0,0,0
+Charlton,Wigan,2,2,1,0,4,1,2,1,0,0
+Cheltenham,Carlisle,0,1,0,1,2,3,0,3,0,0
+Leyton Orient,Exeter,2,2,1,0,3,11,0,0,0,0
+Stevenage,Barnsley,2,1,1,1,10,7,2,2,0,0
+Peterboro,Port Vale,3,0,1,0,13,1,1,3,0,0
+Wycombe,Derby,0,0,0,0,6,7,1,1,0,0
+Barnsley,Reading,2,2,1,1,5,7,1,0,0,0
+Bolton,Portsmouth,1,1,1,1,6,0,3,1,0,0
+Cambridge,Charlton,1,1,0,1,0,9,0,2,0,0
+Carlisle,Blackpool,0,1,0,1,3,12,1,0,0,0
+Cheltenham,Bristol Rvs,1,3,0,1,2,2,3,1,0,0
+Derby,Leyton Orient,3,0,2,0,11,4,1,1,0,0
+Fleetwood Town,Northampton,2,0,2,0,6,2,3,2,0,0
+Lincoln,Wigan,1,2,1,1,2,6,6,5,0,0
+Oxford,Peterboro,5,0,3,0,3,6,0,0,0,0
+Port Vale,Exeter,2,4,2,0,4,10,1,4,0,0
+Shrewsbury,Wycombe,0,2,0,0,4,4,1,0,1,0
+Stevenage,Burton,1,2,0,1,7,4,2,3,1,0
+Bolton,Shrewsbury,2,2,1,2,12,5,0,2,0,0
+Bristol Rvs,Cambridge,1,0,0,0,4,6,0,0,0,0
+Burton,Cheltenham,1,2,1,0,4,4,3,1,0,0
+Oxford,Lincoln,0,1,0,0,8,3,4,6,0,1
+Peterboro,Fleetwood Town,4,1,1,1,7,4,0,0,0,0
+Port Vale,Wycombe,1,2,0,1,6,3,2,2,0,0
+Portsmouth,Barnsley,3,2,1,1,3,3,1,1,0,0
+Oxford,Stevenage,1,1,0,1,8,5,0,3,0,0
+Northampton,Exeter,1,2,0,1,10,2,1,0,0,1
+Blackpool,Barnsley,3,2,2,0,11,5,2,3,0,0
+Bolton,Port Vale,2,0,0,0,6,3,3,1,0,0
+Bristol Rvs,Peterboro,0,2,0,1,4,4,2,1,0,0
+Burton,Reading,3,2,3,1,4,9,2,0,0,0
+Cambridge,Derby,0,1,0,1,3,7,2,2,0,0
+Carlisle,Wycombe,1,3,1,1,3,2,2,1,0,0
+Charlton,Shrewsbury,1,1,0,1,1,4,1,0,0,0
+Cheltenham,Lincoln,1,2,1,1,3,9,4,0,0,0
+Leyton Orient,Fleetwood Town,0,1,0,0,8,5,0,1,0,0
+Portsmouth,Wigan,1,2,0,1,4,3,2,1,0,0
+Cambridge,Wycombe,1,1,0,0,6,7,2,0,0,0
+Cheltenham,Peterboro,2,0,2,0,7,4,1,0,0,0
+Barnsley,Northampton,1,1,1,0,3,8,3,1,0,0
+Derby,Carlisle,2,0,1,0,1,7,0,1,0,0
+Exeter,Oxford,1,2,0,2,8,2,2,2,0,0
+Fleetwood Town,Burton,3,0,2,0,4,5,0,4,0,0
+Lincoln,Portsmouth,0,2,0,0,6,4,3,7,0,0
+Peterboro,Bolton,3,3,0,2,10,4,1,3,0,0
+Port Vale,Cambridge,0,0,0,0,4,3,2,4,0,0
+Reading,Blackpool,3,2,1,1,6,2,1,0,0,0
+Shrewsbury,Leyton Orient,1,3,0,2,9,1,0,0,0,0
+Stevenage,Cheltenham,2,1,1,0,9,10,2,3,0,0
+Wigan,Bristol Rvs,2,0,1,0,7,4,0,1,0,0
+Wycombe,Charlton,1,0,1,0,4,5,2,5,0,0
+Accrington,Charlton,2,2,0,1,6,4,3,0,0,0
+Bristol Rvs,Forest Green,1,2,0,0,4,7,1,3,0,0
+Cambridge,Milton Keynes Dons,1,0,1,0,3,5,2,3,0,0
+Cheltenham,Peterboro,2,3,2,0,2,5,2,2,0,0
+Derby,Oxford,1,0,0,0,7,3,4,2,0,0
+Ipswich,Bolton,1,1,1,1,8,6,2,2,0,0
+Lincoln,Exeter,1,1,0,1,8,4,1,2,0,0
+Morecambe,Shrewsbury,0,0,0,0,4,3,2,2,0,0
+Plymouth,Barnsley,1,0,1,0,2,6,0,2,0,0
+Port Vale,Fleetwood Town,2,1,2,1,10,5,3,1,0,0
+Sheffield Weds,Portsmouth,3,3,1,0,7,0,4,0,1,0
+Wycombe,Burton,3,0,3,0,2,5,0,0,0,0
+Barnsley,Cheltenham,1,0,0,0,8,1,0,4,0,0
+Bolton,Wycombe,3,0,2,0,4,7,0,2,0,0
+Burton,Bristol Rvs,0,4,0,4,3,13,2,1,1,0
+Charlton,Derby,1,0,0,0,5,4,2,1,0,0
+Exeter,Port Vale,4,0,2,0,4,7,2,0,0,0
+Fleetwood Town,Plymouth,2,1,1,1,2,10,1,4,0,0
+Forest Green,Ipswich,1,2,0,2,3,8,1,1,0,0
+Milton Keynes Dons,Sheffield Weds,0,1,0,1,5,3,0,4,0,0
+Oxford,Cambridge,1,0,0,0,7,3,2,1,0,0
+Peterboro,Morecambe,3,0,2,0,9,2,1,1,0,0
+Portsmouth,Lincoln,0,0,0,0,3,4,0,1,0,0
+Shrewsbury,Accrington,0,1,0,0,8,7,0,2,1,0
+Bristol Rvs,Oxford,1,0,1,0,7,4,2,3,0,0
+Accrington,Burton,4,4,0,2,4,4,0,0,0,0
+Cambridge,Exeter,2,1,0,1,8,7,3,2,0,0
+Cheltenham,Portsmouth,0,2,0,1,5,3,2,1,0,0
+Derby,Barnsley,2,1,2,0,6,5,1,1,0,0
+Ipswich,Milton Keynes Dons,3,0,2,0,10,3,0,1,0,0
+Lincoln,Forest Green,1,1,0,0,5,4,3,3,0,0
+Morecambe,Fleetwood Town,1,1,1,0,5,7,2,1,0,1
+Plymouth,Peterboro,2,0,1,0,5,5,2,2,0,0
+Port Vale,Bolton,0,0,0,0,3,7,2,1,0,1
+Sheffield Weds,Charlton,1,0,0,0,3,3,1,1,0,0
+Wycombe,Shrewsbury,1,2,0,0,12,4,3,0,0,0
+Barnsley,Bristol Rvs,3,0,2,0,6,2,0,3,0,0
+Bolton,Morecambe,1,0,1,0,7,1,1,1,0,0
+Burton,Ipswich,0,1,0,0,5,12,1,2,0,0
+Charlton,Plymouth,5,1,3,0,6,3,0,0,0,1
+Exeter,Wycombe,3,1,2,0,10,2,0,3,0,0
+Fleetwood Town,Cheltenham,0,0,0,0,6,5,7,3,0,0
+Milton Keynes Dons,Port Vale,2,1,1,0,4,4,1,1,0,0
+Oxford,Lincoln,1,2,0,2,10,2,2,3,0,0
+Peterboro,Sheffield Weds,2,0,0,0,9,7,1,2,0,1
+Portsmouth,Cambridge,4,1,1,1,1,4,0,3,0,0
+Shrewsbury,Derby,0,0,0,0,5,10,3,1,0,0
+Barnsley,Wycombe,0,3,0,1,7,5,3,2,0,0
+Bolton,Sheffield Weds,0,2,0,2,4,1,2,1,0,0
+Burton,Port Vale,0,2,0,0,7,6,0,0,0,0
+Charlton,Cambridge,1,1,1,0,8,4,1,2,0,0
+Exeter,Cheltenham,0,1,0,0,12,0,0,4,0,0
+Fleetwood Town,Derby,0,0,0,0,5,13,1,1,0,0
+Forest Green,Plymouth,0,3,0,2,6,2,1,1,0,0
+Milton Keynes Dons,Accrington,1,1,1,0,2,5,2,4,0,0
+Oxford,Morecambe,1,1,0,0,8,0,2,4,0,0
+Peterboro,Lincoln,4,0,3,0,4,5,1,2,0,0
+Portsmouth,Bristol Rvs,3,1,1,0,12,2,3,5,0,0
+Shrewsbury,Ipswich,0,3,0,1,2,8,1,1,0,0
+Accrington,Exeter,0,0,0,0,4,6,1,1,0,0
+Bristol Rvs,Shrewsbury,1,1,0,0,4,9,1,1,0,0
+Cambridge,Burton,4,3,1,2,6,5,2,4,0,1
+Cheltenham,Oxford,1,2,0,0,3,6,4,3,1,1
+Derby,Peterboro,2,1,0,0,8,4,1,2,0,1
+Ipswich,Barnsley,2,2,1,1,4,2,2,4,0,0
+Lincoln,Fleetwood Town,2,2,2,1,3,6,3,4,0,0
+Morecambe,Milton Keynes Dons,0,4,0,2,6,3,0,0,0,0
+Plymouth,Bolton,2,0,1,0,2,10,2,1,0,0
+Port Vale,Portsmouth,0,1,0,1,3,4,2,1,0,0
+Sheffield Weds,Forest Green,5,0,4,0,4,1,1,3,0,0
+Wycombe,Charlton,1,1,1,1,9,2,4,3,0,0
+Accrington,Ipswich,0,2,0,0,6,12,3,3,0,0
+Bolton,Charlton,3,1,2,1,5,5,2,1,0,0
+Bristol Rvs,Morecambe,2,2,1,1,11,2,2,1,0,0
+Cambridge,Lincoln,2,0,2,0,4,1,0,1,0,0
+Derby,Plymouth,2,3,2,0,4,6,1,1,0,0
+Exeter,Milton Keynes Dons,1,0,0,0,8,0,1,1,0,0
+Fleetwood Town,Wycombe,1,1,0,1,12,2,1,1,0,1
+Forest Green,Shrewsbury,0,2,0,1,6,5,3,2,0,0
+Oxford,Burton,2,1,0,0,4,6,1,2,0,0
+Port Vale,Cheltenham,2,2,2,1,2,1,0,0,0,0
+Portsmouth,Peterboro,2,1,1,1,1,7,2,1,0,0
+Sheffield Weds,Barnsley,0,2,0,1,10,1,2,4,0,0
+Forest Green,Accrington,2,1,1,0,1,8,3,1,0,0
+Barnsley,Port Vale,1,1,1,0,9,7,4,0,0,0
+Burton,Portsmouth,0,2,0,0,4,4,2,1,0,0
+Charlton,Forest Green,1,1,1,1,4,6,2,3,1,0
+Cheltenham,Cambridge,2,1,0,1,6,3,3,2,0,0
+Ipswich,Bristol Rvs,2,0,1,0,7,1,3,1,0,2
+Lincoln,Derby,2,0,1,0,4,4,3,2,0,0
+Milton Keynes Dons,Bolton,0,2,0,1,3,5,1,1,0,0
+Morecambe,Sheffield Weds,0,3,0,0,3,9,0,1,0,0
+Peterboro,Fleetwood Town,0,1,0,1,11,5,3,2,0,0
+Plymouth,Oxford,1,0,0,0,8,3,1,2,0,0
+Shrewsbury,Exeter,3,2,2,2,5,10,0,1,0,0
+Wycombe,Accrington,1,0,1,0,3,11,1,2,0,0
+Accrington,Cheltenham,1,0,1,0,6,4,3,2,0,0
+Bolton,Peterboro,1,0,0,0,6,4,4,3,0,0
+Bristol Rvs,Lincoln,3,6,1,3,9,5,2,0,0,0
+Cambridge,Barnsley,0,3,0,1,3,5,2,2,0,1
+Derby,Wycombe,2,1,0,1,8,5,1,2,0,0
+Exeter,Burton,0,2,0,0,5,7,2,4,0,0
+Fleetwood Town,Charlton,1,1,1,0,6,2,1,1,0,0
+Forest Green,Morecambe,1,2,1,1,9,7,2,1,0,0
+Oxford,Milton Keynes Dons,1,2,0,1,5,2,0,1,0,0
+Port Vale,Shrewsbury,2,1,1,1,6,2,2,3,0,0
+Portsmouth,Plymouth,2,2,1,0,2,3,4,1,0,1
+Sheffield Weds,Ipswich,2,2,0,1,3,2,2,6,0,0
+Forest Green,Exeter,0,4,0,3,3,8,3,1,0,0
+Barnsley,Charlton,3,1,1,0,4,8,0,0,0,0
+Bristol Rvs,Accrington,0,1,0,0,4,11,2,3,0,0
+Morecambe,Cambridge,1,2,1,1,0,13,1,0,0,0
+Peterboro,Port Vale,3,0,2,0,5,3,0,3,0,0
+Sheffield Weds,Wycombe,3,1,2,1,12,5,0,2,0,0
+Shrewsbury,Burton,2,1,1,0,3,9,1,1,0,0
+Plymouth,Ipswich,2,1,0,1,5,4,0,4,0,0
+Accrington,Morecambe,3,1,0,0,6,4,2,4,0,1
+Bolton,Lincoln,2,0,1,0,6,5,3,2,0,0
+Burton,Forest Green,3,2,1,0,9,4,1,0,1,0
+Cambridge,Derby,0,2,0,1,2,2,0,1,0,0
+Charlton,Oxford,1,1,0,1,1,2,3,1,0,0
+Cheltenham,Shrewsbury,2,0,1,0,4,2,1,1,0,0
+Exeter,Bristol Rvs,2,2,0,0,6,3,2,2,0,0
+Fleetwood Town,Barnsley,0,1,0,0,5,5,4,1,0,0
+Ipswich,Portsmouth,3,2,1,1,8,4,1,2,0,0
+Milton Keynes Dons,Peterboro,2,3,0,2,5,9,3,1,0,0
+Port Vale,Sheffield Weds,0,1,0,0,7,5,3,1,0,0
+Wycombe,Plymouth,0,1,0,1,12,7,0,1,0,0
+Burton,Fleetwood Town,0,1,0,1,8,5,1,2,0,0
+Cheltenham,Bolton,1,0,0,0,10,5,2,2,0,0
+Ipswich,Cambridge,3,0,0,0,4,1,1,0,0,0
+Plymouth,Sheffield Weds,2,1,1,1,7,5,2,1,0,0
+Barnsley,Exeter,0,2,0,1,7,4,0,1,0,0
+Bristol Rvs,Cambridge,2,1,1,1,7,4,4,2,0,0
+Derby,Port Vale,1,2,1,0,7,7,1,3,1,0
+Forest Green,Bolton,1,0,1,0,2,10,4,0,0,0
+Lincoln,Charlton,0,0,0,0,10,6,1,1,0,0
+Morecambe,Ipswich,1,2,1,0,2,4,5,1,0,0
+Oxford,Wycombe,0,1,0,1,11,3,2,3,0,0
+Peterboro,Burton,1,1,0,0,8,2,0,1,0,0
+Plymouth,Accrington,3,0,1,0,4,5,4,3,1,1
+Portsmouth,Fleetwood Town,1,1,1,1,6,5,2,5,0,0
+Sheffield Weds,Cheltenham,3,0,1,0,7,2,0,4,0,0
+Shrewsbury,Milton Keynes Dons,2,1,2,0,7,12,1,2,0,1
+Charlton,Exeter,4,2,2,1,4,6,1,0,0,0
+Milton Keynes Dons,Bristol Rvs,0,1,0,0,0,6,3,2,0,0
+Peterboro,Forest Green,4,1,2,1,7,5,1,1,0,0
+Accrington,Derby,0,3,0,2,5,6,1,2,0,0
+Bolton,Barnsley,0,0,0,0,8,2,3,2,0,0
+Burton,Morecambe,1,1,1,0,6,2,0,5,0,0
+Cambridge,Sheffield Weds,0,2,0,1,6,6,1,3,0,0
+Cheltenham,Bristol Rvs,1,4,0,4,7,2,0,1,0,0
+Exeter,Oxford,2,4,0,3,5,4,3,1,0,0
+Fleetwood Town,Shrewsbury,0,1,0,1,7,2,4,5,0,0
+Ipswich,Lincoln,0,1,0,1,14,4,1,0,0,0
+Milton Keynes Dons,Plymouth,1,4,0,3,1,3,2,0,0,0
+Port Vale,Forest Green,2,2,0,2,13,2,3,5,0,0
+Wycombe,Peterboro,3,1,1,1,4,5,2,0,0,0
+Charlton,Portsmouth,3,0,2,0,8,8,3,1,0,1
+Ipswich,Derby,1,0,0,0,11,3,2,2,0,0
+Lincoln,Sheffield Weds,1,1,0,1,3,6,2,2,0,0
+Accrington,Bolton,2,3,1,0,4,7,4,1,0,0
+Bristol Rvs,Plymouth,2,2,0,2,8,7,1,4,0,0
+Burton,Cheltenham,1,0,0,0,6,1,1,2,0,0
+Cambridge,Port Vale,0,1,0,0,4,6,1,3,0,0
+Exeter,Fleetwood Town,2,1,1,1,3,5,0,1,0,0
+Forest Green,Portsmouth,0,1,0,1,3,7,3,2,0,0
+Milton Keynes Dons,Wycombe,0,1,0,1,6,2,1,1,0,0
+Morecambe,Barnsley,1,0,1,0,3,6,3,2,0,0
+Oxford,Peterboro,1,2,0,2,6,4,3,3,1,0
+Shrewsbury,Charlton,0,1,0,0,9,4,1,3,0,0
+Barnsley,Lincoln,0,1,0,1,6,2,2,1,0,0
+Bolton,Burton,2,1,0,0,6,8,2,1,0,0
+Charlton,Milton Keynes Dons,0,2,0,0,1,2,0,0,1,0
+Cheltenham,Morecambe,1,0,1,0,3,2,0,3,0,0
+Derby,Exeter,0,0,0,0,8,4,2,3,0,0
+Fleetwood Town,Forest Green,1,1,0,1,8,3,2,2,0,0
+Peterboro,Accrington,3,1,1,1,7,3,2,4,0,0
+Plymouth,Shrewsbury,2,1,0,1,9,5,1,2,0,0
+Port Vale,Ipswich,2,3,1,2,4,6,0,0,0,0
+Portsmouth,Oxford,1,1,0,1,6,5,1,3,0,1
+Wycombe,Cambridge,2,3,1,2,11,2,2,2,0,0
+Sheffield Weds,Bristol Rvs,1,1,1,0,7,1,1,1,0,0
+Barnsley,Forest Green,2,0,1,0,9,3,1,0,0,0
+Bolton,Oxford,1,3,0,1,4,4,2,5,0,0
+Charlton,Ipswich,4,4,0,1,1,5,2,5,0,0
+Cheltenham,Milton Keynes Dons,0,0,0,0,3,6,1,3,0,0
+Derby,Bristol Rvs,4,2,4,2,7,4,4,1,0,0
+Fleetwood Town,Accrington,3,0,0,0,9,5,3,1,0,0
+Peterboro,Cambridge,1,0,1,0,6,0,1,3,0,0
+Port Vale,Lincoln,1,0,0,0,8,4,3,2,0,0
+Portsmouth,Shrewsbury,1,1,1,1,7,1,1,0,0,0
+Sheffield Weds,Burton,4,2,2,0,7,1,0,0,0,0
+Wycombe,Morecambe,1,1,1,0,13,3,2,3,0,0
+Plymouth,Exeter,4,2,1,1,6,7,0,0,0,0
+Lincoln,Accrington,1,1,0,0,7,8,3,4,0,0
+Morecambe,Derby,1,1,1,0,3,11,2,2,0,0
+Oxford,Fleetwood Town,1,1,0,1,7,3,3,3,0,0
+Wycombe,Port Vale,2,2,1,1,6,4,2,1,0,0
+Shrewsbury,Oxford,1,1,0,1,12,0,3,2,0,0
+Accrington,Sheffield Weds,0,1,0,1,3,8,1,3,0,0
+Bristol Rvs,Fleetwood Town,2,2,0,1,8,2,4,2,0,0
+Burton,Charlton,3,3,2,2,12,4,1,0,0,0
+Cambridge,Bolton,0,0,0,0,9,5,2,4,0,1
+Exeter,Peterboro,3,2,1,1,4,4,3,0,0,0
+Forest Green,Wycombe,0,2,0,2,6,6,4,3,0,0
+Ipswich,Cheltenham,1,1,1,1,15,0,1,3,0,0
+Lincoln,Plymouth,1,1,1,1,3,5,0,3,0,0
+Milton Keynes Dons,Derby,1,3,1,1,6,9,3,3,0,0
+Morecambe,Portsmouth,1,1,1,0,5,8,3,3,0,0
+Oxford,Port Vale,4,0,2,0,3,9,1,3,0,0
+Shrewsbury,Barnsley,0,1,0,1,6,3,5,2,0,0
+Portsmouth,Derby,0,0,0,0,2,5,2,4,0,0
+Exeter,Ipswich,0,2,0,1,6,7,1,2,0,0
+Barnsley,Milton Keynes Dons,3,1,1,1,7,2,3,4,0,0
+Bristol Rvs,Peterboro,1,0,0,0,9,2,1,0,0,1
+Burton,Plymouth,2,2,1,0,9,4,4,1,0,0
+Cambridge,Accrington,0,1,0,1,1,7,1,2,0,0
+Cheltenham,Wycombe,1,0,1,0,2,4,0,1,0,0
+Fleetwood Town,Bolton,1,2,1,0,2,6,3,3,0,0
+Lincoln,Morecambe,2,1,1,0,5,4,4,1,0,0
+Oxford,Forest Green,1,1,1,0,5,8,1,6,0,0
+Port Vale,Charlton,1,0,0,0,2,7,1,3,0,0
+Sheffield Weds,Shrewsbury,1,0,1,0,7,1,1,1,0,0
+Bolton,Bristol Rvs,1,1,0,1,11,1,1,3,0,0
+Charlton,Cheltenham,0,1,0,0,11,4,0,2,0,0
+Ipswich,Fleetwood Town,1,1,1,0,5,2,1,2,0,1
+Morecambe,Exeter,1,1,1,1,6,15,2,0,0,0
+Peterboro,Barnsley,1,2,1,1,3,2,0,2,0,0
+Plymouth,Port Vale,0,2,0,0,4,3,1,2,0,0
+Derby,Sheffield Weds,0,0,0,0,4,2,2,0,0,0
+Milton Keynes Dons,Burton,1,1,0,1,11,2,1,2,0,0
+Shrewsbury,Lincoln,2,0,1,0,5,5,2,3,0,0
+Forest Green,Cambridge,2,1,1,0,5,6,3,1,1,0
+Accrington,Oxford,1,1,0,0,5,2,4,2,0,0
+Wycombe,Portsmouth,2,0,1,0,7,10,1,2,0,0
+Ipswich,Peterboro,2,1,1,1,4,6,3,0,0,0
+Shrewsbury,Bolton,3,2,1,1,6,2,4,1,0,0
+Burton,Derby,1,1,0,1,10,3,0,2,0,0
+Forest Green,Cheltenham,1,0,0,0,6,3,0,3,0,0
+Bristol Rvs,Port Vale,1,0,0,0,6,4,1,2,0,0
+Cambridge,Plymouth,0,0,0,0,5,7,0,5,0,0
+Exeter,Sheffield Weds,1,1,0,0,5,5,4,1,0,0
+Lincoln,Wycombe,0,0,0,0,4,8,0,0,0,0
+Milton Keynes Dons,Fleetwood Town,1,2,0,0,7,2,1,1,0,0
+Barnsley,Burton,2,0,1,0,3,6,1,1,0,0
+Bolton,Exeter,2,0,2,0,4,5,0,1,0,0
+Charlton,Bristol Rvs,1,2,1,0,9,3,0,2,0,0
+Derby,Forest Green,4,0,2,0,4,2,3,0,0,0
+Plymouth,Morecambe,2,1,0,0,7,2,0,1,0,0
+Portsmouth,Milton Keynes Dons,0,2,0,1,6,2,3,1,0,0
+Sheffield Weds,Oxford,0,0,0,0,4,2,3,1,0,0
+Wycombe,Ipswich,1,0,1,0,2,7,4,0,0,0
+Accrington,Barnsley,1,1,0,1,4,16,2,3,0,0
+Burton,Lincoln,3,0,3,0,8,1,0,1,0,0
+Cambridge,Shrewsbury,2,1,0,0,4,5,3,2,0,1
+Charlton,Peterboro,1,1,0,0,3,10,1,0,0,0
+Cheltenham,Plymouth,0,1,0,0,6,4,1,1,0,0
+Exeter,Portsmouth,0,0,0,0,4,14,3,3,0,0
+Fleetwood Town,Sheffield Weds,1,2,1,1,3,8,1,2,1,0
+Ipswich,Oxford,3,0,2,0,13,4,1,2,0,0
+Milton Keynes Dons,Forest Green,1,0,0,0,6,7,4,2,0,0
+Port Vale,Morecambe,1,0,1,0,5,5,2,3,0,1
+Wycombe,Bristol Rvs,2,1,1,1,3,7,3,2,0,0
+Bolton,Derby,0,0,0,0,2,4,2,1,0,0
+Barnsley,Fleetwood Town,2,1,0,0,2,3,5,1,0,0
+Bristol Rvs,Exeter,3,4,0,2,3,8,1,6,0,0
+Forest Green,Burton,1,2,0,1,6,7,1,3,0,0
+Morecambe,Accrington,2,0,2,0,3,8,1,2,0,0
+Oxford,Charlton,3,1,2,0,4,3,0,3,0,0
+Peterboro,Milton Keynes Dons,2,0,1,0,7,2,3,2,0,0
+Plymouth,Wycombe,1,0,1,0,11,3,1,2,0,0
+Portsmouth,Ipswich,2,2,1,1,3,3,1,1,0,0
+Sheffield Weds,Port Vale,2,0,1,0,3,3,1,2,0,0
+Shrewsbury,Cheltenham,0,1,0,1,1,4,1,4,1,1
+Derby,Cambridge,1,0,0,0,2,4,2,3,0,0
+Lincoln,Bolton,1,1,1,0,2,4,4,1,1,0
+Bristol Rvs,Cheltenham,2,1,2,0,5,6,1,1,0,0
+Forest Green,Port Vale,1,3,1,0,2,8,3,3,0,0
+Morecambe,Burton,5,0,2,0,8,2,1,1,0,0
+Oxford,Exeter,0,1,0,0,11,4,1,4,0,0
+Peterboro,Wycombe,0,3,0,1,8,3,0,0,0,0
+Plymouth,Milton Keynes Dons,3,1,2,1,1,3,0,1,0,0
+Portsmouth,Charlton,1,3,1,1,7,6,1,2,1,0
+Shrewsbury,Fleetwood Town,0,3,0,2,8,3,1,1,1,0
+Barnsley,Bolton,0,3,0,2,3,8,0,2,1,0
+Derby,Accrington,4,0,3,0,6,5,3,3,1,0
+Lincoln,Ipswich,1,1,0,0,3,9,2,1,1,0
+Sheffield Weds,Cambridge,5,0,2,0,6,3,0,1,0,0
+Bolton,Plymouth,0,0,0,0,7,4,1,2,0,1
+Cambridge,Bristol Rvs,1,2,1,2,9,3,3,4,0,0
+Charlton,Lincoln,2,1,2,0,0,1,3,1,0,0
+Morecambe,Cheltenham,2,1,1,1,5,6,2,1,0,0
+Accrington,Bristol Rvs,2,0,0,0,4,2,4,2,0,0
+Bolton,Portsmouth,3,0,1,0,4,3,0,1,0,0
+Burton,Shrewsbury,0,4,0,2,9,2,0,3,0,0
+Charlton,Barnsley,2,0,1,0,0,11,3,5,0,0
+Cheltenham,Derby,2,3,1,2,3,3,2,2,0,0
+Exeter,Forest Green,1,1,0,0,10,3,2,1,0,0
+Fleetwood Town,Oxford,1,2,1,0,10,3,1,3,0,0
+Ipswich,Plymouth,1,1,0,0,4,2,2,1,0,0
+Milton Keynes Dons,Lincoln,0,0,0,0,5,5,1,1,0,0
+Wycombe,Sheffield Weds,0,1,0,1,4,3,1,1,0,0
+Port Vale,Peterboro,0,2,0,0,1,5,0,1,0,0
+Barnsley,Accrington,3,1,3,0,8,2,1,2,0,0
+Derby,Bolton,2,1,1,0,5,4,1,1,0,0
+Forest Green,Milton Keynes Dons,1,2,1,1,3,3,2,4,0,0
+Oxford,Ipswich,2,1,1,1,3,5,0,1,0,0
+Plymouth,Cheltenham,4,2,2,1,6,5,0,1,0,0
+Portsmouth,Exeter,2,0,0,0,7,10,1,2,0,0
+Sheffield Weds,Fleetwood Town,1,0,1,0,4,2,1,2,0,0
+Shrewsbury,Cambridge,5,1,2,0,7,5,0,4,0,0
+Bolton,Forest Green,1,0,1,0,1,1,1,1,1,0
+Fleetwood Town,Portsmouth,0,2,0,1,4,7,2,3,0,1
+Ipswich,Morecambe,4,0,4,0,6,1,1,2,0,0
+Milton Keynes Dons,Shrewsbury,0,1,0,0,6,3,1,3,0,0
+Port Vale,Derby,1,2,0,0,7,9,1,1,0,0
+Wycombe,Oxford,2,0,2,0,2,11,2,1,0,0
+Charlton,Bolton,1,2,0,1,6,3,1,3,0,0
+Burton,Oxford,2,0,1,0,5,8,0,1,0,0
+Cheltenham,Port Vale,0,0,0,0,4,6,0,0,0,0
+Lincoln,Cambridge,0,0,0,0,4,3,3,3,0,0
+Milton Keynes Dons,Exeter,0,2,0,1,5,2,4,1,0,0
+Morecambe,Bristol Rvs,5,1,1,0,3,8,2,2,0,0
+Peterboro,Portsmouth,2,1,2,0,8,2,2,2,0,0
+Shrewsbury,Forest Green,2,1,0,1,7,5,2,2,0,0
+Oxford,Barnsley,1,2,0,1,10,5,0,4,0,0
+Accrington,Lincoln,0,3,0,1,1,0,2,2,1,0
+Bolton,Cheltenham,1,0,0,0,7,6,1,3,0,0
+Bristol Rvs,Milton Keynes Dons,0,2,0,1,3,5,2,5,0,0
+Cambridge,Ipswich,1,1,1,0,4,8,2,2,0,0
+Derby,Morecambe,5,0,1,0,8,3,0,4,0,0
+Exeter,Charlton,1,2,1,2,14,3,2,2,0,0
+Fleetwood Town,Burton,2,3,0,0,5,3,0,1,0,0
+Forest Green,Peterboro,0,2,0,0,6,3,4,2,0,0
+Oxford,Shrewsbury,0,1,0,0,8,1,2,3,0,0
+Port Vale,Wycombe,0,3,0,1,5,7,1,3,0,0
+Portsmouth,Barnsley,1,1,0,0,8,5,0,1,0,0
+Sheffield Weds,Plymouth,1,0,1,0,5,3,3,1,0,0
+Port Vale,Accrington,1,1,0,0,4,3,4,2,0,1
+Barnsley,Cambridge,2,0,1,0,3,5,1,4,1,0
+Burton,Exeter,1,0,0,0,3,10,1,1,0,0
+Charlton,Fleetwood Town,1,2,1,1,2,3,2,5,1,0
+Cheltenham,Accrington,0,0,0,0,5,2,3,3,0,0
+Ipswich,Sheffield Weds,2,2,1,2,6,2,0,2,0,0
+Lincoln,Bristol Rvs,1,0,1,0,5,4,0,3,0,1
+Milton Keynes Dons,Oxford,1,1,1,0,1,6,1,2,0,0
+Morecambe,Forest Green,1,1,0,0,4,7,0,2,0,0
+Peterboro,Bolton,0,5,0,2,8,3,3,3,0,0
+Plymouth,Portsmouth,3,1,1,0,4,7,2,2,0,0
+Shrewsbury,Port Vale,3,2,3,1,7,2,3,4,0,0
+Wycombe,Derby,3,2,1,0,5,6,3,2,0,0
+Accrington,Wycombe,0,2,0,1,7,5,2,1,0,0
+Bolton,Milton Keynes Dons,5,0,3,0,5,4,0,0,0,0
+Bristol Rvs,Ipswich,0,0,0,0,6,10,0,1,0,0
+Cambridge,Cheltenham,1,2,0,0,4,2,1,3,0,0
+Derby,Lincoln,1,1,0,1,5,2,1,1,0,1
+Exeter,Shrewsbury,0,0,0,0,5,3,0,1,0,0
+Fleetwood Town,Peterboro,1,0,1,0,1,7,2,2,0,0
+Forest Green,Charlton,0,1,0,1,9,3,0,1,0,0
+Oxford,Plymouth,1,3,1,1,6,8,3,5,0,0
+Port Vale,Barnsley,1,3,1,2,10,3,0,2,0,0
+Portsmouth,Burton,1,0,0,0,4,3,0,4,0,0
+Sheffield Weds,Morecambe,3,0,2,0,3,1,1,2,0,0
+Accrington,Shrewsbury,1,0,1,0,1,7,3,3,0,0
+Bristol Rvs,Burton,1,2,1,1,8,5,0,3,0,0
+Cambridge,Oxford,1,0,1,0,6,8,3,1,0,0
+Cheltenham,Barnsley,0,4,0,3,5,5,0,0,0,0
+Derby,Charlton,2,0,1,0,9,2,1,3,0,0
+Ipswich,Forest Green,4,0,2,0,10,3,0,2,0,0
+Lincoln,Portsmouth,0,0,0,0,9,4,2,4,0,0
+Morecambe,Peterboro,0,3,0,3,8,6,1,1,0,0
+Plymouth,Fleetwood Town,0,0,0,0,5,4,1,6,0,0
+Port Vale,Exeter,1,0,0,0,5,3,3,1,0,1
+Sheffield Weds,Milton Keynes Dons,5,2,1,2,10,2,0,1,0,0
+Wycombe,Bolton,1,0,1,0,7,7,2,2,0,0
+Fleetwood Town,Cambridge,1,0,0,0,5,4,3,1,0,0
+Morecambe,Port Vale,1,0,0,0,2,3,1,1,0,0
+Oxford,Bristol Rvs,0,3,0,2,6,5,2,2,0,0
+Barnsley,Derby,4,1,3,1,6,4,3,0,0,0
+Bolton,Port Vale,2,1,2,1,4,10,0,0,0,0
+Burton,Accrington,0,0,0,0,6,5,1,2,0,0
+Charlton,Sheffield Weds,0,1,0,1,1,8,1,3,0,0
+Exeter,Cambridge,2,0,1,0,9,1,0,0,0,0
+Fleetwood Town,Morecambe,1,0,1,0,5,7,2,3,0,0
+Forest Green,Lincoln,1,1,0,1,2,9,3,2,0,0
+Milton Keynes Dons,Ipswich,0,1,0,1,4,7,2,2,0,0
+Peterboro,Plymouth,5,2,2,1,4,8,1,2,0,0
+Portsmouth,Cheltenham,4,0,3,0,3,3,1,5,0,0
+Shrewsbury,Wycombe,2,0,1,0,7,5,4,0,0,0
+Derby,Cheltenham,2,0,1,0,3,2,2,3,0,0
+Lincoln,Milton Keynes Dons,1,1,1,0,5,3,1,2,0,0
+Peterboro,Charlton,0,0,0,0,5,8,1,2,1,0
+Portsmouth,Bolton,3,1,0,0,6,2,2,4,0,0
+Morecambe,Bolton,0,0,0,0,2,11,1,0,0,0
+Accrington,Forest Green,2,1,1,1,3,3,1,3,0,1
+Bristol Rvs,Barnsley,0,0,0,0,3,7,3,2,0,0
+Cambridge,Portsmouth,0,1,0,0,7,3,1,1,0,0
+Cheltenham,Fleetwood Town,1,0,0,0,5,5,1,3,0,0
+Derby,Shrewsbury,2,2,2,0,3,3,3,2,0,0
+Ipswich,Burton,4,0,3,0,3,8,1,4,0,0
+Lincoln,Oxford,1,0,1,0,1,15,0,2,0,0
+Plymouth,Charlton,2,0,0,0,14,3,0,0,0,0
+Port Vale,Milton Keynes Dons,1,0,1,0,5,4,3,3,0,0
+Sheffield Weds,Peterboro,1,0,0,0,7,0,3,1,0,0
+Wycombe,Exeter,1,1,1,0,2,3,0,3,0,0
+Barnsley,Portsmouth,3,1,2,0,4,2,1,0,0,0
+Cambridge,Morecambe,1,1,1,1,9,1,2,0,0,0
+Cheltenham,Lincoln,0,0,0,0,6,4,2,1,0,0
+Ipswich,Accrington,3,0,1,0,6,3,1,1,0,1
+Peterboro,Shrewsbury,2,1,1,1,5,7,3,3,0,0
+Wycombe,Fleetwood Town,2,0,1,0,7,4,0,1,0,0
+Plymouth,Derby,2,1,0,1,4,4,2,1,0,0
+Barnsley,Plymouth,3,0,0,0,3,2,1,2,0,0
+Bolton,Ipswich,0,2,0,1,6,8,2,5,0,0
+Burton,Wycombe,2,1,2,0,4,5,1,2,1,0
+Charlton,Accrington,1,1,1,1,3,7,2,3,0,0
+Exeter,Lincoln,2,1,1,1,4,7,3,2,1,0
+Fleetwood Town,Port Vale,1,1,0,0,2,8,1,3,0,0
+Forest Green,Bristol Rvs,1,3,1,2,7,7,1,3,0,0
+Milton Keynes Dons,Cambridge,1,0,1,0,6,3,0,4,0,0
+Oxford,Derby,2,3,1,2,11,2,1,1,0,0
+Peterboro,Cheltenham,0,3,0,2,3,3,3,2,0,0
+Portsmouth,Sheffield Weds,0,1,0,1,9,5,2,2,0,1
+Shrewsbury,Morecambe,3,1,2,1,8,3,3,0,0,0
+Accrington,Portsmouth,1,3,0,1,7,4,3,2,1,1
+Bristol Rvs,Wycombe,0,2,0,1,6,3,1,2,0,0
+Burton,Peterboro,2,5,1,3,4,4,1,0,0,0
+Morecambe,Charlton,1,4,0,3,5,4,1,2,0,0
+Sheffield Weds,Bolton,1,1,1,1,4,5,1,1,0,0
+Lincoln,Peterboro,0,3,0,1,2,1,2,2,0,0
+Accrington,Milton Keynes Dons,0,1,0,1,9,6,3,2,0,0
+Bristol Rvs,Portsmouth,0,2,0,1,4,3,2,2,1,0
+Cambridge,Charlton,1,2,0,2,8,4,2,0,0,0
+Cheltenham,Exeter,3,1,1,0,1,6,5,2,0,0
+Derby,Fleetwood Town,0,2,0,2,3,8,2,3,0,0
+Ipswich,Shrewsbury,2,0,1,0,5,4,1,5,0,0
+Morecambe,Oxford,1,1,0,1,1,1,3,1,0,0
+Plymouth,Forest Green,2,0,1,0,6,2,0,1,0,0
+Port Vale,Burton,2,3,1,1,3,3,2,3,0,0
+Wycombe,Barnsley,0,1,0,0,12,1,1,4,0,0
+Accrington,Plymouth,0,2,0,1,5,4,3,0,1,0
+Barnsley,Sheffield Weds,4,2,2,1,1,6,5,3,0,0
+Charlton,Wycombe,1,1,1,0,7,6,5,3,0,0
+Exeter,Accrington,5,0,1,0,4,0,1,1,0,0
+Fleetwood Town,Lincoln,2,1,1,1,8,4,2,0,0,0
+Milton Keynes Dons,Morecambe,1,0,0,0,3,7,1,3,0,0
+Peterboro,Derby,2,0,0,0,3,8,3,1,0,0
+Portsmouth,Port Vale,2,2,0,2,11,5,0,5,0,0
+Forest Green,Sheffield Weds,1,0,1,0,2,6,1,1,0,0
+Exeter,Barnsley,3,1,1,1,4,4,3,2,0,0
+Cheltenham,Sheffield Weds,2,2,0,0,2,11,2,1,0,0
+Barnsley,Morecambe,5,0,3,0,5,6,1,0,0,0
+Charlton,Shrewsbury,6,0,3,0,5,5,2,3,0,1
+Cheltenham,Burton,0,0,0,0,7,3,3,0,0,0
+Derby,Ipswich,0,2,0,1,4,4,4,3,0,0
+Fleetwood Town,Exeter,2,2,2,1,5,5,1,0,0,0
+Peterboro,Oxford,0,0,0,0,7,1,0,1,0,0
+Port Vale,Cambridge,0,2,0,0,2,0,3,0,0,0
+Portsmouth,Forest Green,1,0,0,0,5,0,3,2,0,0
+Sheffield Weds,Lincoln,1,1,1,1,6,4,0,0,0,0
+Wycombe,Milton Keynes Dons,2,2,1,1,6,5,0,3,0,0
+Accrington,Port Vale,3,0,2,0,5,7,1,1,0,1
+Bristol Rvs,Charlton,1,0,0,0,5,8,0,0,0,0
+Burton,Barnsley,2,1,0,0,2,12,6,2,0,0
+Cambridge,Fleetwood Town,2,1,1,0,2,3,4,4,0,0
+Exeter,Bolton,0,1,0,1,8,3,0,3,0,0
+Forest Green,Derby,0,2,0,1,1,6,1,1,0,0
+Ipswich,Wycombe,4,0,2,0,7,1,0,2,0,0
+Lincoln,Cheltenham,2,0,1,0,3,5,0,1,0,0
+Milton Keynes Dons,Portsmouth,1,1,0,1,11,2,0,4,0,1
+Morecambe,Plymouth,1,3,1,0,8,9,2,2,0,0
+Oxford,Sheffield Weds,1,1,0,1,5,6,2,2,0,0
+Shrewsbury,Peterboro,0,3,0,1,2,1,2,1,0,0
+Barnsley,Shrewsbury,2,1,2,0,9,3,2,5,0,0
+Bolton,Cambridge,1,1,0,0,2,2,3,1,0,0
+Charlton,Burton,3,2,2,1,3,7,1,1,1,0
+Cheltenham,Ipswich,1,1,0,0,5,4,1,1,0,0
+Derby,Milton Keynes Dons,1,1,1,0,10,2,2,2,0,0
+Fleetwood Town,Bristol Rvs,1,2,1,0,5,5,3,1,0,0
+Peterboro,Exeter,3,1,2,0,9,2,1,2,0,0
+Plymouth,Lincoln,0,2,0,1,8,6,1,3,0,0
+Port Vale,Oxford,0,0,0,0,13,7,5,2,1,0
+Portsmouth,Morecambe,0,0,0,0,4,7,2,2,0,0
+Sheffield Weds,Accrington,3,0,1,0,7,2,0,2,0,0
+Wycombe,Forest Green,2,0,1,0,8,3,0,2,0,0
+Exeter,Plymouth,0,1,0,0,4,7,2,3,0,0
+Cambridge,Peterboro,2,0,1,0,5,3,1,2,0,0
+Accrington,Fleetwood Town,2,5,0,2,5,6,2,4,1,0
+Bristol Rvs,Derby,1,1,0,1,7,5,0,6,0,0
+Burton,Sheffield Weds,3,2,3,1,2,7,1,1,0,0
+Forest Green,Barnsley,1,5,0,3,5,5,0,1,0,0
+Ipswich,Charlton,6,0,2,0,6,0,1,2,0,1
+Lincoln,Port Vale,3,2,2,2,4,3,5,4,1,2
+Milton Keynes Dons,Cheltenham,2,2,1,1,6,4,1,2,0,0
+Morecambe,Wycombe,1,0,0,0,4,11,3,2,0,0
+Oxford,Bolton,0,1,0,1,7,0,2,5,0,0
+Shrewsbury,Portsmouth,1,1,0,0,3,6,3,3,1,0
+Accrington,Peterboro,1,2,0,2,2,5,1,3,0,0
+Bristol Rvs,Sheffield Weds,1,2,0,2,6,4,0,3,0,0
+Burton,Bolton,1,1,0,1,3,8,1,1,0,0
+Cambridge,Wycombe,1,2,0,2,6,7,0,1,0,0
+Exeter,Derby,1,2,0,0,9,3,0,1,0,0
+Forest Green,Fleetwood Town,0,0,0,0,4,3,1,3,0,0
+Ipswich,Port Vale,2,1,0,1,10,3,1,3,0,0
+Lincoln,Barnsley,0,0,0,0,4,3,0,3,0,0
+Milton Keynes Dons,Charlton,0,1,0,0,12,7,0,3,0,0
+Oxford,Portsmouth,1,1,1,1,10,4,1,6,0,0
+Shrewsbury,Plymouth,1,2,0,0,2,8,1,3,0,0
+Barnsley,Oxford,2,0,1,0,3,4,1,4,0,0
+Bolton,Shrewsbury,1,0,0,0,9,2,1,2,0,0
+Charlton,Morecambe,2,3,1,1,8,1,1,0,0,0
+Cheltenham,Forest Green,3,1,3,0,4,1,4,2,0,0
+Derby,Burton,1,0,0,0,8,5,1,1,0,0
+Fleetwood Town,Milton Keynes Dons,1,0,1,0,6,6,2,4,0,0
+Peterboro,Ipswich,0,3,0,1,3,6,1,3,0,0
+Plymouth,Cambridge,3,1,1,1,5,4,1,3,0,0
+Port Vale,Bristol Rvs,2,0,2,0,5,6,2,2,0,0
+Portsmouth,Accrington,1,0,0,0,5,7,0,2,0,0
+Sheffield Weds,Exeter,2,1,0,0,4,1,3,1,0,0
+Wycombe,Lincoln,0,2,0,1,7,3,0,3,0,0
+Barnsley,Ipswich,0,3,0,2,2,3,3,3,0,0
+Bolton,Accrington,0,1,0,1,10,4,0,0,0,0
+Lincoln,Burton,0,1,0,0,3,4,0,0,0,0
+Oxford,Cheltenham,4,0,1,0,4,2,0,3,0,0
+Plymouth,Bristol Rvs,2,0,0,0,10,2,1,1,0,1
+Accrington,Cambridge,1,2,0,1,6,4,2,2,0,0
+Bolton,Fleetwood Town,2,0,1,0,8,4,2,3,0,1
+Charlton,Port Vale,3,2,1,0,4,8,4,1,0,0
+Derby,Portsmouth,1,1,0,1,10,3,0,2,0,0
+Forest Green,Oxford,0,3,0,1,1,5,0,0,0,0
+Ipswich,Exeter,6,0,5,0,4,2,2,1,0,0
+Milton Keynes Dons,Barnsley,4,4,0,1,7,3,2,2,0,0
+Morecambe,Lincoln,3,2,0,1,3,6,3,3,0,0
+Peterboro,Bristol Rvs,0,0,0,0,12,2,3,5,0,0
+Plymouth,Burton,1,0,1,0,6,4,0,3,0,0
+Shrewsbury,Sheffield Weds,0,3,0,1,5,6,3,2,0,0
+Wycombe,Cheltenham,0,3,0,1,8,1,1,3,0,0
+Shrewsbury,Bristol Rvs,2,1,1,0,3,7,4,2,0,0
+Burton,Cambridge,1,0,1,0,4,8,2,1,0,0
+Barnsley,Peterboro,0,2,0,1,10,3,0,1,0,0
+Bristol Rvs,Bolton,2,3,1,1,5,8,1,3,0,0
+Burton,Milton Keynes Dons,0,0,0,0,3,12,1,1,0,0
+Cambridge,Forest Green,2,0,2,0,7,2,0,2,0,0
+Cheltenham,Charlton,2,2,0,1,5,3,0,0,0,0
+Exeter,Morecambe,3,2,0,0,7,1,4,3,0,0
+Fleetwood Town,Ipswich,2,2,0,0,4,8,0,3,0,1
+Lincoln,Shrewsbury,1,0,0,0,1,4,2,1,0,1
+Oxford,Accrington,1,2,1,0,8,3,1,2,0,0
+Port Vale,Plymouth,1,3,1,2,4,1,0,1,0,0
+Portsmouth,Wycombe,2,2,1,1,10,1,1,1,0,0
+Sheffield Weds,Derby,1,0,1,0,2,6,3,2,0,1

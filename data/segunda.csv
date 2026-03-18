@@ -1,0 +1,1717 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Burgos,Cultural Leonesa,5,1,3,0,3,3,1,1,0,1
+Valladolid,Ceuta,3,0,2,0,6,4,3,2,0,0
+Santander,Castellon,3,1,2,1,3,12,3,0,0,1
+Malaga,Eibar,1,1,0,0,8,4,2,2,0,0
+Granada,La Coruna,1,3,0,1,7,1,3,2,1,0
+Sociedad B,Zaragoza,1,0,1,0,2,9,4,2,0,0
+Cadiz,Mirandes,1,0,1,0,8,0,3,2,0,1
+Huesca,Leganes,1,1,0,0,5,3,2,2,0,0
+Las Palmas,Andorra,1,1,1,0,1,2,2,3,1,0
+Sp Gijon,Cordoba,2,1,1,1,2,4,2,2,0,0
+Almeria,Albacete,4,4,1,1,17,5,3,2,0,0
+Eibar,Granada,3,0,1,0,6,3,2,4,0,1
+Castellon,Valladolid,0,1,0,1,8,9,3,3,0,0
+Leganes,Cadiz,1,1,1,0,7,5,2,1,0,0
+Mirandes,Huesca,0,1,0,1,1,4,5,2,0,0
+Ceuta,Sp Gijon,0,1,0,1,3,3,1,2,0,0
+Zaragoza,Andorra,1,3,0,1,6,5,1,2,1,0
+La Coruna,Burgos,0,0,0,0,2,6,2,1,0,0
+Cultural Leonesa,Almeria,0,1,0,0,3,5,1,2,0,0
+Malaga,Sociedad B,1,0,0,0,6,2,2,2,0,0
+Albacete,Santander,2,3,0,0,2,10,1,3,0,0
+Cordoba,Las Palmas,1,3,0,1,3,2,4,1,0,0
+Sociedad B,Almeria,2,2,1,1,2,8,3,4,0,0
+Sp Gijon,Cultural Leonesa,1,0,0,0,10,3,4,1,0,0
+Santander,Ceuta,4,1,2,1,5,1,0,1,0,1
+Valladolid,Cordoba,0,0,0,0,7,0,2,2,0,0
+Castellon,Zaragoza,1,1,0,0,7,3,2,3,0,0
+Andorra,Burgos,2,1,1,0,5,4,1,2,0,0
+Cadiz,Albacete,2,1,1,0,7,4,4,3,0,1
+Las Palmas,Malaga,0,1,0,1,7,3,2,4,0,0
+Granada,Mirandes,1,2,0,0,6,1,2,2,1,0
+Huesca,Eibar,2,1,1,1,5,6,2,1,0,1
+Leganes,La Coruna,2,2,2,0,4,3,4,3,0,0
+Albacete,Mirandes,1,4,0,1,5,2,2,1,1,0
+Cordoba,Castellon,2,1,0,1,4,4,2,0,0,0
+La Coruna,Sp Gijon,1,0,0,0,6,3,3,1,0,0
+Zaragoza,Valladolid,1,1,0,0,1,7,5,4,0,0
+Malaga,Granada,2,2,2,1,2,1,2,1,0,0
+Ceuta,Huesca,2,1,1,0,8,0,1,2,0,1
+Burgos,Las Palmas,0,0,0,0,2,6,2,2,0,0
+Sociedad B,Cadiz,3,3,1,1,1,5,4,3,0,0
+Almeria,Santander,2,3,2,0,5,3,3,3,1,0
+Cultural Leonesa,Leganes,0,0,0,0,9,3,0,2,0,0
+Eibar,Andorra,2,0,0,0,10,5,3,4,0,0
+Las Palmas,Sociedad B,2,1,1,0,4,2,1,6,0,0
+Cadiz,Eibar,1,0,0,0,5,4,2,2,0,0
+Mirandes,La Coruna,1,5,0,2,1,6,2,3,0,0
+Huesca,Malaga,1,0,0,0,4,3,4,2,0,0
+Valladolid,Almeria,3,1,1,0,8,3,5,5,0,0
+Andorra,Cordoba,3,1,2,1,3,7,2,4,0,0
+Santander,Cultural Leonesa,2,4,0,3,11,1,0,2,0,0
+Castellon,Ceuta,3,3,2,1,10,6,3,5,0,1
+Sp Gijon,Burgos,2,3,0,2,8,4,1,2,0,0
+Granada,Leganes,0,2,0,1,5,1,2,3,0,0
+Zaragoza,Albacete,0,0,0,0,3,6,1,3,0,0
+La Coruna,Huesca,4,0,3,0,6,3,1,2,0,0
+Cultural Leonesa,Castellon,1,3,0,2,1,4,2,6,1,0
+Andorra,Mirandes,1,1,1,1,8,4,2,5,0,0
+Leganes,Las Palmas,0,1,0,0,2,4,7,5,1,0
+Almeria,Sp Gijon,2,1,0,1,6,1,4,8,0,2
+Ceuta,Zaragoza,1,0,0,0,6,5,5,2,0,0
+Albacete,Valladolid,2,0,0,0,2,6,3,3,0,0
+Eibar,Sociedad B,2,1,1,0,2,3,2,2,0,0
+Malaga,Cadiz,0,1,0,1,5,2,1,2,0,0
+Cordoba,Santander,2,2,0,0,12,1,2,3,1,0
+Burgos,Granada,1,1,0,0,6,1,1,3,0,0
+Mirandes,Zaragoza,0,1,0,1,4,2,3,4,0,0
+Eibar,La Coruna,1,1,0,1,6,2,4,5,0,0
+Santander,Andorra,1,2,0,0,15,3,3,3,0,0
+Las Palmas,Almeria,0,1,0,1,5,1,2,4,1,1
+Sociedad B,Cordoba,1,1,1,0,8,5,4,5,0,0
+Burgos,Malaga,2,1,1,1,0,3,5,4,0,1
+Cadiz,Ceuta,0,0,0,0,1,1,2,2,0,0
+Sp Gijon,Albacete,3,4,3,1,2,8,1,2,0,0
+Valladolid,Cultural Leonesa,0,1,0,1,2,2,3,3,0,0
+Huesca,Granada,0,1,0,1,13,2,1,1,0,0
+Leganes,Castellon,0,1,0,1,6,2,4,2,0,0
+Ceuta,Eibar,1,0,1,0,7,3,4,1,0,1
+La Coruna,Almeria,1,1,0,1,4,2,4,3,0,0
+Andorra,Leganes,1,2,0,0,7,1,2,3,1,0
+Huesca,Burgos,2,1,1,0,1,1,2,3,0,0
+Granada,Sociedad B,5,2,5,1,2,5,2,4,0,0
+Zaragoza,Cordoba,0,1,0,0,7,4,6,5,1,0
+Castellon,Sp Gijon,3,1,2,1,3,1,3,6,0,0
+Santander,Malaga,3,0,0,0,11,3,2,0,0,1
+Valladolid,Mirandes,1,1,0,1,14,2,0,1,0,0
+Las Palmas,Cadiz,1,0,0,0,6,5,1,4,0,0
+Cultural Leonesa,Albacete,0,0,0,0,6,1,1,1,0,1
+Granada,Las Palmas,0,0,0,0,7,7,1,1,0,0
+Mirandes,Leganes,0,0,0,0,3,10,6,1,0,0
+Almeria,Zaragoza,4,2,0,0,7,5,2,2,0,0
+Sociedad B,Andorra,3,0,1,0,2,4,4,2,0,1
+Albacete,Ceuta,0,0,0,0,6,3,1,3,0,0
+Eibar,Castellon,0,0,0,0,1,7,1,4,0,0
+Sp Gijon,Santander,2,1,1,0,4,6,1,5,1,1
+Burgos,Valladolid,0,1,0,0,2,2,6,7,0,0
+Cadiz,Huesca,1,0,0,0,13,2,2,3,0,0
+Malaga,La Coruna,3,0,2,0,1,9,1,3,0,0
+Cordoba,Cultural Leonesa,1,0,1,0,4,6,4,2,0,0
+Andorra,Granada,0,0,0,0,5,3,4,2,0,0
+Ceuta,Mirandes,2,0,2,0,5,5,2,1,0,0
+Zaragoza,Cultural Leonesa,0,5,0,2,3,5,5,2,2,0
+Leganes,Malaga,2,0,1,0,7,5,1,0,0,0
+Castellon,Albacete,0,1,0,1,9,3,5,3,2,1
+Valladolid,Sp Gijon,2,3,1,1,5,1,0,3,0,0
+Cordoba,Almeria,1,1,1,1,3,2,2,2,0,0
+Santander,La Coruna,2,1,1,1,6,6,3,1,0,0
+Las Palmas,Eibar,3,1,1,0,1,5,2,1,0,0
+Cadiz,Burgos,1,3,1,2,1,4,3,4,0,0
+Huesca,Las Palmas,1,1,1,0,5,4,3,1,0,0
+Cultural Leonesa,Ceuta,0,1,0,1,8,2,3,1,0,0
+Albacete,Cordoba,1,3,0,2,9,4,0,0,0,0
+Eibar,Leganes,0,0,0,0,7,2,2,5,0,0
+Burgos,Sociedad B,1,0,0,0,6,3,4,3,0,0
+Granada,Cadiz,0,0,0,0,8,4,1,2,0,0
+Mirandes,Santander,1,3,1,1,5,4,5,2,0,0
+Malaga,Andorra,4,1,1,0,2,7,2,3,1,0
+Almeria,Castellon,1,0,0,0,6,3,1,2,0,0
+Sp Gijon,Zaragoza,1,0,1,0,2,16,1,1,1,0
+La Coruna,Valladolid,1,1,0,1,4,5,3,3,0,1
+Santander,Sociedad B,1,0,1,0,5,8,5,1,0,0
+Cultural Leonesa,Mirandes,3,2,1,1,6,2,0,3,0,0
+Albacete,Huesca,2,1,0,1,7,7,3,0,0,0
+Leganes,Burgos,1,2,1,2,9,4,3,3,0,0
+Almeria,Eibar,3,1,3,0,3,7,2,3,0,0
+Andorra,Cadiz,0,0,0,0,9,3,3,2,0,0
+Cordoba,Ceuta,2,0,2,0,4,5,2,4,0,0
+Sp Gijon,Las Palmas,0,0,0,0,2,3,2,2,0,0
+Castellon,Malaga,2,1,0,0,7,4,6,3,1,0
+Zaragoza,La Coruna,0,2,0,0,2,8,1,1,0,0
+Valladolid,Granada,2,1,0,1,3,2,3,4,0,1
+Sociedad B,Huesca,2,0,1,0,3,6,2,3,0,0
+Mirandes,Sp Gijon,2,1,0,1,4,4,4,2,0,0
+Sociedad B,Leganes,2,1,1,1,2,6,4,6,0,1
+Eibar,Albacete,3,2,0,1,4,3,1,3,0,0
+Huesca,Andorra,2,2,0,2,1,3,1,5,0,0
+La Coruna,Cultural Leonesa,3,0,2,0,1,1,1,0,0,0
+Malaga,Cordoba,2,2,0,0,2,2,3,3,0,1
+Las Palmas,Santander,3,1,3,1,5,5,5,1,1,0
+Granada,Zaragoza,3,1,1,1,6,5,0,4,0,0
+Cadiz,Valladolid,0,0,0,0,2,4,6,1,0,0
+Burgos,Castellon,0,0,0,0,5,6,2,2,0,0
+Valladolid,Las Palmas,0,1,0,1,10,1,3,2,0,0
+Albacete,Andorra,1,0,0,0,4,2,1,1,0,0
+Castellon,Sociedad B,5,4,1,1,14,1,3,1,0,0
+Santander,Granada,2,2,2,0,7,4,5,5,0,0
+Ceuta,Leganes,1,2,0,1,6,3,2,2,0,0
+Almeria,Cadiz,3,0,1,0,13,5,3,0,0,0
+Sp Gijon,Eibar,1,1,0,1,10,3,3,5,0,0
+Cordoba,La Coruna,1,3,0,0,6,5,5,5,1,0
+Mirandes,Burgos,0,2,0,0,7,4,4,1,0,0
+Zaragoza,Huesca,1,0,1,0,5,3,4,1,1,0
+Cultural Leonesa,Malaga,1,0,1,0,1,9,0,2,0,1
+Las Palmas,Albacete,2,1,2,0,5,3,1,5,0,0
+Andorra,Castellon,1,3,0,1,2,4,2,2,0,0
+Eibar,Zaragoza,1,2,1,1,7,0,6,4,0,1
+Leganes,Almeria,0,3,0,1,5,0,1,4,0,0
+Granada,Cordoba,1,1,0,0,7,8,3,5,0,0
+La Coruna,Ceuta,2,1,1,0,4,4,3,0,0,0
+Cadiz,Cultural Leonesa,1,2,1,2,11,6,1,1,0,0
+Huesca,Sp Gijon,2,0,1,0,7,5,0,1,0,0
+Burgos,Santander,0,2,0,1,6,3,4,5,0,0
+Malaga,Mirandes,3,2,2,0,2,1,1,3,0,0
+Sociedad B,Valladolid,1,0,1,0,4,9,3,3,0,0
+Ceuta,Almeria,3,2,1,1,2,2,3,5,0,0
+Sp Gijon,Andorra,1,1,0,0,8,5,3,3,0,0
+Ceuta,Burgos,1,0,1,0,10,7,5,3,0,0
+Cultural Leonesa,Granada,0,1,0,1,4,4,2,3,0,0
+Albacete,La Coruna,0,2,0,1,9,5,1,1,0,0
+Almeria,Huesca,0,0,0,0,13,1,1,0,0,0
+Valladolid,Malaga,1,1,1,0,7,2,5,2,1,0
+Zaragoza,Leganes,3,2,1,1,5,3,2,4,0,2
+Santander,Eibar,4,0,2,0,3,5,0,3,0,0
+Cordoba,Cadiz,1,2,0,0,5,4,2,4,0,0
+Mirandes,Sociedad B,1,0,0,0,2,3,3,2,0,1
+Castellon,Las Palmas,1,0,0,0,3,3,3,2,0,0
+Andorra,Almeria,1,2,0,0,10,4,1,2,0,0
+Huesca,Valladolid,1,4,0,2,6,5,2,4,0,0
+Sociedad B,Sp Gijon,0,1,0,0,4,6,2,7,0,0
+Cadiz,Santander,2,3,2,1,5,7,6,4,0,0
+Leganes,Cordoba,0,0,0,0,4,5,3,1,0,0
+Eibar,Cultural Leonesa,1,2,1,1,8,4,2,3,0,0
+La Coruna,Castellon,1,3,1,0,3,9,3,6,1,0
+Granada,Ceuta,1,1,1,1,5,2,2,2,0,0
+Burgos,Albacete,0,1,0,0,5,5,3,1,0,0
+Las Palmas,Mirandes,0,0,0,0,2,3,1,3,1,0
+Malaga,Zaragoza,1,1,1,0,8,4,4,4,0,1
+Cultural Leonesa,Huesca,0,2,0,0,5,7,0,3,0,0
+Cordoba,Eibar,0,0,0,0,5,0,5,3,0,0
+Sp Gijon,Granada,1,0,0,0,6,1,2,2,0,0
+Valladolid,Andorra,0,1,0,0,8,6,3,2,0,0
+Santander,Leganes,1,1,0,0,7,7,4,3,0,0
+La Coruna,Sociedad B,0,3,0,1,6,3,0,4,0,0
+Zaragoza,Cadiz,1,2,0,0,8,4,3,5,0,0
+Albacete,Malaga,1,3,1,0,6,5,3,1,0,0
+Almeria,Burgos,1,2,1,1,3,1,3,3,0,0
+Ceuta,Las Palmas,1,1,0,0,2,5,2,2,0,0
+Castellon,Mirandes,3,1,1,1,5,4,4,2,0,0
+Eibar,Valladolid,3,0,1,0,3,4,3,4,0,0
+Andorra,La Coruna,1,0,0,0,1,4,3,4,0,0
+Huesca,Santander,1,1,0,1,8,3,5,2,0,0
+Leganes,Sp Gijon,0,1,0,0,6,7,2,3,0,0
+Las Palmas,Cultural Leonesa,4,0,4,0,4,4,1,2,0,0
+Malaga,Almeria,2,1,1,0,1,2,5,4,0,0
+Mirandes,Cordoba,1,2,1,1,10,8,2,3,1,0
+Sociedad B,Ceuta,1,3,1,1,3,6,5,5,0,0
+Burgos,Zaragoza,1,1,1,0,5,7,1,3,0,0
+Granada,Albacete,1,1,1,0,6,5,4,3,0,0
+Cadiz,Castellon,2,0,0,0,6,12,4,2,0,0
+Eibar,Mirandes,2,1,0,1,5,3,2,3,1,1
+Cultural Leonesa,Sociedad B,1,1,0,0,1,7,3,5,0,0
+Almeria,Granada,3,2,1,1,5,7,4,5,0,0
+Castellon,Huesca,4,1,3,0,1,3,2,2,1,0
+Valladolid,Santander,1,1,0,0,4,0,8,2,1,0
+Cordoba,Burgos,2,0,1,0,6,6,0,1,0,0
+Sp Gijon,Malaga,1,3,0,1,5,5,2,4,1,0
+Ceuta,Andorra,2,1,1,0,4,8,2,2,0,0
+Albacete,Leganes,1,3,1,1,5,5,1,3,0,0
+Zaragoza,Las Palmas,1,2,0,1,1,3,3,2,0,0
+La Coruna,Cadiz,2,2,2,1,8,4,4,3,0,0
+Cadiz,Sp Gijon,3,2,1,0,5,15,4,1,0,0
+Mirandes,Almeria,2,2,1,1,4,7,4,2,0,0
+Sociedad B,Albacete,0,0,0,0,2,8,4,1,0,0
+Andorra,Cultural Leonesa,1,1,0,1,10,1,1,3,0,0
+Burgos,Eibar,1,0,0,0,2,3,0,0,0,0
+Las Palmas,La Coruna,1,1,1,1,7,3,2,2,0,0
+Santander,Zaragoza,2,3,0,2,13,3,3,4,0,1
+Leganes,Valladolid,3,0,2,0,4,8,4,2,0,0
+Granada,Castellon,0,0,0,0,6,6,0,0,0,0
+Malaga,Ceuta,2,1,2,1,6,6,4,2,0,0
+Huesca,Cordoba,1,2,1,1,5,7,8,2,1,0
+Castellon,Leganes,2,0,1,0,2,2,3,1,0,0
+Ceuta,Valladolid,0,3,0,1,8,3,0,1,0,0
+Cultural Leonesa,Sp Gijon,2,4,1,3,8,1,1,2,0,0
+Zaragoza,Sociedad B,1,1,0,0,3,4,3,2,0,0
+Almeria,La Coruna,1,2,1,0,2,2,4,3,0,0
+Mirandes,Andorra,1,2,0,1,7,1,2,4,0,0
+Santander,Las Palmas,4,1,2,1,4,2,2,4,0,0
+Albacete,Cadiz,1,0,0,0,6,6,2,1,0,0
+Burgos,Huesca,1,0,0,0,4,5,4,1,1,0
+Cordoba,Malaga,0,1,0,1,8,4,1,1,0,0
+Granada,Eibar,0,0,0,0,6,2,2,5,0,0
+Malaga,Burgos,3,0,2,0,1,3,3,5,0,0
+Valladolid,Albacete,0,1,0,0,5,9,4,2,1,0
+Leganes,Sociedad B,2,0,0,0,6,3,2,1,0,0
+Las Palmas,Cordoba,1,2,1,2,3,5,4,4,1,0
+Sp Gijon,Mirandes,3,0,1,0,6,6,1,5,0,1
+Cadiz,Granada,1,2,0,1,8,2,2,0,1,0
+Andorra,Huesca,1,1,1,1,3,1,2,4,0,0
+Eibar,Almeria,1,0,0,0,6,1,1,1,0,0
+Zaragoza,Castellon,0,0,0,0,3,13,3,4,1,0
+La Coruna,Santander,0,1,0,0,7,5,3,4,0,1
+Ceuta,Cultural Leonesa,3,1,2,1,5,8,4,2,0,1
+Sociedad B,Las Palmas,1,1,0,0,3,3,2,1,0,0
+Albacete,Zaragoza,2,0,1,0,6,4,2,3,0,0
+Burgos,Leganes,2,1,0,0,1,5,4,2,0,0
+Cultural Leonesa,La Coruna,0,1,0,0,4,7,4,2,0,0
+Cordoba,Valladolid,3,1,1,1,5,1,3,2,0,1
+Almeria,Ceuta,4,2,3,1,5,2,2,3,0,0
+Eibar,Sp Gijon,1,0,0,0,8,3,3,2,0,1
+Castellon,Andorra,2,0,2,0,6,6,3,4,0,0
+Huesca,Cadiz,1,0,1,0,5,4,3,3,0,1
+Granada,Santander,1,0,1,0,5,4,5,4,0,0
+Mirandes,Malaga,2,1,1,0,7,6,4,3,0,0
+Leganes,Granada,1,0,1,0,3,5,1,2,0,1
+Andorra,Sociedad B,1,2,1,1,2,3,4,5,0,0
+Las Palmas,Burgos,0,0,0,0,8,2,5,3,0,0
+Zaragoza,Eibar,1,1,1,0,5,7,1,4,1,0
+Valladolid,Castellon,0,4,0,3,3,3,1,2,0,0
+Cadiz,Almeria,1,2,1,2,6,4,4,2,0,0
+La Coruna,Albacete,2,1,2,0,4,1,3,2,0,0
+Sp Gijon,Huesca,2,1,0,0,6,4,4,1,0,0
+Malaga,Cultural Leonesa,2,1,0,1,8,2,2,6,0,0
+Santander,Mirandes,1,0,0,0,7,3,4,6,1,1
+Almeria,Andorra,3,2,1,1,6,5,2,4,0,0
+Cordoba,Leganes,2,1,1,0,7,4,1,1,0,0
+Burgos,Cadiz,1,1,1,1,6,0,1,2,0,0
+Cultural Leonesa,Zaragoza,0,0,0,0,1,8,1,3,0,0
+Granada,Valladolid,5,1,4,1,4,2,1,3,0,1
+Mirandes,Las Palmas,1,1,0,0,3,5,3,1,0,0
+Eibar,Santander,2,1,0,1,5,5,5,2,0,1
+Huesca,Ceuta,2,0,0,0,2,5,2,1,0,1
+Albacete,Sp Gijon,1,1,1,0,4,2,1,0,0,0
+Castellon,La Coruna,2,0,1,0,4,3,3,3,0,0
+Sociedad B,Malaga,2,1,1,1,5,1,5,4,1,0
+Ceuta,Granada,2,1,1,0,5,5,5,3,0,0
+Leganes,Cultural Leonesa,1,1,0,1,7,0,3,3,0,0
+Huesca,Mirandes,1,2,0,1,9,4,4,3,0,0
+La Coruna,Eibar,1,0,1,0,6,3,6,1,1,0
+Almeria,Cordoba,2,1,2,0,6,6,2,2,0,0
+Las Palmas,Castellon,1,1,1,0,4,4,2,3,0,1
+Sp Gijon,Valladolid,2,2,1,2,6,3,3,2,0,0
+Andorra,Zaragoza,2,1,2,0,6,5,3,4,0,1
+Santander,Burgos,1,0,1,0,5,7,3,2,0,0
+Malaga,Albacete,1,0,0,0,4,3,2,1,0,0
+Cadiz,Sociedad B,0,2,0,0,8,3,1,2,0,0
+Ceuta,Cordoba,3,2,3,2,4,5,4,2,0,0
+Albacete,Almeria,1,1,0,0,5,7,1,1,0,0
+Zaragoza,Burgos,0,1,0,0,5,2,3,2,0,0
+Granada,Malaga,0,1,0,0,4,4,3,2,0,0
+Valladolid,Huesca,1,0,0,0,4,6,2,3,0,0
+Castellon,Santander,1,3,0,3,3,3,2,2,1,0
+Sociedad B,La Coruna,2,3,1,1,5,2,3,1,1,0
+Mirandes,Ceuta,0,1,0,1,8,4,0,4,0,1
+Cultural Leonesa,Las Palmas,0,3,0,0,5,4,5,4,0,0
+Eibar,Cadiz,3,1,2,0,4,0,0,2,0,0
+Sp Gijon,Leganes,0,0,0,0,5,0,2,3,0,0
+Cordoba,Andorra,1,4,0,3,9,3,0,4,0,0
+Cadiz,Zaragoza,0,1,0,1,6,3,3,2,0,0
+Huesca,Albacete,0,0,0,0,5,12,1,2,1,0
+Sociedad B,Castellon,4,2,2,2,2,6,6,3,0,0
+Burgos,Mirandes,2,0,1,0,1,6,2,5,0,1
+Malaga,Valladolid,3,3,2,1,0,9,4,4,1,0
+Las Palmas,Ceuta,4,0,1,0,7,1,0,1,0,0
+Andorra,Sp Gijon,1,0,0,0,9,0,4,2,0,0
+Leganes,Eibar,0,1,0,1,10,2,4,0,0,0
+Santander,Cordoba,4,3,1,1,6,7,2,3,0,0
+La Coruna,Granada,0,2,0,1,10,4,0,0,0,0
+Almeria,Cultural Leonesa,3,0,1,0,1,2,1,2,0,0
+Mirandes,Cadiz,0,2,0,2,3,2,0,0,0,0
+Cultural Leonesa,Santander,1,2,0,1,6,3,3,1,0,0
+Valladolid,Leganes,3,2,1,0,3,4,2,2,0,0
+Zaragoza,Almeria,2,0,0,0,5,5,5,4,0,0
+Ceuta,La Coruna,1,2,1,1,3,4,2,4,0,0
+Cordoba,Sociedad B,0,2,0,2,16,2,2,5,0,1
+Granada,Andorra,1,1,1,1,6,9,4,3,0,0
+Eibar,Burgos,0,0,0,0,6,2,3,2,0,0
+Malaga,Huesca,5,3,2,1,2,5,3,1,0,0
+Sp Gijon,Castellon,4,1,1,1,1,5,2,3,0,1
+Albacete,Las Palmas,2,1,0,1,4,2,3,2,0,0
+Granada,Albacete,1,2,1,2,9,5,6,3,0,0
+Mirandes,Cordoba,1,0,1,0,2,9,1,1,0,0
+Cadiz,Zaragoza,0,4,0,2,6,0,3,2,0,0
+Eibar,Castellon,1,0,1,0,3,3,4,1,0,0
+Ferrol,Malaga,2,2,0,1,3,3,1,3,0,0
+La Coruna,Oviedo,0,1,0,1,3,5,3,4,0,0
+Santander,Almeria,2,2,2,0,5,7,3,2,0,0
+Sp Gijon,Levante,1,2,0,2,7,1,2,2,0,0
+Burgos,Cartagena,3,1,2,1,5,5,2,4,0,0
+Elche,Huesca,0,1,0,0,3,1,3,2,0,0
+Eldense,Tenerife,2,1,0,0,7,2,1,3,0,0
+Santander,Eibar,2,2,0,1,7,5,3,2,0,0
+Huesca,La Coruna,2,1,1,0,3,11,4,0,0,0
+Ferrol,Granada,0,1,0,0,7,7,2,3,0,0
+Sp Gijon,Eldense,0,0,0,0,6,6,2,2,0,0
+Levante,Cadiz,1,1,0,0,6,4,2,5,0,0
+Malaga,Mirandes,1,1,0,1,2,2,2,3,0,0
+Tenerife,Almeria,0,1,0,0,4,8,0,2,1,0
+Albacete,Elche,1,0,0,0,0,8,2,1,0,0
+Castellon,Oviedo,0,0,0,0,10,3,0,2,0,0
+Cartagena,Zaragoza,1,2,1,0,5,5,2,2,0,0
+Cordoba,Burgos,2,2,0,0,4,4,1,2,1,0
+Granada,Huesca,1,3,0,1,5,4,1,3,0,0
+Oviedo,Santander,1,3,1,2,4,4,2,2,0,0
+Cadiz,Tenerife,2,2,0,1,3,4,6,2,0,0
+Almeria,Sp Gijon,1,1,0,0,10,1,0,3,0,0
+Malaga,Albacete,2,1,1,1,8,1,3,4,1,0
+Burgos,Castellon,0,2,0,0,8,6,0,1,0,0
+La Coruna,Ferrol,1,0,0,0,9,7,3,1,0,0
+Eldense,Cartagena,1,2,1,0,7,0,4,3,0,0
+Mirandes,Zaragoza,0,0,0,0,6,6,2,2,0,0
+Eibar,Levante,2,2,0,1,10,2,2,2,0,0
+Elche,Cordoba,3,1,1,0,5,4,0,2,0,0
+Tenerife,Santander,0,1,0,0,4,5,3,4,0,1
+Granada,La Coruna,1,1,1,0,4,6,3,0,0,0
+Huesca,Burgos,0,1,0,0,4,4,5,2,1,0
+Sp Gijon,Oviedo,3,1,2,0,1,6,4,3,0,0
+Cordoba,Malaga,0,0,0,0,8,1,0,0,0,0
+Ferrol,Mirandes,0,0,0,0,2,6,1,4,0,0
+Cartagena,Levante,0,1,0,1,5,5,0,1,0,0
+Eldense,Almeria,1,0,0,0,3,4,1,3,0,0
+Zaragoza,Elche,3,0,1,0,6,3,1,6,0,1
+Albacete,Eibar,0,1,0,1,4,3,2,2,0,0
+Castellon,Cadiz,1,3,0,0,3,7,2,2,0,0
+Cordoba,La Coruna,2,0,1,0,6,4,0,0,0,0
+Eibar,Tenerife,1,0,0,0,4,6,1,2,0,0
+Levante,Eldense,3,1,1,1,10,2,2,7,0,2
+Malaga,Huesca,1,0,1,0,2,3,3,3,0,0
+Santander,Sp Gijon,1,0,1,0,5,4,2,5,0,0
+Mirandes,Albacete,2,0,1,0,4,2,2,2,0,0
+Oviedo,Cartagena,1,0,0,0,6,0,3,3,0,0
+Burgos,Zaragoza,1,0,0,0,6,7,3,3,0,0
+Cadiz,Ferrol,0,0,0,0,4,3,2,3,0,0
+Elche,Granada,2,2,1,0,3,6,1,4,0,0
+Almeria,Castellon,2,5,0,1,5,4,0,4,0,0
+Granada,Malaga,2,2,0,0,5,7,3,5,0,0
+Ferrol,Albacete,1,4,0,0,6,3,1,2,0,0
+Eldense,Oviedo,1,1,1,1,7,5,2,3,1,0
+La Coruna,Burgos,0,2,0,0,10,5,1,1,0,0
+Zaragoza,Levante,2,1,1,1,4,8,1,2,0,0
+Tenerife,Sp Gijon,1,1,0,1,5,7,2,2,0,0
+Cartagena,Cadiz,1,2,0,1,10,9,4,4,0,0
+Castellon,Santander,0,1,0,0,7,3,1,2,0,0
+Elche,Mirandes,1,0,0,0,5,0,2,3,0,0
+Almeria,Eibar,2,2,0,1,9,3,4,4,0,1
+Huesca,Cordoba,4,1,3,1,3,7,2,2,0,1
+Albacete,La Coruna,2,5,1,2,10,3,3,2,0,0
+Cadiz,Eldense,1,2,0,1,2,4,1,5,0,0
+Mirandes,Huesca,1,0,1,0,6,2,2,6,0,0
+Sp Gijon,Zaragoza,1,0,1,0,5,5,0,5,0,2
+Malaga,Elche,0,3,0,1,4,5,5,4,0,0
+Levante,Almeria,4,2,2,2,5,3,1,1,0,0
+Burgos,Granada,2,2,0,0,6,3,4,6,0,0
+Castellon,Tenerife,2,1,1,0,9,4,1,2,0,0
+Cordoba,Ferrol,3,1,1,0,6,4,3,2,0,0
+Oviedo,Eibar,1,0,0,0,7,4,1,2,0,1
+Santander,Cartagena,1,2,0,1,6,1,0,4,0,0
+Huesca,Cadiz,3,1,1,0,2,4,4,5,1,0
+Ferrol,Elche,1,0,1,0,5,5,4,4,0,0
+Eibar,Sp Gijon,1,3,1,2,2,5,4,4,0,0
+Mirandes,Granada,0,1,0,1,8,1,1,5,0,0
+Almeria,Burgos,2,0,1,0,5,8,3,2,1,0
+Zaragoza,Santander,2,3,0,2,11,1,3,6,0,1
+Tenerife,Cartagena,2,0,1,0,3,7,2,1,0,0
+La Coruna,Malaga,0,0,0,0,5,5,0,1,0,0
+Eldense,Castellon,2,3,2,3,8,1,2,1,0,0
+Levante,Oviedo,0,0,0,0,1,9,3,3,0,0
+Albacete,Cordoba,1,1,1,0,8,3,1,2,0,0
+Tenerife,Zaragoza,2,3,1,0,3,7,4,3,1,0
+Cartagena,Ferrol,0,1,0,0,3,1,3,0,0,0
+Cadiz,Malaga,2,2,2,0,6,4,1,0,0,0
+Eibar,Eldense,1,0,1,0,6,6,1,0,0,0
+Huesca,Albacete,2,2,1,2,6,5,3,5,0,0
+Oviedo,Almeria,3,2,2,1,6,0,2,3,0,2
+Santander,Levante,1,0,0,0,7,3,2,4,0,0
+Burgos,Mirandes,0,1,0,0,5,6,5,4,0,0
+Granada,Cordoba,1,0,0,0,5,4,0,2,0,1
+Elche,La Coruna,0,0,0,0,4,3,2,2,0,0
+Sp Gijon,Castellon,2,1,0,1,7,4,3,2,0,0
+Cordoba,Cartagena,2,1,0,0,7,2,4,3,0,0
+La Coruna,Eldense,1,1,1,1,16,4,3,4,0,0
+Malaga,Oviedo,0,0,0,0,6,6,2,3,0,1
+Castellon,Levante,2,0,0,0,4,6,2,3,0,0
+Granada,Tenerife,4,0,2,0,7,1,3,2,0,0
+Mirandes,Eibar,1,0,1,0,4,3,2,5,0,1
+Cadiz,Santander,0,1,0,0,4,9,6,3,0,0
+Ferrol,Huesca,0,0,0,0,8,3,3,2,1,0
+Elche,Sp Gijon,2,1,0,0,4,4,0,7,0,0
+Zaragoza,Almeria,1,2,1,1,8,1,2,6,0,0
+Albacete,Burgos,2,0,2,0,2,7,0,1,0,0
+Oviedo,Mirandes,4,1,2,0,5,3,1,3,0,0
+Castellon,Granada,2,3,2,1,6,1,2,6,0,1
+Eibar,Cadiz,1,0,1,0,5,5,4,6,0,0
+Eldense,Zaragoza,2,3,1,2,4,2,1,3,0,0
+Cartagena,Elche,0,0,0,0,3,5,1,0,0,0
+Santander,Cordoba,2,0,0,0,7,2,2,5,0,1
+Almeria,Albacete,3,1,1,1,2,5,4,0,0,0
+Levante,La Coruna,2,1,2,0,6,5,2,2,0,0
+Burgos,Ferrol,1,1,1,1,2,5,0,2,0,0
+Sp Gijon,Huesca,2,1,1,0,6,2,0,3,0,0
+Tenerife,Malaga,0,0,0,0,5,4,5,3,0,0
+Cadiz,Oviedo,2,0,1,0,3,7,0,2,0,0
+Mirandes,Cartagena,3,1,2,0,4,4,0,1,0,0
+Cordoba,Eldense,2,0,1,0,2,6,1,2,0,1
+Zaragoza,Castellon,1,2,1,1,2,5,3,4,0,0
+Malaga,Eibar,1,0,1,0,0,6,1,4,0,0
+Elche,Burgos,1,0,1,0,12,3,2,2,0,0
+La Coruna,Santander,1,2,0,2,10,3,2,0,0,0
+Albacete,Sp Gijon,3,3,1,2,12,5,2,3,0,0
+Huesca,Almeria,2,2,1,0,1,7,2,2,1,0
+Granada,Levante,1,2,0,2,3,7,1,0,0,0
+Ferrol,Tenerife,1,1,1,1,9,2,3,2,1,0
+Eibar,Elche,0,2,0,2,3,6,3,0,0,0
+Cartagena,La Coruna,1,5,0,2,10,3,2,1,0,0
+Sp Gijon,Cadiz,2,0,1,0,2,5,3,1,0,0
+Santander,Albacete,1,1,1,0,3,6,0,0,0,0
+Zaragoza,Granada,2,1,1,0,1,4,2,3,0,2
+Oviedo,Burgos,3,1,1,1,4,7,0,1,0,0
+Tenerife,Mirandes,1,0,1,0,3,6,1,3,0,1
+Elche,Almeria,1,2,1,1,4,1,3,7,0,0
+Mirandes,Cadiz,2,2,1,1,9,2,1,3,0,0
+Granada,Eldense,3,2,2,0,5,5,4,4,0,0
+Huesca,Zaragoza,1,1,1,0,8,3,3,1,0,0
+Malaga,Cartagena,1,0,1,0,8,2,3,3,0,0
+Cordoba,Castellon,2,2,0,2,8,6,4,4,0,0
+Burgos,Sp Gijon,0,2,0,1,5,4,1,1,0,0
+Ferrol,Santander,1,2,0,2,5,2,2,3,0,0
+Albacete,Oviedo,2,2,1,1,2,2,2,3,0,0
+La Coruna,Eibar,1,0,0,0,7,6,1,2,0,0
+Eibar,Ferrol,2,0,0,0,6,4,2,1,0,0
+Castellon,Mirandes,1,3,0,3,7,7,2,1,1,0
+Eldense,Albacete,2,0,1,0,4,6,2,1,0,0
+Levante,Elche,1,1,0,1,5,5,3,4,0,0
+Santander,Burgos,2,0,2,0,1,7,1,5,1,0
+Sp Gijon,Granada,1,2,0,0,4,0,0,1,0,0
+Cadiz,Cordoba,2,0,2,0,5,9,4,5,0,0
+Oviedo,Tenerife,3,1,2,0,4,4,4,2,0,0
+Almeria,La Coruna,2,1,2,1,7,4,0,1,0,0
+Cartagena,Huesca,1,0,1,0,4,5,1,0,0,0
+Zaragoza,Malaga,0,0,0,0,5,5,4,4,0,1
+Eldense,Huesca,2,1,1,0,4,5,4,2,0,0
+Ferrol,Levante,0,0,0,0,6,4,2,2,0,0
+Cartagena,Almeria,1,2,1,1,5,3,2,1,0,0
+Granada,Cadiz,0,0,0,0,5,4,4,3,0,0
+Burgos,Eibar,1,0,0,0,5,5,2,4,0,0
+Cordoba,Zaragoza,2,2,1,1,10,2,5,4,0,0
+Malaga,Santander,0,0,0,0,3,2,2,3,0,0
+Albacete,Tenerife,2,1,1,0,5,4,2,1,0,0
+La Coruna,Sp Gijon,1,1,0,0,1,8,1,1,0,0
+Mirandes,Eldense,1,0,0,0,4,5,3,2,0,0
+Huesca,Castellon,1,1,0,0,4,8,3,3,0,0
+Elche,Oviedo,4,0,2,0,6,0,3,4,0,0
+Almeria,Cordoba,4,0,0,0,2,3,0,3,0,0
+Castellon,Ferrol,0,0,0,0,8,4,0,1,0,0
+Levante,Malaga,4,2,2,2,7,3,2,1,0,0
+Oviedo,Huesca,0,3,0,1,3,4,4,3,0,0
+Almeria,Granada,2,1,0,1,7,1,2,2,0,0
+Zaragoza,Albacete,0,1,0,0,6,1,4,1,0,0
+Cadiz,La Coruna,2,4,1,1,5,3,5,4,0,1
+Santander,Mirandes,0,1,0,0,11,3,2,4,0,1
+Tenerife,Elche,1,1,1,0,2,6,5,6,1,1
+Castellon,Malaga,2,0,1,0,3,3,2,3,0,0
+Eldense,Ferrol,0,0,0,0,6,2,2,4,0,0
+Levante,Burgos,3,1,1,1,3,0,0,0,0,0
+Sp Gijon,Cordoba,2,0,1,0,5,7,1,2,0,0
+Eibar,Cartagena,1,0,1,0,4,1,0,1,0,0
+Mirandes,Levante,2,1,0,0,2,4,3,3,0,0
+Elche,Cadiz,2,1,0,1,4,1,2,4,0,1
+Granada,Santander,3,0,1,0,2,4,6,4,0,0
+La Coruna,Zaragoza,1,1,1,0,2,5,5,3,0,0
+Huesca,Eibar,2,1,1,1,4,8,3,3,0,0
+Ferrol,Oviedo,1,5,0,1,1,5,2,1,0,0
+Malaga,Almeria,1,1,1,0,3,10,2,6,0,0
+Albacete,Castellon,0,0,0,0,4,6,0,1,0,0
+Burgos,Eldense,1,0,0,0,12,2,1,1,0,0
+Cordoba,Tenerife,3,0,1,0,12,4,2,1,0,0
+Cartagena,Sp Gijon,1,0,0,0,3,6,1,2,0,1
+Almeria,Mirandes,1,0,1,0,2,4,6,2,0,0
+Levante,Cordoba,2,2,0,0,5,5,0,3,0,0
+Cadiz,Albacete,1,0,0,0,2,2,1,1,0,0
+Castellon,Cartagena,4,1,2,0,5,1,1,4,0,0
+Eibar,Zaragoza,2,1,1,0,5,6,3,4,0,0
+Eldense,Elche,0,0,0,0,3,5,3,2,0,0
+Oviedo,Granada,2,0,0,0,6,8,3,3,0,0
+Sp Gijon,Ferrol,1,3,1,3,5,2,5,4,0,0
+Burgos,Malaga,0,0,0,0,6,7,2,1,0,0
+Santander,Huesca,0,1,0,0,7,1,2,3,0,0
+Albacete,Levante,0,0,0,0,3,5,1,3,0,0
+Granada,Cartagena,4,1,3,1,4,4,1,3,0,0
+Cordoba,Eibar,2,1,1,1,2,1,5,2,0,0
+Zaragoza,Oviedo,2,3,2,0,3,5,3,5,0,0
+Ferrol,Almeria,1,4,0,1,8,3,3,1,0,0
+Malaga,Eldense,3,0,2,0,3,2,1,7,0,1
+Mirandes,Sp Gijon,1,1,1,0,1,4,0,3,0,0
+Cadiz,Burgos,1,1,0,0,2,6,4,1,1,0
+Elche,Santander,3,0,1,0,8,5,1,1,0,1
+Huesca,Tenerife,1,0,1,0,5,4,2,1,0,0
+La Coruna,Castellon,5,1,3,1,7,0,1,2,0,0
+Cartagena,Albacete,0,0,0,0,3,4,2,2,0,0
+Eibar,Granada,1,1,1,0,9,6,1,1,0,1
+Oviedo,Cordoba,2,3,1,3,7,2,5,3,0,0
+Sp Gijon,Malaga,1,3,0,0,10,2,3,2,0,0
+Zaragoza,Ferrol,1,0,0,0,7,2,3,2,0,1
+Burgos,Tenerife,1,0,0,0,5,4,3,2,0,0
+Castellon,Elche,0,2,0,2,4,3,1,2,0,0
+Almeria,Cadiz,1,1,0,1,6,0,3,4,0,1
+Santander,Eldense,2,2,0,0,3,5,1,2,0,0
+La Coruna,Mirandes,0,4,0,2,5,2,1,3,1,0
+Levante,Huesca,1,1,0,1,10,2,2,1,0,0
+Tenerife,Levante,0,3,0,0,3,5,0,1,1,0
+Granada,Burgos,0,0,0,0,5,2,2,7,0,0
+Ferrol,Cartagena,0,0,0,0,8,2,2,3,0,0
+Albacete,Santander,2,2,1,0,4,5,4,3,1,0
+Huesca,Mirandes,1,0,1,0,16,2,1,1,1,2
+Malaga,La Coruna,1,1,0,0,5,4,2,1,0,0
+Tenerife,Castellon,2,0,1,0,1,9,1,2,0,0
+Oviedo,Sp Gijon,1,1,0,0,4,4,3,4,0,0
+Cordoba,Almeria,0,3,0,1,6,2,4,1,1,0
+Cadiz,Levante,0,0,0,0,2,2,5,2,1,0
+Elche,Zaragoza,1,0,0,0,7,0,5,5,0,0
+Eldense,Eibar,1,3,1,0,11,5,1,1,0,0
+Cartagena,Oviedo,0,1,0,1,2,4,2,2,0,0
+Eldense,Cadiz,1,4,0,3,10,2,2,2,0,0
+Eibar,Albacete,1,1,1,0,3,1,5,3,0,0
+Sp Gijon,Elche,1,1,1,0,4,5,3,0,0,1
+Levante,Granada,3,1,1,0,2,6,3,4,0,0
+Burgos,La Coruna,0,1,0,0,5,1,3,2,0,0
+Santander,Ferrol,6,0,3,0,4,1,2,1,0,0
+Castellon,Cordoba,1,2,1,0,3,4,1,2,0,0
+Zaragoza,Tenerife,2,2,0,1,5,3,2,4,0,0
+Almeria,Huesca,0,0,0,0,10,4,1,2,0,0
+Mirandes,Malaga,3,2,0,1,8,1,2,2,0,0
+Elche,Eibar,2,0,1,0,7,2,0,2,0,1
+Cordoba,Santander,1,2,1,1,4,0,3,2,0,0
+Huesca,Cartagena,4,0,1,0,6,4,0,1,0,0
+La Coruna,Levante,1,2,0,0,9,5,2,4,0,0
+Tenerife,Eldense,0,1,0,0,3,1,1,1,0,0
+Granada,Sp Gijon,3,1,1,0,6,3,0,2,0,0
+Albacete,Almeria,2,1,1,0,4,6,2,5,0,0
+Oviedo,Castellon,1,0,0,0,4,7,1,2,0,0
+Malaga,Zaragoza,1,2,0,0,4,8,0,0,0,0
+Cadiz,Mirandes,3,1,2,1,2,9,3,1,1,0
+Tenerife,La Coruna,0,0,0,0,10,4,1,2,0,0
+Eldense,Granada,0,3,0,1,8,3,1,3,0,0
+Mirandes,Elche,3,0,1,0,4,3,2,8,0,1
+Sp Gijon,Burgos,2,0,0,0,3,3,2,4,0,0
+Almeria,Oviedo,1,1,0,1,1,3,3,5,0,0
+Santander,Malaga,2,1,2,1,8,4,4,4,0,0
+Castellon,Huesca,0,1,0,1,7,7,5,0,0,0
+Eibar,La Coruna,0,1,0,1,12,1,1,0,0,0
+Cartagena,Cordoba,0,1,0,1,8,6,1,3,0,0
+Zaragoza,Cadiz,0,0,0,0,4,2,6,3,1,0
+Tenerife,Albacete,3,1,1,0,3,2,2,1,1,0
+Levante,Ferrol,0,1,0,1,11,2,1,1,0,0
+Albacete,Zaragoza,2,1,0,0,6,2,4,3,0,0
+Ferrol,Castellon,1,3,0,2,6,3,0,0,0,0
+Granada,Mirandes,0,0,0,0,6,4,0,0,0,0
+Malaga,Levante,1,1,0,1,8,5,1,2,1,0
+Sp Gijon,Eibar,0,0,0,0,7,2,2,5,0,1
+Elche,Tenerife,2,0,1,0,3,6,1,0,0,0
+Burgos,Santander,2,1,0,0,3,3,6,5,0,1
+Cordoba,Huesca,1,2,1,0,4,6,2,4,0,0
+Cadiz,Cartagena,5,2,3,1,3,1,0,3,0,0
+La Coruna,Almeria,3,1,3,0,3,8,2,3,0,0
+Oviedo,Eldense,0,0,0,0,8,0,2,5,0,0
+Mirandes,Ferrol,4,1,2,1,7,3,2,4,0,0
+Castellon,Eibar,2,0,1,0,2,3,1,4,0,0
+Cartagena,Malaga,0,1,0,0,6,5,0,0,0,0
+Santander,Cadiz,2,3,0,1,5,3,3,5,0,0
+Tenerife,Cordoba,2,3,2,2,3,4,3,3,0,0
+Levante,Sp Gijon,0,0,0,0,8,2,3,2,0,0
+Eldense,La Coruna,2,0,0,0,8,1,0,1,0,0
+Huesca,Granada,1,1,0,0,3,7,2,2,0,1
+Zaragoza,Burgos,0,1,0,0,2,3,3,3,1,0
+Oviedo,Albacete,1,0,1,0,7,2,1,0,0,0
+Almeria,Elche,1,1,0,0,4,3,4,1,1,0
+Malaga,Tenerife,1,0,0,0,9,0,2,3,0,0
+Ferrol,Cordoba,0,1,0,0,4,2,2,4,1,0
+Burgos,Oviedo,1,2,1,1,4,2,2,1,0,0
+Eibar,Santander,2,2,1,1,2,3,4,1,0,0
+Granada,Zaragoza,2,2,1,0,4,7,0,0,0,0
+Sp Gijon,Almeria,1,1,0,1,10,4,2,4,0,1
+La Coruna,Huesca,0,0,0,0,7,0,1,4,0,0
+Elche,Cartagena,2,1,0,0,10,3,2,3,0,0
+Albacete,Eldense,0,1,0,0,4,7,1,3,1,0
+Levante,Mirandes,1,0,0,0,5,5,4,0,1,1
+Cadiz,Castellon,0,0,0,0,6,3,1,1,0,0
+Cartagena,Eibar,0,2,0,2,9,6,3,0,0,0
+Castellon,Burgos,2,1,1,1,7,4,3,4,1,0
+Huesca,Ferrol,3,1,2,1,4,6,2,1,0,0
+Zaragoza,Sp Gijon,1,1,0,0,6,4,4,2,0,0
+Almeria,Malaga,2,2,1,0,7,3,1,4,0,0
+Cordoba,Granada,5,0,2,0,3,7,4,2,0,0
+Oviedo,La Coruna,1,2,1,1,6,7,3,2,0,0
+Albacete,Cadiz,3,0,0,0,4,2,1,3,0,1
+Eldense,Levante,1,2,1,0,5,7,4,1,0,0
+Santander,Elche,2,0,2,0,5,9,3,2,0,0
+Mirandes,Tenerife,2,0,1,0,3,0,0,0,0,0
+Ferrol,Burgos,0,1,0,1,4,6,1,1,0,0
+Eibar,Almeria,1,0,1,0,5,6,1,3,0,0
+La Coruna,Cordoba,1,1,0,0,4,3,1,3,0,0
+Mirandes,Oviedo,1,0,0,0,3,3,3,3,0,0
+Elche,Castellon,3,1,2,0,2,7,1,1,0,0
+Sp Gijon,Santander,1,1,1,0,6,6,4,3,0,0
+Zaragoza,Eldense,2,4,2,2,5,8,3,3,0,0
+Tenerife,Huesca,2,0,1,0,6,4,0,1,0,0
+Malaga,Cadiz,0,2,0,0,6,4,0,2,0,0
+Levante,Cartagena,3,0,1,0,3,4,1,3,0,0
+Granada,Ferrol,3,0,2,0,8,6,1,1,0,0
+Burgos,Albacete,1,0,1,0,3,7,1,2,0,0
+Oviedo,Elche,1,1,0,1,4,3,1,2,0,0
+Ferrol,Eibar,0,0,0,0,4,3,3,3,0,0
+Albacete,Malaga,2,0,2,0,3,8,2,2,2,1
+Cartagena,Burgos,0,1,0,1,2,2,3,5,0,1
+Almeria,Zaragoza,4,1,3,1,8,3,1,1,0,1
+Cordoba,Sp Gijon,1,1,1,0,5,1,1,3,0,0
+Eldense,Mirandes,2,2,0,0,2,3,2,4,0,0
+Huesca,Levante,1,2,0,0,4,3,4,2,0,0
+Santander,Tenerife,2,1,0,0,4,7,3,7,0,1
+Cadiz,Granada,1,0,1,0,6,6,2,0,0,0
+Castellon,La Coruna,2,2,1,1,4,2,4,1,0,0
+Burgos,Almeria,3,1,1,1,1,3,4,5,0,0
+Elche,Eldense,2,0,0,0,5,4,0,2,0,0
+Malaga,Ferrol,2,0,2,0,2,2,3,2,0,0
+Mirandes,Santander,2,1,0,1,6,2,4,4,0,0
+Granada,Oviedo,1,0,1,0,5,5,1,3,0,0
+Levante,Castellon,3,2,2,1,4,3,0,4,0,0
+Eibar,Huesca,2,1,0,0,4,0,1,0,0,0
+Sp Gijon,Albacete,0,2,0,1,9,6,3,0,2,1
+La Coruna,Cartagena,2,2,0,0,2,6,1,3,1,0
+Tenerife,Cadiz,2,1,1,0,6,3,3,1,0,0
+Zaragoza,Cordoba,1,1,0,0,4,5,5,6,0,0
+Tenerife,Granada,2,1,0,1,7,4,1,5,0,1
+Eldense,Burgos,0,0,0,0,6,3,3,2,0,0
+Ferrol,La Coruna,0,1,0,1,7,3,4,1,0,0
+Cartagena,Castellon,2,2,2,0,1,8,2,1,0,0
+Santander,Zaragoza,2,0,0,0,9,4,3,4,1,0
+Almeria,Levante,1,0,0,0,10,4,1,5,0,0
+Cordoba,Elche,1,2,1,1,11,2,5,0,0,1
+Oviedo,Malaga,2,1,0,0,4,8,1,0,0,0
+Albacete,Mirandes,3,2,1,1,5,6,2,2,1,0
+Huesca,Sp Gijon,3,2,2,1,8,2,3,3,0,0
+Cadiz,Eibar,0,0,0,0,3,3,0,4,0,0
+Castellon,Albacete,2,2,1,2,9,1,2,1,0,0
+Eibar,Oviedo,1,1,0,0,7,1,5,6,0,0
+Cartagena,Eldense,0,1,0,0,3,5,3,0,0,0
+Granada,Almeria,3,1,1,0,4,4,1,2,0,0
+Sp Gijon,Tenerife,1,3,0,0,6,11,2,2,0,0
+Zaragoza,Mirandes,1,0,0,0,4,2,2,3,0,0
+Levante,Santander,3,1,1,0,4,6,5,1,0,0
+Burgos,Huesca,2,1,1,0,4,4,1,1,0,1
+Malaga,Cordoba,0,1,0,0,5,10,3,6,0,0
+La Coruna,Cadiz,1,0,0,0,9,6,0,0,0,0
+Elche,Ferrol,1,0,1,0,3,4,1,1,0,0
+Cordoba,Levante,2,2,0,1,8,2,1,3,0,0
+Zaragoza,Eibar,2,2,0,2,8,3,2,2,0,0
+Cadiz,Elche,0,1,0,0,4,5,4,2,0,0
+Tenerife,Burgos,0,0,0,0,9,1,3,5,1,0
+Oviedo,Ferrol,3,0,0,0,1,4,1,0,0,0
+Albacete,Granada,0,2,0,0,4,3,1,3,0,0
+Santander,Castellon,1,1,1,0,8,9,2,4,0,0
+Eldense,Sp Gijon,1,2,0,1,11,4,3,1,0,0
+Mirandes,La Coruna,2,2,0,1,5,3,4,4,0,0
+Almeria,Cartagena,2,1,1,0,10,1,2,1,0,0
+Huesca,Malaga,1,0,0,0,8,2,3,3,0,0
+Sp Gijon,Mirandes,3,1,1,0,4,6,0,1,0,0
+Castellon,Almeria,4,1,1,1,3,3,2,4,0,0
+Ferrol,Eldense,1,0,0,0,1,7,2,4,0,0
+Huesca,Santander,1,3,1,0,2,8,7,3,3,0
+Levante,Zaragoza,5,2,2,0,3,6,0,2,0,0
+Burgos,Cadiz,2,2,1,1,3,2,2,1,0,0
+Cartagena,Granada,2,3,1,2,2,5,2,2,0,0
+Cordoba,Oviedo,0,0,0,0,13,2,5,1,0,0
+Elche,Albacete,2,2,2,2,5,5,2,1,0,0
+La Coruna,Tenerife,0,0,0,0,8,7,2,2,0,0
+Eibar,Malaga,2,2,1,0,2,7,3,1,0,0
+Cadiz,Sp Gijon,1,0,1,0,1,5,1,1,0,0
+Albacete,Cartagena,3,1,1,1,11,2,0,2,0,0
+Eldense,Cordoba,1,1,1,0,5,4,4,1,0,1
+Oviedo,Levante,1,0,1,0,3,4,3,0,0,0
+Granada,Elche,1,1,1,1,4,2,2,5,0,0
+Mirandes,Burgos,2,1,0,0,5,1,4,5,0,0
+Santander,La Coruna,2,1,2,0,2,8,1,4,0,1
+Malaga,Castellon,1,0,1,0,3,6,5,3,0,0
+Tenerife,Eibar,1,1,0,1,6,4,3,2,0,0
+Zaragoza,Huesca,1,1,0,0,5,1,1,0,0,0
+Almeria,Ferrol,2,1,1,0,6,6,2,3,0,0
+Cordoba,Cadiz,4,2,2,0,10,2,1,3,0,1
+Huesca,Oviedo,1,2,0,1,3,9,1,2,1,0
+Eibar,Mirandes,0,1,0,0,7,5,4,1,2,0
+Malaga,Granada,1,0,1,0,8,4,2,2,0,0
+Burgos,Elche,0,1,0,0,6,4,5,3,0,0
+Levante,Tenerife,1,1,0,1,3,1,3,5,0,1
+Ferrol,Zaragoza,1,2,0,1,5,3,3,2,0,0
+Almeria,Eldense,5,0,2,0,4,7,1,1,0,0
+Cartagena,Santander,1,0,1,0,5,7,2,2,0,0
+La Coruna,Albacete,5,1,2,1,6,6,0,2,0,0
+Castellon,Sp Gijon,4,3,2,1,3,4,3,2,0,0
+Cadiz,Almeria,2,1,0,1,9,6,5,4,0,3
+Mirandes,Castellon,3,2,1,1,5,3,2,3,0,0
+Sp Gijon,La Coruna,2,1,2,0,5,4,2,1,0,0
+Burgos,Cordoba,3,2,1,1,6,5,3,2,0,0
+Elche,Levante,1,3,0,2,12,3,3,2,0,0
+Zaragoza,Cartagena,3,2,1,2,10,2,5,4,0,0
+Santander,Oviedo,1,1,0,1,7,3,3,3,0,0
+Albacete,Huesca,3,2,1,0,4,8,3,3,0,0
+Eldense,Malaga,1,0,0,0,5,3,2,0,1,1
+Tenerife,Ferrol,0,0,0,0,6,0,5,2,0,0
+Granada,Eibar,0,2,0,0,7,2,1,1,0,0
+Levante,Albacete,1,0,1,0,7,6,1,3,0,1
+Eibar,Burgos,1,0,1,0,3,1,0,3,0,1
+La Coruna,Granada,2,3,0,2,3,4,1,2,1,0
+Cartagena,Tenerife,1,0,1,0,2,6,1,1,0,1
+Huesca,Elche,2,1,0,1,7,0,5,3,0,1
+Malaga,Sp Gijon,2,1,0,0,9,3,4,2,0,0
+Ferrol,Cadiz,1,0,0,0,4,6,0,1,0,0
+Castellon,Eldense,1,1,0,0,4,6,3,3,0,0
+Oviedo,Zaragoza,1,0,0,0,6,2,0,4,0,0
+Almeria,Santander,2,0,1,0,4,7,1,1,0,0
+Cordoba,Mirandes,1,2,0,1,5,2,3,1,0,0
+Albacete,Ferrol,2,0,1,0,9,6,1,3,0,2
+Burgos,Levante,2,3,2,1,4,5,0,2,0,0
+Cadiz,Huesca,4,0,4,0,3,2,0,0,0,0
+Eibar,Cordoba,4,1,1,0,8,5,2,3,0,0
+Elche,Malaga,2,0,0,0,9,1,2,1,0,0
+Eldense,Santander,3,3,1,1,5,3,6,4,0,0
+Granada,Castellon,2,1,1,0,11,2,3,1,0,1
+Mirandes,Almeria,0,0,0,0,4,6,0,2,0,0
+Sp Gijon,Cartagena,3,2,1,1,3,2,0,3,0,0
+Tenerife,Oviedo,0,1,0,0,0,1,1,2,0,0
+Zaragoza,La Coruna,1,0,0,0,4,6,4,1,0,0
+Castellon,Zaragoza,4,1,4,0,8,3,3,1,0,0
+Ferrol,Sp Gijon,0,2,0,1,2,4,3,4,0,0
+Malaga,Burgos,2,2,0,1,9,4,0,0,0,0
+Almeria,Tenerife,2,0,1,0,2,6,1,5,0,0
+Cartagena,Mirandes,1,3,1,2,4,6,3,1,0,0
+Huesca,Eldense,3,2,1,2,4,4,0,1,0,0
+La Coruna,Elche,0,4,0,3,2,0,2,2,0,0
+Levante,Eibar,1,0,0,0,4,8,0,2,0,0
+Oviedo,Cadiz,2,1,2,1,8,3,0,1,0,0
+Santander,Granada,2,1,1,1,5,1,4,4,0,1
+Cordoba,Albacete,1,1,0,1,9,5,2,3,0,0
+Amorebieta,Levante,1,1,0,1,8,2,0,3,0,0
+Valladolid,Sp Gijon,2,0,1,0,8,2,5,5,0,0
+Santander,Eibar,4,0,3,0,4,6,2,3,0,0
+Zaragoza,Villarreal B,2,0,0,0,4,0,2,4,0,0
+Elche,Ferrol,0,1,0,0,4,4,0,2,0,0
+Burgos,Huesca,1,1,1,1,6,5,2,4,0,0
+Albacete,Espanol,1,1,0,1,7,4,3,3,0,0
+Cartagena,Eldense,0,1,0,1,6,6,1,1,0,0
+Leganes,Andorra,0,1,0,1,2,2,5,1,0,0
+Mirandes,Alcorcon,4,0,2,0,2,5,1,1,0,0
+Tenerife,Oviedo,1,0,1,0,6,4,6,0,0,0
+Andorra,Cartagena,3,2,0,0,6,0,2,4,0,0
+Zaragoza,Valladolid,1,0,1,0,5,0,3,2,0,0
+Eibar,Elche,2,1,1,0,6,4,1,2,0,0
+Espanol,Santander,2,0,1,0,6,7,1,2,0,0
+Levante,Burgos,3,2,2,1,4,4,4,3,0,0
+Alcorcon,Leganes,0,2,0,0,8,5,3,4,0,0
+Oviedo,Ferrol,1,1,0,1,6,3,2,1,0,1
+Sp Gijon,Mirandes,3,0,3,0,7,11,2,2,0,0
+Albacete,Amorebieta,2,2,1,2,4,7,3,0,0,0
+Villarreal B,Eldense,3,1,2,1,2,5,2,1,0,0
+Huesca,Tenerife,0,2,0,1,4,2,0,4,0,0
+Cartagena,Levante,0,1,0,1,2,12,4,6,0,0
+Burgos,Oviedo,1,0,1,0,4,3,4,4,0,1
+Tenerife,Zaragoza,0,1,0,0,11,3,3,3,1,0
+Elche,Villarreal B,1,0,1,0,4,4,2,0,0,0
+Valladolid,Alcorcon,0,2,0,1,10,3,1,4,0,0
+Ferrol,Sp Gijon,2,0,0,0,4,4,0,2,0,0
+Amorebieta,Andorra,3,0,1,0,3,7,2,1,0,0
+Mirandes,Espanol,0,1,0,0,4,7,4,2,0,0
+Leganes,Albacete,2,0,1,0,2,5,3,2,0,0
+Eldense,Eibar,2,1,2,0,6,4,1,4,0,0
+Santander,Huesca,0,0,0,0,12,6,5,5,0,0
+Alcorcon,Ferrol,1,1,0,0,3,1,3,1,0,0
+Albacete,Valladolid,2,0,1,0,5,4,1,5,0,0
+Sp Gijon,Burgos,2,1,1,0,10,2,1,1,0,0
+Levante,Oviedo,1,1,0,0,4,2,3,3,0,1
+Elche,Santander,1,1,1,0,8,1,0,3,1,0
+Villarreal B,Cartagena,1,2,1,0,3,7,2,3,0,0
+Andorra,Tenerife,0,1,0,0,8,4,0,3,0,0
+Eibar,Leganes,0,1,0,1,8,1,2,3,0,0
+Espanol,Amorebieta,3,2,0,2,4,3,3,1,0,0
+Zaragoza,Eldense,2,0,1,0,1,3,2,1,0,0
+Huesca,Mirandes,1,1,0,0,9,5,5,5,1,0
+Levante,Espanol,1,4,1,2,5,3,0,0,1,0
+Burgos,Eibar,1,0,0,0,5,10,2,4,0,1
+Oviedo,Sp Gijon,0,0,0,0,7,1,2,3,0,0
+Leganes,Huesca,2,0,1,0,2,3,0,2,0,0
+Tenerife,Albacete,2,0,2,0,1,7,2,1,0,0
+Ferrol,Villarreal B,2,2,0,1,13,0,3,2,0,0
+Santander,Amorebieta,1,0,1,0,4,4,4,2,0,0
+Cartagena,Zaragoza,1,3,1,2,6,4,2,2,0,0
+Mirandes,Andorra,4,3,2,0,3,3,1,3,0,0
+Valladolid,Elche,1,1,1,0,7,6,6,2,1,1
+Eldense,Alcorcon,2,2,0,0,5,2,0,3,0,1
+Zaragoza,Santander,1,1,1,1,6,6,2,5,0,0
+Huesca,Villarreal B,2,2,0,2,7,0,5,3,0,0
+Alcorcon,Levante,0,2,0,1,3,6,6,3,1,0
+Valladolid,Cartagena,1,0,0,0,9,3,3,1,0,0
+Albacete,Burgos,2,1,1,0,3,6,1,2,0,0
+Amorebieta,Mirandes,2,0,2,0,9,4,3,2,0,0
+Eibar,Ferrol,2,0,1,0,4,6,0,2,0,0
+Elche,Leganes,1,0,1,0,8,4,5,3,0,0
+Espanol,Eldense,3,3,0,2,12,0,3,4,0,1
+Sp Gijon,Tenerife,2,1,1,1,6,4,2,5,0,0
+Andorra,Oviedo,1,0,0,0,4,3,1,4,1,1
+Cartagena,Eibar,1,2,0,1,5,6,2,5,1,0
+Andorra,Sp Gijon,0,0,0,0,4,2,0,1,0,0
+Levante,Eldense,2,0,1,0,5,2,1,2,0,0
+Burgos,Elche,4,0,2,0,4,1,3,1,0,0
+Alcorcon,Huesca,0,2,0,2,4,2,2,1,0,0
+Santander,Albacete,2,1,2,0,0,6,2,3,0,0
+Villarreal B,Amorebieta,3,1,1,0,3,6,2,4,0,0
+Oviedo,Valladolid,0,1,0,0,6,6,1,3,0,0
+Mirandes,Leganes,1,3,1,1,0,4,1,1,0,0
+Ferrol,Zaragoza,1,0,0,0,4,4,1,0,0,0
+Tenerife,Espanol,1,0,1,0,6,10,3,3,0,0
+Leganes,Santander,2,1,1,0,4,11,4,3,0,0
+Eibar,Tenerife,3,0,0,0,4,3,3,1,0,0
+Elche,Levante,0,0,0,0,8,7,1,1,0,0
+Albacete,Andorra,3,1,2,0,4,3,2,2,0,0
+Villarreal B,Alcorcon,2,2,1,2,7,5,2,3,0,0
+Eldense,Oviedo,1,3,0,3,6,4,1,0,0,0
+Amorebieta,Cartagena,0,0,0,0,3,2,2,2,0,0
+Valladolid,Burgos,3,0,2,0,3,6,2,2,0,0
+Zaragoza,Mirandes,0,1,0,0,6,2,2,4,1,0
+Huesca,Sp Gijon,0,1,0,0,9,8,6,5,0,0
+Espanol,Ferrol,3,0,1,0,6,0,2,2,0,1
+Alcorcon,Albacete,1,2,0,1,6,1,0,6,0,0
+Levante,Villarreal B,1,1,0,0,8,2,2,2,0,0
+Tenerife,Santander,2,0,0,0,7,4,1,4,0,0
+Eldense,Valladolid,0,1,0,1,3,2,1,4,0,0
+Oviedo,Huesca,1,0,0,0,5,4,2,2,0,0
+Burgos,Leganes,1,0,1,0,0,8,5,3,0,1
+Sp Gijon,Elche,2,0,2,0,6,3,0,0,0,0
+Andorra,Zaragoza,0,1,0,1,4,0,2,4,1,0
+Mirandes,Eibar,1,3,1,1,0,6,2,2,0,0
+Cartagena,Espanol,0,2,0,1,6,2,4,3,0,0
+Ferrol,Amorebieta,1,0,1,0,5,3,1,1,0,0
+Albacete,Levante,0,2,0,1,6,3,0,1,0,0
+Huesca,Eldense,0,1,0,0,4,8,1,6,1,0
+Santander,Sp Gijon,3,2,1,1,5,7,4,4,0,0
+Leganes,Oviedo,0,0,0,0,1,4,3,1,0,0
+Amorebieta,Eibar,1,2,1,1,5,5,3,1,0,0
+Valladolid,Mirandes,3,2,0,0,7,1,2,3,0,0
+Ferrol,Cartagena,1,1,0,1,4,6,0,5,0,0
+Tenerife,Burgos,2,1,0,0,4,6,3,4,1,0
+Zaragoza,Alcorcon,0,2,0,1,7,1,5,4,0,0
+Elche,Andorra,2,1,1,0,10,4,0,0,0,0
+Villarreal B,Espanol,3,1,2,1,7,9,1,4,0,0
+Oviedo,Albacete,3,0,0,0,6,2,1,4,0,1
+Mirandes,Tenerife,1,1,1,1,5,2,3,3,0,0
+Cartagena,Santander,2,3,2,2,6,4,2,4,0,0
+Sp Gijon,Zaragoza,2,2,0,1,5,3,3,2,0,0
+Espanol,Valladolid,2,0,2,0,0,5,3,3,0,0
+Burgos,Villarreal B,3,2,0,0,9,2,0,4,0,0
+Andorra,Alcorcon,2,0,0,0,3,2,0,1,0,0
+Eldense,Elche,1,1,1,0,6,5,4,3,0,0
+Eibar,Huesca,1,1,0,1,6,1,1,3,0,0
+Leganes,Amorebieta,6,0,2,0,2,5,1,2,0,0
+Levante,Ferrol,1,0,0,0,3,3,4,1,0,0
+Espanol,Leganes,0,1,0,0,4,1,2,4,0,0
+Amorebieta,Oviedo,0,0,0,0,2,6,3,4,1,0
+Villarreal B,Mirandes,0,3,0,1,8,1,1,1,0,0
+Tenerife,Levante,0,0,0,0,3,3,3,2,0,0
+Zaragoza,Eibar,2,3,2,0,3,5,4,3,0,0
+Ferrol,Eldense,1,1,0,0,8,4,0,2,0,0
+Huesca,Elche,0,1,0,1,4,1,3,3,0,0
+Albacete,Sp Gijon,1,3,0,1,11,0,3,3,0,0
+Santander,Burgos,3,0,1,0,4,4,1,3,0,0
+Valladolid,Andorra,2,0,2,0,6,6,5,2,0,0
+Alcorcon,Cartagena,1,1,1,0,6,7,1,3,0,0
+Eibar,Valladolid,5,1,2,0,2,1,1,0,0,0
+Eldense,Amorebieta,2,0,1,0,2,7,1,2,0,0
+Andorra,Levante,2,0,0,0,7,6,2,3,0,0
+Sp Gijon,Espanol,2,0,1,0,4,7,6,3,0,0
+Elche,Tenerife,2,1,0,0,4,4,0,6,0,0
+Mirandes,Cartagena,2,1,0,0,4,5,0,3,0,0
+Huesca,Albacete,0,0,0,0,6,1,1,1,0,0
+Leganes,Villarreal B,1,0,0,0,7,0,2,2,0,1
+Oviedo,Alcorcon,2,0,1,0,6,2,1,5,0,0
+Santander,Ferrol,1,3,1,2,5,4,1,5,0,0
+Burgos,Zaragoza,1,1,0,1,4,1,2,2,0,0
+Espanol,Eibar,2,2,1,1,4,4,1,1,0,0
+Villarreal B,Sp Gijon,0,3,0,1,9,4,0,0,0,0
+Levante,Mirandes,2,2,1,1,2,6,4,3,2,0
+Valladolid,Tenerife,2,0,0,0,9,4,1,3,0,0
+Albacete,Elche,1,1,0,0,6,3,4,6,0,1
+Ferrol,Andorra,1,0,1,0,3,3,4,3,0,0
+Amorebieta,Huesca,0,1,0,0,2,4,3,2,1,0
+Alcorcon,Santander,3,1,1,0,3,3,3,1,0,0
+Cartagena,Leganes,0,3,0,0,3,5,1,2,0,0
+Eldense,Burgos,2,0,1,0,7,7,2,2,0,0
+Zaragoza,Oviedo,0,0,0,0,7,4,1,1,0,0
+Leganes,Levante,2,1,0,1,8,7,2,1,0,0
+Santander,Valladolid,2,3,0,1,3,3,0,2,0,0
+Elche,Zaragoza,2,0,0,0,7,5,4,2,0,0
+Mirandes,Ferrol,1,2,0,2,6,2,1,1,0,0
+Sp Gijon,Amorebieta,1,1,0,0,4,3,1,5,0,0
+Burgos,Alcorcon,4,2,0,2,5,2,1,0,0,0
+Andorra,Eldense,1,3,1,1,8,1,2,3,0,0
+Huesca,Espanol,1,1,0,0,7,1,2,4,0,0
+Tenerife,Villarreal B,0,1,0,1,8,4,3,5,0,1
+Eibar,Albacete,1,1,1,0,3,7,1,1,0,0
+Oviedo,Cartagena,1,1,0,1,4,2,4,8,0,0
+Valladolid,Leganes,1,1,1,0,3,6,1,3,0,0
+Alcorcon,Sp Gijon,0,0,0,0,5,7,2,2,0,0
+Amorebieta,Tenerife,2,0,1,0,3,14,1,4,1,1
+Zaragoza,Huesca,0,2,0,1,9,4,2,3,0,0
+Espanol,Elche,2,0,2,0,8,5,3,2,0,0
+Ferrol,Burgos,1,1,0,0,3,4,1,5,0,0
+Eldense,Mirandes,2,2,1,1,7,1,1,1,0,0
+Oviedo,Eibar,2,1,0,1,4,4,4,3,0,0
+Cartagena,Albacete,1,1,1,0,2,9,1,2,0,0
+Villarreal B,Andorra,0,0,0,0,2,7,2,1,0,0
+Levante,Santander,2,4,2,1,8,5,2,1,0,0
+Huesca,Valladolid,0,1,0,0,3,4,4,4,0,0
+Burgos,Andorra,0,0,0,0,3,3,1,1,0,0
+Santander,Villarreal B,2,0,1,0,4,3,3,4,0,0
+Albacete,Zaragoza,1,0,0,0,4,5,2,2,0,0
+Eibar,Levante,3,1,1,1,10,3,3,1,0,0
+Leganes,Ferrol,2,2,2,2,5,2,1,2,0,1
+Elche,Amorebieta,2,0,0,0,4,9,2,2,0,0
+Mirandes,Oviedo,2,1,1,0,5,2,3,3,0,0
+Tenerife,Cartagena,1,1,0,1,6,1,3,4,0,0
+Espanol,Alcorcon,2,0,1,0,8,2,2,2,0,1
+Sp Gijon,Eldense,2,0,1,0,5,2,1,2,0,0
+Oviedo,Espanol,2,0,1,0,7,4,5,3,0,0
+Cartagena,Sp Gijon,1,0,0,0,6,3,1,3,0,0
+Eldense,Tenerife,0,3,0,1,9,1,1,1,0,0
+Zaragoza,Leganes,1,0,1,0,4,4,2,1,0,0
+Levante,Valladolid,2,1,2,1,12,6,4,3,0,0
+Andorra,Huesca,1,0,0,0,6,3,2,2,0,0
+Alcorcon,Elche,0,2,0,1,4,4,3,1,1,0
+Ferrol,Albacete,5,4,1,1,2,5,2,3,0,1
+Mirandes,Santander,0,0,0,0,9,10,4,4,0,0
+Amorebieta,Burgos,0,1,0,1,7,6,2,0,0,0
+Villarreal B,Eibar,1,0,0,0,9,0,1,0,0,1
+Albacete,Villarreal B,2,0,0,0,4,0,2,2,0,0
+Espanol,Zaragoza,1,1,0,0,4,6,2,3,1,0
+Valladolid,Amorebieta,2,1,0,1,4,4,1,3,0,0
+Sp Gijon,Levante,0,0,0,0,5,3,7,4,1,0
+Burgos,Mirandes,0,0,0,0,3,8,3,4,0,0
+Elche,Cartagena,1,2,1,0,8,5,3,4,0,0
+Santander,Oviedo,2,2,1,2,6,8,4,3,0,0
+Eibar,Andorra,2,2,2,1,5,1,5,3,1,0
+Leganes,Eldense,1,1,1,1,8,2,4,3,0,0
+Huesca,Ferrol,1,0,1,0,3,4,1,3,0,0
+Tenerife,Alcorcon,1,0,0,0,3,3,1,5,0,0
+Oviedo,Elche,3,2,1,2,5,2,2,4,0,0
+Eldense,Santander,3,3,0,2,8,3,2,2,0,0
+Andorra,Espanol,1,1,0,0,6,2,1,4,0,0
+Cartagena,Burgos,0,3,0,1,2,2,5,1,0,0
+Sp Gijon,Leganes,1,1,0,1,9,4,3,3,0,0
+Mirandes,Albacete,2,0,1,0,2,7,2,2,0,0
+Alcorcon,Eibar,1,0,1,0,2,13,1,2,0,0
+Levante,Huesca,2,1,2,0,10,0,2,3,0,1
+Amorebieta,Zaragoza,1,1,1,1,3,7,5,1,0,0
+Ferrol,Tenerife,3,1,1,0,8,0,2,2,0,0
+Villarreal B,Valladolid,1,0,1,0,3,5,1,4,0,0
+Albacete,Eldense,1,1,0,0,5,3,1,4,0,1
+Santander,Andorra,2,0,1,0,6,4,5,4,0,1
+Elche,Mirandes,0,0,0,0,6,1,2,3,0,0
+Espanol,Burgos,3,3,1,2,6,6,3,2,0,0
+Zaragoza,Levante,2,2,2,0,5,2,2,2,0,0
+Eibar,Sp Gijon,1,1,0,1,6,3,3,3,0,0
+Leganes,Tenerife,1,1,0,0,5,5,2,3,0,0
+Huesca,Cartagena,3,0,3,0,4,8,0,1,0,0
+Villarreal B,Oviedo,1,1,1,0,1,7,1,4,0,1
+Amorebieta,Alcorcon,1,2,1,1,9,3,3,4,0,0
+Valladolid,Ferrol,0,1,0,1,7,4,1,3,0,0
+Eibar,Santander,2,0,1,0,2,6,2,1,0,0
+Alcorcon,Mirandes,0,0,0,0,3,3,0,1,0,0
+Levante,Albacete,3,2,2,0,5,3,1,0,0,0
+Oviedo,Amorebieta,1,1,1,1,10,5,0,1,0,0
+Tenerife,Elche,0,1,0,1,4,2,4,2,0,0
+Burgos,Valladolid,1,0,1,0,5,9,5,2,0,0
+Ferrol,Espanol,0,0,0,0,5,8,2,3,0,0
+Andorra,Leganes,2,3,0,0,6,1,4,1,0,0
+Cartagena,Villarreal B,4,1,0,1,10,6,3,2,0,0
+Sp Gijon,Huesca,0,0,0,0,7,1,2,2,0,0
+Eldense,Zaragoza,1,1,1,1,10,1,3,4,0,0
+Albacete,Alcorcon,0,1,0,0,3,2,2,4,0,0
+Amorebieta,Eldense,0,2,0,1,7,2,1,2,0,0
+Zaragoza,Andorra,2,0,1,0,3,2,2,1,0,0
+Espanol,Villarreal B,2,1,2,1,5,8,2,2,0,0
+Tenerife,Sp Gijon,1,2,1,1,2,6,2,3,0,0
+Ferrol,Oviedo,1,3,0,0,7,7,2,2,0,0
+Santander,Cartagena,0,2,0,1,8,1,3,3,2,0
+Mirandes,Levante,1,1,0,1,6,3,2,3,0,0
+Huesca,Eibar,2,3,0,2,7,7,1,2,0,0
+Elche,Valladolid,0,0,0,0,3,2,2,2,0,0
+Leganes,Burgos,2,0,2,0,7,4,0,2,0,0
+Eibar,Mirandes,1,0,0,0,6,4,1,2,0,0
+Alcorcon,Zaragoza,0,0,0,0,4,0,0,1,0,0
+Cartagena,Amorebieta,1,0,0,0,3,1,3,4,0,0
+Oviedo,Leganes,1,0,0,0,9,3,4,2,0,0
+Levante,Tenerife,0,0,0,0,2,4,1,3,0,1
+Eldense,Espanol,3,2,2,2,7,3,2,2,0,0
+Andorra,Elche,0,1,0,0,4,5,3,3,0,0
+Villarreal B,Huesca,1,1,0,1,7,1,3,3,0,0
+Burgos,Albacete,2,1,1,1,6,3,1,1,0,0
+Sp Gijon,Ferrol,1,2,0,0,2,3,1,4,0,0
+Valladolid,Santander,3,1,1,0,3,2,2,2,1,0
+Elche,Burgos,2,0,0,0,5,6,2,0,0,0
+Albacete,Cartagena,1,1,1,0,3,4,3,1,0,0
+Huesca,Alcorcon,1,0,0,0,4,5,1,2,0,0
+Mirandes,Villarreal B,3,0,1,0,5,1,1,1,0,0
+Leganes,Valladolid,0,0,0,0,3,4,2,3,0,0
+Tenerife,Andorra,0,0,0,0,6,3,5,2,0,0
+Ferrol,Eibar,1,1,0,0,2,2,5,2,0,0
+Amorebieta,Santander,0,1,0,1,4,0,3,3,0,0
+Oviedo,Eldense,1,1,0,1,16,5,1,5,0,1
+Espanol,Levante,2,1,1,0,5,6,3,3,0,0
+Zaragoza,Sp Gijon,3,0,1,0,4,4,1,3,0,0
+Levante,Leganes,0,0,0,0,6,3,1,6,0,0
+Amorebieta,Elche,1,0,0,0,0,5,0,0,0,0
+Eldense,Huesca,0,0,0,0,4,7,2,1,0,0
+Sp Gijon,Oviedo,1,0,1,0,4,5,3,3,0,0
+Santander,Espanol,2,0,2,0,7,3,1,0,0,0
+Villarreal B,Tenerife,1,0,0,0,4,1,3,6,0,1
+Alcorcon,Andorra,1,0,1,0,4,6,3,1,0,0
+Cartagena,Mirandes,1,0,1,0,4,5,6,1,0,0
+Eibar,Zaragoza,1,0,1,0,3,5,2,0,0,0
+Burgos,Ferrol,2,0,2,0,2,8,0,1,0,0
+Valladolid,Albacete,0,0,0,0,6,1,3,3,0,0
+Zaragoza,Cartagena,1,2,0,1,8,3,4,5,0,1
+Andorra,Villarreal B,1,1,0,0,8,1,4,2,0,0
+Oviedo,Burgos,5,0,3,0,5,7,2,0,0,0
+Sp Gijon,Valladolid,1,1,0,1,6,9,3,2,0,0
+Espanol,Mirandes,3,0,1,0,7,3,2,3,0,0
+Albacete,Santander,2,0,0,0,8,5,2,4,0,0
+Ferrol,Levante,0,0,0,0,1,4,1,3,1,0
+Leganes,Alcorcon,3,0,1,0,5,3,4,4,0,0
+Huesca,Amorebieta,0,0,0,0,9,0,2,1,0,0
+Elche,Eibar,0,0,0,0,9,3,4,4,0,0
+Tenerife,Eldense,1,0,1,0,3,3,3,1,0,0
+Valladolid,Oviedo,3,0,1,0,6,5,1,1,0,0
+Santander,Leganes,2,1,1,1,5,5,1,4,0,0
+Eibar,Espanol,2,3,1,0,6,3,1,2,0,0
+Villarreal B,Zaragoza,0,0,0,0,3,6,1,2,0,0
+Eldense,Ferrol,2,0,2,0,4,1,3,1,0,0
+Alcorcon,Tenerife,1,1,0,0,3,4,2,3,0,0
+Burgos,Sp Gijon,1,0,1,0,3,5,6,2,0,0
+Cartagena,Elche,0,1,0,0,4,13,2,0,0,0
+Amorebieta,Albacete,1,1,0,1,6,4,3,6,0,0
+Mirandes,Huesca,0,3,0,0,4,5,3,5,0,0
+Sp Gijon,Albacete,2,1,1,1,10,1,3,1,0,1
+Eldense,Villarreal B,2,0,1,0,2,4,3,1,0,0
+Espanol,Huesca,0,0,0,0,4,1,2,5,0,0
+Ferrol,Santander,2,2,1,1,7,4,3,6,0,1
+Oviedo,Levante,3,2,0,1,13,5,0,0,0,0
+Burgos,Cartagena,3,0,1,0,6,1,3,1,1,0
+Andorra,Valladolid,2,1,0,1,8,7,2,3,0,0
+Tenerife,Mirandes,2,1,2,0,9,4,4,4,0,0
+Zaragoza,Amorebieta,0,1,0,0,4,1,3,1,0,0
+Leganes,Eibar,0,2,0,2,7,4,2,5,0,1
+Elche,Alcorcon,3,0,3,0,5,0,1,3,0,0
+Huesca,Andorra,2,0,1,0,8,4,4,0,0,1
+Albacete,Oviedo,1,2,0,0,7,6,6,0,0,0
+Mirandes,Eldense,3,1,1,0,2,6,2,0,0,0
+Valladolid,Zaragoza,2,0,1,0,4,3,1,4,0,0
+Cartagena,Ferrol,2,1,1,1,5,5,2,4,0,0
+Santander,Tenerife,4,2,0,1,8,3,3,5,0,1
+Levante,Sp Gijon,1,0,0,0,7,4,2,1,1,0
+Villarreal B,Elche,0,1,0,1,8,4,2,5,0,0
+Eibar,Burgos,0,1,0,0,9,2,2,4,0,0
+Alcorcon,Espanol,1,1,0,0,4,6,2,4,1,1
+Amorebieta,Leganes,0,1,0,0,8,1,2,1,0,1
+Levante,Andorra,0,0,0,0,7,4,2,1,0,0
+Eldense,Cartagena,0,0,0,0,9,1,4,0,0,0
+Burgos,Levante,1,1,1,0,7,8,4,3,0,0
+Eibar,Villarreal B,2,0,1,0,7,4,1,3,0,0
+Oviedo,Santander,1,1,0,1,8,6,2,3,1,1
+Tenerife,Huesca,0,0,0,0,8,5,2,2,0,0
+Sp Gijon,Alcorcon,1,0,1,0,12,4,2,2,0,0
+Leganes,Mirandes,4,0,3,0,8,3,0,2,0,0
+Ferrol,Valladolid,2,0,1,0,8,4,1,3,0,1
+Elche,Albacete,3,2,1,1,9,3,2,2,0,0
+Zaragoza,Espanol,0,1,0,1,8,3,0,4,0,0
+Andorra,Amorebieta,0,1,0,0,4,4,3,2,0,0
+Alcorcon,Oviedo,1,0,0,0,3,3,2,2,0,0
+Cartagena,Andorra,1,0,1,0,6,6,0,2,0,0
+Villarreal B,Leganes,1,2,1,0,3,3,2,2,0,0
+Espanol,Tenerife,1,1,0,0,10,2,4,4,0,0
+Amorebieta,Sp Gijon,3,1,2,1,3,6,1,1,0,0
+Huesca,Burgos,3,0,1,0,4,3,0,0,0,0
+Valladolid,Eibar,3,1,0,1,9,3,1,1,0,1
+Levante,Elche,3,2,0,1,2,3,3,2,0,0
+Mirandes,Zaragoza,0,0,0,0,5,3,3,2,0,0
+Santander,Eldense,2,1,1,0,11,6,1,5,0,0
+Albacete,Ferrol,1,1,1,0,5,3,1,1,0,0
+Burgos,Espanol,0,0,0,0,5,7,4,3,0,0
+Valladolid,Levante,0,0,0,0,5,4,1,2,0,0
+Andorra,Mirandes,1,0,0,0,4,6,1,2,0,0
+Eibar,Eldense,5,1,1,0,6,1,1,1,0,0
+Leganes,Cartagena,0,0,0,0,6,4,3,4,0,0
+Albacete,Huesca,1,1,0,0,10,5,2,3,0,0
+Sp Gijon,Santander,2,3,1,0,0,4,6,5,1,0
+Alcorcon,Amorebieta,1,1,1,1,4,2,3,3,0,1
+Ferrol,Elche,1,0,0,0,0,7,2,5,0,0
+Zaragoza,Tenerife,3,1,2,1,9,2,0,3,0,0
+Oviedo,Villarreal B,2,1,2,1,5,8,1,3,0,0
+Amorebieta,Ferrol,3,1,2,0,4,6,1,1,0,0
+Elche,Oviedo,0,2,0,1,9,4,2,5,0,0
+Eldense,Andorra,0,2,0,1,6,5,4,2,0,0
+Levante,Zaragoza,2,1,1,1,7,3,2,3,0,0
+Huesca,Leganes,0,0,0,0,6,2,4,6,0,0
+Mirandes,Sp Gijon,1,3,1,1,1,3,4,1,0,0
+Villarreal B,Burgos,2,1,2,0,5,8,3,1,0,0
+Espanol,Albacete,2,1,1,1,5,8,2,3,1,0
+Tenerife,Eibar,2,1,1,1,1,6,4,4,0,0
+Cartagena,Valladolid,0,2,0,2,5,0,3,0,0,0
+Santander,Alcorcon,0,1,0,0,13,3,2,8,0,2
+Leganes,Espanol,0,0,0,0,3,0,4,2,0,0
+Sp Gijon,Cartagena,1,0,1,0,8,4,2,2,0,0
+Valladolid,Eldense,1,0,0,0,7,4,2,2,0,0
+Levante,Amorebieta,1,2,0,0,5,0,0,1,0,0
+Oviedo,Mirandes,1,1,1,0,7,9,0,3,0,0
+Albacete,Tenerife,1,0,0,0,11,1,3,3,0,1
+Andorra,Eibar,0,2,0,0,5,4,0,1,0,0
+Burgos,Santander,2,1,1,1,10,2,4,2,0,0
+Zaragoza,Elche,1,1,0,0,8,2,2,1,0,0
+Ferrol,Huesca,2,1,0,1,5,3,1,1,0,0
+Alcorcon,Villarreal B,1,0,0,0,2,7,3,1,0,0
+Tenerife,Leganes,0,0,0,0,6,2,3,0,0,0
+Amorebieta,Valladolid,0,3,0,0,2,6,3,2,1,0
+Santander,Levante,0,0,0,0,3,3,1,0,0,0
+Villarreal B,Ferrol,1,0,0,0,3,4,3,1,0,0
+Elche,Sp Gijon,2,1,2,0,1,7,2,5,0,0
+Huesca,Zaragoza,1,2,1,2,8,3,3,5,1,1
+Espanol,Andorra,1,1,0,1,6,2,5,3,0,0
+Eibar,Alcorcon,2,0,1,0,5,5,1,5,0,1
+Eldense,Albacete,0,1,0,0,8,3,2,1,0,0
+Mirandes,Burgos,2,1,0,0,6,3,1,4,0,0
+Cartagena,Oviedo,2,0,0,0,5,2,2,4,0,1
+Andorra,Santander,1,1,1,0,9,5,1,3,0,0
+Burgos,Amorebieta,2,2,1,0,6,1,4,3,0,0
+Leganes,Zaragoza,1,1,0,0,5,3,2,2,0,0
+Elche,Espanol,2,2,1,1,6,4,2,4,0,0
+Sp Gijon,Villarreal B,0,3,0,2,8,3,4,2,0,0
+Alcorcon,Eldense,0,0,0,0,3,2,2,2,0,0
+Oviedo,Tenerife,0,1,0,1,6,3,2,2,0,0
+Levante,Cartagena,0,1,0,0,3,2,1,2,0,0
+Valladolid,Huesca,1,0,1,0,5,3,5,3,0,0
+Albacete,Eibar,2,1,1,1,4,8,3,1,0,0
+Ferrol,Mirandes,0,2,0,1,6,3,2,4,0,0
+Villarreal B,Levante,0,3,0,2,9,4,1,1,0,0
+Mirandes,Valladolid,0,1,0,1,5,4,2,3,1,0
+Huesca,Oviedo,0,2,0,0,8,5,1,1,0,0
+Santander,Elche,3,1,1,0,5,6,3,2,1,0
+Cartagena,Alcorcon,1,0,1,0,0,7,1,3,0,0
+Eibar,Amorebieta,5,0,2,0,4,8,2,2,0,0
+Andorra,Albacete,0,1,0,0,6,3,5,3,0,0
+Espanol,Sp Gijon,0,0,0,0,8,3,4,4,0,0
+Eldense,Leganes,1,2,1,0,0,8,2,3,1,0
+Zaragoza,Burgos,1,3,1,1,2,1,1,1,0,0
+Tenerife,Ferrol,2,0,0,0,5,2,0,2,0,0
+Burgos,Eldense,1,2,1,2,7,4,2,4,0,0
+Santander,Mirandes,1,0,1,0,10,3,3,4,0,0
+Ferrol,Alcorcon,2,1,0,0,5,2,0,0,0,1
+Sp Gijon,Andorra,5,2,2,1,3,2,1,1,0,0
+Valladolid,Espanol,0,0,0,0,3,4,4,8,0,1
+Levante,Eibar,2,2,1,1,6,5,3,3,0,1
+Amorebieta,Villarreal B,2,0,0,0,2,7,1,2,0,1
+Oviedo,Zaragoza,1,0,0,0,4,13,1,5,0,1
+Albacete,Leganes,1,0,1,0,3,7,1,3,0,0
+Cartagena,Tenerife,2,0,2,0,2,5,0,3,0,0
+Elche,Huesca,0,3,0,2,3,2,1,3,0,0
+Mirandes,Elche,1,1,0,0,5,7,4,2,0,0
+Andorra,Burgos,1,0,0,0,7,1,2,1,0,0
+Huesca,Santander,0,3,0,1,6,4,1,0,0,0
+Leganes,Sp Gijon,2,1,1,0,4,7,4,5,1,0
+Eldense,Levante,0,0,0,0,5,1,0,2,0,0
+Tenerife,Amorebieta,0,1,0,0,5,5,1,1,0,0
+Eibar,Cartagena,1,0,1,0,3,0,0,4,1,0
+Alcorcon,Valladolid,1,1,1,0,4,6,2,3,0,0
+Zaragoza,Ferrol,2,2,1,0,9,9,1,4,0,0
+Espanol,Oviedo,2,1,1,1,2,7,2,1,0,0
+Villarreal B,Albacete,2,2,1,2,8,1,3,2,0,0
+Albacete,Mirandes,2,2,1,0,6,3,2,2,0,0
+Amorebieta,Espanol,0,0,0,0,3,2,1,0,0,0
+Burgos,Tenerife,1,1,0,1,4,3,3,3,0,0
+Cartagena,Huesca,0,2,0,1,4,3,0,4,0,0
+Elche,Eldense,1,2,0,0,5,2,1,3,0,0
+Ferrol,Leganes,2,2,1,1,1,2,0,2,0,0
+Levante,Alcorcon,2,2,0,0,12,6,3,1,0,0
+Oviedo,Andorra,3,0,0,0,6,7,2,2,0,0
+Santander,Zaragoza,0,2,0,1,9,4,5,6,0,0
+Sp Gijon,Eibar,1,0,0,0,2,10,2,2,0,0
+Valladolid,Villarreal B,3,2,0,0,3,3,4,3,1,0
+Alcorcon,Burgos,1,1,0,0,2,5,0,0,0,0
+Andorra,Ferrol,1,0,0,0,3,6,4,1,0,0
+Huesca,Levante,0,0,0,0,3,6,1,0,0,0
+Eibar,Oviedo,4,3,2,1,7,5,2,2,0,0
+Eldense,Sp Gijon,0,1,0,0,3,3,2,1,0,0
+Espanol,Cartagena,3,0,0,0,8,3,1,0,0,0
+Leganes,Elche,2,0,2,0,2,3,1,4,0,0
+Mirandes,Amorebieta,1,0,0,0,4,0,3,2,0,0
+Tenerife,Valladolid,2,1,0,0,4,7,2,1,0,0
+Villarreal B,Santander,1,0,0,0,3,4,5,2,0,0
+Zaragoza,Albacete,1,1,0,0,4,6,1,2,0,0
+Levante,Huesca,0,0,0,0,10,2,3,1,0,0
+Eibar,Tenerife,2,1,0,0,6,4,4,2,0,0
+Mirandes,Sp Gijon,1,1,1,1,3,2,1,2,0,0
+Leganes,Alaves,1,2,0,1,3,3,3,3,0,0
+Las Palmas,Zaragoza,0,0,0,0,4,2,5,3,0,0
+Santander,Villarreal B,0,2,0,0,1,3,1,2,0,0
+Ibiza,Granada,0,2,0,0,3,1,1,2,0,0
+Burgos,Malaga,1,0,0,0,4,5,2,1,0,0
+Oviedo,Andorra,0,1,0,0,5,3,1,1,1,0
+Lugo,Albacete,1,2,1,1,2,11,4,3,0,0
+Cartagena,Ponferradina,2,3,1,1,9,2,3,1,0,0
+Villarreal B,Eibar,2,2,2,1,2,6,7,7,1,1
+Alaves,Mirandes,1,0,1,0,3,6,2,3,0,0
+Sp Gijon,Andorra,4,1,1,0,2,4,0,0,0,0
+Albacete,Burgos,0,0,0,0,6,1,2,2,1,0
+Zaragoza,Levante,0,0,0,0,5,7,0,1,0,0
+Granada,Santander,2,0,0,0,5,6,2,1,0,0
+Oviedo,Leganes,1,0,0,0,4,2,5,3,0,1
+Huesca,Cartagena,2,3,1,1,2,4,3,3,0,0
+Tenerife,Lugo,1,1,1,0,3,2,3,1,1,1
+Ponferradina,Ibiza,2,1,1,1,4,4,2,3,0,0
+Malaga,Las Palmas,0,4,0,1,1,3,1,1,0,0
+Albacete,Huesca,2,1,1,0,8,3,2,2,0,1
+Cartagena,Zaragoza,1,0,0,0,4,6,4,6,1,1
+Sp Gijon,Burgos,0,0,0,0,3,4,1,2,0,0
+Lugo,Leganes,1,0,1,0,2,17,3,1,0,0
+Mirandes,Malaga,1,3,0,1,5,4,3,4,0,0
+Levante,Tenerife,2,0,1,0,3,3,2,7,0,1
+Santander,Oviedo,0,1,0,0,7,5,3,3,0,0
+Eibar,Ponferradina,1,0,1,0,10,4,4,3,0,0
+Ibiza,Alaves,1,1,1,0,8,3,4,2,0,0
+Granada,Villarreal B,3,0,2,0,4,2,2,2,0,0
+Las Palmas,Andorra,2,0,1,0,3,5,3,1,0,0
+Leganes,Eibar,2,1,1,0,4,5,4,2,0,1
+Alaves,Las Palmas,1,1,1,0,1,3,0,2,0,0
+Villarreal B,Mirandes,3,0,1,0,7,3,3,4,0,1
+Ponferradina,Sp Gijon,1,3,0,2,5,6,5,0,0,0
+Tenerife,Santander,1,0,0,0,2,4,2,4,0,1
+Andorra,Granada,1,0,1,0,2,4,1,2,0,0
+Malaga,Albacete,1,2,1,2,7,4,2,6,0,0
+Burgos,Cartagena,1,0,1,0,4,10,1,1,0,0
+Huesca,Ibiza,3,0,1,0,2,1,3,2,0,0
+Zaragoza,Lugo,1,2,1,0,9,2,3,1,0,0
+Oviedo,Levante,1,1,1,0,3,3,3,8,0,1
+Las Palmas,Leganes,1,0,1,0,4,1,3,4,0,0
+Lugo,Alaves,1,2,1,0,3,11,3,6,1,1
+Burgos,Oviedo,0,0,0,0,9,6,1,1,0,0
+Cartagena,Albacete,2,1,0,0,2,2,3,1,0,0
+Levante,Villarreal B,4,1,1,0,5,2,5,3,0,0
+Sp Gijon,Santander,0,2,0,1,4,4,4,5,0,0
+Ibiza,Tenerife,1,0,0,0,5,3,5,3,0,0
+Mirandes,Andorra,1,1,1,0,3,5,0,1,0,1
+Ponferradina,Zaragoza,1,2,1,1,1,6,2,0,0,0
+Huesca,Malaga,1,0,0,0,5,3,1,2,0,0
+Eibar,Granada,4,0,1,0,7,0,2,1,0,0
+Levante,Cartagena,0,1,0,1,3,2,2,4,0,0
+Villarreal B,Lugo,3,1,1,0,2,4,0,5,0,1
+Oviedo,Ibiza,0,1,0,0,9,6,4,4,0,1
+Andorra,Eibar,2,0,1,0,11,1,2,3,0,0
+Granada,Mirandes,2,1,1,0,10,3,4,2,0,1
+Zaragoza,Sp Gijon,1,0,0,0,4,4,2,4,0,0
+Leganes,Burgos,0,0,0,0,4,0,1,1,0,0
+Alaves,Huesca,2,1,1,0,6,4,1,2,0,0
+Santander,Las Palmas,0,0,0,0,5,7,3,3,1,0
+Albacete,Ponferradina,0,1,0,0,5,0,2,6,1,0
+Tenerife,Malaga,3,1,1,1,4,3,1,5,0,1
+Sp Gijon,Ibiza,2,1,1,1,1,4,2,3,0,0
+Huesca,Leganes,1,0,1,0,3,6,3,2,0,0
+Mirandes,Zaragoza,2,0,1,0,4,5,3,1,0,0
+Malaga,Villarreal B,1,1,1,1,3,4,3,3,0,0
+Ponferradina,Tenerife,2,2,1,1,1,4,4,1,0,1
+Burgos,Levante,0,0,0,0,3,9,1,3,0,0
+Lugo,Oviedo,0,0,0,0,3,6,2,2,0,0
+Albacete,Andorra,1,1,0,0,5,4,1,3,0,1
+Eibar,Santander,2,1,2,0,2,3,1,3,0,0
+Cartagena,Alaves,1,1,1,0,9,3,3,1,0,0
+Las Palmas,Granada,2,0,1,0,4,8,3,3,0,0
+Tenerife,Sp Gijon,1,1,0,1,11,6,2,3,0,0
+Mirandes,Las Palmas,3,3,1,1,3,2,3,4,0,0
+Santander,Malaga,0,0,0,0,4,1,2,2,0,0
+Andorra,Levante,3,1,0,1,3,2,2,4,0,0
+Villarreal B,Burgos,0,0,0,0,4,1,1,1,0,0
+Alaves,Ponferradina,3,1,2,1,6,3,2,3,0,0
+Leganes,Albacete,1,2,1,0,1,6,4,0,0,0
+Granada,Huesca,0,0,0,0,8,1,1,5,1,0
+Oviedo,Cartagena,1,3,0,2,7,7,2,2,0,0
+Ibiza,Lugo,3,2,2,1,5,7,3,2,0,0
+Zaragoza,Eibar,0,0,0,0,5,1,2,8,0,2
+Sp Gijon,Villarreal B,3,1,2,0,6,10,1,1,0,0
+Ponferradina,Granada,0,0,0,0,9,2,0,0,0,0
+Huesca,Lugo,1,1,0,0,6,3,1,4,1,0
+Las Palmas,Ibiza,0,0,0,0,14,3,0,7,0,0
+Burgos,Alaves,3,0,0,0,2,6,3,2,0,0
+Cartagena,Leganes,1,2,0,0,4,2,3,4,0,0
+Zaragoza,Oviedo,1,1,1,0,13,2,4,2,0,0
+Albacete,Tenerife,1,1,0,0,5,13,1,1,1,0
+Levante,Santander,0,1,0,0,5,2,3,5,0,2
+Malaga,Andorra,0,0,0,0,1,6,5,1,0,1
+Eibar,Mirandes,0,0,0,0,3,3,2,1,0,0
+Villarreal B,Ponferradina,2,2,0,1,8,3,3,4,0,0
+Andorra,Burgos,0,1,0,0,12,4,2,1,0,0
+Leganes,Malaga,1,0,0,0,2,6,0,3,0,0
+Alaves,Albacete,0,0,0,0,6,1,4,4,0,0
+Oviedo,Huesca,0,1,0,0,8,3,2,3,0,0
+Tenerife,Cartagena,0,0,0,0,8,3,2,3,0,0
+Lugo,Las Palmas,0,1,0,0,2,9,3,1,0,0
+Santander,Zaragoza,1,0,0,0,10,3,3,6,0,1
+Ibiza,Eibar,1,2,1,0,3,2,3,2,1,0
+Mirandes,Levante,0,1,0,1,6,5,3,2,0,0
+Granada,Sp Gijon,5,0,2,0,2,4,0,2,0,0
+Andorra,Alaves,0,1,0,0,5,5,1,2,0,0
+Zaragoza,Villarreal B,2,1,1,0,8,7,4,2,0,0
+Huesca,Santander,0,0,0,0,3,7,1,0,0,0
+Ponferradina,Las Palmas,0,1,0,1,4,4,4,3,1,0
+Albacete,Oviedo,1,0,0,0,3,4,2,4,0,0
+Levante,Leganes,2,1,0,0,2,4,3,3,0,0
+Burgos,Mirandes,2,1,1,0,2,8,2,0,1,0
+Malaga,Lugo,3,2,1,0,6,5,3,3,0,0
+Cartagena,Ibiza,2,0,0,0,5,3,4,1,0,0
+Tenerife,Granada,2,0,1,0,4,0,3,4,0,0
+Sp Gijon,Eibar,2,0,1,0,3,4,1,1,0,0
+Granada,Zaragoza,1,0,0,0,8,5,5,1,0,0
+Villarreal B,Andorra,1,0,0,0,0,3,1,1,0,0
+Alaves,Sp Gijon,0,0,0,0,3,2,2,3,0,0
+Mirandes,Huesca,1,1,0,0,6,5,4,1,0,0
+Ibiza,Levante,1,2,1,1,1,8,2,4,0,1
+Santander,Ponferradina,1,1,1,0,7,4,2,7,0,0
+Lugo,Burgos,2,0,1,0,3,5,4,2,0,1
+Eibar,Albacete,1,1,1,1,7,0,4,3,0,0
+Leganes,Tenerife,2,1,1,0,4,7,2,2,0,0
+Las Palmas,Cartagena,1,0,0,0,9,1,0,3,0,1
+Oviedo,Malaga,1,0,1,0,1,5,1,2,0,0
+Tenerife,Zaragoza,0,2,0,1,3,4,3,3,0,0
+Andorra,Ponferradina,3,0,2,0,7,4,0,4,0,0
+Huesca,Las Palmas,1,0,1,0,4,16,1,4,1,0
+Alaves,Oviedo,2,1,1,0,5,2,1,4,0,0
+Leganes,Santander,0,0,0,0,7,1,4,2,0,1
+Burgos,Ibiza,2,0,1,0,2,7,5,1,0,0
+Lugo,Mirandes,0,0,0,0,6,2,2,1,0,0
+Malaga,Eibar,0,1,0,1,5,2,1,2,0,0
+Cartagena,Granada,0,0,0,0,8,5,2,0,0,0
+Albacete,Villarreal B,0,0,0,0,5,6,1,2,0,0
+Levante,Sp Gijon,1,0,0,0,3,6,1,2,0,0
+Ponferradina,Huesca,1,0,1,0,4,7,4,2,0,0
+Zaragoza,Andorra,0,2,0,1,3,2,3,2,0,0
+Las Palmas,Burgos,0,2,0,0,11,3,1,4,0,1
+Santander,Alaves,1,1,1,1,7,8,2,3,0,1
+Ibiza,Leganes,0,2,0,1,5,5,5,2,0,0
+Eibar,Lugo,1,0,0,0,12,3,4,3,0,0
+Villarreal B,Oviedo,2,1,0,0,6,8,3,2,0,0
+Mirandes,Tenerife,1,0,0,0,5,3,1,4,0,0
+Cartagena,Malaga,2,1,0,0,7,2,3,0,0,1
+Sp Gijon,Albacete,2,2,1,1,6,2,3,4,0,0
+Granada,Levante,0,0,0,0,8,1,1,6,0,0
+Alaves,Zaragoza,1,0,0,0,6,6,3,2,1,0
+Burgos,Tenerife,0,1,0,0,2,2,3,4,0,1
+Andorra,Santander,0,1,0,0,4,5,1,0,0,0
+Huesca,Villarreal B,1,0,1,0,0,7,3,3,0,0
+Leganes,Ponferradina,2,1,2,1,7,7,2,3,1,0
+Ibiza,Mirandes,1,1,1,0,5,2,1,1,0,0
+Oviedo,Granada,1,0,0,0,1,7,3,2,1,0
+Las Palmas,Eibar,1,1,1,1,12,2,2,1,0,0
+Malaga,Sp Gijon,1,1,0,1,3,5,3,4,0,0
+Albacete,Levante,2,3,1,1,4,1,4,4,0,0
+Lugo,Cartagena,1,1,1,1,4,10,2,2,1,1
+Granada,Albacete,4,0,0,0,7,1,3,2,0,2
+Ponferradina,Oviedo,1,1,0,0,4,1,3,3,0,0
+Sp Gijon,Leganes,2,2,2,1,3,3,2,2,0,0
+Tenerife,Huesca,2,0,0,0,10,5,3,3,0,0
+Zaragoza,Malaga,1,1,0,0,15,2,2,2,0,1
+Villarreal B,Ibiza,1,0,0,0,7,4,2,5,1,0
+Andorra,Lugo,4,0,0,0,10,2,0,0,0,0
+Eibar,Alaves,0,0,0,0,4,4,0,1,0,0
+Santander,Burgos,0,1,0,0,5,3,2,3,1,0
+Levante,Las Palmas,1,1,0,0,3,8,3,3,0,0
+Mirandes,Cartagena,2,1,0,0,3,6,2,2,0,0
+Huesca,Sp Gijon,0,0,0,0,5,5,5,2,0,0
+Alaves,Villarreal B,2,0,1,0,7,1,2,6,0,1
+Malaga,Ponferradina,1,0,0,0,5,5,1,5,0,0
+Albacete,Santander,2,1,1,0,3,1,5,4,0,2
+Oviedo,Mirandes,1,0,1,0,4,3,2,1,0,0
+Las Palmas,Tenerife,3,1,1,0,5,1,4,2,0,0
+Burgos,Zaragoza,2,2,0,0,5,5,3,2,0,0
+Leganes,Granada,1,0,0,0,6,4,6,2,0,1
+Lugo,Levante,1,1,1,1,5,11,3,3,0,0
+Cartagena,Eibar,2,1,0,1,4,7,2,4,0,0
+Ibiza,Andorra,0,1,0,1,8,4,3,5,2,0
+Tenerife,Oviedo,0,1,0,0,15,4,1,3,0,0
+Granada,Alaves,3,1,2,1,4,2,3,5,0,1
+Zaragoza,Ibiza,2,1,0,1,9,7,1,4,0,0
+Mirandes,Albacete,4,2,3,1,7,5,4,2,0,0
+Sp Gijon,Las Palmas,0,1,0,1,3,4,5,0,0,0
+Villarreal B,Leganes,0,0,0,0,3,9,3,4,0,0
+Andorra,Cartagena,0,1,0,0,6,0,1,1,0,0
+Santander,Lugo,0,1,0,0,11,2,0,4,0,0
+Eibar,Huesca,2,1,0,1,9,5,5,5,0,0
+Levante,Malaga,1,0,0,0,6,4,0,3,0,0
+Ponferradina,Burgos,1,2,1,1,6,0,1,0,0,0
+Leganes,Mirandes,2,2,1,1,2,2,3,2,0,1
+Oviedo,Las Palmas,0,0,0,0,3,4,2,3,0,1
+Albacete,Zaragoza,0,0,0,0,7,4,0,2,0,0
+Cartagena,Villarreal B,0,1,0,0,5,3,1,3,0,0
+Huesca,Andorra,1,0,0,0,4,1,2,3,1,1
+Tenerife,Alaves,2,1,1,0,4,6,3,2,0,0
+Burgos,Eibar,1,2,1,0,2,7,4,2,0,0
+Lugo,Sp Gijon,0,1,0,0,7,2,2,4,0,1
+Ibiza,Santander,1,0,0,0,3,6,1,4,0,1
+Levante,Ponferradina,0,0,0,0,7,6,4,2,0,0
+Malaga,Granada,1,1,1,0,5,4,4,2,0,0
+Andorra,Leganes,1,1,0,0,3,2,2,3,0,0
+Villarreal B,Tenerife,2,2,0,1,3,2,2,3,0,0
+Zaragoza,Huesca,3,0,2,0,6,13,1,3,0,0
+Ibiza,Malaga,1,1,0,1,4,8,3,2,0,0
+Ponferradina,Lugo,1,0,1,0,1,4,2,3,1,0
+Sp Gijon,Cartagena,0,0,0,0,3,4,3,2,0,0
+Eibar,Oviedo,1,0,0,0,6,4,2,0,0,0
+Granada,Burgos,1,0,1,0,4,6,6,3,0,1
+Las Palmas,Albacete,1,2,0,1,9,5,3,3,0,0
+Santander,Mirandes,1,2,1,1,8,2,0,0,0,0
+Alaves,Levante,0,2,0,2,6,2,3,3,1,0
+Tenerife,Andorra,1,1,1,1,6,4,2,2,0,0
+Lugo,Granada,1,0,1,0,1,8,4,5,0,1
+Mirandes,Ponferradina,2,1,2,0,6,1,3,4,1,0
+Villarreal B,Las Palmas,0,1,0,1,6,7,5,3,0,1
+Cartagena,Santander,0,3,0,2,5,5,5,2,0,0
+Oviedo,Sp Gijon,1,0,0,0,5,2,2,3,0,0
+Albacete,Ibiza,4,0,3,0,5,2,1,4,0,0
+Levante,Eibar,0,0,0,0,11,4,0,2,0,0
+Burgos,Huesca,1,1,0,1,5,11,2,4,0,0
+Malaga,Alaves,1,0,0,0,1,3,2,4,1,0
+Leganes,Zaragoza,2,1,1,1,6,2,3,4,0,1
+Ponferradina,Villarreal B,2,1,0,1,5,3,3,2,0,1
+Sp Gijon,Levante,1,1,0,1,3,7,4,3,0,0
+Leganes,Lugo,1,0,0,0,9,1,3,3,0,0
+Andorra,Oviedo,3,1,2,0,3,3,1,3,0,0
+Malaga,Tenerife,1,1,0,0,3,2,2,5,0,0
+Alaves,Burgos,1,0,0,0,13,2,5,5,0,0
+Granada,Cartagena,1,0,0,0,9,5,2,3,1,1
+Zaragoza,Mirandes,0,0,0,0,3,5,2,1,0,0
+Las Palmas,Santander,1,1,1,0,8,2,2,5,0,0
+Eibar,Ibiza,1,0,1,0,4,2,2,4,0,0
+Huesca,Albacete,1,1,0,1,6,6,1,1,0,0
+Oviedo,Alaves,1,0,0,0,6,5,2,4,0,1
+Cartagena,Huesca,0,0,0,0,7,3,2,2,0,0
+Ibiza,Las Palmas,1,2,1,0,5,4,4,3,1,0
+Villarreal B,Zaragoza,2,3,2,0,2,5,3,2,0,0
+Santander,Sp Gijon,2,0,2,0,1,13,2,4,0,0
+Tenerife,Ponferradina,0,0,0,0,8,1,1,6,0,0
+Levante,Granada,3,1,2,1,7,1,0,0,0,0
+Eibar,Malaga,2,1,1,0,4,1,2,3,0,0
+Burgos,Andorra,2,1,0,1,3,11,2,1,0,0
+Mirandes,Lugo,2,0,1,0,7,2,1,1,1,0
+Albacete,Leganes,1,0,1,0,5,2,3,4,0,1
+Las Palmas,Mirandes,2,1,0,0,6,0,4,5,0,0
+Malaga,Burgos,1,1,1,0,7,5,2,1,0,0
+Ponferradina,Eibar,0,1,0,0,3,6,5,3,0,0
+Granada,Ibiza,2,0,1,0,2,2,3,0,0,0
+Alaves,Santander,3,0,1,0,2,4,1,2,1,0
+Leganes,Levante,2,2,1,1,4,5,3,3,0,0
+Cartagena,Tenerife,0,1,0,1,6,3,4,6,0,1
+Sp Gijon,Zaragoza,1,0,1,0,5,4,2,5,0,2
+Huesca,Oviedo,1,1,1,1,3,5,4,3,0,1
+Lugo,Villarreal B,1,2,0,0,1,9,5,2,1,0
+Andorra,Albacete,0,1,0,0,6,2,4,3,1,0
+Santander,Tenerife,1,1,1,0,7,3,4,5,0,0
+Granada,Andorra,2,0,2,0,3,7,2,3,0,0
+Eibar,Leganes,0,0,0,0,6,4,4,3,0,0
+Oviedo,Villarreal B,0,1,0,1,11,1,2,3,0,0
+Las Palmas,Huesca,1,0,0,0,7,1,0,5,0,0
+Mirandes,Alaves,1,3,1,1,3,7,1,1,0,0
+Levante,Burgos,1,0,1,0,3,1,3,4,0,0
+Albacete,Lugo,2,0,0,0,7,7,1,0,0,0
+Sp Gijon,Malaga,0,0,0,0,2,5,2,2,0,0
+Ibiza,Cartagena,2,2,1,2,12,5,2,3,0,0
+Zaragoza,Ponferradina,0,0,0,0,5,2,2,1,0,0
+Malaga,Oviedo,0,1,0,0,6,5,3,2,1,0
+Huesca,Mirandes,1,0,0,0,7,3,1,2,0,0
+Leganes,Sp Gijon,1,0,1,0,3,5,6,3,1,1
+Tenerife,Albacete,1,0,1,0,6,11,6,3,0,0
+Alaves,Eibar,2,0,0,0,7,3,4,4,0,1
+Villarreal B,Granada,0,2,0,2,8,1,2,1,0,0
+Andorra,Zaragoza,0,1,0,0,10,9,1,1,0,0
+Cartagena,Levante,1,2,0,0,4,1,3,5,0,0
+Ponferradina,Santander,1,1,1,0,3,5,4,2,1,0
+Lugo,Ibiza,0,0,0,0,6,6,2,2,0,0
+Burgos,Las Palmas,0,0,0,0,2,0,4,3,0,0
+Granada,Tenerife,2,0,1,0,2,7,2,3,0,0
+Zaragoza,Alaves,1,4,0,1,5,5,3,3,0,0
+Levante,Andorra,1,0,1,0,5,2,2,1,0,0
+Mirandes,Villarreal B,2,1,1,0,9,1,1,2,0,0
+Las Palmas,Lugo,3,0,2,0,9,2,2,2,0,0
+Albacete,Malaga,3,2,1,2,4,5,1,5,0,1
+Oviedo,Burgos,0,1,0,0,3,4,5,0,1,0
+Eibar,Cartagena,0,3,0,2,5,3,3,2,0,0
+Sp Gijon,Huesca,1,1,1,1,9,0,0,5,0,1
+Ibiza,Ponferradina,1,1,1,0,7,6,3,4,0,0
+Santander,Leganes,2,1,1,0,7,3,2,5,0,1
+Cartagena,Oviedo,2,1,2,0,3,3,2,2,0,0
+Lugo,Eibar,0,2,0,1,9,6,3,2,0,1
+Leganes,Las Palmas,0,0,0,0,2,4,1,4,1,0
+Ponferradina,Levante,0,0,0,0,3,5,5,4,0,0
+Tenerife,Mirandes,1,0,0,0,6,4,4,2,0,0
+Huesca,Granada,1,1,1,1,4,4,3,2,0,0
+Alaves,Ibiza,4,2,3,1,3,2,2,3,0,2
+Andorra,Sp Gijon,1,0,0,0,7,3,0,4,0,0
+Burgos,Albacete,1,1,0,0,4,1,2,4,0,0
+Villarreal B,Santander,2,1,0,0,2,0,0,3,0,0
+Malaga,Zaragoza,3,0,0,0,5,1,0,2,0,0
+Eibar,Villarreal B,2,0,1,0,5,5,4,1,0,0
+Alaves,Cartagena,0,0,0,0,7,2,2,2,0,0
+Santander,Andorra,2,1,2,0,3,7,3,1,1,0
+Mirandes,Leganes,0,0,0,0,3,6,2,1,0,0
+Sp Gijon,Tenerife,1,0,0,0,7,4,3,2,0,0
+Ibiza,Huesca,2,2,1,2,7,6,2,2,0,0
+Levante,Lugo,3,1,2,1,17,3,1,0,0,0
+Zaragoza,Burgos,0,0,0,0,6,2,3,1,0,0
+Las Palmas,Ponferradina,2,0,0,0,8,2,1,3,0,1
+Oviedo,Albacete,1,1,1,0,5,3,2,3,0,0
+Granada,Malaga,1,0,0,0,3,6,4,1,0,0
+Andorra,Las Palmas,0,0,0,0,2,9,3,3,1,0
+Burgos,Granada,1,3,1,0,8,2,2,3,1,0
+Huesca,Levante,3,0,1,0,3,7,2,4,0,0
+Tenerife,Eibar,0,1,0,1,9,1,2,2,0,0
+Mirandes,Oviedo,1,0,1,0,2,2,1,4,0,0
+Leganes,Ibiza,0,1,0,0,4,4,1,5,0,0
+Albacete,Sp Gijon,2,1,2,1,6,3,2,2,0,0
+Lugo,Zaragoza,0,0,0,0,4,2,2,1,0,0
+Malaga,Santander,0,1,0,0,5,6,1,4,1,0
+Ponferradina,Cartagena,0,3,0,1,6,4,1,2,0,0
+Villarreal B,Alaves,1,0,1,0,3,8,2,4,0,0
+Oviedo,Tenerife,0,0,0,0,8,3,3,4,0,0
+Eibar,Burgos,1,0,1,0,10,2,2,2,0,0
+Alaves,Lugo,0,0,0,0,6,5,3,3,0,1
+Ibiza,Villarreal B,0,0,0,0,4,8,3,1,1,0
+Las Palmas,Malaga,2,2,1,1,4,2,3,1,0,0
+Zaragoza,Leganes,3,0,1,0,6,4,3,0,0,0
+Sp Gijon,Mirandes,3,4,1,2,5,5,2,0,0,0
+Cartagena,Andorra,0,3,0,0,6,5,2,3,0,0
+Levante,Albacete,0,0,0,0,5,5,1,4,0,1
+Granada,Ponferradina,2,2,0,0,9,2,1,5,0,0
+Santander,Huesca,1,1,1,1,1,1,1,1,0,0
+Malaga,Levante,0,0,0,0,6,7,4,4,1,1
+Andorra,Ibiza,2,2,0,2,10,3,2,5,0,0
+Albacete,Granada,1,2,0,1,5,2,2,5,0,0
+Leganes,Oviedo,0,1,0,0,4,9,3,2,0,0
+Tenerife,Las Palmas,4,1,3,0,4,4,4,4,0,0
+Ponferradina,Alaves,1,0,0,0,7,10,1,4,0,0
+Burgos,Sp Gijon,0,0,0,0,8,10,5,3,0,0
+Huesca,Zaragoza,1,1,1,1,7,4,0,2,1,1
+Lugo,Santander,1,1,1,0,2,13,3,4,1,0
+Villarreal B,Cartagena,5,2,1,2,8,5,2,4,0,2
+Mirandes,Eibar,2,3,2,0,2,5,2,1,0,0
+Cartagena,Lugo,2,0,0,0,3,4,3,2,0,0
+Ibiza,Burgos,2,0,0,0,4,3,4,3,0,0
+Santander,Levante,0,1,0,1,2,4,3,2,0,0
+Alaves,Tenerife,1,0,0,0,5,5,4,5,0,1
+Eibar,Andorra,0,0,0,0,3,1,4,2,0,1
+Ponferradina,Mirandes,0,0,0,0,3,6,4,1,0,1
+Zaragoza,Albacete,1,1,0,0,5,9,1,1,0,0
+Granada,Oviedo,1,0,0,0,7,0,2,2,0,0
+Villarreal B,Huesca,0,0,0,0,2,2,1,2,0,0
+Las Palmas,Sp Gijon,1,1,0,1,3,1,3,2,0,1
+Malaga,Leganes,2,0,0,0,6,5,2,4,0,0
+Levante,Zaragoza,1,1,1,0,4,2,2,3,1,0
+Burgos,Santander,2,1,1,0,4,5,2,3,0,0
+Leganes,Cartagena,1,3,1,0,2,2,2,5,0,0
+Tenerife,Villarreal B,1,1,0,0,7,1,0,3,1,2
+Oviedo,Eibar,1,1,0,0,11,2,3,3,0,0
+Huesca,Alaves,0,1,0,0,5,5,1,3,0,0
+Lugo,Ponferradina,0,0,0,0,2,6,3,4,0,0
+Andorra,Malaga,1,0,0,0,6,3,1,2,0,0
+Sp Gijon,Granada,1,0,1,0,9,3,4,1,0,0
+Mirandes,Ibiza,2,2,1,1,7,2,0,3,0,0
+Albacete,Las Palmas,1,2,1,0,1,7,3,6,0,0
+Lugo,Tenerife,0,0,0,0,6,3,1,3,0,0
+Villarreal B,Malaga,1,2,0,2,2,6,2,3,0,0
+Zaragoza,Granada,1,0,1,0,4,4,1,0,0,0
+Ibiza,Sp Gijon,1,3,0,2,9,3,4,1,0,1
+Santander,Albacete,4,1,3,1,3,6,3,4,0,0
+Huesca,Burgos,2,1,2,0,4,3,5,3,0,0
+Eibar,Levante,1,1,0,0,2,4,2,2,0,0
+Cartagena,Mirandes,1,0,0,0,2,6,3,2,0,0
+Ponferradina,Leganes,0,1,0,0,10,3,1,2,0,0
+Las Palmas,Oviedo,0,1,0,0,4,4,0,2,0,0
+Alaves,Andorra,0,0,0,0,6,2,3,2,0,0
+Albacete,Eibar,3,1,2,0,4,6,2,6,0,0
+Granada,Las Palmas,2,1,2,0,3,7,2,3,0,1
+Oviedo,Lugo,2,1,1,1,5,7,1,3,0,1
+Zaragoza,Santander,4,1,3,0,7,1,3,0,0,2
+Burgos,Ponferradina,2,2,0,1,5,4,2,2,0,0
+Andorra,Huesca,1,0,1,0,3,3,1,5,0,1
+Sp Gijon,Alaves,0,0,0,0,4,5,1,3,0,0
+Malaga,Cartagena,1,0,1,0,3,4,4,1,1,0
+Tenerife,Ibiza,4,0,2,0,4,2,0,2,0,0
+Leganes,Villarreal B,1,0,1,0,4,4,0,1,0,0
+Levante,Mirandes,1,2,0,1,9,1,1,4,0,0
+Eibar,Zaragoza,1,1,0,1,9,9,3,3,1,0
+Villarreal B,Albacete,1,2,1,1,4,2,2,1,0,0
+Cartagena,Sp Gijon,2,1,2,1,2,1,2,5,0,1
+Ponferradina,Andorra,1,4,0,2,1,3,7,0,1,0
+Las Palmas,Levante,0,0,0,0,6,3,4,3,0,0
+Ibiza,Oviedo,1,2,1,1,3,4,5,3,0,0
+Lugo,Malaga,0,2,0,2,4,7,3,1,0,0
+Mirandes,Burgos,2,1,0,0,2,1,4,4,0,0
+Santander,Granada,1,0,0,0,8,4,2,3,0,0
+Alaves,Leganes,2,1,1,0,6,0,3,4,0,0
+Huesca,Tenerife,1,1,1,0,3,7,4,2,0,0
+Santander,Ibiza,1,0,1,0,6,3,3,4,0,0
+Levante,Alaves,2,0,2,0,11,8,6,2,0,0
+Albacete,Cartagena,1,1,1,0,2,7,2,5,1,0
+Tenerife,Leganes,1,0,1,0,6,2,2,1,0,0
+Andorra,Mirandes,0,1,0,0,6,4,2,3,0,0
+Oviedo,Ponferradina,3,2,0,2,7,2,2,3,0,0
+Granada,Eibar,1,1,0,0,1,4,1,2,0,0
+Zaragoza,Las Palmas,1,1,0,0,4,6,6,1,1,0
+Sp Gijon,Lugo,3,1,2,0,7,6,0,0,0,0
+Malaga,Huesca,0,0,0,0,4,1,3,2,0,0
+Burgos,Villarreal B,1,0,1,0,8,7,1,2,0,0
+Alaves,Granada,1,1,0,1,6,5,6,7,1,1
+Mirandes,Santander,1,1,1,1,13,1,2,2,0,0
+Leganes,Huesca,2,1,1,1,9,3,3,7,0,0
+Tenerife,Levante,1,0,0,0,4,1,2,1,0,0
+Villarreal B,Sp Gijon,2,0,1,0,5,4,0,3,0,1
+Ibiza,Albacete,0,5,0,2,3,7,4,1,0,0
+Ponferradina,Malaga,2,0,0,0,6,7,4,3,0,0
+Lugo,Andorra,2,2,1,1,5,3,3,3,1,1
+Oviedo,Zaragoza,2,1,1,0,4,5,3,1,0,0
+Cartagena,Burgos,0,0,0,0,3,2,0,3,1,0
+Eibar,Las Palmas,0,1,0,0,7,1,3,4,0,0
+Burgos,Leganes,0,3,0,2,5,4,0,0,0,0
+Sp Gijon,Oviedo,1,1,0,1,7,1,3,2,0,0
+Granada,Lugo,2,0,2,0,5,5,3,0,0,0
+Zaragoza,Cartagena,2,0,1,0,5,6,1,0,0,0
+Malaga,Mirandes,2,0,1,0,5,0,1,2,0,0
+Santander,Eibar,1,0,1,0,1,7,1,1,0,0
+Andorra,Tenerife,1,0,0,0,4,4,1,6,0,0
+Albacete,Alaves,1,1,1,0,4,8,4,6,0,0
+Huesca,Ponferradina,1,1,0,0,7,2,2,0,0,0
+Las Palmas,Villarreal B,1,1,1,0,2,6,2,1,0,0
+Levante,Ibiza,0,0,0,0,10,2,0,7,0,0
+Ibiza,Zaragoza,1,0,0,0,4,9,1,2,0,0
+Alaves,Malaga,2,1,0,0,6,3,3,3,0,0
+Cartagena,Las Palmas,1,4,1,3,5,4,2,1,0,0
+Eibar,Sp Gijon,2,2,0,1,13,0,3,3,0,1
+Lugo,Huesca,1,2,0,0,4,4,1,1,0,0
+Mirandes,Granada,1,3,0,1,3,0,2,2,1,0
+Ponferradina,Albacete,1,1,0,1,7,5,3,2,0,0
+Villarreal B,Levante,2,3,1,2,4,7,5,2,1,0
+Tenerife,Burgos,2,1,0,1,12,3,5,1,0,0
+Oviedo,Santander,1,0,1,0,4,3,0,2,0,0
+Leganes,Andorra,1,1,1,1,2,6,1,0,0,0
+Zaragoza,Tenerife,1,1,0,0,6,4,1,4,0,0
+Andorra,Villarreal B,4,3,1,2,4,2,2,5,0,0
+Burgos,Lugo,0,1,0,1,6,5,4,4,0,0
+Albacete,Mirandes,2,1,0,0,3,4,1,3,0,0
+Malaga,Ibiza,1,1,0,0,6,2,4,2,0,0
+Granada,Leganes,2,0,1,0,2,2,0,2,0,0
+Huesca,Eibar,0,1,0,0,8,6,0,3,0,1
+Las Palmas,Alaves,0,0,0,0,2,4,1,5,0,0
+Levante,Oviedo,2,1,0,0,5,3,4,1,0,0
+Santander,Cartagena,3,1,3,0,5,5,1,4,0,0
+Sp Gijon,Ponferradina,1,4,0,1,4,1,1,1,0,0

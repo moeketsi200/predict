@@ -1,0 +1,1226 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Rennes,Marseille,1,0,0,0,1,12,2,3,1,0
+Lens,Lyon,0,1,0,1,13,8,2,3,0,0
+Monaco,Le Havre,3,1,1,0,5,4,0,1,0,0
+Nice,Toulouse,0,1,0,0,9,4,2,3,0,0
+Brest,Lille,3,3,1,2,2,2,2,1,0,0
+Angers,Paris FC,1,0,1,0,3,7,2,1,1,0
+Auxerre,Lorient,1,0,0,0,4,5,3,2,0,0
+Metz,Strasbourg,0,1,0,0,3,3,2,2,0,0
+Nantes,Paris SG,0,1,0,0,2,7,1,1,0,0
+Paris SG,Angers,1,0,0,0,12,0,0,0,0,0
+Marseille,Paris FC,5,2,2,1,5,2,1,0,0,0
+Nice,Auxerre,3,1,2,1,5,4,2,2,0,1
+Lyon,Metz,3,0,2,0,4,3,0,2,0,0
+Lorient,Rennes,4,0,1,0,3,2,6,0,0,2
+Le Havre,Lens,1,2,1,2,7,0,3,1,0,0
+Strasbourg,Nantes,1,0,0,0,7,6,2,2,0,0
+Toulouse,Brest,2,0,0,0,3,9,0,1,0,0
+Lille,Monaco,1,0,0,0,8,3,1,2,0,0
+Lens,Brest,3,1,0,1,15,1,1,3,0,1
+Lorient,Lille,1,7,0,0,3,8,3,3,0,0
+Nantes,Auxerre,1,0,1,0,3,9,1,3,0,0
+Toulouse,Paris SG,3,6,1,4,5,7,1,0,0,0
+Angers,Rennes,1,1,0,1,1,7,2,2,0,0
+Le Havre,Nice,3,1,1,0,0,5,1,4,0,0
+Monaco,Strasbourg,3,2,1,0,6,5,2,1,0,1
+Paris FC,Metz,3,2,1,1,14,6,1,1,0,1
+Lyon,Marseille,1,0,0,0,9,4,2,2,0,1
+Marseille,Lorient,4,0,3,0,10,0,3,2,0,1
+Nice,Nantes,1,0,0,0,7,4,2,0,0,0
+Auxerre,Monaco,1,2,0,1,5,8,3,6,1,0
+Lille,Toulouse,2,1,0,0,7,6,2,3,0,1
+Brest,Paris FC,1,2,0,2,6,1,0,2,0,1
+Metz,Angers,1,1,1,0,4,3,0,1,0,0
+Paris SG,Lens,2,0,1,0,4,3,1,2,0,0
+Strasbourg,Le Havre,1,0,0,0,4,3,2,2,1,0
+Rennes,Lyon,3,1,0,1,5,4,2,2,0,1
+Lyon,Angers,1,0,0,0,7,4,2,2,0,0
+Nantes,Rennes,2,2,0,2,4,4,3,1,0,0
+Brest,Nice,4,1,2,1,2,7,1,3,0,0
+Lens,Lille,3,0,2,0,4,10,1,3,0,0
+Paris FC,Strasbourg,2,3,0,1,4,2,1,5,0,0
+Auxerre,Toulouse,1,0,1,0,3,4,1,6,1,0
+Le Havre,Lorient,1,1,0,1,6,2,3,6,0,0
+Monaco,Metz,5,2,1,1,4,5,1,0,0,0
+Marseille,Paris SG,1,0,1,0,5,3,3,0,0,0
+Strasbourg,Marseille,1,2,0,0,5,4,2,4,0,0
+Lorient,Monaco,3,1,1,0,2,4,2,3,0,1
+Toulouse,Nantes,2,2,0,1,1,4,2,3,0,0
+Paris SG,Auxerre,2,0,1,0,5,5,1,2,0,0
+Nice,Paris FC,1,1,1,0,5,5,1,1,0,0
+Angers,Brest,0,2,0,2,11,4,1,1,0,0
+Lille,Lyon,0,1,0,1,3,4,4,4,1,0
+Metz,Le Havre,0,0,0,0,4,6,2,2,0,0
+Rennes,Lens,0,0,0,0,8,4,3,2,0,1
+Paris FC,Lorient,2,0,2,0,1,5,0,2,0,0
+Metz,Marseille,0,3,0,0,4,4,0,0,0,0
+Brest,Nantes,0,0,0,0,12,3,2,1,0,0
+Auxerre,Lens,1,2,0,1,2,2,3,7,0,1
+Lyon,Toulouse,1,2,1,0,8,5,1,3,0,0
+Le Havre,Rennes,2,2,1,2,3,4,1,2,0,0
+Monaco,Nice,2,2,1,2,6,7,1,3,0,1
+Strasbourg,Angers,5,0,1,0,2,5,2,2,0,0
+Lille,Paris SG,1,1,0,0,3,5,1,1,0,0
+Paris SG,Strasbourg,3,3,1,2,4,1,2,1,0,0
+Nice,Lyon,3,2,2,1,1,16,1,2,0,0
+Angers,Monaco,1,1,0,0,10,3,2,2,0,0
+Marseille,Le Havre,6,2,1,1,2,1,2,1,0,1
+Lens,Paris FC,2,1,1,1,11,3,2,2,0,0
+Lorient,Brest,3,3,1,2,5,2,3,2,0,0
+Rennes,Auxerre,2,2,1,1,6,2,1,3,0,0
+Toulouse,Metz,4,0,2,0,5,1,2,1,0,1
+Nantes,Lille,0,2,0,1,5,9,1,4,0,0
+Paris FC,Nantes,1,2,1,2,8,2,3,2,0,0
+Brest,Paris SG,0,3,0,2,2,7,1,1,0,0
+Monaco,Toulouse,1,0,1,0,2,5,3,4,0,0
+Lens,Marseille,2,1,1,1,4,8,3,2,0,0
+Lille,Metz,6,1,2,0,7,8,3,2,0,0
+Angers,Lorient,2,0,1,0,1,6,1,0,0,0
+Auxerre,Le Havre,0,1,0,0,13,5,2,2,0,0
+Rennes,Nice,1,2,0,2,7,3,5,2,0,0
+Lyon,Strasbourg,2,1,1,1,4,2,0,4,0,1
+Le Havre,Brest,1,0,0,0,5,1,1,3,0,0
+Lorient,Paris SG,1,1,0,0,0,8,0,2,0,0
+Metz,Lens,2,0,0,0,2,5,3,2,1,0
+Nice,Lille,2,0,1,0,2,13,3,3,0,0
+Marseille,Angers,2,2,0,1,1,5,2,1,0,0
+Nantes,Monaco,3,5,2,2,1,3,3,5,0,0
+Paris FC,Lyon,3,3,0,1,4,2,6,2,1,1
+Strasbourg,Auxerre,3,0,0,0,4,3,1,1,0,0
+Toulouse,Rennes,2,2,0,0,5,8,2,3,0,0
+Paris SG,Nice,1,0,0,0,11,1,3,1,0,0
+Monaco,Paris FC,0,1,0,0,3,2,3,2,0,0
+Auxerre,Marseille,0,1,0,1,3,3,3,4,1,1
+Rennes,Strasbourg,4,1,2,0,6,5,1,1,0,0
+Lens,Lorient,3,0,1,0,7,6,2,2,0,0
+Lille,Angers,1,0,1,0,9,2,1,0,0,0
+Nantes,Metz,0,2,0,0,8,5,1,3,0,0
+Toulouse,Le Havre,0,0,0,0,10,2,1,2,0,0
+Brest,Lyon,0,0,0,0,12,2,1,0,0,1
+Paris FC,Rennes,0,1,0,0,8,9,4,2,0,0
+Marseille,Brest,3,0,2,0,6,2,0,1,0,0
+Le Havre,Nantes,1,1,0,1,8,3,3,3,0,0
+Monaco,Lens,1,4,1,3,5,4,1,2,1,0
+Lorient,Toulouse,1,1,1,0,6,4,0,4,0,0
+Angers,Auxerre,2,0,0,0,3,3,2,2,0,0
+Metz,Nice,2,1,0,1,6,3,2,4,0,0
+Strasbourg,Lille,2,0,1,0,1,4,4,3,0,1
+Lyon,Paris SG,2,3,1,2,5,5,5,2,1,0
+Nice,Marseille,1,5,0,2,8,6,2,2,0,0
+Lens,Strasbourg,1,0,0,0,3,1,2,3,1,1
+Rennes,Monaco,4,1,1,0,4,6,0,1,0,1
+Paris SG,Le Havre,3,0,1,0,6,4,2,1,0,0
+Auxerre,Lyon,0,0,0,0,7,11,1,3,0,0
+Brest,Metz,3,2,1,1,6,2,2,3,0,0
+Nantes,Lorient,1,1,0,1,1,1,1,1,0,0
+Toulouse,Angers,0,1,0,1,11,1,1,3,0,0
+Lille,Paris FC,4,2,1,1,9,4,1,2,0,0
+Metz,Rennes,0,1,0,1,6,3,0,0,0,0
+Monaco,Paris SG,1,0,0,0,4,4,3,1,1,0
+Paris FC,Auxerre,1,1,1,1,4,3,2,1,0,0
+Marseille,Toulouse,2,2,0,1,9,1,2,1,0,0
+Strasbourg,Brest,1,2,1,0,5,0,0,3,0,0
+Angers,Lens,1,2,0,1,2,8,1,1,0,0
+Le Havre,Lille,0,1,0,0,6,2,1,3,0,1
+Lorient,Nice,3,1,2,1,3,7,1,2,0,0
+Lyon,Nantes,3,0,0,0,7,0,1,2,0,1
+Brest,Monaco,1,0,1,0,2,3,2,4,1,0
+Lille,Marseille,1,0,1,0,2,5,1,1,0,0
+Nantes,Lens,1,2,1,1,1,12,2,0,0,0
+Toulouse,Strasbourg,1,0,1,0,1,2,3,3,0,0
+Paris SG,Rennes,5,0,2,0,8,6,0,3,0,1
+Nice,Angers,0,1,0,1,4,1,1,1,1,0
+Auxerre,Metz,3,1,2,1,5,3,2,1,0,0
+Le Havre,Paris FC,0,0,0,0,7,2,0,2,0,0
+Lorient,Lyon,1,0,1,0,1,7,2,2,0,1
+Angers,Nantes,4,1,1,0,6,3,1,2,0,0
+Rennes,Brest,3,1,2,1,5,7,2,3,0,0
+Metz,Paris SG,2,3,1,2,4,4,2,1,0,0
+Paris FC,Toulouse,0,3,0,2,7,4,3,1,0,0
+Lyon,Le Havre,1,0,0,0,5,4,2,4,0,0
+Auxerre,Lille,3,4,0,1,10,3,5,2,2,2
+Lens,Nice,2,0,1,0,2,5,0,2,0,0
+Strasbourg,Lorient,0,0,0,0,11,3,1,0,0,0
+Marseille,Monaco,1,0,0,0,3,7,2,1,0,0
+Toulouse,Lens,0,3,0,0,2,8,2,3,1,0
+Monaco,Lyon,1,3,1,1,7,2,2,3,1,0
+Nice,Strasbourg,1,1,0,1,5,7,1,2,0,0
+Lille,Rennes,0,2,0,0,4,7,1,1,1,0
+Marseille,Nantes,0,2,0,1,6,3,2,3,2,0
+Brest,Auxerre,2,0,1,0,7,6,3,2,0,0
+Le Havre,Angers,2,1,1,0,6,6,1,1,0,0
+Lorient,Metz,1,1,0,1,4,4,1,2,0,0
+Paris SG,Paris FC,2,1,1,0,7,1,1,0,0,0
+Monaco,Lorient,1,3,0,0,4,3,1,0,0,0
+Paris SG,Lille,3,0,1,0,4,2,0,1,0,0
+Lens,Auxerre,1,0,0,0,1,5,2,5,0,0
+Toulouse,Nice,5,1,2,0,6,7,1,2,0,0
+Angers,Marseille,2,5,1,4,6,2,1,1,0,0
+Strasbourg,Metz,2,1,2,1,4,1,2,3,0,0
+Nantes,Paris FC,1,2,0,1,1,2,1,3,0,0
+Rennes,Le Havre,1,1,0,0,10,6,1,4,0,0
+Lyon,Brest,2,1,2,0,5,0,2,0,0,1
+Auxerre,Paris SG,0,1,0,0,2,7,0,1,0,0
+Rennes,Lorient,0,2,0,1,9,3,2,0,0,0
+Le Havre,Monaco,0,0,0,0,5,6,0,3,0,0
+Marseille,Lens,3,1,2,0,2,2,0,3,0,0
+Nantes,Nice,1,4,1,3,4,2,2,3,0,0
+Brest,Toulouse,0,2,0,2,3,2,2,3,0,0
+Metz,Lyon,2,5,1,4,6,4,1,0,0,0
+Paris FC,Angers,0,0,0,0,2,1,1,1,0,0
+Lille,Strasbourg,1,4,0,2,8,1,2,2,0,0
+Lens,Le Havre,1,0,1,0,4,3,1,2,0,0
+Paris FC,Marseille,2,2,0,1,4,4,1,4,0,0
+Lorient,Nantes,2,1,1,0,1,4,4,5,0,0
+Monaco,Rennes,4,0,1,0,5,2,1,2,0,0
+Lyon,Lille,1,0,1,0,2,7,1,4,0,0
+Angers,Metz,1,0,1,0,4,3,2,2,0,1
+Nice,Brest,2,2,0,2,6,5,5,3,0,0
+Toulouse,Auxerre,0,0,0,0,5,4,1,2,0,0
+Strasbourg,Paris SG,1,2,1,1,5,6,1,0,0,1
+Metz,Lille,0,0,0,0,1,6,1,1,0,0
+Lens,Rennes,3,1,1,1,4,4,4,2,1,0
+Brest,Lorient,2,0,0,0,7,7,2,0,0,0
+Nantes,Lyon,0,1,0,1,5,4,4,2,0,1
+Nice,Monaco,0,0,0,0,8,6,2,2,0,0
+Angers,Toulouse,1,0,0,0,3,5,3,2,0,0
+Auxerre,Paris FC,0,0,0,0,7,4,1,4,0,0
+Le Havre,Strasbourg,2,1,1,1,9,3,2,1,0,1
+Paris SG,Marseille,5,0,2,0,5,2,2,2,0,0
+Rennes,Paris SG,3,1,1,0,5,8,0,0,0,0
+Monaco,Nantes,3,1,3,1,9,3,5,2,1,0
+Marseille,Strasbourg,2,2,1,0,5,5,4,2,0,0
+Lille,Brest,1,1,0,0,13,1,0,1,0,0
+Paris FC,Lens,0,5,0,2,3,5,2,1,0,0
+Le Havre,Toulouse,2,1,1,1,1,10,1,4,1,0
+Lorient,Angers,2,0,1,0,3,2,0,0,0,0
+Metz,Auxerre,1,3,0,1,4,3,2,3,0,0
+Lyon,Nice,2,0,1,0,8,5,3,1,0,0
+Brest,Marseille,2,0,2,0,3,2,1,4,0,0
+Lens,Monaco,2,3,1,0,7,2,2,1,0,0
+Toulouse,Paris FC,1,1,0,1,12,3,1,5,0,0
+Paris SG,Metz,3,0,2,0,4,1,0,2,0,0
+Auxerre,Rennes,0,3,0,3,4,5,1,4,0,0
+Angers,Lille,0,1,0,1,1,7,3,1,0,0
+Nantes,Le Havre,2,0,2,0,5,6,4,3,0,0
+Nice,Lorient,3,3,2,1,3,7,2,3,0,0
+Strasbourg,Lyon,3,1,1,0,4,2,1,2,0,0
+Strasbourg,Lens,1,1,1,0,2,8,2,2,0,0
+Rennes,Toulouse,1,0,1,0,6,1,1,3,0,0
+Monaco,Angers,2,0,0,0,5,2,0,3,0,0
+Le Havre,Paris SG,0,1,0,1,3,3,3,0,0,0
+Paris FC,Nice,1,0,1,0,8,6,6,3,1,0
+Lille,Nantes,1,0,0,0,4,1,3,1,0,0
+Lorient,Auxerre,2,2,2,2,3,7,1,3,0,0
+Metz,Brest,0,1,0,0,12,4,2,1,0,1
+Marseille,Lyon,3,2,0,1,8,1,3,2,0,0
+Paris SG,Monaco,1,3,0,1,7,3,1,3,0,0
+Nantes,Angers,0,1,0,0,3,4,1,1,0,0
+Auxerre,Strasbourg,0,0,0,0,5,4,1,2,0,0
+Toulouse,Marseille,0,1,0,1,4,2,2,3,0,0
+Lens,Metz,3,0,1,0,6,4,0,3,0,0
+Brest,Le Havre,2,0,1,0,1,3,3,1,0,0
+Lille,Lorient,1,1,0,0,5,1,4,1,0,0
+Nice,Rennes,0,4,0,2,7,1,2,1,0,0
+Lyon,Paris FC,1,1,0,0,8,2,2,0,0,0
+Marseille,Auxerre,1,0,0,0,9,2,4,2,0,0
+Lorient,Lens,2,1,1,0,1,10,2,3,0,0
+Angers,Nice,0,2,0,0,7,6,1,3,0,0
+Monaco,Brest,2,0,1,0,3,8,2,1,0,0
+Strasbourg,Paris FC,0,0,0,0,12,4,1,0,0,0
+Le Havre,Lyon,0,0,0,0,2,2,1,3,1,0
+Metz,Toulouse,3,4,2,3,4,4,0,3,0,0
+Rennes,Lille,1,2,0,1,5,2,2,5,0,0
+Le Havre,Paris SG,1,4,0,1,2,8,3,0,0,0
+Brest,Marseille,1,5,1,3,5,0,4,1,0,0
+Reims,Lille,0,2,0,1,0,8,2,2,1,0
+Monaco,St Etienne,1,0,1,0,5,4,1,1,0,0
+Auxerre,Nice,2,1,1,1,3,5,0,0,0,0
+Angers,Lens,0,1,0,1,7,3,1,0,0,0
+Montpellier,Strasbourg,1,1,0,0,6,4,4,3,0,0
+Toulouse,Nantes,0,0,0,0,10,5,1,3,0,0
+Rennes,Lyon,3,0,2,0,7,7,2,1,0,0
+Paris SG,Montpellier,6,0,2,0,10,2,1,4,0,0
+Lyon,Monaco,0,2,0,0,0,6,0,0,0,1
+Lille,Angers,2,0,1,0,3,2,1,2,0,0
+St Etienne,Le Havre,0,2,0,0,2,4,3,3,0,0
+Lens,Brest,2,0,2,0,5,2,0,0,1,0
+Nantes,Auxerre,2,0,1,0,3,12,0,0,0,1
+Nice,Toulouse,1,1,0,0,4,4,4,1,0,0
+Strasbourg,Rennes,3,1,1,0,2,5,2,4,0,0
+Marseille,Reims,2,2,1,0,2,4,1,1,0,0
+Lyon,Strasbourg,4,3,1,1,9,2,3,2,0,0
+Brest,St Etienne,4,0,2,0,7,2,0,5,0,0
+Montpellier,Nantes,1,3,1,2,8,3,2,2,0,0
+Toulouse,Marseille,1,3,0,2,2,3,4,2,1,0
+Monaco,Lens,1,1,0,0,7,7,1,4,0,0
+Angers,Nice,1,4,0,2,4,7,6,4,0,1
+Le Havre,Auxerre,3,1,1,1,2,2,1,5,0,1
+Reims,Rennes,2,1,1,1,3,5,2,1,0,0
+Lille,Paris SG,1,3,0,2,3,1,3,2,0,0
+St Etienne,Lille,1,0,1,0,2,7,1,1,0,0
+Marseille,Nice,2,0,1,0,1,2,5,2,1,0
+Auxerre,Monaco,0,3,0,2,1,6,3,0,0,0
+Paris SG,Brest,3,1,1,1,9,1,2,3,0,0
+Rennes,Montpellier,3,0,2,0,3,4,1,3,0,0
+Nantes,Reims,1,2,1,1,6,3,3,1,0,0
+Strasbourg,Angers,1,1,1,0,6,9,4,1,0,0
+Toulouse,Le Havre,2,0,0,0,6,5,1,1,0,0
+Lens,Lyon,0,0,0,0,5,8,0,0,0,0
+Nice,St Etienne,8,0,6,0,3,2,0,1,0,0
+Lille,Strasbourg,3,3,2,2,9,5,2,2,0,0
+Rennes,Lens,1,1,1,0,4,3,2,4,0,0
+Reims,Paris SG,1,1,1,0,3,5,2,1,0,0
+Monaco,Le Havre,3,1,1,1,6,4,1,3,0,0
+Angers,Nantes,1,1,1,1,3,6,1,4,0,0
+Brest,Toulouse,2,0,1,0,4,3,1,1,0,0
+Montpellier,Auxerre,3,2,0,1,11,5,3,4,0,0
+Lyon,Marseille,2,3,0,0,10,3,4,3,0,1
+Auxerre,Brest,3,0,2,0,2,3,2,0,0,0
+Paris SG,Rennes,3,1,1,0,6,4,1,3,0,0
+Lens,Nice,0,0,0,0,11,4,4,2,1,0
+Le Havre,Lille,0,3,0,2,1,5,2,1,0,0
+Monaco,Montpellier,2,1,1,1,6,2,4,3,0,1
+Toulouse,Lyon,1,2,1,1,3,4,2,2,0,0
+Angers,Reims,1,3,0,2,5,4,0,3,0,0
+Nantes,St Etienne,2,2,1,0,8,4,2,2,1,0
+Strasbourg,Marseille,1,0,1,0,8,3,2,1,0,0
+Marseille,Angers,1,1,0,0,9,3,4,0,1,1
+St Etienne,Auxerre,3,1,1,0,5,4,3,1,0,0
+Lille,Toulouse,2,1,0,1,4,6,3,2,0,0
+Rennes,Monaco,1,2,1,2,10,4,2,4,0,0
+Lyon,Nantes,2,0,1,0,6,9,1,2,0,0
+Brest,Le Havre,2,0,1,0,1,9,4,0,1,1
+Reims,Montpellier,4,2,2,1,4,4,3,5,0,0
+Strasbourg,Lens,2,2,1,2,3,5,2,4,0,0
+Nice,Paris SG,1,1,1,0,5,15,1,2,0,0
+Monaco,Lille,0,0,0,0,6,1,1,5,1,0
+Brest,Rennes,1,1,0,0,2,4,2,2,0,0
+St Etienne,Lens,0,2,0,1,2,7,1,2,0,0
+Paris SG,Strasbourg,4,2,1,0,5,5,2,2,0,0
+Le Havre,Lyon,0,4,0,1,4,6,3,4,0,0
+Auxerre,Reims,2,1,1,0,5,9,2,3,0,0
+Nantes,Nice,1,1,0,0,4,8,2,1,0,0
+Toulouse,Angers,1,1,0,1,8,2,2,4,0,0
+Montpellier,Marseille,0,5,0,3,3,2,1,3,1,0
+Rennes,Le Havre,1,0,0,0,14,0,2,4,0,1
+Angers,St Etienne,4,2,2,1,2,3,1,3,0,0
+Reims,Brest,1,2,1,2,7,3,3,2,0,0
+Lens,Lille,0,2,0,0,8,2,4,4,0,0
+Lyon,Auxerre,2,2,1,0,5,4,0,4,0,0
+Montpellier,Toulouse,0,3,0,3,1,3,1,2,1,0
+Nice,Monaco,2,1,1,1,6,6,2,5,0,1
+Strasbourg,Nantes,3,1,1,0,5,4,2,3,0,0
+Marseille,Paris SG,0,3,0,3,1,2,1,0,1,0
+Monaco,Angers,0,1,0,1,4,4,1,1,0,0
+Lille,Lyon,1,1,1,0,4,9,3,1,0,0
+Paris SG,Lens,1,0,1,0,7,4,1,5,0,1
+Brest,Nice,0,1,0,1,6,2,0,2,0,0
+St Etienne,Strasbourg,2,0,0,0,2,3,2,1,0,0
+Toulouse,Reims,1,0,0,0,6,7,0,3,0,0
+Auxerre,Rennes,4,0,2,0,3,8,0,2,0,0
+Le Havre,Montpellier,1,0,0,0,2,10,2,1,0,0
+Nantes,Marseille,1,2,1,1,2,5,1,1,0,0
+Marseille,Auxerre,1,3,0,3,5,3,3,2,0,0
+Strasbourg,Monaco,1,3,1,0,1,2,5,2,0,0
+Lens,Nantes,3,2,1,1,6,1,2,0,0,0
+Angers,Paris SG,2,4,0,4,6,8,0,3,0,0
+Nice,Lille,2,2,0,1,6,2,2,2,0,0
+Le Havre,Reims,0,3,0,2,8,7,1,4,0,0
+Montpellier,Brest,3,1,2,0,3,7,5,1,0,0
+Rennes,Toulouse,0,2,0,2,5,3,3,1,0,0
+Lyon,St Etienne,1,0,1,0,7,6,3,2,0,0
+Monaco,Brest,3,2,2,0,2,8,2,2,0,0
+Paris SG,Toulouse,3,0,1,0,7,5,1,2,0,0
+Lens,Marseille,1,3,0,0,6,0,3,3,0,0
+St Etienne,Montpellier,1,0,0,0,5,11,3,5,0,0
+Reims,Lyon,1,1,0,1,4,2,2,0,0,0
+Lille,Rennes,1,0,1,0,3,3,3,2,0,0
+Auxerre,Angers,1,0,0,0,2,2,4,1,0,0
+Nantes,Le Havre,0,2,0,1,9,2,2,1,0,0
+Nice,Strasbourg,2,1,0,1,4,7,2,0,0,0
+Reims,Lens,0,2,0,1,3,1,1,2,0,0
+Rennes,St Etienne,5,0,2,0,6,1,0,1,0,1
+Brest,Strasbourg,3,1,2,0,4,3,3,2,0,0
+Paris SG,Nantes,1,1,1,1,9,3,0,0,0,0
+Montpellier,Lille,2,2,1,1,7,2,4,5,1,1
+Le Havre,Angers,0,1,0,0,2,4,2,0,0,0
+Lyon,Nice,4,1,3,1,5,4,1,2,0,0
+Toulouse,Auxerre,2,0,2,0,6,2,0,0,0,0
+Marseille,Monaco,2,1,0,1,5,3,0,1,0,0
+Lille,Brest,3,1,2,0,2,1,1,1,0,0
+Auxerre,Paris SG,0,0,0,0,3,15,2,1,0,0
+Monaco,Toulouse,2,0,0,0,2,3,2,2,0,0
+Nice,Le Havre,2,1,0,0,5,8,3,2,0,0
+Angers,Lyon,0,3,0,1,2,7,0,2,0,0
+Lens,Montpellier,2,0,1,0,6,3,2,3,0,0
+Nantes,Rennes,1,0,0,0,5,4,1,1,0,1
+Strasbourg,Reims,0,0,0,0,3,2,1,2,0,0
+St Etienne,Marseille,0,2,0,1,0,9,1,1,0,0
+Toulouse,St Etienne,2,1,0,0,2,3,3,4,0,0
+Marseille,Lille,1,1,1,0,3,8,1,3,1,0
+Auxerre,Lens,2,2,1,2,3,5,3,1,0,0
+Reims,Monaco,0,0,0,0,1,4,1,3,0,0
+Montpellier,Nice,2,2,1,2,9,4,1,2,0,0
+Brest,Nantes,4,1,2,0,0,5,3,3,0,0
+Le Havre,Strasbourg,0,3,0,2,3,2,0,1,0,0
+Rennes,Angers,2,0,1,0,2,1,3,1,0,0
+Paris SG,Lyon,3,1,2,1,4,3,2,3,0,0
+Monaco,Paris SG,2,4,0,1,1,9,2,0,0,0
+Nice,Rennes,3,2,3,1,3,3,3,3,1,0
+St Etienne,Reims,3,1,0,1,6,9,2,1,0,0
+Lille,Nantes,1,1,1,0,2,0,1,2,0,0
+Lyon,Montpellier,1,0,0,0,3,5,1,2,0,0
+Angers,Brest,2,0,1,0,2,4,2,1,0,0
+Lens,Toulouse,0,1,0,0,7,1,5,2,1,0
+Strasbourg,Auxerre,3,1,1,1,4,3,1,2,0,0
+Marseille,Le Havre,5,1,3,0,4,0,1,0,0,0
+Nantes,Monaco,2,2,1,0,3,11,3,0,0,0
+Auxerre,Lille,0,0,0,0,6,10,0,4,1,0
+Brest,Lyon,2,1,2,1,4,7,1,2,0,0
+Reims,Nice,2,4,1,2,6,3,4,2,0,0
+Rennes,Marseille,1,2,1,1,2,3,2,2,0,0
+Le Havre,Lens,1,2,1,1,3,8,2,2,0,0
+Montpellier,Angers,1,3,0,1,3,3,6,2,2,0
+Toulouse,Strasbourg,1,2,1,2,3,2,1,4,0,0
+Paris SG,St Etienne,2,1,2,0,7,3,1,2,0,0
+Montpellier,Monaco,2,1,0,1,4,16,1,2,0,0
+Lille,Nice,2,1,0,1,7,7,1,3,0,0
+Lens,Paris SG,1,2,1,0,6,1,2,2,0,0
+Rennes,Brest,1,2,0,1,4,4,2,3,0,0
+Lyon,Toulouse,0,0,0,0,8,5,1,0,0,0
+St Etienne,Nantes,1,1,0,1,7,7,2,1,0,0
+Angers,Auxerre,2,0,1,0,4,2,2,1,0,1
+Reims,Le Havre,1,1,1,0,6,6,2,2,0,0
+Marseille,Strasbourg,1,1,0,1,9,3,3,3,0,0
+Auxerre,St Etienne,1,1,1,1,3,4,2,0,0,0
+Monaco,Rennes,3,2,1,1,4,2,3,3,0,0
+Strasbourg,Lille,2,1,0,1,6,7,4,2,0,0
+Paris SG,Reims,1,1,0,0,8,1,2,2,0,0
+Le Havre,Brest,0,1,0,1,6,6,2,3,0,0
+Lens,Angers,1,0,0,0,4,4,1,1,0,0
+Nantes,Lyon,1,1,0,1,4,8,3,1,0,0
+Toulouse,Montpellier,1,2,0,0,6,2,1,2,0,0
+Nice,Marseille,2,0,1,0,6,12,1,1,0,0
+Montpellier,Lens,0,2,0,1,4,5,4,3,0,0
+Brest,Paris SG,2,5,0,1,4,7,1,0,0,0
+Monaco,Auxerre,4,2,1,2,5,4,2,2,0,0
+Lille,St Etienne,4,1,1,1,7,1,1,1,0,1
+Toulouse,Nice,1,1,0,1,7,2,2,2,0,0
+Angers,Le Havre,1,1,0,0,4,2,2,4,1,1
+Reims,Nantes,1,2,1,1,9,3,3,3,1,0
+Rennes,Strasbourg,1,0,0,0,6,2,3,3,0,0
+Marseille,Lyon,3,2,0,0,6,2,4,1,0,0
+Nantes,Brest,0,2,0,1,12,4,3,2,0,0
+Paris SG,Monaco,4,1,1,1,1,1,1,0,0,0
+Nice,Lens,2,0,1,0,7,3,1,4,0,1
+Lille,Le Havre,1,2,0,1,8,10,2,1,0,0
+St Etienne,Rennes,0,2,0,1,2,4,1,5,0,0
+Lyon,Reims,4,0,1,0,6,6,0,0,0,0
+Auxerre,Toulouse,2,2,0,0,3,5,1,1,0,0
+Strasbourg,Montpellier,2,0,1,0,6,2,1,4,0,0
+Angers,Marseille,0,2,0,0,1,7,1,2,0,0
+Brest,Auxerre,2,2,0,1,6,4,2,2,0,0
+Marseille,St Etienne,5,1,1,0,14,3,1,1,0,0
+Monaco,Nantes,7,1,2,1,9,1,1,1,0,1
+Toulouse,Paris SG,0,1,0,0,5,2,2,0,0,0
+Montpellier,Lyon,1,4,1,1,7,4,3,1,0,0
+Le Havre,Nice,1,3,1,2,6,2,2,2,0,1
+Lens,Strasbourg,0,2,0,0,7,3,4,2,1,0
+Reims,Angers,0,1,0,1,1,4,2,1,0,0
+Rennes,Lille,0,2,0,0,4,8,2,1,1,0
+Rennes,Reims,1,0,1,0,9,2,1,2,0,2
+Lille,Monaco,2,1,2,1,1,6,4,2,0,0
+St Etienne,Angers,3,3,1,2,4,3,3,0,0,0
+Auxerre,Marseille,3,0,1,0,2,5,1,3,0,1
+Nantes,Lens,3,1,1,0,2,11,2,4,0,1
+Le Havre,Toulouse,1,4,0,1,5,3,0,2,1,0
+Nice,Montpellier,2,0,1,0,8,5,1,1,0,0
+Strasbourg,Brest,0,0,0,0,1,8,3,1,0,0
+Lyon,Paris SG,2,3,0,0,5,4,1,1,0,0
+Monaco,Reims,3,0,2,0,7,2,0,0,0,0
+St Etienne,Nice,1,3,1,1,3,4,2,1,0,0
+Lens,Le Havre,3,4,2,2,9,2,2,2,0,0
+Paris SG,Lille,4,1,4,0,9,3,0,1,0,0
+Lyon,Brest,2,1,1,1,2,5,2,1,0,0
+Angers,Toulouse,0,4,0,0,4,9,3,3,0,0
+Auxerre,Strasbourg,0,1,0,0,5,3,1,3,0,1
+Montpellier,Rennes,0,4,0,1,6,5,2,1,0,0
+Marseille,Nantes,2,0,0,0,3,2,1,2,0,0
+Toulouse,Monaco,1,1,0,1,3,5,1,3,0,0
+Rennes,Paris SG,1,4,0,1,3,2,2,3,0,0
+Lille,Montpellier,1,0,0,0,7,1,2,3,0,0
+Marseille,Lens,0,1,0,0,7,0,3,1,0,0
+Brest,Angers,2,0,1,0,6,6,1,1,0,0
+Le Havre,St Etienne,1,1,1,1,5,6,2,3,0,0
+Nantes,Strasbourg,0,1,0,0,3,9,1,1,0,0
+Reims,Auxerre,0,2,0,2,6,12,1,1,0,0
+Nice,Lyon,0,2,0,0,9,2,1,2,0,0
+Nice,Auxerre,1,1,1,0,7,3,1,3,1,0
+Nantes,Lille,1,0,0,0,3,5,2,3,1,0
+Angers,Monaco,0,2,0,0,0,9,1,2,0,0
+Lens,Rennes,1,0,0,0,5,4,1,1,0,0
+Lyon,Le Havre,4,2,1,2,4,1,2,3,0,0
+Brest,Reims,0,0,0,0,4,4,1,3,1,0
+Montpellier,St Etienne,0,2,0,1,4,6,1,3,0,1
+Strasbourg,Toulouse,2,1,0,1,4,3,0,2,0,0
+Paris SG,Marseille,3,1,2,0,5,5,1,0,0,0
+Strasbourg,Lyon,4,2,0,0,6,5,2,2,0,0
+Reims,Marseille,3,1,1,0,0,12,0,0,0,0
+St Etienne,Paris SG,1,6,1,1,3,6,2,0,0,0
+Monaco,Nice,2,1,0,1,7,4,2,4,0,1
+Toulouse,Brest,2,4,0,2,10,3,0,5,0,0
+Angers,Rennes,0,3,0,1,6,5,1,0,0,0
+Auxerre,Montpellier,1,0,0,0,10,6,3,1,0,0
+Le Havre,Nantes,3,2,2,1,3,4,1,2,0,0
+Lille,Lens,1,0,1,0,6,2,1,3,0,0
+Nice,Nantes,1,2,1,2,11,2,1,1,0,0
+Paris SG,Angers,1,0,0,0,5,1,0,3,0,0
+Brest,Monaco,2,1,1,0,2,9,3,2,0,0
+Lyon,Lille,2,1,1,1,1,3,3,2,0,0
+Lens,St Etienne,1,0,0,0,6,3,3,2,0,0
+Montpellier,Le Havre,0,2,0,2,5,2,1,1,1,0
+Reims,Strasbourg,0,1,0,1,4,7,2,2,1,1
+Rennes,Auxerre,0,1,0,0,8,5,0,0,0,0
+Marseille,Toulouse,3,2,1,1,5,1,2,3,0,0
+Lens,Reims,0,2,0,1,9,2,1,0,0,0
+Monaco,Marseille,3,0,1,0,4,4,2,1,0,0
+Toulouse,Lille,1,2,1,2,4,2,1,2,0,0
+Strasbourg,Nice,2,2,0,1,2,9,1,2,0,0
+St Etienne,Brest,3,3,2,3,7,9,2,4,0,0
+Angers,Montpellier,2,0,2,0,6,1,0,2,0,0
+Le Havre,Rennes,1,5,1,3,4,3,2,3,0,0
+Auxerre,Lyon,1,3,0,0,3,6,3,1,0,0
+Rennes,Nantes,2,1,1,0,10,2,3,5,0,1
+Paris SG,Le Havre,2,1,1,0,7,3,0,0,0,0
+Monaco,Strasbourg,0,0,0,0,3,2,3,3,0,0
+Marseille,Montpellier,5,1,1,0,7,2,2,2,0,0
+Lille,Auxerre,3,1,2,0,8,4,1,2,0,0
+Brest,Lens,1,3,1,2,7,6,0,0,1,0
+Nice,Angers,2,1,1,0,4,2,1,1,0,0
+Reims,Toulouse,1,0,1,0,0,9,1,0,0,1
+St Etienne,Lyon,2,1,1,0,8,6,3,4,0,0
+Nantes,Paris SG,1,1,0,1,4,4,2,0,0,0
+Paris SG,Nice,1,3,1,1,17,0,3,1,0,0
+Strasbourg,St Etienne,3,1,1,1,5,8,1,0,0,0
+Le Havre,Monaco,1,1,1,0,3,6,1,0,0,0
+Lyon,Rennes,4,1,3,0,7,2,0,0,0,0
+Angers,Lille,0,2,0,1,7,2,1,5,0,1
+Lens,Auxerre,0,4,0,3,8,1,4,4,1,0
+Montpellier,Reims,0,0,0,0,5,5,3,3,0,0
+Nantes,Toulouse,0,0,0,0,3,5,2,3,0,1
+Marseille,Brest,4,1,3,1,4,3,1,4,0,0
+Nice,Reims,1,0,1,0,5,3,2,2,0,0
+Strasbourg,Paris SG,2,1,2,0,6,2,1,2,0,0
+Toulouse,Rennes,2,1,1,0,6,5,2,2,0,0
+St Etienne,Monaco,1,3,0,1,6,5,0,0,0,0
+Nantes,Angers,0,1,0,0,4,6,2,3,0,0
+Auxerre,Le Havre,1,2,0,0,0,9,2,1,0,0
+Brest,Montpellier,1,0,1,0,4,6,1,2,0,0
+Lyon,Lens,1,2,0,1,8,2,2,3,0,0
+Lille,Marseille,1,1,0,0,2,5,2,2,0,0
+Angers,Strasbourg,2,1,1,1,2,6,2,2,0,0
+Auxerre,Nantes,1,1,1,0,7,3,3,1,0,0
+Brest,Lille,2,0,1,0,3,7,1,1,0,0
+Le Havre,Marseille,1,3,0,0,2,9,2,2,0,0
+Monaco,Lyon,2,0,0,0,3,5,2,4,0,0
+Montpellier,Paris SG,1,4,0,1,5,4,1,1,0,0
+Reims,St Etienne,0,2,0,2,4,5,1,0,0,0
+Rennes,Nice,2,0,1,0,1,5,1,1,0,0
+Toulouse,Lens,1,1,0,0,2,1,2,5,0,0
+Lens,Monaco,4,0,1,0,5,4,1,1,0,1
+Lille,Reims,2,1,1,0,10,3,0,1,0,0
+Lyon,Angers,2,0,0,0,8,8,1,3,0,0
+Marseille,Rennes,4,2,3,1,5,5,3,3,0,0
+Nantes,Montpellier,3,0,2,0,7,2,3,1,0,0
+Nice,Brest,6,0,3,0,5,2,0,5,0,0
+Paris SG,Auxerre,3,1,0,1,5,2,1,2,0,0
+St Etienne,Toulouse,2,3,1,2,7,6,3,2,0,0
+Strasbourg,Le Havre,2,3,1,1,4,3,2,0,1,0
+Nice,Lille,1,1,1,0,3,3,3,2,0,0
+Marseille,Reims,2,1,1,1,10,10,1,3,0,0
+Paris SG,Lorient,0,0,0,0,9,2,0,0,0,0
+Brest,Lens,3,2,1,2,6,8,2,3,0,1
+Clermont,Monaco,2,4,1,2,6,2,0,4,0,0
+Montpellier,Le Havre,2,2,0,1,5,2,1,2,0,0
+Nantes,Toulouse,1,2,1,0,7,5,2,2,0,0
+Rennes,Metz,5,1,1,1,5,4,0,2,0,0
+Strasbourg,Lyon,2,1,0,0,1,6,2,2,0,0
+Metz,Marseille,2,2,0,1,4,9,3,2,1,0
+Lyon,Montpellier,1,4,0,2,6,2,4,1,1,0
+Toulouse,Paris SG,1,1,0,0,5,5,0,3,0,0
+Lille,Nantes,2,0,0,0,7,5,0,2,1,0
+Le Havre,Brest,1,2,0,1,5,3,0,2,0,0
+Lorient,Nice,1,1,0,0,0,9,1,1,0,0
+Reims,Clermont,2,0,1,0,3,10,0,0,0,0
+Monaco,Strasbourg,3,0,2,0,4,3,2,1,0,0
+Lens,Rennes,1,1,1,0,11,0,2,1,0,0
+Nantes,Monaco,3,3,2,1,1,10,2,2,0,0
+Marseille,Brest,2,0,1,0,3,10,0,1,0,0
+Paris SG,Lens,3,1,1,0,5,5,0,5,0,0
+Rennes,Le Havre,2,2,2,1,5,2,1,2,0,1
+Clermont,Metz,0,1,0,0,10,2,1,1,0,0
+Montpellier,Reims,1,3,1,2,5,3,1,1,0,0
+Strasbourg,Toulouse,2,0,0,0,3,3,1,3,0,0
+Lorient,Lille,4,1,2,0,5,8,2,4,0,0
+Nice,Lyon,0,0,0,0,7,2,1,4,0,0
+Nantes,Marseille,1,1,1,1,2,7,0,2,1,0
+Brest,Rennes,0,0,0,0,7,5,3,1,0,0
+Monaco,Lens,3,0,2,0,5,2,4,2,0,0
+Toulouse,Clermont,2,2,2,1,0,8,1,3,0,0
+Le Havre,Lorient,3,0,0,0,5,4,0,0,0,0
+Lille,Montpellier,1,0,1,0,5,5,2,1,0,0
+Metz,Reims,2,2,1,1,4,1,0,4,0,0
+Nice,Strasbourg,2,0,1,0,5,2,2,1,0,0
+Lyon,Paris SG,1,4,0,4,5,2,2,2,0,0
+Paris SG,Nice,2,3,1,1,4,3,2,5,0,0
+Rennes,Lille,2,2,0,1,5,2,1,4,0,0
+Lens,Metz,0,1,0,1,9,1,1,2,0,0
+Lorient,Monaco,2,2,1,1,8,6,0,1,0,0
+Clermont,Nantes,0,1,0,0,6,3,2,2,0,0
+Reims,Brest,1,2,1,0,8,8,2,4,0,0
+Strasbourg,Montpellier,2,2,0,2,2,4,4,6,0,0
+Marseille,Toulouse,0,0,0,0,6,1,2,5,0,0
+Lyon,Le Havre,0,0,0,0,6,1,3,2,0,0
+Monaco,Nice,0,1,0,0,5,2,1,1,0,0
+Nantes,Lorient,5,3,1,1,4,2,1,3,0,0
+Brest,Lyon,1,0,0,0,10,1,3,1,0,0
+Metz,Strasbourg,0,1,0,0,1,1,2,0,0,0
+Le Havre,Clermont,2,1,2,1,1,3,2,3,0,0
+Lens,Toulouse,2,1,1,1,9,4,2,1,0,0
+Montpellier,Rennes,0,0,0,0,3,6,2,1,0,0
+Paris SG,Marseille,4,0,2,0,8,3,0,3,0,0
+Lille,Reims,1,2,0,2,4,2,1,2,0,0
+Strasbourg,Lens,0,1,0,1,2,3,2,4,0,0
+Clermont,Paris SG,0,0,0,0,6,9,2,3,0,0
+Monaco,Marseille,3,2,2,2,2,6,4,4,0,0
+Reims,Lyon,2,0,1,0,1,5,2,2,0,0
+Le Havre,Lille,0,2,0,1,6,6,0,0,0,0
+Nice,Brest,0,0,0,0,6,4,1,3,0,0
+Toulouse,Metz,3,0,2,0,4,6,3,0,0,0
+Lorient,Montpellier,0,3,0,1,8,3,2,1,0,0
+Rennes,Nantes,3,1,1,1,6,4,3,6,0,1
+Strasbourg,Nantes,1,2,0,0,3,11,4,0,0,0
+Metz,Nice,0,1,0,1,1,4,0,1,0,0
+Reims,Monaco,1,3,0,1,10,5,0,3,0,0
+Marseille,Le Havre,3,0,2,0,4,3,0,3,0,1
+Brest,Toulouse,1,1,0,1,3,5,2,2,0,0
+Lyon,Lorient,3,3,3,1,5,2,0,0,0,0
+Lens,Lille,1,1,0,1,8,5,2,4,0,0
+Rennes,Paris SG,1,3,0,2,1,7,1,0,0,0
+Le Havre,Lens,0,0,0,0,3,3,2,3,0,0
+Paris SG,Strasbourg,3,0,2,0,1,6,2,0,0,0
+Nice,Marseille,1,0,0,0,4,2,4,3,0,1
+Lorient,Rennes,2,1,2,1,6,16,0,2,0,0
+Lille,Brest,1,0,1,0,3,5,2,3,0,0
+Nantes,Montpellier,2,0,1,0,4,3,2,1,0,0
+Toulouse,Reims,1,1,0,0,5,7,2,0,0,0
+Monaco,Metz,2,1,1,1,10,2,1,3,0,0
+Lyon,Clermont,1,2,0,2,10,3,4,6,0,0
+Clermont,Nice,0,1,0,0,2,2,0,2,0,0
+Reims,Lorient,1,0,0,0,4,4,1,3,0,0
+Lens,Nantes,4,0,1,0,4,1,1,2,0,0
+Brest,Paris SG,2,3,1,2,9,5,3,4,0,0
+Lille,Monaco,2,0,2,0,2,8,1,2,0,0
+Metz,Le Havre,0,0,0,0,5,6,2,2,0,0
+Montpellier,Toulouse,3,0,1,0,3,4,2,3,0,0
+Rennes,Strasbourg,1,1,1,0,7,5,2,2,0,0
+Paris SG,Montpellier,3,0,1,0,9,2,1,0,0,0
+Lorient,Lens,0,0,0,0,1,5,3,3,0,0
+Marseille,Lille,0,0,0,0,2,8,2,3,0,0
+Lyon,Metz,1,1,0,0,4,9,1,1,0,0
+Nantes,Reims,0,1,0,0,10,6,1,2,0,0
+Strasbourg,Clermont,0,0,0,0,4,6,2,0,1,0
+Toulouse,Le Havre,1,2,0,0,4,6,2,2,0,0
+Monaco,Brest,2,0,1,0,6,4,2,4,0,1
+Nice,Rennes,2,0,1,0,2,1,0,2,1,1
+Montpellier,Nice,0,0,0,0,3,7,0,4,0,0
+Reims,Paris SG,0,3,0,1,8,4,1,0,0,0
+Le Havre,Monaco,0,0,0,0,2,4,2,3,0,0
+Clermont,Lorient,1,0,0,0,5,4,3,2,0,0
+Lille,Toulouse,1,1,1,0,11,1,3,4,0,0
+Metz,Nantes,3,1,2,1,2,5,0,0,0,0
+Rennes,Lyon,0,1,0,0,6,9,3,1,1,0
+Lens,Marseille,1,0,0,0,4,5,2,2,0,0
+Paris SG,Monaco,5,2,2,1,2,10,0,1,0,0
+Clermont,Lens,0,3,0,1,2,4,2,3,1,1
+Strasbourg,Marseille,1,1,1,1,7,11,1,2,0,0
+Nice,Toulouse,1,0,0,0,4,2,0,4,0,0
+Lorient,Metz,2,3,2,1,5,6,2,1,0,0
+Montpellier,Brest,1,3,0,1,9,1,2,2,0,0
+Nantes,Le Havre,0,0,0,0,10,5,1,2,0,1
+Rennes,Reims,3,1,1,1,1,8,2,2,0,0
+Lyon,Lille,0,2,0,2,3,5,2,2,0,0
+Montpellier,Clermont,1,1,0,1,8,0,3,4,0,0
+Reims,Strasbourg,2,1,2,0,4,5,1,1,0,0
+Lens,Lyon,3,2,1,1,3,6,2,0,1,0
+Nantes,Nice,1,0,1,0,5,6,3,0,0,0
+Le Havre,Paris SG,0,2,0,1,9,2,2,1,0,1
+Brest,Clermont,3,0,2,0,4,2,1,2,0,0
+Monaco,Montpellier,2,0,1,0,8,2,2,3,0,1
+Toulouse,Lorient,1,1,0,0,3,4,2,4,0,0
+Lille,Metz,2,0,2,0,6,1,0,0,0,0
+Marseille,Rennes,2,0,1,0,1,6,1,3,1,1
+Marseille,Lyon,3,0,2,0,10,3,1,2,0,0
+Brest,Strasbourg,1,1,1,0,6,0,1,0,0,0
+Montpellier,Lens,0,0,0,0,4,3,2,3,0,0
+Rennes,Monaco,1,2,0,0,5,5,3,6,0,1
+Paris SG,Nantes,2,1,1,0,5,3,1,3,0,0
+Nice,Reims,2,1,0,0,9,0,2,3,0,0
+Clermont,Lille,0,0,0,0,3,6,2,2,0,0
+Metz,Brest,0,1,0,0,3,2,3,2,0,0
+Strasbourg,Le Havre,2,1,1,0,4,3,3,1,0,0
+Lyon,Toulouse,3,0,2,0,2,1,2,3,0,0
+Lorient,Marseille,2,4,1,4,4,6,5,3,0,1
+Monaco,Lyon,0,1,0,0,6,1,1,2,0,0
+Le Havre,Nice,3,1,2,0,2,9,3,2,1,1
+Lens,Reims,2,0,1,0,4,7,0,1,0,0
+Nantes,Brest,0,2,0,0,4,3,1,3,0,0
+Lorient,Strasbourg,1,2,0,1,6,1,3,2,0,0
+Metz,Montpellier,0,1,0,1,12,5,2,2,0,0
+Toulouse,Rennes,0,0,0,0,4,4,3,2,0,0
+Marseille,Clermont,2,1,2,0,4,1,0,3,0,0
+Lille,Paris SG,1,1,0,0,8,8,1,1,0,0
+Brest,Lorient,4,0,4,0,1,0,1,2,0,0
+Clermont,Rennes,1,3,1,0,4,5,0,3,1,0
+Lyon,Nantes,1,0,0,0,7,7,1,2,1,0
+Montpellier,Marseille,1,1,1,0,5,10,2,1,0,0
+Nice,Lens,2,0,0,0,5,6,2,2,0,0
+Paris SG,Metz,3,1,0,0,5,5,0,1,0,0
+Reims,Le Havre,1,0,1,0,6,2,1,1,0,1
+Strasbourg,Lille,2,1,1,1,6,5,1,2,0,0
+Toulouse,Monaco,1,2,1,2,4,5,2,3,0,1
+Marseille,Strasbourg,1,1,1,0,6,4,3,2,0,0
+Monaco,Reims,1,3,0,1,6,6,3,2,0,0
+Rennes,Nice,2,0,1,0,6,6,1,0,0,0
+Lille,Lorient,3,0,1,0,7,1,1,4,0,0
+Brest,Montpellier,2,0,0,0,3,3,1,2,0,0
+Metz,Toulouse,0,1,0,1,5,2,3,2,1,0
+Nantes,Clermont,1,2,0,1,11,5,1,1,1,0
+Le Havre,Lyon,3,1,1,0,3,7,1,0,0,2
+Lens,Paris SG,0,2,0,1,5,6,0,1,1,0
+Lyon,Rennes,2,3,0,3,3,2,2,2,0,0
+Nice,Metz,1,0,0,0,5,2,1,1,0,0
+Marseille,Monaco,2,2,1,2,10,1,1,3,0,2
+Montpellier,Lille,0,0,0,0,5,2,4,3,0,1
+Clermont,Strasbourg,1,1,0,1,5,2,1,3,0,0
+Lorient,Le Havre,3,3,1,1,1,4,4,4,0,0
+Reims,Nantes,0,0,0,0,6,2,3,2,0,0
+Toulouse,Lens,0,2,0,1,10,7,3,3,0,0
+Paris SG,Brest,2,2,2,0,7,0,5,3,1,0
+Strasbourg,Paris SG,1,2,0,1,3,4,3,1,0,0
+Rennes,Montpellier,2,1,1,0,5,3,4,3,0,0
+Nantes,Lens,0,1,0,0,2,3,2,2,0,0
+Monaco,Le Havre,1,1,0,0,9,4,3,2,0,0
+Lille,Clermont,4,0,4,0,12,1,0,1,0,0
+Metz,Lorient,1,2,1,1,4,3,3,1,0,0
+Reims,Toulouse,2,3,0,3,10,6,2,3,0,0
+Brest,Nice,0,0,0,0,3,5,3,1,0,0
+Lyon,Marseille,1,0,1,0,3,2,2,1,0,0
+Marseille,Metz,1,1,0,0,6,3,2,0,1,0
+Lens,Strasbourg,3,1,2,1,4,5,2,1,0,0
+Paris SG,Lille,3,1,2,1,6,8,2,3,0,0
+Le Havre,Rennes,0,1,0,0,5,1,2,1,0,0
+Clermont,Brest,1,1,0,0,2,4,2,4,1,1
+Lorient,Reims,2,0,0,0,1,7,1,1,0,0
+Toulouse,Nantes,1,2,0,1,12,0,2,1,0,0
+Montpellier,Lyon,1,2,1,0,1,5,1,2,0,0
+Nice,Monaco,2,3,1,1,8,2,5,4,1,0
+Lyon,Nice,1,0,1,0,4,9,0,1,0,0
+Lille,Le Havre,3,0,2,0,1,3,2,3,0,0
+Nantes,Paris SG,0,2,0,0,3,8,1,0,0,0
+Strasbourg,Lorient,1,3,0,2,9,4,3,1,1,0
+Monaco,Toulouse,1,2,0,1,4,6,1,3,0,0
+Montpellier,Metz,3,0,1,0,7,4,3,3,0,0
+Rennes,Clermont,3,1,1,0,4,4,1,0,0,1
+Reims,Lens,1,1,1,1,3,2,2,2,0,0
+Brest,Marseille,1,0,0,0,6,4,3,1,1,0
+Metz,Lyon,1,2,1,1,4,3,1,2,0,0
+Lorient,Nantes,0,1,0,0,3,8,0,2,0,0
+Strasbourg,Brest,0,3,0,2,0,4,3,0,0,0
+Lens,Monaco,2,3,1,2,9,3,6,3,0,0
+Le Havre,Reims,1,2,0,0,5,5,3,3,0,1
+Nice,Clermont,0,0,0,0,8,1,2,1,0,0
+Toulouse,Lille,3,1,0,1,6,8,2,0,0,0
+Paris SG,Rennes,1,1,0,1,4,0,5,3,0,0
+Marseille,Montpellier,4,1,2,1,7,4,2,4,0,0
+Monaco,Paris SG,0,0,0,0,5,6,0,0,0,0
+Reims,Lille,0,1,0,0,4,4,3,2,0,0
+Clermont,Marseille,1,5,0,1,7,4,2,1,0,0
+Toulouse,Nice,2,1,0,1,7,6,2,2,0,0
+Brest,Le Havre,1,0,1,0,0,2,4,1,0,0
+Montpellier,Strasbourg,2,2,0,0,8,4,1,3,0,0
+Nantes,Metz,0,2,0,0,10,3,3,2,0,0
+Rennes,Lorient,1,2,0,0,6,3,1,2,0,0
+Lyon,Lens,0,3,0,1,2,4,0,2,1,0
+Nice,Montpellier,1,2,1,2,8,5,1,2,0,0
+Lorient,Lyon,0,2,0,0,4,7,0,0,0,0
+Lens,Brest,1,0,1,0,2,4,1,2,0,0
+Paris SG,Reims,2,2,2,2,7,2,2,2,0,0
+Le Havre,Toulouse,1,0,0,0,3,3,1,1,0,0
+Metz,Clermont,1,0,1,0,5,7,1,3,0,0
+Strasbourg,Monaco,0,1,0,0,5,8,1,3,0,0
+Lille,Rennes,2,2,0,2,6,3,5,2,0,0
+Marseille,Nantes,2,0,1,0,2,8,2,3,0,0
+Toulouse,Lyon,2,3,0,1,5,3,2,2,0,0
+Nantes,Strasbourg,1,3,1,1,4,5,2,3,0,0
+Lens,Nice,1,3,0,1,11,3,4,3,0,0
+Brest,Lille,1,1,0,0,3,3,3,0,0,0
+Clermont,Le Havre,2,1,2,1,3,5,3,5,1,1
+Monaco,Lorient,2,2,1,1,10,8,3,1,1,1
+Reims,Metz,2,1,1,1,7,7,4,4,0,0
+Rennes,Marseille,2,0,1,0,4,5,1,3,0,0
+Montpellier,Paris SG,2,6,2,2,7,4,0,3,0,0
+Lille,Lens,2,1,1,0,5,5,3,3,0,0
+Metz,Monaco,2,5,0,3,5,5,0,0,0,0
+Lyon,Reims,1,1,0,0,7,8,2,3,0,0
+Lorient,Brest,0,1,0,0,6,4,1,3,0,1
+Clermont,Toulouse,0,3,0,1,12,3,3,1,0,0
+Le Havre,Montpellier,0,2,0,0,6,6,2,2,0,0
+Nice,Nantes,1,2,0,1,9,3,2,5,0,0
+Strasbourg,Rennes,2,0,0,0,4,5,1,2,0,0
+Marseille,Paris SG,0,2,0,0,5,3,0,4,0,1
+Lille,Marseille,3,1,0,0,4,2,1,6,0,0
+Lens,Le Havre,1,1,0,0,7,4,2,5,0,0
+Paris SG,Clermont,1,1,0,1,17,2,1,0,0,0
+Brest,Metz,4,3,3,1,8,5,0,1,0,0
+Montpellier,Lorient,2,0,0,0,5,7,3,6,0,0
+Reims,Nice,0,0,0,0,2,5,2,1,0,0
+Toulouse,Strasbourg,0,0,0,0,4,3,2,0,0,0
+Monaco,Rennes,1,0,1,0,6,3,3,1,1,1
+Nantes,Lyon,1,3,1,0,5,5,2,2,0,0
+Metz,Lens,2,1,2,1,5,2,2,5,0,0
+Strasbourg,Reims,3,1,1,1,5,4,1,3,0,1
+Rennes,Toulouse,1,2,1,2,8,4,3,3,0,0
+Le Havre,Nantes,0,1,0,0,6,7,3,2,0,0
+Clermont,Montpellier,1,1,1,0,3,4,1,1,0,0
+Lyon,Brest,4,3,1,0,10,7,5,5,1,1
+Nice,Lorient,3,0,1,0,2,3,0,2,0,0
+Nantes,Rennes,0,3,0,0,3,7,1,4,0,0
+Lens,Clermont,1,0,1,0,4,3,1,4,0,0
+Le Havre,Metz,0,1,0,0,4,2,2,3,0,0
+Lille,Strasbourg,1,0,1,0,4,4,2,3,0,0
+Reims,Montpellier,1,2,0,1,8,4,3,3,0,0
+Brest,Monaco,0,2,0,1,7,4,5,2,0,2
+Toulouse,Marseille,2,2,1,1,7,4,1,2,0,0
+Paris SG,Lyon,4,1,4,1,4,10,0,0,0,0
+Lorient,Paris SG,1,4,0,2,3,6,1,1,0,0
+Marseille,Nice,2,2,1,1,3,2,2,3,1,0
+Monaco,Lille,1,0,0,0,7,5,1,2,0,0
+Montpellier,Nantes,1,1,1,1,3,6,2,1,2,0
+Paris SG,Le Havre,3,3,1,2,11,2,2,1,0,0
+Metz,Lille,1,2,1,2,2,4,1,2,0,0
+Clermont,Reims,4,1,1,1,5,5,0,3,0,1
+Lorient,Toulouse,1,2,1,0,5,1,1,3,0,0
+Strasbourg,Nice,1,3,1,1,2,3,2,3,0,0
+Rennes,Brest,4,5,2,1,7,4,4,1,0,0
+Lyon,Monaco,3,2,2,1,3,3,1,3,0,0
+Marseille,Lens,2,1,1,0,3,11,2,2,0,0
+Toulouse,Montpellier,1,2,1,1,8,0,3,4,1,1
+Lens,Lorient,2,0,0,0,4,4,1,2,0,0
+Le Havre,Strasbourg,3,1,1,0,3,2,3,1,0,0
+Monaco,Clermont,4,1,2,1,4,4,3,1,0,0
+Metz,Rennes,2,3,2,1,2,5,2,3,1,0
+Brest,Nantes,0,0,0,0,6,0,3,2,0,0
+Lille,Lyon,3,4,2,0,4,4,3,1,0,0
+Brest,Reims,1,1,1,1,3,4,2,3,0,0
+Nice,Le Havre,1,0,1,0,6,1,2,0,0,0
+Clermont,Lyon,0,1,0,0,7,2,1,2,0,0
+Marseille,Lorient,3,1,2,1,9,5,3,4,0,0
+Montpellier,Monaco,0,2,0,0,3,3,1,1,0,0
+Nantes,Lille,1,2,0,2,5,4,4,2,0,0
+Paris SG,Toulouse,1,3,1,1,4,6,0,0,0,0
+Rennes,Lens,1,1,0,0,4,3,2,3,0,0
+Strasbourg,Metz,2,1,0,0,3,6,2,2,0,0
+Nice,Paris SG,1,2,1,2,7,2,1,3,1,0
+Reims,Marseille,1,0,1,0,3,10,3,1,0,0
+Le Havre,Marseille,1,2,0,0,5,3,1,0,0,0
+Lens,Montpellier,2,2,2,0,1,0,0,1,0,0
+Lille,Nice,2,2,0,1,3,5,3,3,1,0
+Lorient,Clermont,5,0,2,0,9,2,3,3,0,0
+Lyon,Strasbourg,2,1,1,0,7,2,1,0,0,0
+Metz,Paris SG,0,2,0,2,1,11,2,1,0,0
+Monaco,Nantes,4,0,3,0,2,2,1,2,0,0
+Reims,Rennes,2,1,0,0,2,4,1,1,0,0
+Toulouse,Brest,0,3,0,0,6,2,1,2,0,0
+Lyon,Ajaccio,2,1,2,1,4,3,1,6,1,1
+Strasbourg,Monaco,1,2,0,1,3,7,0,2,0,0
+Clermont,Paris SG,0,5,0,3,0,6,2,1,0,0
+Toulouse,Nice,1,1,1,0,6,3,1,2,0,0
+Angers,Nantes,0,0,0,0,3,6,3,3,0,0
+Lens,Brest,3,2,1,0,6,3,2,4,0,0
+Lille,Auxerre,4,1,3,0,7,2,2,1,0,0
+Montpellier,Troyes,3,2,2,2,3,6,1,0,0,0
+Rennes,Lorient,0,1,0,0,7,2,3,1,0,0
+Marseille,Reims,4,1,2,0,6,7,2,0,0,0
+Nantes,Lille,1,1,1,0,5,11,1,4,0,0
+Monaco,Rennes,1,1,0,0,1,6,0,3,1,0
+Paris SG,Montpellier,5,2,2,0,11,0,2,1,0,0
+Ajaccio,Lens,0,0,0,0,1,3,5,2,0,0
+Auxerre,Angers,2,2,2,1,4,5,5,3,1,0
+Reims,Clermont,2,4,2,0,1,6,3,3,1,0
+Troyes,Toulouse,0,3,0,1,6,6,2,1,0,0
+Nice,Strasbourg,1,1,1,0,7,3,1,4,0,0
+Brest,Marseille,1,1,0,1,7,5,1,4,0,0
+Lyon,Troyes,4,1,1,1,4,5,0,1,0,0
+Monaco,Lens,1,4,1,2,3,5,4,0,1,0
+Marseille,Nantes,2,1,0,0,7,4,5,1,1,0
+Strasbourg,Reims,1,1,1,0,5,4,1,4,0,0
+Angers,Brest,1,3,0,2,3,6,2,0,1,0
+Clermont,Nice,1,0,1,0,3,6,1,2,0,2
+Montpellier,Auxerre,1,2,1,0,7,2,1,3,2,2
+Toulouse,Lorient,2,2,1,1,3,6,2,1,0,0
+Rennes,Ajaccio,2,1,1,0,4,8,5,2,2,0
+Lille,Paris SG,1,7,0,4,2,4,2,1,0,0
+Ajaccio,Lille,1,3,0,2,6,0,3,2,0,0
+Auxerre,Strasbourg,1,0,1,0,2,5,0,1,0,0
+Lens,Rennes,2,1,0,0,7,2,0,1,0,0
+Nantes,Toulouse,3,1,0,1,4,5,0,3,0,0
+Brest,Montpellier,0,7,0,5,5,4,0,2,1,0
+Lorient,Clermont,2,1,2,0,3,4,1,3,0,1
+Nice,Marseille,0,3,0,3,7,5,1,1,0,0
+Troyes,Angers,3,1,1,0,8,3,2,3,0,1
+Reims,Lyon,1,1,1,0,2,7,1,1,1,0
+Paris SG,Monaco,1,1,0,1,4,3,4,4,0,0
+Angers,Reims,2,4,0,2,4,3,1,6,0,1
+Lyon,Auxerre,2,1,1,0,9,3,0,2,0,0
+Monaco,Troyes,2,4,1,2,8,6,3,1,1,0
+Montpellier,Ajaccio,2,0,1,0,3,8,2,4,1,1
+Strasbourg,Nantes,1,1,1,0,3,6,0,3,0,0
+Lens,Lorient,5,2,2,1,4,5,1,3,0,0
+Lille,Nice,1,2,1,2,6,3,1,4,0,0
+Marseille,Clermont,1,0,0,0,7,1,2,2,0,0
+Rennes,Brest,3,1,0,0,7,3,2,0,0,0
+Toulouse,Paris SG,0,3,0,1,3,9,1,0,0,0
+Auxerre,Marseille,0,2,0,1,4,1,1,1,0,0
+Lyon,Angers,5,0,2,0,13,3,2,1,0,0
+Nantes,Paris SG,0,3,0,1,1,7,1,4,1,0
+Montpellier,Lille,1,3,1,1,1,9,0,4,1,0
+Ajaccio,Lorient,0,1,0,0,3,3,4,1,0,0
+Brest,Strasbourg,1,1,1,1,7,3,3,1,0,1
+Clermont,Toulouse,2,0,0,0,4,6,4,1,0,0
+Reims,Lens,1,1,0,0,4,4,2,2,0,1
+Troyes,Rennes,1,1,1,0,3,5,2,2,1,0
+Nice,Monaco,0,1,0,0,3,6,2,1,0,0
+Lorient,Lyon,3,1,2,1,1,6,1,3,0,0
+Lens,Troyes,1,0,1,0,9,1,2,1,0,0
+Paris SG,Brest,1,0,1,0,3,5,4,2,0,0
+Marseille,Lille,2,1,1,1,4,3,5,1,0,0
+Strasbourg,Clermont,0,0,0,0,3,5,4,2,1,0
+Ajaccio,Nice,0,1,0,0,2,3,1,5,0,0
+Angers,Montpellier,2,1,1,1,2,5,2,4,0,0
+Lorient,Nantes,3,2,1,1,2,5,2,3,0,0
+Toulouse,Reims,1,0,1,0,4,6,2,2,0,1
+Rennes,Auxerre,5,0,1,0,2,1,1,0,0,0
+Monaco,Lyon,2,1,0,0,1,6,1,2,0,0
+Auxerre,Lorient,1,3,0,3,9,5,3,1,0,0
+Montpellier,Strasbourg,2,1,1,0,8,6,4,4,0,0
+Lille,Toulouse,2,1,1,0,5,7,2,0,0,0
+Reims,Monaco,0,3,0,0,5,4,3,3,1,0
+Brest,Ajaccio,0,1,0,0,6,2,2,2,0,0
+Clermont,Troyes,1,3,1,1,5,1,0,3,0,0
+Marseille,Rennes,1,1,0,1,11,7,3,4,0,0
+Nice,Angers,0,1,0,1,5,4,0,4,1,1
+Nantes,Lens,0,0,0,0,3,7,1,1,0,0
+Lyon,Paris SG,0,1,0,1,3,7,0,2,0,0
+Angers,Marseille,0,3,0,1,6,3,0,0,0,0
+Strasbourg,Rennes,1,3,0,1,1,5,0,2,1,0
+Paris SG,Nice,2,1,1,0,4,0,1,1,0,0
+Lorient,Lille,2,1,1,0,0,14,3,3,1,0
+Ajaccio,Clermont,1,3,0,1,4,4,3,3,0,0
+Auxerre,Brest,1,1,0,0,0,6,4,4,1,0
+Toulouse,Montpellier,4,2,3,1,3,12,5,4,1,0
+Troyes,Reims,2,2,0,1,10,2,4,2,0,1
+Monaco,Nantes,4,1,3,0,7,7,0,1,0,0
+Lens,Lyon,1,0,0,0,6,2,2,2,0,0
+Lyon,Toulouse,1,1,1,0,4,5,2,2,0,0
+Marseille,Ajaccio,1,2,1,1,11,2,0,2,0,0
+Reims,Paris SG,0,0,0,0,7,3,3,5,0,1
+Montpellier,Monaco,0,2,0,1,7,2,2,3,0,0
+Angers,Strasbourg,2,3,1,2,6,6,1,1,0,0
+Brest,Lorient,1,2,1,1,7,8,3,1,0,0
+Clermont,Auxerre,2,1,0,0,4,4,0,0,0,0
+Nice,Troyes,3,2,2,0,5,5,1,1,0,0
+Rennes,Nantes,3,0,1,0,4,3,1,0,1,0
+Lille,Lens,1,0,1,0,5,9,3,5,0,0
+Strasbourg,Lille,0,3,0,1,3,0,3,1,0,0
+Lorient,Reims,0,0,0,0,2,2,1,3,0,2
+Lens,Montpellier,1,0,0,0,4,5,2,2,0,0
+Toulouse,Angers,3,2,2,1,2,8,3,2,0,0
+Auxerre,Nice,1,1,1,1,2,6,0,0,0,0
+Nantes,Brest,4,1,2,1,7,5,0,2,0,0
+Rennes,Lyon,3,2,1,1,3,2,2,2,0,0
+Troyes,Ajaccio,1,1,0,0,3,5,2,1,0,0
+Monaco,Clermont,1,1,1,0,3,4,2,4,1,0
+Paris SG,Marseille,1,0,1,0,7,6,1,0,0,1
+Ajaccio,Paris SG,0,3,0,1,3,8,0,1,0,0
+Montpellier,Lyon,1,2,0,1,4,7,2,2,1,1
+Marseille,Lens,0,1,0,0,7,3,3,3,0,0
+Angers,Rennes,1,2,0,1,5,6,2,2,0,0
+Clermont,Brest,1,3,0,1,7,4,4,1,0,0
+Reims,Auxerre,2,1,1,1,8,2,4,0,0,0
+Toulouse,Strasbourg,2,2,1,0,6,6,2,1,1,0
+Troyes,Lorient,2,2,1,0,3,6,2,0,0,0
+Nice,Nantes,1,1,0,0,7,3,3,4,0,2
+Lille,Monaco,4,3,2,2,6,6,1,2,0,0
+Lens,Toulouse,3,0,0,0,6,8,2,1,0,0
+Paris SG,Troyes,4,3,1,1,8,4,0,3,0,0
+Strasbourg,Marseille,2,2,0,2,3,0,0,2,0,0
+Auxerre,Ajaccio,1,0,1,0,5,5,1,1,1,1
+Brest,Reims,0,0,0,0,5,5,1,1,0,0
+Monaco,Angers,2,0,0,0,7,0,3,3,0,0
+Nantes,Clermont,1,1,0,0,2,2,0,2,0,0
+Rennes,Montpellier,3,0,2,0,3,4,1,2,0,0
+Lorient,Nice,1,2,1,0,8,3,0,1,0,0
+Lyon,Lille,1,0,0,0,3,6,3,1,0,0
+Troyes,Auxerre,1,1,1,0,10,5,2,0,0,0
+Ajaccio,Strasbourg,4,2,4,2,4,3,0,4,1,0
+Angers,Lens,1,2,0,1,3,4,1,2,0,0
+Lorient,Paris SG,1,2,0,1,5,8,1,1,0,0
+Clermont,Montpellier,1,1,0,1,5,1,1,2,0,0
+Nice,Brest,1,0,0,0,2,6,1,1,0,0
+Reims,Nantes,1,0,0,0,10,4,2,4,0,1
+Toulouse,Monaco,0,2,0,0,7,6,0,1,0,0
+Lille,Rennes,1,1,1,0,6,2,4,1,0,1
+Marseille,Lyon,1,0,1,0,6,4,0,1,0,0
+Lyon,Nice,1,1,0,1,3,4,1,0,0,0
+Lens,Clermont,2,1,0,1,5,3,1,3,0,0
+Rennes,Toulouse,2,1,1,0,4,4,0,0,0,0
+Paris SG,Auxerre,5,0,1,0,3,7,0,0,0,0
+Brest,Troyes,2,1,0,0,5,5,3,2,0,1
+Lille,Angers,1,0,1,0,2,6,3,1,1,0
+Montpellier,Reims,1,1,0,0,11,7,2,2,0,0
+Nantes,Ajaccio,2,2,0,0,9,6,3,3,0,0
+Strasbourg,Lorient,1,1,0,1,4,2,4,1,0,0
+Monaco,Marseille,2,3,1,1,5,4,3,1,0,0
+Ajaccio,Angers,1,0,1,0,3,5,1,0,0,0
+Troyes,Nantes,0,0,0,0,4,4,0,2,0,0
+Auxerre,Monaco,2,3,1,1,1,3,1,0,0,0
+Clermont,Lille,0,2,0,0,3,3,4,2,1,0
+Brest,Lyon,2,4,1,3,6,6,2,2,0,0
+Paris SG,Strasbourg,2,1,1,0,8,3,4,1,1,0
+Lorient,Montpellier,0,2,0,2,5,2,3,4,0,0
+Reims,Rennes,3,1,2,1,4,6,2,2,0,0
+Marseille,Toulouse,6,1,2,0,1,6,1,2,0,0
+Nice,Lens,0,0,0,0,4,6,2,3,0,0
+Angers,Lorient,1,2,1,0,7,7,3,0,0,0
+Monaco,Brest,1,0,0,0,7,5,3,4,0,0
+Nantes,Auxerre,1,0,0,0,3,7,1,2,0,0
+Toulouse,Ajaccio,2,0,0,0,5,2,3,1,0,0
+Lyon,Clermont,0,1,0,0,7,4,1,3,0,0
+Lens,Paris SG,3,1,2,1,3,7,2,3,0,0
+Strasbourg,Troyes,2,3,1,2,3,1,1,2,0,0
+Lille,Reims,1,1,1,0,5,1,1,1,0,0
+Montpellier,Marseille,1,2,0,0,5,7,2,2,0,1
+Rennes,Nice,2,1,1,1,5,2,1,1,0,0
+Ajaccio,Reims,0,1,0,1,2,2,3,3,0,0
+Auxerre,Toulouse,0,5,0,3,7,4,3,1,0,0
+Brest,Lille,0,0,0,0,0,8,0,1,0,0
+Clermont,Rennes,2,1,1,0,4,1,0,2,0,2
+Nantes,Lyon,0,0,0,0,6,1,2,3,0,0
+Lorient,Monaco,2,2,0,0,3,4,1,1,0,0
+Nice,Montpellier,6,1,2,0,3,4,1,1,0,0
+Paris SG,Angers,2,0,1,0,5,1,1,2,0,0
+Strasbourg,Lens,2,2,2,2,3,4,1,1,0,0
+Troyes,Marseille,0,2,0,1,4,7,2,3,0,0
+Lens,Auxerre,1,0,0,0,9,2,2,4,0,1
+Marseille,Lorient,3,1,1,1,6,3,1,0,0,0
+Lyon,Strasbourg,1,2,1,2,14,2,1,3,0,0
+Lille,Troyes,5,1,2,0,7,2,1,0,0,0
+Angers,Clermont,1,2,0,1,3,1,2,2,0,0
+Montpellier,Nantes,0,3,0,1,3,5,1,2,2,0
+Reims,Nice,0,0,0,0,5,3,1,1,0,0
+Toulouse,Brest,1,1,0,1,10,5,2,2,0,0
+Monaco,Ajaccio,7,1,5,1,3,3,1,2,0,0
+Rennes,Paris SG,1,0,0,0,4,5,0,0,0,0
+Lorient,Rennes,2,1,2,0,2,10,1,1,0,0
+Troyes,Lens,1,1,0,0,3,11,2,2,0,0
+Marseille,Monaco,1,1,0,1,6,3,2,2,0,0
+Nice,Lille,1,0,1,0,5,7,3,2,0,0
+Auxerre,Montpellier,0,2,0,0,5,3,1,3,0,0
+Brest,Angers,4,0,2,0,4,5,0,2,0,0
+Clermont,Nantes,0,0,0,0,9,1,2,1,0,0
+Strasbourg,Toulouse,1,2,1,1,4,2,2,2,1,0
+Ajaccio,Lyon,0,2,0,1,5,1,2,3,0,0
+Paris SG,Reims,1,1,0,0,3,3,2,1,1,0
+Angers,Ajaccio,1,2,1,0,2,6,1,2,1,0
+Lille,Clermont,0,0,0,0,8,3,0,1,0,0
+Nantes,Marseille,0,2,0,0,5,7,4,3,0,0
+Reims,Lorient,4,2,1,2,5,7,1,0,0,0
+Toulouse,Troyes,4,1,2,1,8,0,2,3,0,0
+Lens,Nice,0,1,0,0,5,3,0,2,0,0
+Lyon,Brest,0,0,0,0,15,2,0,0,0,0
+Monaco,Auxerre,3,2,2,0,5,4,0,0,0,0
+Montpellier,Paris SG,1,3,0,0,1,3,1,1,0,0
+Rennes,Strasbourg,3,0,2,0,4,0,0,1,0,0
+Paris SG,Toulouse,2,1,1,1,6,2,2,2,0,0
+Troyes,Lyon,1,3,0,1,5,6,0,1,0,0
+Rennes,Lille,1,3,1,0,2,1,1,2,0,0
+Clermont,Monaco,0,2,0,2,2,4,1,2,0,0
+Ajaccio,Nantes,0,2,0,0,2,2,2,1,1,0
+Auxerre,Reims,0,0,0,0,4,5,2,0,0,0
+Lorient,Angers,0,0,0,0,8,6,2,4,0,0
+Strasbourg,Montpellier,2,0,2,0,4,7,3,1,1,0
+Brest,Lens,1,1,0,0,11,5,4,2,0,0
+Marseille,Nice,1,3,0,2,9,1,0,1,0,0
+Nice,Ajaccio,3,0,1,0,5,5,1,0,0,0
+Monaco,Paris SG,3,1,3,1,3,2,0,1,0,0
+Clermont,Marseille,0,2,0,1,3,4,4,3,0,0
+Toulouse,Rennes,3,1,3,0,2,7,1,1,0,0
+Angers,Auxerre,1,1,1,1,6,4,2,0,0,0
+Lille,Strasbourg,2,0,2,0,5,4,1,2,0,0
+Montpellier,Brest,3,0,2,0,4,3,1,2,0,0
+Reims,Troyes,4,0,2,0,5,2,1,2,0,0
+Nantes,Lorient,1,0,0,0,7,3,0,0,0,0
+Lyon,Lens,2,1,1,1,2,5,1,1,0,0
+Auxerre,Lyon,2,1,0,1,6,4,4,2,0,0
+Nice,Reims,0,0,0,0,9,0,1,1,0,0
+Strasbourg,Angers,2,1,2,0,4,5,3,3,0,0
+Paris SG,Lille,4,3,2,1,3,6,2,4,0,0
+Brest,Monaco,1,2,0,1,5,5,1,2,0,0
+Lorient,Ajaccio,3,0,2,0,2,2,0,2,0,0
+Rennes,Clermont,2,0,1,0,2,7,0,2,0,0
+Troyes,Montpellier,0,1,0,0,2,10,2,1,1,1
+Lens,Nantes,3,1,2,1,2,5,0,0,0,0
+Toulouse,Marseille,2,3,1,0,3,10,0,2,0,0
+Lille,Brest,2,1,0,1,11,2,2,2,0,1
+Angers,Lyon,1,3,0,1,2,2,0,0,0,0
+Montpellier,Lens,1,1,0,1,4,6,0,3,0,0
+Lorient,Auxerre,0,1,0,0,10,0,2,3,0,0
+Ajaccio,Troyes,2,1,0,1,6,3,2,2,0,1
+Clermont,Strasbourg,1,1,0,1,7,2,1,4,0,0
+Nantes,Rennes,0,1,0,1,12,4,2,2,0,0
+Reims,Toulouse,3,0,2,0,4,2,0,0,0,0
+Monaco,Nice,0,3,0,3,5,3,0,1,0,0
+Marseille,Paris SG,0,3,0,2,7,4,0,0,0,0
+Nice,Auxerre,1,1,1,1,8,0,0,1,0,0
+Lens,Lille,1,1,1,0,10,3,2,4,0,0
+Paris SG,Nantes,4,2,2,2,4,6,0,2,0,0
+Troyes,Monaco,2,2,1,0,3,4,0,1,0,0
+Montpellier,Angers,5,0,3,0,6,5,1,4,0,1
+Reims,Ajaccio,1,0,0,0,2,1,3,3,0,0
+Strasbourg,Brest,0,1,0,1,9,2,2,1,0,0
+Toulouse,Clermont,0,1,0,0,4,5,4,1,0,0
+Lyon,Lorient,0,0,0,0,6,5,1,0,0,0
+Rennes,Marseille,0,1,0,0,4,3,1,1,0,0
+Lille,Lyon,3,3,0,0,4,0,5,4,0,0
+Auxerre,Rennes,0,0,0,0,8,0,2,2,0,0
+Brest,Paris SG,1,2,1,1,6,3,1,1,0,0
+Clermont,Lens,0,4,0,3,6,4,1,2,0,0
+Ajaccio,Montpellier,0,1,0,0,1,3,2,2,0,0
+Angers,Toulouse,0,2,0,1,6,8,0,1,0,0
+Lorient,Troyes,2,0,1,0,1,4,0,2,0,0
+Nantes,Nice,2,2,1,1,1,10,1,1,0,0
+Monaco,Reims,0,1,0,0,3,3,1,2,0,0
+Marseille,Strasbourg,2,2,0,0,1,8,0,4,1,0
+Lyon,Nantes,1,1,1,1,5,2,0,1,0,0
+Toulouse,Lille,0,2,0,0,12,8,2,0,0,0
+Lens,Angers,3,0,2,0,4,4,0,0,0,0
+Ajaccio,Monaco,0,2,0,1,1,4,2,1,1,0
+Montpellier,Clermont,2,1,0,1,11,4,3,1,1,0
+Nice,Lorient,1,1,0,1,10,2,0,2,0,1
+Strasbourg,Auxerre,2,0,1,0,5,4,2,1,0,0
+Troyes,Brest,2,2,2,1,7,4,1,1,0,0
+Paris SG,Rennes,0,2,0,1,6,3,1,1,0,0
+Reims,Marseille,1,2,1,2,6,5,2,3,0,0
+Marseille,Montpellier,1,1,1,1,1,3,2,2,0,0
+Auxerre,Troyes,1,0,0,0,4,5,0,0,0,0
+Rennes,Lens,0,1,0,1,5,5,2,2,0,0
+Lille,Lorient,3,1,1,0,5,1,3,3,0,1
+Angers,Nice,1,1,1,1,5,2,1,1,0,0
+Brest,Toulouse,3,1,1,1,4,2,2,5,0,1
+Clermont,Ajaccio,2,1,0,1,5,1,2,5,0,1
+Nantes,Reims,0,3,0,2,3,4,1,2,0,0
+Monaco,Strasbourg,4,3,1,2,3,3,3,1,1,0
+Paris SG,Lyon,0,1,0,0,7,1,3,3,0,0
+Lens,Strasbourg,2,1,1,0,5,1,1,5,0,1
+Angers,Lille,1,0,0,0,3,6,2,3,0,0
+Nice,Paris SG,0,2,0,1,10,5,1,0,0,0
+Lyon,Rennes,3,1,0,1,7,2,2,2,0,0
+Ajaccio,Auxerre,0,3,0,3,7,5,1,3,0,0
+Montpellier,Toulouse,1,2,0,1,4,3,0,2,0,0
+Reims,Brest,1,1,0,1,6,3,0,1,0,0
+Troyes,Clermont,0,2,0,2,3,2,3,2,0,0
+Nantes,Monaco,2,2,0,2,6,8,3,1,0,0
+Lorient,Marseille,0,0,0,0,3,6,0,2,0,0
+Toulouse,Lyon,1,2,1,1,8,5,1,4,0,0
+Rennes,Reims,3,0,2,0,6,4,1,2,0,0
+Paris SG,Lens,3,1,3,0,3,10,0,0,0,1
+Lille,Montpellier,2,1,0,1,8,4,1,3,0,0
+Auxerre,Nantes,2,1,2,0,3,6,2,2,0,0
+Brest,Nice,1,0,1,0,3,5,1,3,0,0
+Clermont,Angers,2,1,2,1,6,6,1,3,2,0
+Strasbourg,Ajaccio,3,1,1,0,5,0,2,5,0,0
+Monaco,Lorient,3,1,2,0,5,3,0,1,0,0
+Marseille,Troyes,3,1,2,0,8,1,0,2,0,0
+Angers,Paris SG,1,2,0,2,5,8,0,0,0,0
+Auxerre,Lille,1,1,0,1,4,4,0,1,0,0
+Lens,Monaco,3,0,2,0,2,4,0,2,0,0
+Reims,Strasbourg,0,2,0,2,6,4,2,1,0,0
+Ajaccio,Brest,0,0,0,0,4,4,2,2,1,0
+Lorient,Toulouse,0,1,0,0,2,7,3,2,0,0
+Nantes,Troyes,2,2,1,0,13,4,1,0,0,0
+Nice,Clermont,1,2,1,1,6,2,1,2,0,0
+Montpellier,Rennes,1,0,0,0,4,4,3,2,1,0
+Lyon,Marseille,1,2,0,1,5,3,2,1,0,0
+Strasbourg,Lyon,1,2,1,2,5,4,2,4,0,1
+Lille,Ajaccio,3,0,3,0,9,0,1,2,0,0
+Monaco,Montpellier,0,4,0,1,3,11,2,1,0,0
+Clermont,Reims,1,0,1,0,5,6,0,2,1,0
+Rennes,Angers,4,2,2,2,7,5,1,2,0,0
+Troyes,Nice,0,1,0,1,3,14,0,2,0,0
+Paris SG,Lorient,1,3,1,2,2,3,4,3,1,0
+Marseille,Auxerre,2,1,0,1,12,1,1,0,0,0
+Toulouse,Lens,0,1,0,1,5,0,1,2,0,0
+Brest,Nantes,2,0,2,0,2,4,0,1,0,0
+Nice,Rennes,2,1,0,0,4,7,0,1,0,0
+Reims,Lille,1,0,1,0,4,7,2,3,0,0
+Lens,Marseille,2,1,1,0,7,7,5,2,0,0
+Angers,Monaco,1,2,0,1,4,3,3,2,0,0
+Ajaccio,Toulouse,0,0,0,0,4,7,3,0,0,0
+Auxerre,Clermont,1,1,1,0,2,2,1,0,0,0
+Lorient,Brest,2,1,1,0,4,6,3,2,1,0
+Nantes,Strasbourg,0,2,0,1,11,1,3,1,0,0
+Lyon,Montpellier,5,4,1,2,3,5,0,3,0,0
+Troyes,Paris SG,1,3,0,1,6,6,1,0,0,0
+Lens,Reims,2,1,1,1,0,14,1,3,1,0
+Strasbourg,Nice,2,0,1,0,2,3,1,1,0,0
+Paris SG,Ajaccio,5,0,2,0,8,3,1,1,1,1
+Clermont,Lyon,2,1,1,1,5,2,3,3,0,0
+Brest,Auxerre,1,0,0,0,6,0,0,0,0,0
+Montpellier,Lorient,1,1,0,0,11,5,2,3,0,0
+Rennes,Troyes,4,0,1,0,9,1,0,1,0,0
+Toulouse,Nantes,0,0,0,0,10,5,1,1,0,0
+Monaco,Lille,0,0,0,0,3,4,0,2,0,0
+Marseille,Angers,3,1,1,1,7,0,1,2,0,0
+Lyon,Monaco,3,1,1,1,2,8,0,3,0,0
+Nantes,Montpellier,0,3,0,1,10,6,4,0,0,0
+Lille,Marseille,2,1,0,1,3,4,3,2,0,0
+Ajaccio,Rennes,0,5,0,4,2,5,1,2,1,0
+Brest,Clermont,2,1,1,1,7,1,3,4,0,0
+Nice,Toulouse,0,0,0,0,6,3,2,2,0,0
+Reims,Angers,2,2,1,0,7,3,0,2,0,0
+Troyes,Strasbourg,1,1,0,1,4,6,1,1,1,1
+Lorient,Lens,1,3,1,2,3,5,2,2,0,0
+Auxerre,Paris SG,1,2,0,2,4,6,1,0,0,0
+Angers,Troyes,2,1,1,1,14,3,1,1,0,0
+Clermont,Lorient,2,0,1,0,9,1,0,0,0,0
+Lens,Ajaccio,3,0,3,0,9,2,1,2,0,0
+Lille,Nantes,2,1,0,1,5,3,2,4,0,0
+Lyon,Reims,3,0,2,0,7,4,1,1,0,1
+Marseille,Brest,1,2,0,0,3,5,2,2,0,0
+Montpellier,Nice,2,3,2,0,2,10,0,3,0,0
+Rennes,Monaco,2,0,0,0,7,3,0,3,0,0
+Strasbourg,Paris SG,1,1,0,0,4,2,1,2,0,0
+Toulouse,Auxerre,1,1,1,1,6,3,1,3,0,0
+Ajaccio,Marseille,1,0,0,0,2,3,1,1,0,0
+Auxerre,Lens,1,3,0,1,5,5,1,3,0,0
+Brest,Rennes,1,2,1,2,3,3,2,4,0,0
+Lorient,Strasbourg,2,1,2,0,4,4,1,1,0,0
+Monaco,Toulouse,1,2,0,0,4,7,1,2,0,0
+Nantes,Angers,1,0,1,0,8,1,1,0,0,0
+Nice,Lyon,3,1,3,1,3,2,0,1,0,0
+Paris SG,Clermont,2,3,2,2,6,2,2,1,0,0
+Reims,Montpellier,1,3,1,0,4,7,1,2,0,0
+Troyes,Lille,1,1,0,0,2,8,0,4,0,0

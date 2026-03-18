@@ -1,0 +1,2096 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Accrington,Gillingham,1,1,0,0,3,3,2,2,0,0
+Barnet,Fleetwood Town,0,2,0,1,8,2,0,0,0,0
+Bristol Rvs,Harrogate,0,1,0,0,13,4,1,3,0,0
+Cambridge,Cheltenham,1,0,0,0,4,2,0,2,0,0
+Chesterfield,Barrow,1,0,1,0,4,3,1,1,0,0
+Colchester,Tranmere,1,1,0,1,4,5,2,2,0,0
+Grimsby,Crawley Town,3,0,2,0,10,3,0,2,0,0
+Milton Keynes Dons,Oldham,0,0,0,0,7,3,1,3,0,0
+Salford,Crewe,1,3,1,3,7,10,4,2,0,0
+Shrewsbury,Bromley,0,0,0,0,4,5,3,1,0,0
+Walsall,Swindon,2,1,1,0,1,5,2,1,1,0
+Newport County,Notts County,1,1,0,0,2,6,1,1,0,0
+Notts County,Salford,1,2,0,1,1,7,3,3,0,0
+Tranmere,Shrewsbury,4,0,2,0,2,5,1,1,0,1
+Barrow,Milton Keynes Dons,0,2,0,0,1,5,3,2,0,0
+Bromley,Barnet,2,0,1,0,6,6,3,1,0,0
+Cheltenham,Chesterfield,0,2,0,0,2,5,7,1,0,0
+Crawley Town,Newport County,1,2,0,0,6,3,0,2,0,0
+Crewe,Accrington,2,0,2,0,8,2,1,2,0,0
+Fleetwood Town,Bristol Rvs,2,1,2,0,1,6,1,3,0,0
+Gillingham,Walsall,1,0,0,0,5,2,3,3,0,0
+Harrogate,Grimsby,3,3,0,0,3,4,5,3,0,0
+Oldham,Colchester,1,1,1,1,8,7,1,1,0,0
+Swindon,Cambridge,3,2,2,1,2,7,2,1,0,0
+Chesterfield,Bristol Rvs,3,1,1,0,5,4,3,3,0,1
+Oldham,Swindon,1,2,1,2,4,2,0,3,0,0
+Barnet,Walsall,1,2,1,2,7,1,2,0,1,0
+Barrow,Notts County,2,1,1,0,3,3,1,1,0,0
+Bromley,Fleetwood Town,2,2,1,1,7,2,4,2,0,0
+Cambridge,Harrogate,1,1,1,0,9,3,1,1,0,0
+Crewe,Crawley Town,1,0,1,0,7,3,4,2,0,0
+Grimsby,Newport County,2,1,1,0,12,3,2,3,0,0
+Milton Keynes Dons,Cheltenham,5,0,3,0,3,1,1,4,0,0
+Salford,Accrington,2,1,2,0,5,1,1,1,0,0
+Shrewsbury,Colchester,0,2,0,0,6,1,2,1,1,0
+Tranmere,Gillingham,1,1,0,0,3,4,2,2,0,1
+Newport County,Salford,0,1,0,0,5,3,1,3,0,0
+Bristol Rvs,Oldham,0,0,0,0,4,1,3,2,0,0
+Cheltenham,Bromley,1,2,0,1,12,7,1,3,0,0
+Colchester,Cambridge,1,2,1,2,2,11,2,4,0,0
+Crawley Town,Milton Keynes Dons,1,1,1,0,8,11,4,1,0,0
+Fleetwood Town,Crewe,1,4,0,2,2,3,6,4,0,0
+Gillingham,Chesterfield,4,1,1,0,0,2,4,1,0,0
+Harrogate,Barrow,1,0,1,0,4,6,0,0,0,0
+Swindon,Barnet,0,2,0,0,6,8,2,3,0,0
+Walsall,Grimsby,0,1,0,0,4,6,2,2,0,0
+Notts County,Shrewsbury,4,1,2,1,4,4,3,3,0,0
+Newport County,Milton Keynes Dons,1,2,1,1,3,7,1,2,0,0
+Walsall,Salford,1,0,1,0,5,2,2,1,0,0
+Accrington,Grimsby,1,1,0,1,5,0,5,0,0,0
+Bristol Rvs,Cambridge,1,0,1,0,3,4,2,1,0,1
+Cheltenham,Barnet,0,1,0,0,1,4,1,1,0,1
+Colchester,Barrow,0,2,0,1,14,2,2,3,0,0
+Crawley Town,Tranmere,0,2,0,0,8,9,1,4,0,0
+Fleetwood Town,Oldham,1,1,1,1,4,8,2,0,0,0
+Gillingham,Crewe,1,0,0,0,4,3,2,2,0,0
+Harrogate,Chesterfield,1,2,0,1,6,5,0,1,0,0
+Notts County,Bromley,2,2,2,1,3,5,1,4,0,0
+Swindon,Shrewsbury,2,1,1,0,5,2,1,2,0,0
+Salford,Cheltenham,1,1,0,0,14,1,2,1,0,0
+Barrow,Fleetwood Town,0,1,0,1,4,9,2,3,1,0
+Crewe,Swindon,0,3,0,3,3,4,1,1,0,0
+Barnet,Colchester,1,1,0,1,8,3,2,0,0,0
+Bromley,Harrogate,2,0,0,0,3,4,2,2,0,0
+Cambridge,Newport County,2,0,1,0,7,4,0,1,0,0
+Chesterfield,Crawley Town,2,2,0,2,8,5,4,5,0,0
+Grimsby,Bristol Rvs,0,1,0,1,9,8,1,3,0,0
+Milton Keynes Dons,Walsall,0,1,0,0,5,3,2,1,0,0
+Oldham,Gillingham,0,1,0,0,7,2,5,3,0,0
+Shrewsbury,Accrington,0,0,0,0,2,6,3,3,0,0
+Tranmere,Notts County,1,2,1,0,8,3,5,2,0,0
+Newport County,Bristol Rvs,2,3,0,0,1,3,1,3,0,0
+Barnet,Shrewsbury,1,3,1,3,6,3,1,5,0,0
+Barrow,Swindon,1,3,0,2,8,2,1,3,0,0
+Cambridge,Oldham,0,1,0,1,11,2,3,2,0,0
+Cheltenham,Accrington,1,0,1,0,5,5,1,3,0,0
+Colchester,Crewe,1,1,0,1,3,2,2,4,0,0
+Harrogate,Crawley Town,0,1,0,1,5,7,1,3,0,1
+Milton Keynes Dons,Grimsby,2,3,0,3,6,5,2,1,1,0
+Notts County,Fleetwood Town,1,0,0,0,9,5,3,3,0,0
+Salford,Tranmere,3,1,0,0,10,2,1,0,0,0
+Walsall,Chesterfield,1,0,1,0,7,2,2,4,1,0
+Bromley,Gillingham,2,2,2,0,5,7,2,2,0,0
+Accrington,Colchester,1,0,1,0,5,4,2,3,0,1
+Crawley Town,Cheltenham,2,0,0,0,7,4,2,1,0,0
+Bristol Rvs,Barrow,2,1,2,0,6,9,2,3,0,0
+Chesterfield,Milton Keynes Dons,1,1,0,1,7,4,1,4,0,0
+Crewe,Barnet,1,2,0,0,5,6,0,4,0,0
+Fleetwood Town,Walsall,1,1,1,1,6,6,1,1,0,0
+Gillingham,Notts County,1,0,0,0,2,4,4,1,0,0
+Grimsby,Cambridge,1,1,0,1,5,5,3,4,0,0
+Oldham,Bromley,1,0,0,0,8,8,2,1,0,0
+Shrewsbury,Salford,1,3,0,1,7,4,1,2,0,0
+Swindon,Harrogate,3,1,1,1,6,7,2,2,0,0
+Tranmere,Newport County,1,1,1,0,3,2,2,3,0,0
+Cambridge,Fleetwood Town,2,1,0,0,10,1,1,0,0,0
+Harrogate,Shrewsbury,2,0,0,0,4,5,3,3,0,0
+Barnet,Grimsby,3,0,1,0,9,4,2,0,0,0
+Barrow,Crewe,1,0,0,0,2,8,2,2,0,0
+Bromley,Chesterfield,2,2,1,1,10,4,2,3,0,0
+Cheltenham,Oldham,0,3,0,1,6,7,3,0,0,0
+Colchester,Bristol Rvs,1,1,0,1,4,2,2,5,0,0
+Milton Keynes Dons,Accrington,1,2,0,1,3,5,3,2,1,0
+Newport County,Gillingham,1,3,1,3,5,5,2,4,0,0
+Notts County,Crawley Town,4,0,1,0,6,1,0,2,0,0
+Salford,Swindon,3,2,2,0,6,10,1,2,0,0
+Walsall,Tranmere,4,2,2,1,8,8,0,1,0,0
+Crewe,Notts County,2,1,1,1,8,5,3,4,0,0
+Oldham,Barnet,1,1,0,1,4,6,2,3,0,0
+Accrington,Walsall,1,3,0,0,8,3,0,1,0,0
+Bristol Rvs,Salford,2,1,1,1,2,5,1,4,0,1
+Chesterfield,Newport County,4,1,2,0,4,3,3,2,0,0
+Crawley Town,Barrow,1,2,0,2,12,7,3,3,0,0
+Fleetwood Town,Colchester,4,2,1,2,4,1,0,0,0,0
+Gillingham,Harrogate,0,1,0,1,12,1,1,1,0,0
+Grimsby,Cheltenham,7,1,2,1,8,1,0,2,0,2
+Shrewsbury,Milton Keynes Dons,1,2,0,2,7,1,2,0,0,0
+Swindon,Bromley,2,0,2,0,6,4,2,1,0,0
+Tranmere,Cambridge,0,0,0,0,1,7,1,2,0,0
+Milton Keynes Dons,Gillingham,3,2,1,0,3,4,2,3,0,0
+Newport County,Swindon,0,1,0,1,5,6,4,5,0,0
+Barnet,Accrington,2,0,1,0,4,4,1,3,0,0
+Barrow,Shrewsbury,0,0,0,0,3,7,2,2,0,0
+Bromley,Tranmere,3,3,2,1,8,2,2,3,1,0
+Cambridge,Crawley Town,3,1,1,0,2,10,2,5,0,0
+Cheltenham,Fleetwood Town,2,0,0,0,0,6,1,4,0,0
+Colchester,Chesterfield,6,2,4,1,3,3,1,1,0,0
+Notts County,Oldham,3,1,2,0,2,9,1,1,0,0
+Salford,Grimsby,0,2,0,2,4,5,3,3,0,0
+Walsall,Bristol Rvs,2,1,0,1,3,2,3,3,0,0
+Harrogate,Crewe,1,2,1,1,3,6,2,0,0,0
+Accrington,Newport County,0,1,0,1,4,3,1,1,0,0
+Bristol Rvs,Milton Keynes Dons,0,4,0,1,7,2,2,2,0,0
+Chesterfield,Salford,2,0,0,0,4,7,3,2,0,0
+Crawley Town,Walsall,1,1,1,0,4,7,2,2,0,0
+Crewe,Bromley,0,1,0,0,5,5,1,2,0,0
+Fleetwood Town,Harrogate,3,2,1,1,4,3,0,0,0,0
+Gillingham,Cheltenham,1,1,0,0,11,2,0,2,0,0
+Grimsby,Colchester,1,2,1,1,6,3,3,4,0,0
+Shrewsbury,Cambridge,2,0,2,0,3,3,2,1,0,0
+Tranmere,Barnet,0,2,0,2,2,6,0,4,0,1
+Oldham,Barrow,0,0,0,0,7,4,1,1,0,0
+Cambridge,Bromley,2,1,2,0,3,3,2,1,0,0
+Salford,Oldham,1,0,1,0,7,7,3,2,0,1
+Accrington,Swindon,4,0,1,0,3,5,0,3,0,1
+Barnet,Notts County,0,1,0,0,12,2,3,2,0,0
+Bristol Rvs,Tranmere,1,4,0,1,6,5,2,2,0,0
+Chesterfield,Fleetwood Town,1,1,1,1,9,9,1,3,0,0
+Colchester,Harrogate,3,1,3,1,5,4,1,3,0,0
+Grimsby,Gillingham,1,0,0,0,6,2,3,4,0,2
+Milton Keynes Dons,Crewe,3,1,2,0,4,7,4,0,0,0
+Newport County,Cheltenham,0,2,0,1,3,3,4,1,0,0
+Shrewsbury,Crawley Town,1,0,0,0,6,6,3,3,0,1
+Walsall,Barrow,1,2,0,1,14,0,1,2,0,1
+Swindon,Notts County,2,2,1,1,6,1,2,4,0,0
+Cheltenham,Walsall,1,0,0,0,1,4,2,1,0,0
+Fleetwood Town,Accrington,2,1,0,1,7,9,1,3,0,0
+Barrow,Barnet,2,2,1,0,4,7,2,1,1,0
+Bromley,Milton Keynes Dons,2,1,0,1,7,2,1,0,0,0
+Crawley Town,Bristol Rvs,4,0,1,0,5,3,2,3,0,1
+Crewe,Grimsby,3,2,2,2,3,3,1,1,0,0
+Gillingham,Salford,1,2,1,2,5,5,2,5,0,0
+Harrogate,Newport County,0,3,0,1,4,1,2,0,0,0
+Notts County,Cambridge,2,0,0,0,0,5,0,4,0,0
+Oldham,Shrewsbury,2,2,0,0,7,2,1,4,0,0
+Swindon,Colchester,0,0,0,0,1,5,1,0,0,0
+Tranmere,Chesterfield,1,1,0,1,4,7,0,2,0,0
+Accrington,Tranmere,1,1,1,0,4,2,1,2,0,0
+Colchester,Bromley,0,2,0,0,9,2,2,3,0,0
+Crewe,Shrewsbury,3,1,1,1,7,4,2,4,0,0
+Barnet,Milton Keynes Dons,2,2,2,1,6,2,1,4,0,0
+Barrow,Grimsby,2,2,1,2,3,2,3,1,0,0
+Bristol Rvs,Gillingham,0,1,0,0,12,3,1,4,0,0
+Chesterfield,Accrington,3,3,1,2,11,3,3,5,0,0
+Crawley Town,Fleetwood Town,2,1,1,0,11,3,2,2,0,1
+Harrogate,Oldham,0,1,0,1,8,6,2,1,0,1
+Newport County,Walsall,2,4,2,3,4,5,4,2,0,0
+Salford,Cambridge,0,0,0,0,4,4,4,2,0,0
+Swindon,Tranmere,2,1,0,0,8,3,3,3,0,0
+Cheltenham,Notts County,1,2,0,2,5,7,0,3,0,0
+Accrington,Bristol Rvs,3,1,1,0,3,5,3,3,0,0
+Bromley,Barrow,2,1,1,0,4,1,1,2,0,0
+Cambridge,Barnet,0,0,0,0,3,7,2,0,0,0
+Fleetwood Town,Swindon,1,1,1,1,9,6,0,3,0,0
+Grimsby,Chesterfield,0,1,0,0,11,5,2,3,0,0
+Milton Keynes Dons,Salford,2,0,1,0,3,4,2,2,0,0
+Notts County,Harrogate,1,1,0,1,11,1,0,2,0,0
+Oldham,Crewe,0,0,0,0,5,6,2,1,0,0
+Shrewsbury,Newport County,1,0,0,0,8,4,4,2,0,0
+Tranmere,Cheltenham,3,2,2,1,2,7,2,1,0,0
+Walsall,Colchester,0,2,0,2,5,1,2,4,0,0
+Gillingham,Crawley Town,2,2,1,0,8,7,1,2,0,0
+Gillingham,Barnet,1,1,1,1,2,7,4,3,0,0
+Harrogate,Walsall,0,2,0,1,2,7,1,2,0,0
+Barrow,Cambridge,0,2,0,0,4,3,1,2,0,0
+Bromley,Salford,2,0,2,0,4,7,0,2,0,0
+Cheltenham,Bristol Rvs,1,0,0,0,6,7,4,1,0,0
+Crawley Town,Accrington,1,1,0,1,7,4,3,2,0,0
+Crewe,Chesterfield,3,3,1,2,5,2,2,1,0,0
+Fleetwood Town,Shrewsbury,3,1,1,0,3,2,0,1,1,0
+Notts County,Colchester,1,3,1,1,4,3,1,3,0,0
+Oldham,Newport County,3,0,0,0,9,6,2,1,0,0
+Swindon,Grimsby,2,2,2,2,6,8,2,2,0,0
+Tranmere,Milton Keynes Dons,2,2,2,0,1,8,2,1,0,1
+Grimsby,Tranmere,1,2,0,1,5,1,0,4,0,0
+Accrington,Oldham,1,0,1,0,2,6,4,2,0,0
+Milton Keynes Dons,Fleetwood Town,2,1,1,0,6,2,2,0,0,0
+Barnet,Harrogate,1,1,1,0,7,3,0,2,0,0
+Bristol Rvs,Notts County,0,1,0,0,9,2,2,5,0,1
+Cambridge,Crewe,2,1,0,0,10,1,1,2,0,0
+Chesterfield,Swindon,1,2,1,1,7,3,1,3,0,1
+Colchester,Cheltenham,2,0,1,0,1,1,1,2,0,0
+Newport County,Barrow,2,2,1,1,2,2,0,1,0,0
+Salford,Crawley Town,4,3,1,1,12,4,1,2,0,0
+Shrewsbury,Gillingham,3,3,3,1,1,9,2,2,0,0
+Walsall,Bromley,3,1,0,1,4,9,1,3,0,0
+Colchester,Gillingham,0,0,0,0,1,6,1,4,0,0
+Barnet,Bristol Rvs,4,0,2,0,9,5,2,1,0,0
+Barrow,Tranmere,0,3,0,0,5,5,4,1,1,0
+Bromley,Crawley Town,3,1,1,1,8,3,2,2,0,0
+Cambridge,Chesterfield,1,1,1,0,5,1,0,0,0,0
+Fleetwood Town,Salford,1,1,0,1,2,6,2,1,0,0
+Harrogate,Accrington,0,2,0,1,3,6,2,1,0,0
+Notts County,Milton Keynes Dons,3,2,2,2,2,1,2,3,0,0
+Shrewsbury,Grimsby,1,1,1,1,2,6,2,2,0,0
+Swindon,Cheltenham,0,1,0,0,6,6,2,2,0,0
+Crewe,Newport County,2,2,1,0,4,1,1,2,0,1
+Oldham,Walsall,0,1,0,1,4,4,3,2,0,0
+Bristol Rvs,Swindon,0,3,0,3,4,7,1,0,1,1
+Salford,Colchester,4,3,1,1,5,3,3,0,0,0
+Accrington,Bromley,0,1,0,0,7,4,1,2,0,0
+Cheltenham,Harrogate,1,1,0,0,5,5,2,1,0,0
+Chesterfield,Barnet,3,1,2,1,5,13,3,0,0,0
+Crawley Town,Oldham,2,2,1,0,4,7,1,3,0,0
+Gillingham,Barrow,2,2,2,0,4,2,0,1,0,0
+Grimsby,Notts County,0,2,0,0,6,3,1,3,0,0
+Milton Keynes Dons,Cambridge,1,1,1,0,7,4,2,1,0,0
+Newport County,Fleetwood Town,0,2,0,2,3,4,2,2,1,0
+Tranmere,Crewe,1,4,0,2,8,2,4,2,0,0
+Walsall,Shrewsbury,1,1,1,0,5,5,1,4,0,0
+Barrow,Cheltenham,1,2,0,1,11,4,0,0,0,0
+Cambridge,Accrington,2,0,1,0,7,6,1,0,0,0
+Crewe,Bristol Rvs,1,1,1,1,3,3,2,3,1,0
+Bromley,Grimsby,2,0,1,0,2,7,2,3,0,0
+Notts County,Walsall,0,0,0,0,6,1,1,2,0,0
+Barnet,Salford,1,3,0,2,3,4,0,2,0,0
+Colchester,Newport County,4,1,2,0,2,2,1,2,0,0
+Fleetwood Town,Gillingham,2,1,0,1,10,3,3,2,0,0
+Harrogate,Milton Keynes Dons,0,4,0,3,2,3,2,0,0,0
+Oldham,Tranmere,3,1,1,1,5,3,3,1,1,0
+Shrewsbury,Chesterfield,0,1,0,0,4,3,0,3,0,0
+Swindon,Crawley Town,1,0,0,0,1,12,1,3,0,0
+Accrington,Barrow,2,1,1,1,4,5,0,2,0,0
+Bristol Rvs,Bromley,2,3,2,0,4,2,2,1,1,0
+Cheltenham,Shrewsbury,3,1,2,0,4,5,2,3,0,0
+Chesterfield,Notts County,2,0,0,0,3,5,3,3,0,0
+Crawley Town,Colchester,1,1,1,1,4,6,2,2,0,0
+Gillingham,Cambridge,1,1,0,1,6,5,1,0,0,0
+Grimsby,Oldham,0,0,0,0,11,2,1,2,0,0
+Milton Keynes Dons,Swindon,1,0,1,0,5,8,1,2,0,0
+Newport County,Barnet,0,0,0,0,1,7,1,0,0,0
+Salford,Harrogate,1,0,0,0,7,3,1,1,0,0
+Tranmere,Fleetwood Town,1,0,1,0,6,7,5,2,0,0
+Walsall,Crewe,1,0,1,0,2,10,1,2,0,0
+Newport County,Crewe,2,0,1,0,6,4,1,3,0,0
+Accrington,Harrogate,1,0,1,0,8,3,1,0,0,1
+Bristol Rvs,Barnet,0,2,0,1,3,5,3,2,0,0
+Cheltenham,Swindon,0,2,0,0,7,4,0,2,0,0
+Chesterfield,Cambridge,0,1,0,1,5,5,1,4,0,0
+Crawley Town,Bromley,1,3,1,1,1,8,1,1,0,0
+Gillingham,Colchester,1,1,0,0,6,5,1,1,0,0
+Grimsby,Shrewsbury,1,0,0,0,6,2,2,2,0,0
+Milton Keynes Dons,Notts County,1,1,0,1,1,5,2,3,0,0
+Salford,Fleetwood Town,0,0,0,0,6,4,2,2,0,0
+Tranmere,Barrow,1,3,0,3,7,3,2,2,0,1
+Walsall,Oldham,1,2,0,1,4,7,2,2,0,0
+Barnet,Crawley Town,2,1,1,1,13,5,1,2,0,0
+Barrow,Salford,1,2,1,1,5,3,2,1,0,0
+Bromley,Newport County,2,1,1,0,6,3,2,1,0,0
+Cambridge,Walsall,2,0,1,0,2,6,0,1,0,0
+Colchester,Milton Keynes Dons,1,0,0,0,6,3,1,2,0,0
+Crewe,Cheltenham,4,1,3,1,6,5,0,1,0,0
+Fleetwood Town,Grimsby,0,1,0,0,4,2,3,2,0,0
+Harrogate,Tranmere,0,2,0,0,10,4,2,1,0,0
+Notts County,Accrington,0,1,0,0,8,5,5,4,0,0
+Oldham,Chesterfield,1,1,0,1,6,4,3,0,0,1
+Shrewsbury,Bristol Rvs,0,3,0,0,8,3,2,1,0,0
+Swindon,Gillingham,2,0,0,0,8,8,4,3,0,0
+Cheltenham,Crawley Town,3,0,0,0,8,2,1,2,0,0
+Milton Keynes Dons,Chesterfield,2,2,2,0,4,6,4,2,0,0
+Crewe,Harrogate,1,1,0,0,7,3,2,1,0,0
+Tranmere,Bromley,0,2,0,1,4,4,2,3,0,0
+Chesterfield,Bromley,0,0,0,0,10,8,2,0,0,0
+Tranmere,Walsall,1,3,0,2,3,10,1,2,0,0
+Accrington,Milton Keynes Dons,0,2,0,2,2,3,2,2,0,0
+Bristol Rvs,Colchester,0,1,0,0,4,5,4,2,0,0
+Crawley Town,Notts County,1,2,0,0,5,7,1,2,1,0
+Crewe,Barrow,3,1,3,1,3,8,4,3,0,0
+Fleetwood Town,Cambridge,1,2,0,1,2,5,3,0,0,0
+Gillingham,Newport County,3,2,1,1,4,5,3,2,0,0
+Grimsby,Barnet,1,0,0,0,5,7,1,1,0,1
+Oldham,Cheltenham,2,1,1,1,5,6,4,1,0,0
+Shrewsbury,Harrogate,1,0,0,0,8,4,3,5,0,1
+Swindon,Salford,2,3,1,2,6,4,2,4,0,0
+Barnet,Oldham,3,2,2,1,1,6,3,1,1,0
+Notts County,Crewe,1,0,1,0,7,5,2,2,0,0
+Barrow,Crawley Town,0,1,0,0,11,1,2,0,0,0
+Bromley,Swindon,2,1,0,1,8,4,2,0,0,0
+Cambridge,Tranmere,4,2,0,1,7,1,2,3,0,0
+Cheltenham,Grimsby,0,2,0,1,7,2,2,3,0,0
+Colchester,Fleetwood Town,2,1,2,0,4,5,3,2,0,0
+Harrogate,Gillingham,0,3,0,0,3,3,1,1,0,0
+Milton Keynes Dons,Shrewsbury,5,1,3,0,1,1,1,4,0,0
+Newport County,Chesterfield,2,1,0,0,2,8,3,0,0,0
+Salford,Bristol Rvs,1,0,1,0,9,4,2,0,0,0
+Walsall,Accrington,0,0,0,0,5,5,5,3,0,0
+Newport County,Accrington,1,4,1,1,3,2,2,5,1,0
+Barnet,Tranmere,1,0,0,0,10,2,2,3,0,0
+Bromley,Crewe,2,2,1,0,4,3,2,3,0,0
+Cambridge,Shrewsbury,1,0,0,0,2,3,1,1,0,0
+Colchester,Grimsby,0,1,0,1,8,5,3,1,0,1
+Harrogate,Fleetwood Town,1,2,0,1,6,5,2,3,0,0
+Milton Keynes Dons,Bristol Rvs,1,0,1,0,4,3,3,3,0,0
+Notts County,Swindon,2,1,1,1,7,3,0,0,0,0
+Salford,Chesterfield,0,1,0,0,8,2,2,1,0,0
+Walsall,Crawley Town,0,0,0,0,1,12,3,5,0,0
+Bristol Rvs,Newport County,3,0,2,0,7,3,1,2,0,0
+Grimsby,Milton Keynes Dons,2,2,0,2,9,6,1,2,0,0
+Accrington,Cheltenham,3,1,2,0,10,8,1,2,0,0
+Chesterfield,Walsall,2,2,2,1,7,3,0,0,0,0
+Crawley Town,Harrogate,2,0,1,0,8,5,2,0,0,0
+Crewe,Colchester,1,0,0,0,2,7,0,3,0,0
+Fleetwood Town,Notts County,1,2,0,1,2,8,2,4,0,0
+Gillingham,Bromley,1,4,1,3,8,0,1,3,0,0
+Oldham,Cambridge,0,3,0,0,1,0,2,2,0,0
+Shrewsbury,Barnet,0,0,0,0,3,6,3,1,0,0
+Swindon,Barrow,3,1,1,1,8,9,1,1,0,0
+Tranmere,Salford,0,2,0,0,9,4,2,0,0,0
+Barnet,Crewe,1,1,1,1,8,2,0,3,0,0
+Bristol Rvs,Walsall,2,0,0,0,5,5,1,1,0,0
+Harrogate,Swindon,0,1,0,0,7,9,1,1,0,0
+Notts County,Gillingham,1,0,1,0,4,3,1,3,0,0
+Accrington,Salford,1,0,1,0,2,5,1,1,0,0
+Crawley Town,Crewe,0,1,0,0,3,7,2,0,0,0
+Swindon,Oldham,3,0,1,0,4,3,3,2,0,0
+Bristol Rvs,Chesterfield,2,3,1,1,6,6,3,2,0,0
+Cheltenham,Milton Keynes Dons,2,3,1,2,7,8,1,4,0,0
+Colchester,Shrewsbury,2,0,2,0,0,2,4,2,0,0
+Fleetwood Town,Bromley,1,2,0,0,2,2,2,2,0,0
+Gillingham,Tranmere,2,1,1,0,8,8,0,0,0,0
+Harrogate,Cambridge,2,1,2,1,1,4,4,0,0,0
+Newport County,Grimsby,0,0,0,0,8,12,1,2,0,0
+Notts County,Barrow,2,1,1,1,7,4,1,3,0,0
+Walsall,Barnet,1,3,0,1,1,9,5,1,0,0
+Crawley Town,Cambridge,0,3,0,1,2,9,3,0,0,0
+Shrewsbury,Barrow,2,1,0,0,5,4,2,1,0,0
+Grimsby,Accrington,1,0,0,0,8,4,1,2,0,1
+Swindon,Newport County,2,0,0,0,9,0,0,0,0,0
+Barnet,Cheltenham,0,0,0,0,9,0,4,1,0,1
+Barrow,Colchester,1,0,0,0,2,10,2,3,0,0
+Bromley,Notts County,1,1,1,0,3,7,0,1,0,1
+Cambridge,Bristol Rvs,3,1,1,1,6,2,1,4,0,0
+Chesterfield,Harrogate,1,1,1,0,3,6,1,2,1,0
+Crewe,Gillingham,1,0,0,0,2,8,0,1,0,0
+Milton Keynes Dons,Newport County,1,0,1,0,6,2,1,2,0,0
+Oldham,Fleetwood Town,1,1,0,1,7,7,0,2,0,0
+Shrewsbury,Swindon,3,1,1,1,5,4,3,3,0,0
+Tranmere,Crawley Town,2,0,2,0,5,15,4,1,0,0
+Barnet,Swindon,1,2,1,0,3,1,1,1,0,0
+Barrow,Harrogate,0,1,0,1,1,6,1,2,0,0
+Bromley,Cheltenham,1,1,1,1,7,3,3,2,0,0
+Cambridge,Colchester,1,1,1,1,5,3,2,2,0,0
+Chesterfield,Gillingham,1,0,1,0,8,7,0,3,0,0
+Crewe,Fleetwood Town,0,1,0,1,3,5,0,3,0,0
+Milton Keynes Dons,Crawley Town,0,0,0,0,9,2,1,3,0,0
+Oldham,Bristol Rvs,2,0,1,0,2,6,3,4,0,0
+Salford,Newport County,1,3,0,1,9,1,4,5,0,0
+Shrewsbury,Notts County,1,0,0,0,6,7,0,4,0,0
+Tranmere,Accrington,0,1,0,0,7,1,1,3,0,2
+Grimsby,Walsall,2,2,0,1,10,6,1,2,0,1
+Fleetwood Town,Barrow,3,2,0,2,4,3,2,3,0,0
+Swindon,Crewe,1,2,0,1,7,6,1,1,0,0
+Accrington,Shrewsbury,0,2,0,1,6,3,3,0,0,0
+Bristol Rvs,Grimsby,3,1,2,1,5,4,3,0,0,0
+Cheltenham,Salford,3,2,0,1,7,3,1,5,0,1
+Colchester,Barnet,4,1,1,1,2,5,2,3,0,0
+Crawley Town,Chesterfield,1,1,0,1,4,4,4,2,0,0
+Gillingham,Oldham,0,3,0,2,10,2,2,2,0,0
+Harrogate,Bromley,0,0,0,0,6,4,1,2,0,0
+Newport County,Cambridge,0,2,0,0,2,9,2,2,0,0
+Notts County,Tranmere,5,0,1,0,5,2,1,2,0,0
+Walsall,Milton Keynes Dons,0,2,0,1,2,8,2,3,0,0
+Accrington,Barnet,0,1,0,0,2,3,1,0,0,0
+Salford,Shrewsbury,1,2,1,0,2,2,1,1,0,0
+Harrogate,Cheltenham,1,1,0,0,9,5,0,2,0,0
+Cambridge,Milton Keynes Dons,1,1,0,0,3,2,1,2,0,0
+Shrewsbury,Walsall,1,2,1,1,8,2,1,1,1,0
+Swindon,Bristol Rvs,1,1,0,1,13,1,1,4,0,0
+Barnet,Chesterfield,1,0,0,0,4,4,0,0,0,0
+Barrow,Gillingham,0,1,0,0,3,8,0,0,0,0
+Bromley,Accrington,2,1,1,1,5,5,1,1,0,1
+Colchester,Salford,0,1,0,0,4,5,3,2,0,0
+Crewe,Tranmere,2,1,0,1,5,1,1,3,0,0
+Fleetwood Town,Newport County,0,0,0,0,8,2,1,1,0,0
+Notts County,Grimsby,0,1,0,0,7,6,3,3,1,0
+Oldham,Crawley Town,2,0,1,0,8,3,4,1,0,0
+Bromley,Oldham,0,0,0,0,3,7,3,1,0,0
+Chesterfield,Colchester,3,0,2,0,4,4,2,5,0,0
+Grimsby,Salford,3,1,3,0,4,4,2,4,0,0
+Newport County,Tranmere,3,1,1,1,7,5,2,2,0,1
+Walsall,Fleetwood Town,0,1,0,1,5,5,0,2,0,0
+Cheltenham,Barrow,2,2,1,1,1,3,1,2,0,0
+Grimsby,Bromley,1,1,1,1,6,5,0,2,0,0
+Salford,Barnet,2,0,2,0,4,8,2,0,0,0
+Accrington,Cambridge,1,1,1,0,0,12,2,0,0,0
+Bristol Rvs,Crewe,2,1,0,1,7,7,3,4,0,0
+Chesterfield,Shrewsbury,2,3,1,1,8,1,1,2,0,0
+Crawley Town,Swindon,2,2,0,0,10,4,1,1,0,0
+Gillingham,Fleetwood Town,1,1,0,0,1,3,2,1,0,0
+Milton Keynes Dons,Harrogate,4,1,2,1,7,2,1,0,0,0
+Newport County,Colchester,1,2,0,0,8,2,0,0,0,0
+Tranmere,Oldham,1,3,0,2,2,3,2,1,0,0
+Walsall,Notts County,1,2,1,0,5,2,3,4,0,0
+Barrow,Bristol Rvs,0,2,0,1,2,6,1,0,0,0
+Fleetwood Town,Cheltenham,2,2,2,0,8,2,2,3,0,0
+Gillingham,Milton Keynes Dons,1,5,0,3,3,5,3,1,0,0
+Salford,Walsall,1,0,0,0,11,2,1,1,0,0
+Colchester,Crawley Town,0,0,0,0,6,6,0,6,0,0
+Harrogate,Salford,0,1,0,0,7,4,0,2,0,0
+Notts County,Chesterfield,2,3,2,2,2,5,3,4,1,0
+Barnet,Newport County,1,2,1,0,5,6,1,2,0,0
+Barrow,Accrington,0,0,0,0,7,5,2,3,0,0
+Bromley,Bristol Rvs,1,0,1,0,9,1,1,0,0,1
+Cambridge,Gillingham,5,0,2,0,8,1,0,3,0,0
+Crewe,Walsall,0,3,0,1,4,1,2,3,0,0
+Fleetwood Town,Tranmere,0,0,0,0,9,3,0,3,0,0
+Oldham,Grimsby,1,0,0,0,3,4,2,2,0,0
+Shrewsbury,Cheltenham,0,2,0,0,1,2,2,3,0,0
+Swindon,Milton Keynes Dons,1,2,0,1,5,6,2,2,0,0
+Chesterfield,Swindon,1,1,1,0,5,0,0,5,0,0
+AFC Wimbledon,Colchester,4,2,3,2,5,2,5,1,0,0
+Barrow,Crewe,1,0,1,0,3,4,3,2,0,0
+Cheltenham,Newport County,3,2,2,2,4,6,1,3,0,0
+Doncaster,Accrington,4,1,1,0,6,1,0,2,0,0
+Fleetwood Town,Grimsby,1,0,1,0,10,3,0,3,0,0
+Gillingham,Carlisle,4,1,1,0,6,7,3,0,0,0
+Harrogate,Bromley,0,2,0,0,5,7,1,4,0,0
+Milton Keynes Dons,Bradford,1,2,1,2,4,2,1,0,0,0
+Salford,Port Vale,0,2,0,1,3,7,2,2,0,0
+Tranmere,Notts County,0,0,0,0,5,8,1,1,0,0
+Walsall,Morecambe,1,0,1,0,8,0,2,0,0,0
+Bromley,AFC Wimbledon,2,0,1,0,2,8,1,3,0,0
+Carlisle,Barrow,1,0,1,0,8,4,5,2,0,0
+Accrington,Harrogate,3,3,1,2,9,4,1,1,0,0
+Bradford,Salford,0,0,0,0,5,1,2,4,0,0
+Colchester,Milton Keynes Dons,2,0,0,0,4,4,2,3,0,0
+Crewe,Chesterfield,0,5,0,4,5,7,0,3,0,0
+Grimsby,Cheltenham,3,2,1,0,9,5,1,6,0,0
+Morecambe,Gillingham,0,1,0,0,6,6,0,2,0,0
+Newport County,Doncaster,3,1,0,1,4,6,1,2,0,0
+Port Vale,Tranmere,0,0,0,0,2,5,2,4,0,0
+Swindon,Walsall,0,4,0,2,2,6,2,0,0,0
+Notts County,Fleetwood Town,2,2,0,1,11,2,2,4,0,0
+Notts County,Grimsby,4,1,3,1,6,4,2,1,0,0
+Crewe,Swindon,0,0,0,0,5,10,2,1,0,0
+Tranmere,Walsall,1,0,1,0,3,7,2,4,0,0
+Barrow,Port Vale,4,0,0,0,8,6,0,2,0,0
+Bradford,Bromley,3,1,2,0,10,3,2,1,0,1
+Cheltenham,AFC Wimbledon,0,1,0,0,3,8,1,1,0,0
+Chesterfield,Salford,1,1,0,0,9,1,2,5,0,1
+Colchester,Harrogate,0,1,0,0,12,4,1,3,0,0
+Doncaster,Morecambe,1,0,1,0,6,7,1,4,0,0
+Fleetwood Town,Gillingham,0,0,0,0,6,1,2,3,0,0
+Milton Keynes Dons,Carlisle,3,0,2,0,4,0,3,0,0,0
+Newport County,Accrington,3,1,1,1,2,7,2,1,0,0
+Gillingham,Chesterfield,1,0,1,0,1,5,2,2,1,1
+Port Vale,Doncaster,2,3,1,1,4,4,0,1,0,0
+Accrington,Colchester,1,1,1,0,5,3,5,0,0,0
+AFC Wimbledon,Fleetwood Town,1,0,1,0,9,6,3,2,0,0
+Bromley,Crewe,1,2,1,0,5,7,2,2,0,0
+Carlisle,Tranmere,1,2,1,2,3,6,2,0,0,0
+Grimsby,Bradford,2,1,1,0,5,2,4,4,0,0
+Harrogate,Barrow,0,1,0,0,8,6,4,1,0,0
+Morecambe,Newport County,0,1,0,1,9,1,4,4,0,0
+Swindon,Notts County,1,2,1,1,9,3,0,1,0,0
+Walsall,Cheltenham,2,1,0,0,6,2,4,2,0,0
+Salford,Milton Keynes Dons,1,0,1,0,4,5,1,0,0,0
+Barrow,Swindon,1,1,1,0,6,5,1,2,1,1
+Bradford,Carlisle,2,1,1,0,3,5,3,4,0,0
+Cheltenham,Harrogate,1,0,0,0,4,5,2,1,0,0
+Chesterfield,Grimsby,2,1,2,0,4,3,2,4,1,0
+Colchester,Bromley,1,1,0,1,8,7,3,3,0,1
+Crewe,Morecambe,1,0,1,0,1,7,2,2,0,0
+Doncaster,Gillingham,1,0,1,0,3,5,1,1,0,0
+Milton Keynes Dons,Walsall,1,0,1,0,3,3,1,2,0,0
+Newport County,Port Vale,1,4,1,2,0,7,3,2,2,0
+Notts County,Accrington,2,0,1,0,9,2,0,6,0,0
+Harrogate,Doncaster,2,0,2,0,5,6,3,3,0,0
+AFC Wimbledon,Milton Keynes Dons,3,0,1,0,2,4,0,0,0,0
+Swindon,Newport County,4,0,4,0,3,1,1,0,0,0
+Accrington,Crewe,0,1,0,0,3,1,0,2,0,0
+Bromley,Notts County,2,4,2,1,5,2,2,1,0,0
+Carlisle,Fleetwood Town,2,3,1,2,3,4,4,4,0,0
+Gillingham,Tranmere,3,0,0,0,5,10,2,0,1,0
+Grimsby,Barrow,1,2,1,2,7,6,3,3,0,0
+Morecambe,Colchester,3,3,1,1,0,2,2,1,1,0
+Port Vale,Chesterfield,1,0,1,0,2,7,6,0,0,0
+Salford,Cheltenham,2,1,0,0,4,6,1,0,0,0
+Walsall,Bradford,2,1,1,1,7,6,1,5,0,0
+Accrington,Port Vale,2,2,2,0,3,8,3,0,0,0
+Chesterfield,Cheltenham,1,1,1,0,6,1,3,1,0,0
+Barrow,Newport County,2,0,1,0,10,2,1,4,0,0
+Bradford,AFC Wimbledon,0,0,0,0,7,3,3,2,0,0
+Colchester,Tranmere,3,0,2,0,2,5,2,4,0,0
+Crewe,Harrogate,3,0,2,0,5,7,3,3,0,0
+Grimsby,Bromley,1,0,0,0,3,4,2,1,1,0
+Milton Keynes Dons,Doncaster,1,1,1,0,4,5,2,1,1,1
+Notts County,Gillingham,0,1,0,1,6,4,3,4,0,0
+Salford,Walsall,0,2,0,0,6,5,1,4,0,0
+Swindon,Carlisle,0,2,0,1,9,5,0,3,0,0
+Fleetwood Town,Morecambe,2,2,2,0,5,1,6,4,0,0
+Tranmere,Salford,0,0,0,0,11,4,3,7,0,0
+Harrogate,Bradford,2,1,2,1,4,2,2,1,0,0
+Walsall,Colchester,4,0,1,0,5,5,1,3,0,0
+Bromley,Milton Keynes Dons,1,1,1,1,4,2,1,1,0,0
+Carlisle,Grimsby,2,3,2,1,5,4,3,0,0,0
+Cheltenham,Fleetwood Town,0,2,0,1,2,6,2,3,0,0
+Doncaster,Chesterfield,0,3,0,1,4,10,3,2,2,0
+Gillingham,Barrow,2,0,1,0,7,3,5,2,0,0
+Morecambe,Notts County,1,1,1,0,7,4,2,1,1,0
+Newport County,Crewe,2,1,1,0,3,4,3,3,0,0
+Port Vale,Swindon,2,1,0,0,12,3,3,1,0,0
+Bromley,Chesterfield,2,2,1,2,7,5,0,1,0,0
+Carlisle,Notts County,0,2,0,2,14,3,1,3,0,0
+Cheltenham,Accrington,2,1,0,1,4,7,3,2,0,0
+Doncaster,Barrow,1,0,0,0,5,4,0,2,0,0
+Gillingham,Grimsby,0,1,0,1,6,3,1,6,0,0
+Harrogate,Milton Keynes Dons,1,5,0,3,3,5,0,0,0,0
+Morecambe,Bradford,1,1,1,0,5,10,1,0,0,0
+Newport County,Salford,3,1,2,0,3,2,1,4,0,0
+Port Vale,Colchester,1,1,0,0,3,3,2,4,0,0
+Tranmere,Swindon,1,1,1,0,4,6,0,2,0,0
+Walsall,Fleetwood Town,2,6,2,1,5,5,0,2,0,0
+Fleetwood Town,Bromley,0,0,0,0,6,4,0,1,0,0
+Grimsby,Doncaster,0,3,0,3,4,4,2,0,1,0
+Accrington,Morecambe,2,1,2,0,5,7,3,0,0,0
+Barrow,Cheltenham,2,1,0,1,0,1,2,1,0,0
+Chesterfield,Walsall,2,2,1,1,1,7,0,0,0,0
+Colchester,Carlisle,0,0,0,0,5,7,2,3,0,0
+Crewe,Gillingham,2,0,1,0,3,5,3,0,0,0
+Milton Keynes Dons,Tranmere,1,1,1,0,5,5,2,1,0,0
+Notts County,Port Vale,0,1,0,1,6,3,3,4,0,0
+Salford,AFC Wimbledon,1,0,0,0,4,6,4,4,0,0
+Swindon,Harrogate,0,0,0,0,6,2,1,1,0,0
+Bradford,Newport County,3,1,1,0,3,2,2,3,0,0
+Chesterfield,Notts County,2,2,1,1,5,9,3,3,0,0
+AFC Wimbledon,Carlisle,4,0,3,0,6,2,2,2,0,0
+Barrow,Morecambe,0,1,0,0,3,4,1,4,0,0
+Cheltenham,Swindon,2,3,0,2,1,2,2,5,0,0
+Doncaster,Crewe,1,1,0,0,9,2,0,3,0,0
+Gillingham,Accrington,1,2,0,0,4,3,1,3,0,0
+Harrogate,Newport County,1,0,1,0,7,5,0,1,0,0
+Milton Keynes Dons,Port Vale,0,1,0,0,9,5,1,3,0,0
+Salford,Grimsby,1,2,1,2,9,1,3,4,0,0
+Tranmere,Bradford,0,2,0,1,8,2,1,3,0,0
+Newport County,Chesterfield,0,3,0,1,6,7,3,2,0,0
+Accrington,Barrow,1,0,1,0,2,9,4,1,0,0
+Bradford,Gillingham,2,1,2,1,8,4,5,4,0,0
+Bromley,Tranmere,1,2,0,0,9,6,1,5,0,0
+Carlisle,Harrogate,1,1,1,1,2,1,2,0,0,0
+Colchester,Cheltenham,1,2,1,2,5,3,1,1,0,0
+Crewe,Salford,1,1,1,1,8,4,0,3,0,0
+Grimsby,Walsall,1,4,0,0,4,6,2,0,0,0
+Morecambe,Milton Keynes Dons,1,3,1,2,9,4,0,3,0,0
+Notts County,AFC Wimbledon,1,0,0,0,3,1,3,2,0,0
+Port Vale,Fleetwood Town,3,1,1,1,8,4,0,4,0,0
+Swindon,Doncaster,1,2,0,0,3,12,3,2,0,0
+AFC Wimbledon,Morecambe,3,0,0,0,10,1,1,1,0,0
+Barrow,Notts County,1,1,1,0,4,4,3,4,0,0
+Cheltenham,Bradford,1,1,1,1,7,10,3,1,0,0
+Chesterfield,Colchester,1,1,0,1,17,0,2,3,0,0
+Doncaster,Bromley,0,1,0,1,11,8,1,4,0,0
+Fleetwood Town,Crewe,0,1,0,0,8,5,0,2,0,0
+Gillingham,Newport County,0,2,0,2,9,0,2,2,0,0
+Harrogate,Port Vale,0,1,0,0,5,9,1,2,0,0
+Milton Keynes Dons,Accrington,2,1,1,0,1,5,4,6,0,0
+Salford,Swindon,2,1,1,0,6,1,2,1,0,0
+Tranmere,Grimsby,0,1,0,0,4,2,6,2,0,0
+Walsall,Carlisle,3,1,1,0,5,2,2,2,0,0
+Colchester,Salford,1,2,0,0,5,3,0,0,0,0
+Morecambe,Chesterfield,2,5,1,1,5,3,4,2,0,0
+Accrington,Walsall,0,0,0,0,3,11,1,0,0,0
+Bradford,Doncaster,1,2,0,0,6,13,3,5,0,0
+Bromley,Barrow,1,1,0,1,5,4,2,4,0,0
+Carlisle,Cheltenham,0,1,0,1,5,5,4,3,0,0
+Crewe,Tranmere,3,1,1,1,6,3,3,3,0,0
+Grimsby,Milton Keynes Dons,1,3,1,0,2,1,2,3,0,0
+Newport County,Fleetwood Town,0,0,0,0,6,4,1,3,0,0
+Notts County,Harrogate,1,0,0,0,5,3,1,2,0,0
+Port Vale,AFC Wimbledon,3,2,2,0,2,6,5,1,0,0
+Swindon,Gillingham,1,1,0,1,3,3,1,2,1,0
+Fleetwood Town,Salford,2,2,1,1,2,2,3,6,0,0
+Harrogate,Morecambe,1,2,0,1,4,4,0,1,0,0
+Salford,Carlisle,0,1,0,0,8,4,3,2,0,0
+AFC Wimbledon,Grimsby,0,1,0,1,6,1,2,3,0,0
+Barrow,Colchester,1,1,1,0,5,3,3,4,0,0
+Cheltenham,Bromley,1,1,0,0,4,2,0,1,0,1
+Chesterfield,Accrington,0,3,0,1,7,1,2,3,0,0
+Doncaster,Notts County,1,1,0,1,9,3,0,3,0,0
+Fleetwood Town,Bradford,1,0,1,0,6,11,1,1,0,0
+Gillingham,Port Vale,1,0,0,0,3,1,2,1,0,0
+Milton Keynes Dons,Swindon,3,1,1,1,7,5,1,1,0,0
+Tranmere,Newport County,2,1,1,0,7,2,2,2,0,1
+Walsall,Crewe,1,1,0,0,6,3,4,4,0,0
+Accrington,Swindon,2,2,2,1,7,3,2,4,0,0
+Barrow,AFC Wimbledon,1,3,1,1,6,5,2,4,0,0
+Bromley,Carlisle,1,1,0,0,5,8,1,7,1,0
+Colchester,Bradford,1,1,0,1,6,3,1,4,0,0
+Crewe,Notts County,2,0,1,0,2,6,6,1,1,0
+Doncaster,Salford,1,1,0,0,6,3,3,2,0,0
+Harrogate,Chesterfield,2,1,0,0,7,6,3,5,0,0
+Milton Keynes Dons,Cheltenham,3,2,1,2,4,8,1,0,0,0
+Morecambe,Port Vale,0,1,0,0,4,5,0,2,0,0
+Newport County,Grimsby,0,0,0,0,4,3,3,4,0,0
+AFC Wimbledon,Accrington,2,2,0,0,2,5,4,3,0,1
+Cheltenham,Tranmere,1,0,0,0,5,9,1,3,0,0
+Grimsby,Colchester,0,1,0,0,6,6,0,3,0,0
+Notts County,Newport County,0,0,0,0,10,1,0,3,0,0
+AFC Wimbledon,Walsall,0,1,0,0,8,5,2,5,0,0
+Carlisle,Doncaster,0,0,0,0,3,6,1,2,0,1
+Chesterfield,Barrow,1,0,0,0,8,4,2,3,0,0
+Gillingham,Harrogate,1,2,0,0,5,3,2,1,0,0
+Swindon,Morecambe,2,3,1,2,5,8,1,1,0,0
+Port Vale,Crewe,1,1,1,0,4,9,2,1,1,0
+Tranmere,AFC Wimbledon,0,2,0,1,4,2,4,1,0,0
+Walsall,Bromley,2,2,1,0,4,6,0,1,0,0
+Carlisle,Crewe,1,1,1,0,0,3,4,2,0,0
+Fleetwood Town,Colchester,0,0,0,0,3,7,2,1,0,0
+AFC Wimbledon,Newport County,2,2,2,1,7,0,3,0,0,0
+Bradford,Barrow,1,1,0,0,5,4,4,3,0,0
+Cheltenham,Port Vale,1,1,0,0,5,8,2,2,0,0
+Colchester,Swindon,4,0,4,0,8,5,0,3,0,0
+Grimsby,Accrington,5,2,4,0,6,5,0,5,0,0
+Milton Keynes Dons,Chesterfield,3,0,2,0,5,1,1,2,0,1
+Salford,Harrogate,2,0,1,0,9,2,2,2,0,0
+Tranmere,Morecambe,2,2,0,1,11,4,0,3,0,0
+Walsall,Notts County,3,2,0,0,3,7,2,0,0,0
+Bromley,Gillingham,2,1,0,0,5,5,1,1,0,0
+Fleetwood Town,Doncaster,2,4,2,3,5,6,1,3,0,0
+Crewe,Bradford,1,1,0,0,3,5,4,5,0,1
+Port Vale,Walsall,0,1,0,0,5,8,0,3,0,0
+Accrington,Bromley,1,2,1,1,3,3,2,3,0,0
+Chesterfield,Tranmere,3,0,2,0,3,4,2,3,0,0
+Doncaster,Cheltenham,2,2,0,1,5,6,2,1,0,0
+Gillingham,Salford,1,0,0,0,1,2,2,2,0,0
+Harrogate,AFC Wimbledon,0,3,0,2,2,9,2,1,0,0
+Morecambe,Grimsby,0,3,0,2,4,3,4,3,0,0
+Swindon,Fleetwood Town,3,1,2,0,5,7,1,2,0,0
+Salford,Notts County,3,0,2,0,3,4,1,2,0,0
+Tranmere,Harrogate,2,1,1,1,11,2,2,1,0,0
+AFC Wimbledon,Doncaster,1,0,1,0,5,2,3,5,0,0
+Bradford,Swindon,1,0,1,0,3,3,2,2,0,0
+Bromley,Port Vale,0,0,0,0,5,3,0,1,0,0
+Carlisle,Chesterfield,0,2,0,1,8,1,3,2,0,0
+Cheltenham,Morecambe,2,0,1,0,5,6,2,2,0,0
+Colchester,Newport County,0,0,0,0,8,3,3,2,0,0
+Grimsby,Crewe,0,2,0,0,4,4,1,3,0,0
+Milton Keynes Dons,Gillingham,0,1,0,0,3,1,0,3,0,0
+Walsall,Barrow,1,0,1,0,5,3,2,3,0,0
+Fleetwood Town,Accrington,1,1,0,1,5,4,3,3,0,0
+Crewe,Colchester,0,0,0,0,5,4,1,1,0,0
+Gillingham,Cheltenham,2,2,1,1,5,1,0,2,0,0
+Barrow,Fleetwood Town,2,0,2,0,9,5,1,1,0,0
+Doncaster,Tranmere,3,1,1,0,4,4,1,2,0,1
+Accrington,Salford,0,2,0,0,3,3,2,4,0,0
+Chesterfield,AFC Wimbledon,1,0,1,0,4,6,2,2,0,0
+Harrogate,Walsall,0,2,0,1,0,12,1,0,1,0
+Morecambe,Bromley,0,2,0,1,4,4,1,1,0,0
+Newport County,Milton Keynes Dons,6,3,4,1,2,9,1,3,0,0
+Notts County,Bradford,3,0,3,0,3,11,0,2,0,0
+Port Vale,Carlisle,0,0,0,0,5,1,1,5,0,0
+Swindon,Grimsby,3,1,2,0,5,4,2,1,0,0
+AFC Wimbledon,Swindon,1,1,0,1,3,5,0,2,0,0
+Bradford,Port Vale,2,1,1,0,4,5,3,2,0,1
+Bromley,Newport County,5,2,2,0,10,2,0,0,0,0
+Carlisle,Morecambe,0,1,0,0,9,7,1,3,1,0
+Cheltenham,Crewe,2,1,0,0,4,6,1,4,0,0
+Colchester,Gillingham,2,0,1,0,3,2,2,2,0,0
+Fleetwood Town,Chesterfield,2,0,1,0,5,5,3,2,0,0
+Grimsby,Harrogate,2,1,0,0,4,3,2,2,0,0
+Milton Keynes Dons,Notts County,0,2,0,0,5,4,2,3,0,0
+Salford,Barrow,3,0,2,0,3,8,3,2,1,0
+Walsall,Doncaster,2,0,0,0,8,4,2,1,0,0
+Bromley,Swindon,1,1,0,0,4,3,2,4,0,0
+Carlisle,Accrington,2,1,1,0,4,4,5,5,0,0
+Bradford,Chesterfield,2,1,1,1,2,5,4,1,0,0
+Cheltenham,Notts County,3,5,1,2,2,5,1,2,0,0
+Colchester,Doncaster,1,1,0,1,5,1,4,2,0,1
+Fleetwood Town,Harrogate,1,1,1,1,11,5,3,1,0,0
+Grimsby,Port Vale,3,0,1,0,7,4,1,1,0,0
+Milton Keynes Dons,Crewe,1,1,1,0,4,9,3,2,0,0
+Salford,Morecambe,1,0,0,0,3,6,1,1,0,0
+Tranmere,Barrow,1,1,1,1,6,2,3,5,0,0
+Walsall,Newport County,2,0,0,0,6,2,3,1,0,0
+AFC Wimbledon,Gillingham,1,0,0,0,1,7,2,4,0,0
+Accrington,Grimsby,3,2,1,2,1,10,3,1,0,0
+Barrow,Bradford,2,2,1,1,3,2,1,2,0,0
+Chesterfield,Milton Keynes Dons,1,2,0,2,8,3,3,4,0,0
+Crewe,Carlisle,3,2,1,1,7,8,3,4,0,0
+Doncaster,Fleetwood Town,2,1,1,0,6,7,0,0,0,0
+Harrogate,Salford,0,2,0,1,9,7,2,2,0,0
+Morecambe,Tranmere,2,0,0,0,13,1,1,3,0,0
+Notts County,Walsall,1,2,1,0,10,8,1,1,0,0
+Port Vale,Cheltenham,0,0,0,0,6,6,2,1,0,0
+Swindon,Colchester,3,2,1,1,3,3,3,2,0,1
+Gillingham,Bromley,0,3,0,2,10,1,2,2,0,0
+Newport County,AFC Wimbledon,1,2,0,0,5,2,0,3,0,0
+Notts County,Swindon,2,0,2,0,4,4,0,4,0,0
+Bradford,Grimsby,3,1,1,0,8,2,4,2,0,0
+Barrow,Harrogate,0,2,0,0,7,8,3,2,0,0
+Colchester,Accrington,0,2,0,1,4,6,4,2,0,0
+Doncaster,Port Vale,1,2,0,1,7,3,1,1,0,0
+Milton Keynes Dons,Salford,0,1,0,1,3,3,0,4,0,0
+Tranmere,Carlisle,1,0,1,0,4,6,3,1,0,0
+Crewe,Bromley,4,1,3,1,2,7,2,2,0,1
+Walsall,Tranmere,5,1,2,1,4,2,2,3,0,1
+Swindon,Crewe,0,0,0,0,11,6,0,1,0,0
+Harrogate,Cheltenham,2,0,1,0,9,5,0,1,0,0
+Carlisle,Bradford,0,1,0,0,6,4,1,2,0,0
+Gillingham,Doncaster,0,1,0,1,3,6,1,4,0,0
+Accrington,Notts County,0,3,0,2,2,6,3,2,0,0
+AFC Wimbledon,Tranmere,2,0,0,0,1,4,0,1,0,1
+Bromley,Colchester,0,1,0,1,8,4,2,2,0,0
+Grimsby,Chesterfield,1,1,1,1,4,11,2,2,0,0
+Morecambe,Crewe,0,1,0,0,7,4,1,3,0,0
+Port Vale,Newport County,3,2,1,2,9,6,2,0,0,1
+Salford,Fleetwood Town,0,2,0,2,2,3,2,1,1,0
+Swindon,Barrow,2,0,1,0,6,4,2,0,0,0
+Walsall,Milton Keynes Dons,4,2,1,1,8,2,4,2,0,0
+Fleetwood Town,Milton Keynes Dons,2,1,1,0,3,1,4,2,0,0
+Harrogate,Colchester,0,0,0,0,1,8,3,1,0,0
+Newport County,Swindon,1,2,1,1,3,7,3,1,0,0
+Bradford,Walsall,3,0,2,0,5,4,0,2,0,0
+Milton Keynes Dons,AFC Wimbledon,0,0,0,0,9,2,1,2,0,0
+Barrow,Grimsby,3,0,1,0,5,8,1,1,0,0
+Cheltenham,Salford,2,1,1,0,2,4,1,2,0,0
+Chesterfield,Port Vale,1,1,0,1,7,3,1,3,0,1
+Colchester,Morecambe,1,0,0,0,12,1,3,2,0,1
+Crewe,Accrington,0,1,0,1,1,4,3,4,0,0
+Doncaster,Harrogate,1,0,0,0,5,3,0,2,0,0
+Fleetwood Town,Carlisle,1,2,0,1,6,5,4,4,0,0
+Notts County,Bromley,1,1,0,0,7,1,2,1,0,0
+Tranmere,Gillingham,1,1,1,1,3,1,0,1,0,0
+Accrington,Cheltenham,0,0,0,0,4,6,3,2,0,0
+Bradford,Morecambe,1,0,1,0,6,1,1,2,0,0
+Chesterfield,Bromley,3,0,1,0,2,3,0,0,0,1
+Crewe,AFC Wimbledon,1,1,1,1,4,10,1,0,0,0
+Fleetwood Town,Walsall,2,0,2,0,3,7,2,1,0,0
+Grimsby,Gillingham,1,1,0,1,2,5,0,2,0,0
+Milton Keynes Dons,Harrogate,2,1,1,0,3,8,4,3,0,0
+Notts County,Carlisle,1,0,1,0,2,2,2,2,0,0
+Salford,Newport County,1,1,1,1,6,3,0,2,1,0
+Swindon,Tranmere,3,1,0,1,12,3,2,1,0,2
+Barrow,Doncaster,1,3,1,2,12,5,3,2,0,0
+Cheltenham,Chesterfield,1,0,0,0,2,8,2,3,0,0
+Gillingham,Notts County,1,2,0,2,2,4,5,4,0,0
+AFC Wimbledon,Bradford,1,0,1,0,3,5,3,1,0,0
+Bromley,Grimsby,0,2,0,0,12,4,1,4,0,1
+Carlisle,Swindon,1,5,0,1,11,7,0,2,1,0
+Doncaster,Milton Keynes Dons,2,1,1,0,5,4,0,3,0,0
+Harrogate,Crewe,1,1,1,0,4,4,1,0,0,0
+Morecambe,Fleetwood Town,4,2,1,1,2,4,2,4,0,0
+Newport County,Barrow,1,0,0,0,0,9,0,2,0,0
+Port Vale,Accrington,2,1,1,0,4,5,3,2,1,0
+Tranmere,Colchester,1,3,0,2,5,2,2,3,0,0
+Walsall,Salford,2,2,0,1,15,1,3,2,0,0
+Newport County,Morecambe,2,1,1,0,5,11,1,1,0,0
+Salford,Bromley,3,3,0,2,4,3,1,3,0,0
+Chesterfield,Doncaster,5,2,2,1,7,7,2,4,0,0
+Bradford,Harrogate,1,0,1,0,2,2,1,2,0,0
+Swindon,Port Vale,3,3,2,2,4,5,1,3,0,0
+Accrington,AFC Wimbledon,0,0,0,0,9,2,1,3,0,0
+Barrow,Gillingham,3,0,0,0,5,1,1,1,0,0
+Colchester,Walsall,2,1,0,0,5,2,4,2,0,1
+Crewe,Newport County,0,3,0,2,14,4,1,3,0,0
+Fleetwood Town,Cheltenham,2,0,1,0,5,4,3,1,0,0
+Grimsby,Carlisle,2,1,0,1,12,4,1,5,0,0
+Milton Keynes Dons,Bromley,0,1,0,0,11,5,5,1,0,0
+Notts County,Morecambe,2,0,0,0,4,5,1,5,0,0
+Salford,Tranmere,2,0,0,0,2,6,2,2,0,0
+AFC Wimbledon,Crewe,3,0,2,0,1,3,0,4,0,1
+Barrow,Milton Keynes Dons,2,1,1,1,4,3,1,2,0,0
+Bradford,Accrington,1,0,1,0,8,3,4,1,0,0
+Newport County,Carlisle,1,0,0,0,3,10,1,4,0,0
+Tranmere,Fleetwood Town,0,0,0,0,2,0,1,3,0,0
+Walsall,Gillingham,1,1,0,0,8,1,4,2,0,0
+Port Vale,Notts County,1,0,0,0,4,3,0,0,0,0
+AFC Wimbledon,Salford,1,0,0,0,7,6,4,3,0,0
+Doncaster,Grimsby,1,2,0,1,3,5,1,1,0,0
+Bromley,Fleetwood Town,1,0,0,0,4,6,1,2,0,0
+Carlisle,Colchester,0,0,0,0,7,5,2,2,0,0
+Cheltenham,Barrow,3,2,0,1,7,2,1,1,0,0
+Gillingham,Crewe,0,0,0,0,8,2,2,2,0,1
+Harrogate,Swindon,1,0,0,0,4,8,0,0,0,0
+Morecambe,Accrington,2,0,0,0,3,8,0,3,0,0
+Newport County,Bradford,0,0,0,0,8,4,0,3,0,1
+Tranmere,Milton Keynes Dons,1,1,0,1,7,3,0,3,0,0
+Walsall,Chesterfield,3,1,0,1,6,3,2,2,0,0
+Fleetwood Town,AFC Wimbledon,0,0,0,0,16,2,2,0,0,0
+Morecambe,Doncaster,0,1,0,1,4,9,2,2,0,1
+Notts County,Colchester,1,1,1,0,8,3,1,2,0,0
+Crewe,Barrow,3,0,1,0,5,5,0,3,0,0
+Morecambe,Walsall,0,2,0,0,3,7,0,0,1,0
+Accrington,Doncaster,1,2,0,1,4,3,5,3,0,1
+Bradford,Milton Keynes Dons,2,0,1,0,3,4,3,1,0,0
+Bromley,Harrogate,2,0,2,0,5,4,0,3,0,0
+Carlisle,Gillingham,0,0,0,0,6,3,2,2,0,0
+Colchester,AFC Wimbledon,1,1,0,1,3,3,2,6,1,0
+Grimsby,Fleetwood Town,2,1,1,0,7,3,1,6,0,0
+Newport County,Cheltenham,0,3,0,1,5,5,1,1,1,0
+Notts County,Tranmere,2,1,0,0,5,8,2,4,0,0
+Port Vale,Salford,2,1,1,0,6,5,0,2,1,0
+Swindon,Chesterfield,1,0,0,0,7,8,3,2,0,0
+Bromley,Bradford,0,1,0,0,1,5,3,2,0,0
+Cheltenham,Walsall,2,2,0,1,3,5,0,2,0,0
+Gillingham,Fleetwood Town,1,2,1,1,4,4,0,3,0,0
+Tranmere,Accrington,0,1,0,0,4,1,1,3,0,0
+Barrow,Carlisle,0,1,0,1,4,1,2,2,0,0
+Salford,Bradford,1,2,1,0,3,2,2,1,0,0
+Tranmere,Port Vale,1,1,1,1,9,3,2,2,1,0
+AFC Wimbledon,Bromley,0,1,0,0,8,3,1,2,0,0
+Cheltenham,Grimsby,1,1,1,0,4,9,1,3,0,0
+Chesterfield,Crewe,1,3,0,2,4,5,3,1,0,0
+Doncaster,Newport County,3,0,1,0,9,3,0,1,0,0
+Fleetwood Town,Notts County,2,2,0,1,4,7,2,5,0,0
+Gillingham,Morecambe,1,0,0,0,7,1,3,2,0,0
+Harrogate,Accrington,2,1,1,0,6,4,3,4,0,0
+Milton Keynes Dons,Colchester,0,1,0,0,1,7,2,2,1,0
+Walsall,Swindon,0,1,0,0,7,5,1,3,0,0
+Accrington,Milton Keynes Dons,2,0,2,0,2,7,2,3,0,0
+Bradford,Cheltenham,3,0,1,0,2,6,3,3,0,0
+Bromley,Doncaster,1,0,1,0,3,14,1,3,0,0
+Carlisle,Walsall,1,1,1,1,4,6,3,0,0,0
+Colchester,Chesterfield,1,0,0,0,9,1,0,3,0,1
+Crewe,Fleetwood Town,1,4,0,2,5,4,1,0,0,0
+Grimsby,Tranmere,1,1,0,1,4,2,1,1,0,0
+Morecambe,AFC Wimbledon,1,0,1,0,3,9,1,2,0,0
+Newport County,Gillingham,3,1,3,0,1,9,4,6,0,0
+Notts County,Barrow,1,2,0,1,8,2,3,0,0,0
+Port Vale,Harrogate,0,0,0,0,10,6,0,2,0,0
+Swindon,Salford,2,2,1,1,6,2,0,1,0,0
+AFC Wimbledon,Notts County,2,0,2,0,5,1,1,1,0,0
+Walsall,Grimsby,1,3,1,2,8,2,3,3,0,0
+Barrow,Accrington,2,0,1,0,8,4,1,1,0,0
+Cheltenham,Colchester,0,1,0,0,2,3,1,3,0,0
+Chesterfield,Newport County,2,1,2,1,9,3,2,0,0,0
+Doncaster,Swindon,2,2,2,0,9,0,1,1,0,0
+Fleetwood Town,Port Vale,1,1,0,0,2,3,0,0,0,0
+Gillingham,Bradford,1,0,0,0,7,2,5,2,0,0
+Harrogate,Carlisle,1,0,0,0,8,5,2,4,0,0
+Milton Keynes Dons,Morecambe,2,1,1,1,8,2,3,1,0,0
+Salford,Crewe,1,1,0,0,6,1,4,4,0,0
+Tranmere,Bromley,2,1,1,1,5,3,2,2,0,0
+Accrington,Newport County,5,0,3,0,2,4,2,2,0,0
+AFC Wimbledon,Cheltenham,1,2,1,1,6,5,1,0,0,0
+Colchester,Port Vale,2,1,1,0,4,3,2,2,0,0
+Grimsby,Notts County,0,2,0,0,4,4,1,0,0,0
+Salford,Chesterfield,0,4,0,2,3,7,1,0,1,0
+Bromley,Walsall,2,2,1,1,7,2,0,3,0,0
+Crewe,Doncaster,1,1,1,0,5,10,0,1,0,0
+Swindon,Cheltenham,3,3,1,1,7,2,2,3,0,1
+Accrington,Gillingham,1,1,1,0,2,5,7,2,0,0
+Bradford,Tranmere,0,1,0,0,4,2,3,1,0,0
+Carlisle,AFC Wimbledon,1,2,0,1,5,2,1,2,0,0
+Colchester,Fleetwood Town,3,0,0,0,1,6,1,1,0,0
+Grimsby,Salford,0,1,0,0,2,9,0,4,0,0
+Morecambe,Barrow,2,2,2,0,1,13,2,3,1,0
+Newport County,Harrogate,3,0,2,0,10,10,0,0,0,0
+Notts County,Chesterfield,1,2,0,0,6,4,0,0,0,0
+Port Vale,Milton Keynes Dons,3,0,1,0,4,6,0,2,0,0
+Notts County,Crewe,0,0,0,0,5,4,3,1,0,0
+AFC Wimbledon,Barrow,2,2,0,0,7,5,2,0,0,0
+Bradford,Colchester,4,1,2,1,6,2,0,0,0,0
+Carlisle,Bromley,2,1,1,1,7,6,4,3,0,0
+Cheltenham,Milton Keynes Dons,0,1,0,1,5,6,1,0,0,0
+Chesterfield,Harrogate,0,0,0,0,6,3,0,1,0,0
+Fleetwood Town,Tranmere,0,0,0,0,1,4,1,1,0,0
+Gillingham,Walsall,0,0,0,0,1,2,1,2,0,0
+Grimsby,Newport County,1,0,0,0,10,1,2,3,0,0
+Port Vale,Morecambe,1,0,0,0,3,5,2,3,0,0
+Swindon,Accrington,0,0,0,0,7,3,3,2,0,0
+Port Vale,Barrow,0,1,0,1,5,4,0,0,0,0
+Carlisle,Milton Keynes Dons,2,2,2,2,7,2,1,1,0,0
+Colchester,Grimsby,1,2,0,0,4,3,2,2,0,0
+Tranmere,Cheltenham,2,0,1,0,9,1,1,3,0,0
+Accrington,Bradford,0,0,0,0,2,7,2,4,0,0
+Crewe,Port Vale,0,1,0,0,6,4,4,3,0,0
+Barrow,Chesterfield,0,1,0,0,0,4,3,1,0,0
+Bromley,Salford,2,3,1,2,9,4,2,3,0,0
+Doncaster,Carlisle,3,0,1,0,5,4,2,0,0,0
+Harrogate,Gillingham,1,1,1,0,3,3,2,5,0,0
+Milton Keynes Dons,Fleetwood Town,2,4,1,1,6,3,0,2,0,0
+Morecambe,Swindon,1,0,1,0,3,2,1,1,0,0
+Newport County,Notts County,0,2,0,1,3,4,1,2,0,0
+Walsall,AFC Wimbledon,1,1,0,0,3,3,1,3,0,0
+Accrington,Fleetwood Town,1,4,0,1,5,6,3,2,0,0
+Barrow,Salford,1,1,1,0,2,5,0,3,0,0
+Chesterfield,Carlisle,2,1,0,0,16,5,0,2,0,1
+Crewe,Grimsby,2,0,1,0,2,4,4,3,0,0
+Doncaster,Walsall,2,2,1,1,3,5,3,4,0,0
+Gillingham,Colchester,1,1,0,1,11,1,0,5,0,0
+Harrogate,Tranmere,3,2,1,0,1,5,2,3,0,0
+Morecambe,Cheltenham,2,0,0,0,8,5,0,2,0,0
+Newport County,Bromley,1,1,1,0,2,4,2,0,0,0
+Port Vale,Bradford,2,0,2,0,1,2,1,4,0,0
+Swindon,AFC Wimbledon,2,1,0,0,6,4,0,3,0,1
+Notts County,Milton Keynes Dons,3,0,0,0,6,1,2,2,0,0
+Cheltenham,Doncaster,0,2,0,0,7,7,1,2,1,0
+Walsall,Port Vale,2,3,2,3,5,3,5,2,0,0
+Tranmere,Chesterfield,4,0,0,0,5,2,0,3,0,0
+AFC Wimbledon,Harrogate,1,0,0,0,4,3,0,1,0,0
+Bradford,Crewe,2,0,1,0,4,5,4,3,0,0
+Bromley,Accrington,4,0,1,0,6,2,2,1,0,0
+Carlisle,Newport County,3,2,1,2,5,4,3,1,0,0
+Colchester,Notts County,1,0,1,0,1,7,2,3,0,0
+Fleetwood Town,Swindon,0,4,0,1,2,2,3,1,0,0
+Grimsby,Morecambe,3,1,1,1,6,6,3,4,0,0
+Milton Keynes Dons,Barrow,0,3,0,1,6,1,3,0,0,0
+Salford,Gillingham,2,2,2,2,2,4,3,4,0,0
+Chesterfield,Gillingham,1,1,0,1,3,1,0,2,0,0
+Crewe,Cheltenham,2,3,1,1,2,5,1,1,0,0
+Notts County,Salford,1,3,0,1,2,2,1,0,0,0
+Doncaster,AFC Wimbledon,1,1,0,1,12,3,0,2,1,1
+Swindon,Bradford,5,4,2,3,11,0,2,4,0,1
+Accrington,Tranmere,3,3,3,0,0,7,2,3,0,0
+Barrow,Walsall,2,0,1,0,7,7,2,1,0,0
+Chesterfield,Fleetwood Town,3,0,0,0,9,2,0,1,0,0
+Gillingham,Milton Keynes Dons,1,0,0,0,2,0,1,5,0,0
+Harrogate,Grimsby,2,2,0,2,5,8,1,0,0,0
+Morecambe,Carlisle,0,2,0,1,6,6,1,2,0,0
+Newport County,Colchester,0,2,0,0,5,9,2,1,0,0
+Port Vale,Bromley,5,0,2,0,4,7,1,7,0,0
+Salford,Doncaster,1,1,1,1,5,4,3,2,1,0
+Bradford,Notts County,1,1,0,0,9,3,2,3,0,0
+AFC Wimbledon,Chesterfield,0,0,0,0,2,4,4,1,0,0
+Bromley,Morecambe,1,0,0,0,8,4,2,2,0,1
+Carlisle,Port Vale,3,2,2,0,4,5,4,1,1,0
+Cheltenham,Gillingham,1,1,1,1,7,5,1,2,0,0
+Colchester,Crewe,0,0,0,0,8,2,1,4,0,1
+Fleetwood Town,Barrow,0,0,0,0,3,2,3,2,0,0
+Grimsby,Swindon,0,4,0,2,0,3,1,2,0,0
+Milton Keynes Dons,Newport County,0,0,0,0,5,2,4,2,0,0
+Salford,Accrington,1,2,0,1,5,7,3,3,0,0
+Tranmere,Doncaster,0,3,0,1,2,5,1,3,0,0
+Walsall,Harrogate,2,2,1,1,10,5,2,4,0,0
+Newport County,Walsall,0,0,0,0,5,6,0,1,1,0
+Accrington,Carlisle,1,1,0,0,2,2,1,1,0,0
+Barrow,Tranmere,0,0,0,0,4,3,1,3,0,0
+Chesterfield,Bradford,3,3,1,2,7,4,5,4,0,0
+Crewe,Milton Keynes Dons,0,1,0,1,4,3,1,2,0,0
+Doncaster,Colchester,3,0,2,0,1,4,1,2,0,1
+Gillingham,AFC Wimbledon,1,0,0,0,4,7,3,2,0,0
+Harrogate,Fleetwood Town,3,1,0,0,4,4,3,2,0,0
+Morecambe,Salford,1,3,0,2,4,10,4,0,0,0
+Notts County,Cheltenham,1,2,1,0,9,6,1,2,0,0
+Port Vale,Grimsby,2,2,0,1,10,7,1,3,0,0
+Swindon,Bromley,0,1,0,0,14,5,0,3,0,0
+AFC Wimbledon,Port Vale,0,2,0,0,6,2,3,0,0,0
+Doncaster,Bradford,2,1,1,0,5,5,1,1,0,1
+Harrogate,Notts County,1,3,1,1,6,5,0,0,0,0
+Barrow,Bromley,3,3,1,0,8,5,3,3,0,0
+Cheltenham,Carlisle,3,2,2,1,6,7,1,3,0,0
+Chesterfield,Morecambe,4,1,1,0,8,1,1,2,0,0
+Fleetwood Town,Newport County,2,0,0,0,8,4,2,1,0,0
+Gillingham,Swindon,1,1,0,0,2,3,1,3,2,0
+Milton Keynes Dons,Grimsby,0,0,0,0,6,5,1,0,0,0
+Salford,Colchester,4,1,3,0,5,4,4,2,0,0
+Tranmere,Crewe,2,0,1,0,4,2,3,1,1,2
+Walsall,Accrington,0,1,0,1,6,5,2,4,1,0
+Accrington,Chesterfield,0,1,0,1,3,7,0,2,0,0
+Bradford,Fleetwood Town,1,0,0,0,10,1,1,2,0,0
+Bromley,Cheltenham,3,0,2,0,4,3,1,3,0,0
+Carlisle,Salford,2,2,2,1,6,8,2,0,0,0
+Colchester,Barrow,0,0,0,0,7,8,0,5,0,1
+Crewe,Walsall,0,1,0,0,4,7,2,0,0,0
+Grimsby,AFC Wimbledon,0,1,0,0,8,4,0,3,0,0
+Morecambe,Harrogate,1,2,1,2,9,5,1,0,0,0
+Newport County,Tranmere,1,4,1,1,1,6,1,0,1,0
+Notts County,Doncaster,1,2,0,2,7,2,0,1,0,0
+Port Vale,Gillingham,0,1,0,0,7,0,1,2,0,0
+Swindon,Milton Keynes Dons,0,0,0,0,2,1,1,2,0,0
+Accrington,Newport County,3,0,1,0,7,4,2,0,0,0
+Crawley Town,Bradford,1,0,1,0,2,4,6,3,0,1
+Crewe,Mansfield,2,2,1,2,10,5,2,4,0,1
+Doncaster,Harrogate,0,1,0,0,6,5,1,4,0,0
+Forest Green,Salford,0,2,0,0,10,4,3,3,0,0
+Grimsby,AFC Wimbledon,0,0,0,0,8,5,4,3,0,0
+Morecambe,Walsall,2,1,1,1,5,3,6,4,0,0
+Stockport,Gillingham,0,1,0,0,6,1,0,5,0,0
+Sutton,Notts County,5,1,2,0,4,5,3,3,0,1
+Tranmere,Barrow,1,2,0,1,7,4,2,2,0,0
+Wrexham,Milton Keynes Dons,3,5,1,2,5,4,2,3,0,0
+AFC Wimbledon,Wrexham,1,1,0,1,6,4,3,2,0,0
+Barrow,Sutton,2,1,0,1,9,1,0,1,0,1
+Bradford,Colchester,2,1,1,1,4,11,2,2,0,0
+Gillingham,Accrington,1,0,1,0,9,1,3,2,0,0
+Harrogate,Forest Green,0,1,0,0,8,5,1,3,0,0
+Mansfield,Morecambe,3,0,1,0,5,4,2,2,0,0
+Milton Keynes Dons,Tranmere,1,0,1,0,3,11,2,1,0,0
+Newport County,Doncaster,4,0,3,0,2,5,4,6,0,0
+Notts County,Grimsby,3,2,1,2,7,6,4,4,0,0
+Salford,Crawley Town,1,1,0,1,2,3,1,4,0,0
+Swindon,Crewe,2,2,1,0,7,2,4,6,0,0
+Walsall,Stockport,2,1,1,0,4,11,3,5,0,0
+Accrington,Barrow,1,1,1,0,1,10,2,1,0,0
+Colchester,AFC Wimbledon,0,2,0,0,7,9,3,3,0,0
+Crawley Town,Milton Keynes Dons,2,1,1,1,7,5,1,2,0,0
+Crewe,Newport County,4,2,1,1,1,5,0,2,0,0
+Doncaster,Mansfield,2,2,1,1,3,7,1,3,0,0
+Forest Green,Swindon,1,2,1,0,6,5,4,3,1,0
+Grimsby,Salford,2,0,1,0,2,7,0,3,0,1
+Morecambe,Notts County,0,0,0,0,4,5,1,1,0,0
+Stockport,Bradford,1,1,0,0,7,4,2,3,0,0
+Sutton,Gillingham,0,1,0,1,2,9,2,1,0,0
+Tranmere,Harrogate,3,0,2,0,6,3,2,1,0,0
+Wrexham,Walsall,4,2,2,1,6,3,1,3,0,0
+Accrington,Harrogate,2,1,1,0,5,3,4,4,1,0
+Colchester,Milton Keynes Dons,2,3,2,1,3,6,5,4,0,0
+Crawley Town,Gillingham,0,1,0,1,9,4,3,3,0,0
+Crewe,Walsall,2,2,0,2,8,5,1,1,0,0
+Doncaster,Notts County,1,3,0,1,4,3,0,3,0,0
+Forest Green,Newport County,0,3,0,2,7,4,2,0,1,0
+Grimsby,Mansfield,1,1,1,0,4,6,0,0,0,0
+Morecambe,Bradford,3,0,1,0,6,3,3,3,0,0
+Stockport,Barrow,1,0,0,0,4,3,2,1,0,0
+Sutton,AFC Wimbledon,0,3,0,0,4,5,2,1,0,0
+Tranmere,Salford,3,4,2,1,4,5,1,2,0,0
+Wrexham,Swindon,5,5,1,4,9,2,1,3,0,0
+AFC Wimbledon,Forest Green,1,1,1,0,9,2,2,1,0,0
+Barrow,Wrexham,1,1,0,1,3,10,3,2,0,0
+Bradford,Crewe,1,0,1,0,4,11,2,0,0,0
+Gillingham,Colchester,0,3,0,0,3,4,2,4,1,0
+Harrogate,Morecambe,2,0,1,0,1,4,3,3,0,1
+Mansfield,Stockport,3,2,1,2,11,1,1,0,0,0
+Milton Keynes Dons,Doncaster,2,1,2,0,2,8,1,1,0,0
+Newport County,Sutton,3,1,0,0,1,6,1,3,0,0
+Notts County,Tranmere,2,1,1,0,11,3,3,3,0,0
+Salford,Accrington,1,2,0,2,1,6,3,3,0,0
+Swindon,Crawley Town,6,0,1,0,5,6,0,1,0,0
+Walsall,Grimsby,1,1,0,0,8,10,2,3,1,0
+Tranmere,Wrexham,0,1,0,0,7,17,1,1,0,0
+Crewe,Milton Keynes Dons,3,1,0,1,8,2,4,1,0,0
+Doncaster,Swindon,0,0,0,0,1,11,4,4,1,0
+Grimsby,Gillingham,2,0,2,0,6,4,1,0,0,0
+Harrogate,Barrow,0,1,0,1,8,6,2,2,0,0
+Mansfield,Bradford,0,0,0,0,8,2,2,4,0,0
+Morecambe,Salford,1,0,1,0,9,3,0,0,0,1
+Newport County,AFC Wimbledon,2,2,1,2,6,3,1,1,0,0
+Notts County,Accrington,3,1,1,1,2,7,4,2,0,0
+Stockport,Crawley Town,3,3,2,1,2,3,1,5,0,0
+Sutton,Forest Green,0,1,0,0,7,3,1,2,0,0
+Walsall,Colchester,1,0,0,0,6,4,4,1,0,0
+Bradford,Grimsby,1,1,0,1,7,2,2,4,0,0
+Accrington,Mansfield,0,3,0,2,5,4,1,1,0,0
+AFC Wimbledon,Stockport,1,2,1,0,3,5,2,2,0,0
+Colchester,Tranmere,2,0,1,0,11,5,2,4,0,0
+Crawley Town,Newport County,4,1,1,1,4,0,2,1,0,0
+Forest Green,Crewe,1,4,1,0,3,7,4,3,0,0
+Gillingham,Harrogate,1,0,0,0,10,2,3,1,0,0
+Milton Keynes Dons,Notts County,1,1,0,0,3,6,1,0,0,0
+Salford,Walsall,1,2,1,0,12,1,2,1,0,0
+Swindon,Sutton,5,3,3,2,5,3,1,2,0,0
+Wrexham,Doncaster,2,1,1,0,6,4,2,3,0,0
+Salford,Notts County,0,2,0,1,1,8,3,2,1,1
+Accrington,Sutton,4,1,1,0,2,3,3,1,0,0
+AFC Wimbledon,Crewe,2,2,2,0,13,7,2,2,0,0
+Bradford,Harrogate,1,1,0,0,3,5,0,2,0,0
+Colchester,Mansfield,1,1,1,0,3,4,4,3,0,0
+Crawley Town,Tranmere,3,2,0,1,9,0,4,5,0,0
+Forest Green,Doncaster,1,2,0,1,10,12,4,2,0,0
+Gillingham,Morecambe,2,1,2,1,4,3,2,3,0,1
+Milton Keynes Dons,Stockport,1,2,1,2,9,4,4,2,0,0
+Newport County,Barrow,1,1,1,0,3,10,2,2,1,0
+Swindon,Walsall,2,0,1,0,4,2,2,2,0,1
+Wrexham,Grimsby,3,0,2,0,3,1,2,2,0,0
+Crewe,Colchester,2,1,2,0,6,10,1,0,0,0
+Doncaster,Gillingham,2,1,1,1,7,6,2,2,0,0
+Grimsby,Crawley Town,2,3,2,2,5,5,1,1,0,0
+Harrogate,Salford,3,2,2,1,7,5,2,2,0,0
+Mansfield,Barrow,1,0,0,0,6,2,2,1,0,1
+Morecambe,Swindon,2,2,1,1,9,4,1,2,1,0
+Newport County,Bradford,1,4,1,3,6,7,2,1,0,0
+Notts County,Forest Green,4,3,2,0,7,10,3,5,0,0
+Stockport,Wrexham,5,0,3,0,1,5,1,1,0,0
+Sutton,Milton Keynes Dons,1,1,1,0,7,10,0,1,0,0
+Tranmere,Accrington,2,0,1,0,8,6,0,3,0,1
+Walsall,AFC Wimbledon,1,3,0,1,0,5,0,2,1,0
+Accrington,Stockport,1,3,0,2,9,4,1,1,0,0
+AFC Wimbledon,Tranmere,4,1,2,1,4,4,1,2,0,1
+Barrow,Doncaster,3,2,1,0,1,8,4,3,0,0
+Bradford,Walsall,1,3,1,2,10,5,1,4,0,0
+Colchester,Notts County,5,4,3,1,3,8,3,3,1,0
+Crawley Town,Sutton,3,0,1,0,5,4,1,3,0,0
+Forest Green,Morecambe,1,2,0,1,7,7,3,2,0,0
+Gillingham,Mansfield,1,1,1,1,5,11,4,2,0,0
+Milton Keynes Dons,Harrogate,0,1,0,1,11,3,3,1,0,0
+Salford,Newport County,2,1,2,1,2,6,1,3,0,0
+Swindon,Grimsby,2,1,1,0,9,7,2,2,0,0
+Wrexham,Crewe,3,3,1,2,7,6,4,4,1,0
+Crewe,Gillingham,2,0,1,0,6,4,1,0,0,0
+Doncaster,Crawley Town,2,0,1,0,5,5,3,3,0,0
+Grimsby,Barrow,2,1,1,0,4,7,1,1,0,0
+Harrogate,AFC Wimbledon,0,1,0,1,2,4,2,2,0,0
+Mansfield,Wrexham,0,0,0,0,10,6,2,1,0,0
+Morecambe,Accrington,1,1,0,0,4,9,3,3,0,0
+Newport County,Colchester,2,1,1,1,8,5,2,2,0,1
+Notts County,Swindon,3,1,3,0,3,5,3,2,0,0
+Stockport,Forest Green,2,0,2,0,4,3,1,0,0,1
+Sutton,Salford,0,2,0,0,4,3,1,3,0,0
+Tranmere,Bradford,2,1,1,0,5,6,3,3,0,0
+Walsall,Milton Keynes Dons,0,0,0,0,5,3,3,3,0,0
+Accrington,Forest Green,2,1,1,0,4,5,1,1,0,0
+Barrow,Notts County,1,1,0,1,2,5,1,3,0,0
+Bradford,Swindon,1,0,0,0,6,3,3,3,0,0
+Colchester,Morecambe,1,3,0,1,5,4,2,4,0,1
+Crawley Town,Wrexham,0,1,0,1,6,8,2,6,0,1
+Gillingham,Milton Keynes Dons,2,1,1,0,6,4,2,3,0,1
+Mansfield,AFC Wimbledon,0,0,0,0,6,3,2,2,0,0
+Newport County,Harrogate,1,2,0,1,5,4,2,2,0,0
+Salford,Crewe,4,2,1,1,5,1,2,2,0,0
+Stockport,Doncaster,1,0,0,0,6,6,2,1,0,0
+Sutton,Walsall,4,0,4,0,4,5,0,0,0,0
+Tranmere,Grimsby,2,2,1,2,1,5,1,1,0,0
+Notts County,Mansfield,1,4,1,1,5,6,1,1,0,0
+AFC Wimbledon,Bradford,0,1,0,0,10,4,3,2,0,0
+Crewe,Tranmere,2,0,1,0,10,4,3,1,0,2
+Doncaster,Sutton,4,1,1,0,2,1,2,3,0,0
+Forest Green,Colchester,5,0,1,0,5,3,1,1,0,1
+Grimsby,Accrington,0,2,0,0,9,4,0,2,1,0
+Harrogate,Stockport,1,3,0,1,5,8,0,1,0,0
+Milton Keynes Dons,Barrow,2,2,2,0,1,8,2,1,0,0
+Swindon,Newport County,2,0,1,0,7,5,1,0,0,0
+Walsall,Gillingham,4,1,2,0,0,4,3,3,0,0
+Wrexham,Salford,3,2,1,2,11,3,3,4,0,0
+Newport County,Walsall,3,3,2,1,7,6,0,2,0,0
+Tranmere,Doncaster,1,2,0,1,5,3,3,2,0,0
+Accrington,Milton Keynes Dons,1,0,1,0,6,4,2,1,0,0
+Barrow,AFC Wimbledon,0,0,0,0,6,4,0,2,0,0
+Bradford,Wrexham,1,1,0,0,11,3,3,2,0,0
+Colchester,Harrogate,1,2,0,0,10,3,1,0,0,0
+Crawley Town,Crewe,2,4,2,1,6,7,4,2,0,0
+Gillingham,Notts County,1,2,0,1,3,5,2,3,0,0
+Salford,Swindon,2,2,1,1,2,11,3,1,1,0
+Stockport,Grimsby,3,2,2,1,3,0,2,3,0,0
+Sutton,Morecambe,2,3,1,2,11,4,1,2,0,0
+AFC Wimbledon,Accrington,2,4,0,2,4,2,3,3,0,0
+Crewe,Stockport,0,2,0,0,6,4,2,1,0,0
+Doncaster,Salford,0,3,0,2,8,3,0,2,0,0
+Forest Green,Barrow,0,2,0,2,5,4,2,1,0,0
+Grimsby,Colchester,2,3,1,2,3,3,1,3,0,0
+Harrogate,Mansfield,1,4,0,3,2,7,1,3,0,0
+Milton Keynes Dons,Bradford,4,1,2,1,4,1,0,4,0,0
+Morecambe,Tranmere,1,0,0,0,10,5,2,2,0,0
+Notts County,Newport County,3,0,2,0,5,2,0,1,0,0
+Swindon,Gillingham,0,1,0,1,6,10,0,2,0,0
+Walsall,Crawley Town,1,1,0,0,6,6,0,3,0,0
+Wrexham,Sutton,2,1,1,0,10,2,3,0,0,0
+Accrington,Colchester,0,1,0,0,11,0,1,3,0,0
+Barrow,Salford,0,0,0,0,6,4,2,0,0,0
+Doncaster,Grimsby,1,0,0,0,8,4,3,2,0,0
+Forest Green,Crawley Town,2,1,2,1,4,7,4,0,0,0
+Gillingham,Newport County,0,2,0,2,4,4,1,3,0,0
+Harrogate,Crewe,0,1,0,1,6,6,3,0,0,0
+Mansfield,Walsall,2,1,1,0,6,5,3,2,0,0
+Milton Keynes Dons,Swindon,3,2,1,0,3,0,3,4,0,0
+Morecambe,AFC Wimbledon,4,1,0,0,2,8,2,1,0,0
+Notts County,Wrexham,0,2,0,0,10,7,2,3,0,0
+Stockport,Tranmere,2,0,1,0,13,3,0,1,0,1
+Sutton,Bradford,2,1,1,0,6,8,2,1,0,0
+Barrow,Morecambe,1,0,1,0,4,2,1,1,0,0
+Colchester,Swindon,3,1,0,1,4,4,1,2,0,0
+AFC Wimbledon,Doncaster,2,0,1,0,8,3,3,2,2,0
+Bradford,Barrow,1,2,1,1,5,4,2,2,0,0
+Colchester,Sutton,1,1,0,0,6,3,3,4,0,0
+Crawley Town,Accrington,3,1,1,1,1,8,2,4,0,1
+Crewe,Notts County,1,0,0,0,3,7,2,5,0,0
+Grimsby,Morecambe,3,2,0,1,9,6,3,1,0,0
+Newport County,Milton Keynes Dons,0,0,0,0,2,4,2,2,0,0
+Salford,Mansfield,1,2,1,2,7,4,1,2,0,0
+Swindon,Stockport,2,4,1,0,8,4,2,2,0,0
+Tranmere,Forest Green,3,0,1,0,12,11,1,2,0,1
+Walsall,Harrogate,0,1,0,0,11,6,0,2,0,0
+Wrexham,Gillingham,2,0,1,0,5,5,0,0,0,0
+Notts County,Bradford,4,2,4,0,6,4,3,0,0,0
+Accrington,Wrexham,2,0,0,0,7,6,1,0,0,0
+Barrow,Crawley Town,1,0,0,0,4,5,2,3,0,0
+Forest Green,Grimsby,2,2,2,0,6,7,1,2,0,0
+Gillingham,Salford,3,1,1,1,3,2,2,1,0,0
+Harrogate,Swindon,1,1,0,1,5,10,1,2,0,0
+Mansfield,Newport County,2,0,1,0,5,8,0,4,0,0
+Stockport,Colchester,2,0,1,0,6,1,3,1,0,0
+Sutton,Tranmere,1,1,0,1,4,2,2,1,0,0
+AFC Wimbledon,Notts County,4,2,2,0,2,6,2,1,0,0
+Bradford,Accrington,1,0,0,0,5,3,3,4,0,0
+Colchester,Barrow,1,4,1,0,6,5,2,3,1,0
+Crawley Town,Harrogate,2,1,1,1,5,8,3,3,0,0
+Crewe,Doncaster,3,2,2,1,8,8,1,2,0,0
+Grimsby,Sutton,1,1,1,1,8,4,0,0,0,0
+Newport County,Stockport,2,1,1,0,2,8,0,1,0,0
+Salford,Milton Keynes Dons,2,4,2,1,2,2,2,2,0,0
+Swindon,Mansfield,2,1,1,0,3,2,1,1,0,0
+Tranmere,Gillingham,3,1,1,0,0,10,3,2,0,0
+Walsall,Forest Green,0,0,0,0,6,4,2,3,0,0
+Wrexham,Morecambe,6,0,3,0,5,7,1,1,0,0
+Accrington,Swindon,3,4,0,2,11,3,6,2,0,0
+Barrow,Walsall,2,0,1,0,7,3,1,2,0,0
+Doncaster,Colchester,3,1,1,1,8,4,2,4,0,0
+Forest Green,Bradford,0,3,0,2,8,4,2,1,0,1
+Gillingham,AFC Wimbledon,1,0,0,0,3,4,0,1,0,0
+Harrogate,Wrexham,2,2,1,2,4,7,2,2,0,0
+Mansfield,Tranmere,2,2,1,1,5,1,2,2,0,1
+Milton Keynes Dons,Grimsby,1,1,0,1,5,10,1,3,0,0
+Morecambe,Newport County,1,2,1,1,8,7,1,1,0,0
+Notts County,Crawley Town,3,1,1,1,3,6,1,3,0,0
+Stockport,Salford,0,0,0,0,7,3,2,2,0,0
+Sutton,Crewe,1,1,1,1,3,9,2,1,0,0
+Accrington,Doncaster,0,0,0,0,5,3,2,0,0,0
+AFC Wimbledon,Swindon,4,0,1,0,7,3,2,1,0,0
+Colchester,Crawley Town,1,2,0,1,4,5,3,2,0,0
+Grimsby,Crewe,2,1,2,0,6,5,1,3,0,0
+Morecambe,Stockport,1,1,0,0,3,5,1,0,0,0
+Notts County,Walsall,1,2,1,0,6,4,2,2,0,0
+Tranmere,Newport County,2,1,0,1,8,2,3,3,0,0
+Crawley Town,Mansfield,1,3,1,1,2,3,4,3,1,0
+Crewe,Accrington,3,3,2,1,6,3,2,1,1,0
+Doncaster,Morecambe,0,5,0,2,6,6,2,3,0,0
+Gillingham,Bradford,0,2,0,1,6,2,3,5,0,0
+Harrogate,Notts County,3,1,2,0,2,4,2,3,0,0
+Milton Keynes Dons,Forest Green,2,0,2,0,4,4,4,4,0,0
+Newport County,Grimsby,1,1,0,0,10,2,1,0,0,0
+Salford,AFC Wimbledon,0,0,0,0,1,11,2,1,0,0
+Stockport,Sutton,8,0,4,0,5,1,0,1,0,0
+Swindon,Barrow,0,3,0,1,7,5,1,1,0,0
+Walsall,Tranmere,1,0,0,0,4,1,4,1,0,0
+Wrexham,Colchester,2,1,1,0,4,7,3,2,1,0
+Forest Green,Gillingham,0,0,0,0,3,8,2,1,0,0
+Colchester,Salford,2,1,1,0,9,7,5,1,0,0
+Crawley Town,AFC Wimbledon,1,2,0,2,6,5,2,3,0,1
+Crewe,Barrow,1,3,0,1,5,2,4,4,0,0
+Doncaster,Bradford,1,3,1,2,9,4,1,1,0,0
+Stockport,Notts County,2,1,1,0,4,3,4,2,0,0
+Accrington,Walsall,2,1,1,1,9,7,1,0,0,0
+Grimsby,Harrogate,1,2,0,1,9,6,1,1,0,0
+Morecambe,Milton Keynes Dons,1,3,0,1,4,5,3,1,0,0
+Sutton,Mansfield,0,2,0,1,2,5,1,1,0,0
+Tranmere,Swindon,2,1,0,1,6,3,2,3,0,0
+Wrexham,Newport County,2,0,0,0,7,5,0,1,0,0
+Mansfield,Grimsby,2,0,2,0,15,2,3,1,0,0
+Gillingham,Crawley Town,0,2,0,1,8,1,2,5,0,0
+AFC Wimbledon,Sutton,0,1,0,0,2,6,3,3,0,0
+Barrow,Stockport,2,2,2,1,3,6,2,4,0,0
+Bradford,Morecambe,2,2,0,2,5,5,2,3,0,0
+Harrogate,Accrington,2,1,0,0,4,11,0,0,0,0
+Milton Keynes Dons,Colchester,1,0,0,0,11,1,3,1,0,0
+Newport County,Forest Green,4,2,0,2,7,7,3,4,0,1
+Notts County,Doncaster,3,0,2,0,13,3,0,2,0,0
+Salford,Tranmere,1,5,0,2,4,3,3,1,1,0
+Swindon,Wrexham,0,1,0,1,8,5,1,0,0,1
+Walsall,Crewe,2,0,1,0,5,4,1,5,0,0
+AFC Wimbledon,Colchester,5,3,2,2,5,2,3,1,0,1
+Barrow,Accrington,1,1,0,0,8,3,0,6,0,0
+Bradford,Stockport,0,0,0,0,6,3,2,2,0,0
+Gillingham,Sutton,1,0,0,0,12,0,1,3,0,1
+Harrogate,Tranmere,0,2,0,0,7,6,1,2,0,0
+Mansfield,Doncaster,1,1,1,0,7,4,1,1,0,0
+Milton Keynes Dons,Crawley Town,2,0,1,0,6,2,3,0,0,1
+Newport County,Crewe,1,1,0,0,7,5,0,1,0,0
+Notts County,Morecambe,5,0,4,0,4,2,1,2,0,0
+Salford,Grimsby,0,3,0,1,5,12,0,1,0,0
+Swindon,Forest Green,2,1,0,0,6,4,3,5,0,0
+Walsall,Wrexham,3,1,1,1,2,4,3,1,0,0
+Accrington,Salford,3,0,3,0,5,3,4,2,0,0
+Colchester,Gillingham,0,1,0,0,0,6,1,3,0,0
+Crawley Town,Swindon,3,1,2,0,3,9,0,0,0,0
+Crewe,Bradford,1,0,1,0,1,8,5,2,0,0
+Doncaster,Milton Keynes Dons,3,0,3,0,6,5,2,4,0,0
+Forest Green,AFC Wimbledon,1,1,1,1,7,9,1,2,0,0
+Grimsby,Walsall,1,6,1,2,9,7,0,1,0,0
+Morecambe,Harrogate,2,2,0,1,7,4,3,2,0,0
+Stockport,Mansfield,0,2,0,0,3,6,1,3,0,0
+Sutton,Newport County,1,1,0,0,3,7,1,0,0,0
+Tranmere,Notts County,4,2,2,2,7,7,1,1,0,0
+Wrexham,Barrow,4,1,3,1,3,0,1,4,0,0
+Harrogate,Doncaster,3,1,1,1,3,4,0,3,0,0
+Barrow,Tranmere,1,0,0,0,4,5,1,1,0,0
+Bradford,Crawley Town,2,4,0,1,10,3,1,2,0,0
+Mansfield,Crewe,0,1,0,1,12,5,2,2,0,0
+Salford,Forest Green,2,2,1,1,8,4,2,2,1,1
+Swindon,Colchester,2,2,2,1,5,2,1,2,0,0
+Accrington,Gillingham,1,2,0,0,5,7,2,2,0,0
+Colchester,Bradford,1,1,0,1,2,8,0,0,0,0
+Crawley Town,Salford,0,1,0,0,2,10,1,3,0,0
+Crewe,Swindon,2,1,1,1,3,8,3,3,0,0
+Doncaster,Newport County,0,1,0,0,2,4,1,2,0,0
+Forest Green,Harrogate,0,2,0,0,3,8,2,2,1,0
+Grimsby,Notts County,5,5,2,2,9,2,1,3,0,0
+Morecambe,Mansfield,1,1,0,0,3,5,3,1,0,0
+Stockport,Walsall,3,1,1,1,8,6,1,1,0,0
+Sutton,Barrow,2,2,1,1,5,5,1,0,0,0
+Tranmere,Milton Keynes Dons,1,2,1,1,2,6,1,0,0,0
+Wrexham,AFC Wimbledon,2,0,0,0,5,5,1,1,0,0
+Barrow,Crewe,1,3,1,1,5,0,1,6,0,0
+Gillingham,Forest Green,1,1,0,0,6,0,4,2,0,0
+Milton Keynes Dons,Morecambe,1,2,1,0,8,6,2,3,0,0
+Newport County,Wrexham,1,0,1,0,5,2,6,3,0,1
+Bradford,Salford,1,1,1,1,3,3,0,1,0,0
+Mansfield,Sutton,1,1,1,1,13,8,2,1,0,0
+Milton Keynes Dons,AFC Wimbledon,3,1,3,0,3,3,1,1,0,2
+AFC Wimbledon,Mansfield,2,1,1,0,6,2,4,4,0,2
+Crewe,Salford,2,3,2,1,2,5,1,4,0,0
+Doncaster,Stockport,1,5,0,3,2,10,2,1,0,0
+Forest Green,Accrington,0,1,0,1,6,1,1,5,0,0
+Grimsby,Tranmere,1,2,1,1,6,2,1,2,0,0
+Milton Keynes Dons,Gillingham,2,1,0,0,5,4,1,0,0,0
+Morecambe,Colchester,0,1,0,1,3,9,3,2,0,0
+Notts County,Barrow,1,1,1,1,6,8,1,4,0,0
+Swindon,Bradford,2,0,2,0,3,4,2,2,0,0
+Walsall,Sutton,1,1,1,1,4,4,5,3,0,0
+Sutton,Harrogate,1,2,0,0,10,4,1,3,0,0
+Newport County,Swindon,2,1,0,0,3,7,2,4,0,0
+Accrington,Grimsby,0,0,0,0,6,9,1,1,0,0
+Barrow,Milton Keynes Dons,1,0,0,0,6,8,3,2,0,0
+Bradford,AFC Wimbledon,0,0,0,0,4,3,3,4,0,0
+Colchester,Forest Green,3,3,0,2,5,5,1,1,0,0
+Crawley Town,Morecambe,1,2,1,1,2,3,2,2,0,0
+Gillingham,Walsall,1,1,0,0,5,4,3,2,0,0
+Mansfield,Notts County,1,0,1,0,3,8,4,0,0,0
+Salford,Wrexham,3,1,2,1,9,3,4,3,0,0
+Stockport,Harrogate,1,1,1,1,8,1,3,1,0,0
+Sutton,Doncaster,1,1,0,0,1,4,2,3,0,0
+Tranmere,Crewe,0,0,0,0,7,6,1,4,0,0
+Notts County,Gillingham,1,3,1,2,4,4,2,1,0,0
+AFC Wimbledon,Barrow,2,0,2,0,7,6,3,2,0,1
+Crewe,Crawley Town,1,0,0,0,7,5,4,2,0,0
+Doncaster,Tranmere,2,1,1,0,2,10,1,3,0,0
+Forest Green,Mansfield,0,4,0,1,10,7,2,0,0,0
+Grimsby,Stockport,1,3,0,3,7,7,4,3,0,0
+Harrogate,Colchester,1,0,0,0,7,9,1,3,0,0
+Milton Keynes Dons,Accrington,2,1,0,1,5,3,1,6,0,0
+Morecambe,Sutton,1,0,1,0,6,1,4,4,0,0
+Swindon,Salford,1,1,0,0,10,7,3,0,0,0
+Walsall,Newport County,0,3,0,3,7,0,0,0,1,0
+Wrexham,Bradford,0,1,0,0,11,3,0,3,0,0
+Accrington,AFC Wimbledon,2,0,0,0,6,6,1,1,0,0
+Barrow,Forest Green,1,2,1,1,6,1,1,3,0,0
+Bradford,Milton Keynes Dons,4,0,2,0,1,6,5,1,0,0
+Crawley Town,Walsall,1,1,0,1,7,8,3,3,0,0
+Gillingham,Swindon,2,2,0,1,11,6,1,2,0,0
+Mansfield,Harrogate,9,2,5,0,6,3,1,0,0,0
+Newport County,Notts County,1,3,0,2,9,6,0,0,0,0
+Salford,Doncaster,2,2,1,1,3,3,4,2,0,0
+Stockport,Crewe,1,3,1,2,4,7,0,1,0,0
+Sutton,Wrexham,1,2,0,1,10,2,3,0,0,0
+Tranmere,Morecambe,2,3,2,1,0,10,5,2,0,0
+AFC Wimbledon,Morecambe,1,1,0,0,6,3,1,5,0,0
+Bradford,Sutton,1,0,0,0,1,6,1,2,0,0
+Colchester,Accrington,1,1,1,0,6,4,3,1,0,1
+Crawley Town,Forest Green,2,0,1,0,3,3,0,1,0,0
+Crewe,Harrogate,0,0,0,0,7,1,0,3,0,0
+Grimsby,Doncaster,1,5,1,2,5,6,2,3,0,0
+Newport County,Gillingham,1,0,0,0,4,5,2,2,0,0
+Salford,Barrow,5,3,1,1,8,6,3,1,0,0
+Swindon,Milton Keynes Dons,1,2,0,2,5,1,2,1,0,0
+Tranmere,Stockport,4,0,1,0,7,6,1,2,0,0
+Walsall,Mansfield,2,1,0,0,9,6,2,2,0,0
+Wrexham,Notts County,1,0,1,0,7,8,1,2,0,0
+AFC Wimbledon,Crawley Town,0,1,0,0,11,5,1,0,0,0
+Gillingham,Stockport,0,0,0,0,0,7,1,2,0,0
+Milton Keynes Dons,Wrexham,1,1,1,1,5,6,3,1,1,1
+Walsall,Morecambe,3,0,2,0,6,8,4,2,0,0
+Accrington,Crawley Town,0,1,0,0,6,5,2,2,0,0
+Doncaster,AFC Wimbledon,1,0,1,0,8,2,0,3,0,0
+Forest Green,Tranmere,1,0,1,0,1,9,1,2,0,1
+Gillingham,Wrexham,1,0,0,0,7,11,0,2,0,0
+Harrogate,Walsall,0,2,0,0,7,4,0,2,0,0
+Mansfield,Salford,5,1,2,1,9,8,2,3,0,1
+Milton Keynes Dons,Newport County,3,0,3,0,9,5,2,3,0,0
+Morecambe,Grimsby,1,1,0,1,10,4,1,1,0,0
+Notts County,Crewe,1,3,0,2,9,4,4,4,0,0
+Stockport,Swindon,0,0,0,0,10,4,0,2,0,0
+Sutton,Colchester,1,1,1,1,5,5,2,3,0,0
+Forest Green,Wrexham,1,1,1,0,3,6,1,0,0,0
+Harrogate,Newport County,1,4,0,2,1,8,1,0,0,0
+Notts County,Sutton,3,4,2,2,4,9,1,5,0,0
+Salford,Colchester,1,1,1,0,2,4,4,2,0,0
+Swindon,Tranmere,3,1,2,1,9,5,2,1,0,0
+Walsall,Accrington,2,1,0,0,7,5,2,2,0,0
+AFC Wimbledon,Milton Keynes Dons,1,0,0,0,6,5,6,6,0,0
+Crewe,Morecambe,2,3,1,0,11,0,2,3,0,0
+Grimsby,Forest Green,1,0,1,0,7,7,1,1,0,0
+Newport County,Mansfield,0,1,0,0,4,5,2,0,0,0
+Salford,Gillingham,0,2,0,1,9,6,3,1,0,0
+Swindon,Harrogate,1,1,0,0,11,5,1,1,0,0
+Tranmere,Sutton,1,0,0,0,9,8,3,3,0,0
+Walsall,Doncaster,3,1,1,0,8,4,0,5,0,0
+Wrexham,Accrington,4,0,4,0,6,4,1,1,0,1
+AFC Wimbledon,Grimsby,0,0,0,0,7,3,1,4,0,0
+Barrow,Gillingham,2,0,1,0,1,8,3,4,0,0
+Bradford,Doncaster,1,1,0,1,1,10,5,4,0,0
+Mansfield,Milton Keynes Dons,1,2,1,1,5,3,2,1,0,0
+Morecambe,Crawley Town,1,0,0,0,2,7,4,4,0,0
+Accrington,Bradford,0,3,0,3,6,7,1,1,0,0
+Barrow,Colchester,2,0,1,0,3,6,1,3,0,0
+Doncaster,Crewe,2,0,1,0,5,7,0,4,0,0
+Forest Green,Walsall,2,0,0,0,0,7,3,1,0,1
+Gillingham,Tranmere,1,1,0,1,6,2,1,3,0,0
+Harrogate,Crawley Town,1,2,1,0,5,7,1,1,0,0
+Mansfield,Swindon,3,2,1,0,6,3,1,1,0,0
+Milton Keynes Dons,Salford,3,1,3,1,5,2,2,5,0,0
+Morecambe,Wrexham,1,3,1,1,5,9,2,1,1,0
+Notts County,AFC Wimbledon,0,2,0,0,7,2,2,5,0,0
+Stockport,Newport County,1,0,0,0,11,2,1,4,0,0
+Sutton,Grimsby,1,1,0,1,4,7,1,3,0,0
+AFC Wimbledon,Gillingham,2,0,1,0,7,3,1,2,0,1
+Bradford,Forest Green,0,2,0,1,9,2,1,1,0,0
+Crawley Town,Notts County,2,1,0,1,9,3,5,2,0,1
+Crewe,Sutton,1,0,0,0,5,4,1,4,0,0
+Grimsby,Milton Keynes Dons,1,0,1,0,2,6,5,0,0,0
+Newport County,Morecambe,5,3,2,1,8,5,3,1,0,0
+Swindon,Accrington,1,2,0,0,6,4,2,2,0,0
+Tranmere,Mansfield,2,1,1,1,6,5,2,4,0,0
+Walsall,Barrow,1,1,1,0,2,5,2,1,0,0
+Wrexham,Harrogate,0,0,0,0,10,3,1,2,0,0
+Salford,Stockport,2,2,2,0,2,7,4,2,0,0
+Accrington,Notts County,2,2,1,2,6,5,2,1,0,0
+AFC Wimbledon,Newport County,0,2,0,1,4,3,1,4,0,0
+Barrow,Harrogate,0,0,0,0,4,2,1,1,0,0
+Bradford,Mansfield,1,5,0,4,5,5,2,2,0,0
+Colchester,Walsall,1,1,0,1,8,6,1,2,0,0
+Forest Green,Sutton,0,1,0,1,1,3,1,0,0,0
+Gillingham,Grimsby,1,1,1,1,4,2,2,3,0,0
+Milton Keynes Dons,Crewe,3,1,3,1,4,3,3,2,0,0
+Swindon,Doncaster,1,2,0,2,7,3,3,3,0,0
+Wrexham,Tranmere,0,1,0,1,9,4,2,2,0,0
+Salford,Morecambe,3,1,1,0,8,4,1,1,0,0
+Crawley Town,Stockport,1,1,0,0,4,4,1,1,0,0
+Bradford,Notts County,0,3,0,1,2,8,5,1,0,0
+Mansfield,Colchester,1,1,0,1,8,6,1,4,0,0
+Harrogate,Bradford,3,0,1,0,4,5,1,1,0,0
+Barrow,Newport County,1,0,1,0,5,4,1,2,0,0
+Crewe,AFC Wimbledon,1,1,1,1,4,2,2,2,0,0
+Doncaster,Forest Green,2,0,0,0,3,0,2,2,0,0
+Grimsby,Wrexham,1,3,0,3,2,4,1,1,0,0
+Morecambe,Gillingham,2,3,1,1,5,7,4,2,0,0
+Notts County,Salford,1,2,0,1,5,2,0,3,0,0
+Sutton,Accrington,3,1,1,0,8,3,1,1,0,0
+Tranmere,Crawley Town,1,3,1,2,6,3,1,1,0,0
+Stockport,Milton Keynes Dons,5,0,3,0,3,1,1,1,0,0
+Accrington,Morecambe,1,2,0,0,8,3,4,2,0,0
+AFC Wimbledon,Harrogate,1,1,0,1,6,4,1,1,1,0
+Barrow,Grimsby,3,1,2,0,5,7,1,0,0,0
+Bradford,Tranmere,2,0,0,0,5,9,2,3,0,0
+Colchester,Newport County,2,1,0,1,10,1,2,2,0,0
+Crawley Town,Doncaster,0,2,0,0,11,8,3,2,0,1
+Forest Green,Stockport,0,3,0,2,2,5,2,0,0,0
+Gillingham,Crewe,0,0,0,0,3,3,2,3,0,0
+Milton Keynes Dons,Walsall,5,0,1,0,4,5,0,2,0,0
+Salford,Sutton,1,2,0,1,4,4,1,4,0,0
+Swindon,Notts County,2,1,1,0,5,2,3,0,0,0
+Wrexham,Mansfield,2,0,1,0,1,6,1,3,0,0
+Grimsby,Bradford,1,1,0,0,5,2,2,5,1,0
+Crewe,Forest Green,0,3,0,3,8,2,3,3,0,0
+Harrogate,Gillingham,5,1,0,1,5,2,3,2,0,0
+Morecambe,Barrow,2,1,2,0,7,6,2,2,0,0
+Newport County,Crawley Town,0,4,0,2,6,5,1,3,0,0
+Notts County,Milton Keynes Dons,3,3,1,1,6,7,2,3,0,0
+Stockport,AFC Wimbledon,1,0,0,0,4,1,0,3,0,0
+Sutton,Swindon,3,1,1,0,8,2,2,1,0,0
+Tranmere,Colchester,1,1,1,1,6,4,2,4,0,0
+Walsall,Salford,2,1,1,0,4,5,0,2,0,0
+Doncaster,Wrexham,1,0,1,0,4,5,3,2,0,0
+Accrington,Crewe,0,0,0,0,0,7,2,1,0,0
+AFC Wimbledon,Salford,1,0,0,0,3,2,2,6,0,2
+Barrow,Swindon,0,2,0,2,4,3,3,2,0,0
+Bradford,Gillingham,1,0,1,0,7,4,1,2,0,0
+Colchester,Wrexham,1,2,0,0,3,7,0,1,0,0
+Forest Green,Milton Keynes Dons,0,2,0,1,4,6,2,1,0,0
+Grimsby,Newport County,1,0,1,0,8,1,2,2,0,0
+Mansfield,Crawley Town,1,4,0,2,8,6,0,3,0,0
+Morecambe,Doncaster,0,3,0,2,5,5,2,3,0,0
+Notts County,Harrogate,3,0,1,0,9,11,3,1,0,0
+Sutton,Stockport,1,3,1,3,5,2,3,2,0,0
+Tranmere,Walsall,1,3,1,1,11,6,2,2,0,0
+Colchester,Stockport,1,2,1,1,3,4,3,3,0,0
+Doncaster,Walsall,2,1,1,0,2,6,2,2,0,0
+Harrogate,Grimsby,1,0,0,0,6,1,1,1,0,0
+Mansfield,Forest Green,1,0,1,0,5,6,3,1,0,0
+Morecambe,Crewe,0,1,0,0,5,9,1,0,0,1
+Newport County,Accrington,1,3,1,1,3,1,2,0,1,0
+Wrexham,Crawley Town,4,1,2,0,5,9,1,1,0,0
+Crawley Town,Colchester,2,3,1,2,13,5,0,3,0,1
+Crewe,Grimsby,0,3,0,1,4,13,2,1,0,0
+Doncaster,Accrington,4,0,2,0,7,3,1,2,0,0
+Gillingham,Barrow,3,0,1,0,6,6,0,0,0,1
+Harrogate,Sutton,2,2,0,1,1,6,1,2,0,0
+Milton Keynes Dons,Mansfield,1,4,1,1,3,2,3,5,0,0
+Newport County,Tranmere,1,2,1,2,0,10,2,2,0,0
+Salford,Bradford,1,2,1,1,1,6,3,3,0,0
+Stockport,Morecambe,2,0,2,0,3,2,1,3,0,0
+Swindon,AFC Wimbledon,3,2,0,1,2,3,1,0,1,0
+Walsall,Notts County,1,3,0,2,8,1,4,2,1,0
+Wrexham,Forest Green,6,0,4,0,6,0,0,2,0,0
+Colchester,Grimsby,2,0,1,0,5,5,2,2,1,0
+Crawley Town,Barrow,1,1,0,1,5,4,2,3,0,0
+Mansfield,Accrington,2,1,1,0,4,1,0,2,0,0
+Notts County,Stockport,2,5,0,3,2,9,2,2,0,0
+Walsall,Swindon,2,1,1,0,5,7,1,0,0,0
+Crewe,Wrexham,0,3,0,2,3,6,3,1,1,0
+Doncaster,Barrow,4,2,0,2,3,3,3,1,0,0
+Grimsby,Swindon,2,0,0,0,2,2,1,0,0,0
+Harrogate,Milton Keynes Dons,3,5,2,2,4,5,0,0,0,0
+Mansfield,Gillingham,2,1,0,1,8,5,1,2,0,0
+Morecambe,Forest Green,1,2,1,2,10,7,1,3,0,0
+Newport County,Salford,0,1,0,0,2,7,2,3,0,0
+Notts County,Colchester,1,0,0,0,9,2,1,3,0,0
+Stockport,Accrington,4,2,2,1,4,3,2,3,0,0
+Sutton,Crawley Town,2,2,0,1,3,7,2,1,0,0
+Tranmere,AFC Wimbledon,3,2,2,0,11,3,0,1,0,1
+Walsall,Bradford,2,3,2,2,9,4,2,3,0,1
+Barrow,Bradford,1,2,0,1,1,8,3,3,0,0
+Colchester,Doncaster,1,4,1,2,6,2,2,3,0,0
+Accrington,Tranmere,4,1,1,1,9,7,2,0,0,0
+AFC Wimbledon,Walsall,5,1,2,1,2,3,0,1,0,0
+Barrow,Mansfield,1,1,0,1,5,1,1,3,0,0
+Bradford,Newport County,4,1,2,0,7,2,0,1,0,0
+Colchester,Crewe,1,1,1,0,2,3,1,1,0,0
+Crawley Town,Grimsby,2,0,2,0,5,7,0,0,0,0
+Forest Green,Notts County,1,0,0,0,7,7,1,2,0,0
+Gillingham,Doncaster,2,2,0,2,7,5,2,1,0,1
+Milton Keynes Dons,Sutton,4,4,2,0,3,9,2,2,0,0
+Salford,Harrogate,2,2,2,2,2,8,0,2,0,0
+Swindon,Morecambe,3,3,2,2,7,7,1,0,0,0
+Wrexham,Stockport,2,1,0,1,3,5,0,3,0,0
+AFC Wimbledon,Gillingham,2,0,1,0,3,4,3,5,0,0
+Bradford,Doncaster,0,0,0,0,7,6,0,3,1,1
+Carlisle,Crawley Town,1,0,1,0,6,4,1,3,0,0
+Harrogate,Swindon,3,0,1,0,4,5,3,0,0,0
+Leyton Orient,Grimsby,2,0,0,0,3,2,3,2,0,0
+Northampton,Colchester,3,2,1,1,3,4,1,4,0,0
+Rochdale,Crewe,1,2,0,2,6,1,2,2,0,0
+Salford,Mansfield,2,0,2,0,3,9,2,0,0,0
+Stockport,Barrow,2,3,0,3,4,3,2,4,0,0
+Sutton,Newport County,1,1,1,1,4,7,3,3,0,0
+Tranmere,Stevenage,1,2,0,1,5,9,1,3,0,0
+Walsall,Hartlepool,4,0,2,0,8,2,0,2,0,0
+Barrow,Bradford,3,2,0,0,4,6,1,2,0,0
+Colchester,Carlisle,1,1,1,1,5,5,0,2,0,0
+Crawley Town,Leyton Orient,0,1,0,0,6,3,0,0,0,0
+Crewe,Harrogate,3,0,2,0,5,1,2,0,0,0
+Doncaster,Sutton,2,1,0,1,2,3,1,3,0,0
+Gillingham,Rochdale,1,0,1,0,7,6,3,1,0,0
+Grimsby,Northampton,1,1,0,0,5,1,0,1,0,0
+Hartlepool,AFC Wimbledon,0,0,0,0,6,5,3,0,0,0
+Mansfield,Tranmere,1,0,0,0,12,4,2,1,0,0
+Newport County,Walsall,0,1,0,0,7,1,0,3,0,1
+Stevenage,Stockport,2,1,0,0,4,4,1,2,0,1
+Swindon,Salford,0,0,0,0,3,6,6,1,1,0
+AFC Wimbledon,Doncaster,2,2,0,0,3,11,2,4,0,0
+Bradford,Newport County,2,0,1,0,6,4,1,3,0,1
+Carlisle,Swindon,1,1,1,1,5,3,1,2,0,0
+Harrogate,Crawley Town,0,0,0,0,8,5,0,0,0,0
+Leyton Orient,Mansfield,1,0,0,0,4,9,4,2,0,0
+Northampton,Hartlepool,2,1,1,1,2,2,3,3,0,0
+Rochdale,Grimsby,0,1,0,0,8,5,4,2,0,0
+Salford,Crewe,3,0,1,0,2,2,2,2,0,1
+Stockport,Colchester,1,0,0,0,4,1,0,2,0,0
+Sutton,Barrow,1,0,0,0,4,5,0,1,0,0
+Tranmere,Gillingham,3,0,1,0,2,2,0,2,0,0
+Walsall,Stevenage,1,1,1,0,3,3,2,2,0,0
+Barrow,Walsall,2,1,2,0,10,3,1,2,0,0
+Colchester,Bradford,1,0,0,0,5,8,0,4,0,0
+Crawley Town,Northampton,2,3,1,2,2,3,0,1,0,0
+Crewe,Sutton,1,0,1,0,4,5,1,2,0,0
+Doncaster,Stockport,2,1,1,0,10,2,1,2,0,1
+Gillingham,Harrogate,0,2,0,1,11,6,5,3,0,0
+Hartlepool,Tranmere,0,0,0,0,7,9,3,2,0,0
+Mansfield,AFC Wimbledon,5,2,2,2,7,3,2,4,0,1
+Newport County,Salford,2,3,0,0,4,4,3,2,0,0
+Stevenage,Rochdale,1,0,1,0,8,2,1,2,0,0
+Swindon,Leyton Orient,1,1,1,1,2,6,1,2,0,0
+Hartlepool,Bradford,1,3,1,1,3,7,0,2,0,0
+Barrow,Harrogate,1,0,1,0,7,1,4,4,0,0
+Colchester,Leyton Orient,1,3,0,1,6,3,0,3,0,0
+Crawley Town,AFC Wimbledon,0,2,0,2,5,1,1,2,1,0
+Crewe,Northampton,2,2,2,1,5,8,2,2,0,0
+Doncaster,Salford,2,1,1,1,5,6,0,3,0,0
+Gillingham,Walsall,0,0,0,0,6,5,0,4,0,0
+Grimsby,Sutton,0,0,0,0,5,6,3,2,0,0
+Mansfield,Stockport,2,1,0,0,6,2,1,1,0,0
+Newport County,Tranmere,2,1,2,1,4,3,1,0,0,0
+Stevenage,Carlisle,2,1,2,1,6,4,2,1,0,0
+Swindon,Rochdale,3,0,1,0,10,3,2,2,0,0
+AFC Wimbledon,Barrow,0,1,0,1,4,1,2,2,0,0
+Bradford,Crewe,0,0,0,0,4,6,2,0,0,0
+Carlisle,Gillingham,1,0,0,0,1,4,1,2,0,0
+Harrogate,Newport County,0,4,0,4,2,1,0,2,0,0
+Leyton Orient,Hartlepool,4,2,2,1,2,1,3,3,0,0
+Northampton,Doncaster,0,1,0,0,3,5,2,1,0,0
+Rochdale,Crawley Town,1,1,0,1,6,2,2,2,0,1
+Salford,Stevenage,1,0,0,0,7,5,0,1,0,0
+Stockport,Swindon,1,1,0,0,5,6,2,2,1,0
+Sutton,Mansfield,2,1,1,0,5,9,3,2,0,0
+Tranmere,Colchester,2,0,1,0,4,1,1,1,0,0
+Walsall,Grimsby,1,2,1,0,4,2,1,1,0,0
+Bradford,Walsall,2,1,2,0,4,10,2,1,0,0
+Carlisle,Rochdale,3,3,1,1,5,4,0,1,0,0
+Colchester,Hartlepool,1,1,0,1,8,3,2,3,0,0
+Crewe,Stevenage,1,2,1,0,11,3,3,2,0,0
+Doncaster,Mansfield,1,3,1,1,3,4,1,3,0,0
+Gillingham,Swindon,0,0,0,0,5,8,0,1,1,0
+Leyton Orient,Tranmere,2,0,1,0,7,2,3,1,0,0
+Newport County,Grimsby,0,2,0,0,1,5,2,2,0,0
+Northampton,Barrow,3,1,1,1,6,4,4,4,0,0
+Salford,Crawley Town,2,2,1,1,6,3,1,5,0,0
+Stockport,AFC Wimbledon,1,0,1,0,13,3,1,1,0,0
+Sutton,Harrogate,2,1,1,1,14,3,1,2,0,1
+AFC Wimbledon,Northampton,0,2,0,1,7,5,3,1,0,0
+Barrow,Doncaster,2,0,1,0,4,2,1,2,0,0
+Crawley Town,Stockport,3,2,2,1,0,7,2,0,0,0
+Grimsby,Gillingham,1,1,1,1,5,5,1,2,0,0
+Harrogate,Salford,0,1,0,0,4,5,1,3,0,0
+Hartlepool,Crewe,1,1,1,0,4,2,0,1,0,0
+Mansfield,Carlisle,0,0,0,0,6,0,1,3,0,0
+Rochdale,Leyton Orient,0,1,0,1,4,4,2,3,0,0
+Stevenage,Newport County,1,0,0,0,7,0,3,0,0,0
+Swindon,Sutton,3,2,2,2,8,9,2,2,0,0
+Tranmere,Bradford,1,2,0,1,6,7,3,1,0,0
+Walsall,Colchester,1,1,0,1,3,3,2,4,0,0
+Bradford,Stevenage,3,0,1,0,2,11,1,1,1,0
+Carlisle,AFC Wimbledon,2,1,1,0,11,2,2,4,0,0
+Colchester,Grimsby,0,1,0,0,6,3,1,2,0,0
+Crewe,Crawley Town,1,0,0,0,9,2,2,0,0,0
+Doncaster,Swindon,0,1,0,0,4,7,1,1,0,0
+Gillingham,Mansfield,0,2,0,2,5,10,1,1,0,0
+Leyton Orient,Walsall,1,0,0,0,4,5,1,1,0,0
+Newport County,Barrow,0,2,0,1,7,1,1,1,0,0
+Northampton,Rochdale,3,0,1,0,2,6,0,3,0,0
+Salford,Tranmere,0,1,0,1,4,5,2,2,0,0
+Stockport,Harrogate,0,0,0,0,4,3,1,3,0,0
+Sutton,Hartlepool,2,0,0,0,6,7,0,1,0,0
+Northampton,Stockport,2,1,0,1,1,4,2,2,0,1
+Barrow,Leyton Orient,0,2,0,1,7,6,0,4,1,0
+Bradford,AFC Wimbledon,2,2,1,0,8,6,2,3,0,0
+Colchester,Rochdale,0,1,0,1,8,4,2,3,0,0
+Crewe,Mansfield,1,2,0,0,4,8,2,2,0,0
+Doncaster,Crawley Town,4,1,1,1,7,5,0,1,0,0
+Grimsby,Swindon,1,2,1,2,3,7,1,3,0,1
+Hartlepool,Gillingham,0,0,0,0,7,2,1,3,0,0
+Newport County,Carlisle,1,1,1,0,0,6,3,1,0,0
+Stevenage,Harrogate,1,0,0,0,8,3,1,0,0,0
+Sutton,Salford,1,2,0,0,4,3,1,4,1,0
+Walsall,Tranmere,0,1,0,0,4,3,1,2,0,0
+Grimsby,Carlisle,1,2,0,2,7,1,1,2,0,0
+Mansfield,Hartlepool,2,2,0,0,11,1,2,1,0,0
+Harrogate,Bradford,1,2,0,1,6,4,2,1,0,0
+AFC Wimbledon,Colchester,2,1,0,1,7,8,5,3,0,0
+Carlisle,Crewe,0,0,0,0,7,3,1,3,0,0
+Crawley Town,Stevenage,1,2,0,1,3,4,3,0,0,0
+Gillingham,Sutton,1,0,0,0,7,5,0,2,0,0
+Leyton Orient,Newport County,1,2,0,2,14,2,1,0,0,0
+Rochdale,Doncaster,1,2,1,1,6,4,0,1,0,0
+Salford,Grimsby,1,1,1,1,4,12,0,1,0,0
+Stockport,Walsall,1,1,1,0,7,2,0,3,0,0
+Swindon,Northampton,1,2,0,0,10,4,2,2,0,0
+Tranmere,Barrow,1,0,1,0,7,2,1,2,0,0
+Hartlepool,Doncaster,2,1,1,0,4,4,0,1,0,0
+Stevenage,Sutton,3,0,1,0,2,2,2,5,0,0
+Swindon,Newport County,1,0,0,0,8,3,3,1,0,0
+Walsall,Northampton,1,0,1,0,4,9,4,2,0,0
+Barrow,Mansfield,0,1,0,0,4,9,1,3,0,0
+Bradford,Stockport,0,1,0,1,4,7,2,2,0,0
+Colchester,Harrogate,2,1,2,0,5,4,3,3,0,0
+Crewe,Gillingham,1,1,1,1,5,7,2,0,0,0
+Doncaster,Leyton Orient,1,1,0,1,0,6,1,1,0,0
+Grimsby,Crawley Town,3,0,1,0,6,10,2,1,0,0
+Hartlepool,Carlisle,1,3,1,0,3,9,1,0,0,0
+Newport County,Rochdale,0,1,0,1,13,2,1,5,0,0
+Northampton,Salford,0,1,0,1,4,1,2,0,0,0
+Stevenage,Swindon,2,0,1,0,2,7,1,2,0,0
+Sutton,Tranmere,0,2,0,2,2,3,1,2,0,0
+Walsall,AFC Wimbledon,3,1,1,1,2,7,3,2,0,0
+Tranmere,Crewe,3,0,1,0,6,6,1,0,0,0
+Harrogate,Hartlepool,2,1,2,0,2,6,0,0,0,0
+Mansfield,Walsall,2,1,1,1,1,5,1,0,0,0
+AFC Wimbledon,Sutton,0,1,0,1,4,8,2,3,0,0
+Carlisle,Doncaster,3,0,1,0,5,3,1,2,0,0
+Crawley Town,Newport County,2,1,1,0,4,3,1,3,0,0
+Gillingham,Stevenage,1,1,1,1,2,4,1,3,0,0
+Leyton Orient,Northampton,0,0,0,0,5,4,0,3,0,1
+Rochdale,Barrow,2,1,1,0,2,8,3,2,0,0
+Salford,Bradford,0,1,0,1,5,2,1,1,0,0
+Stockport,Grimsby,1,3,1,2,4,5,1,5,1,0
+Swindon,Colchester,1,0,0,0,15,3,1,2,0,0
+Carlisle,Leyton Orient,2,3,1,2,7,4,4,3,1,0
+Crawley Town,Mansfield,3,2,2,2,3,0,4,1,0,0
+Crewe,Doncaster,1,1,1,0,7,4,3,0,0,0
+Gillingham,Barrow,1,1,0,1,3,4,0,2,0,0
+Grimsby,Bradford,0,0,0,0,8,5,1,1,0,0
+Harrogate,Tranmere,1,1,1,0,6,9,3,1,0,0
+Newport County,Colchester,1,0,1,0,3,5,0,0,0,0
+Rochdale,AFC Wimbledon,1,2,0,1,3,4,1,4,0,0
+Salford,Stockport,0,2,0,1,6,5,2,0,0,0
+Stevenage,Northampton,2,3,1,1,4,10,1,3,0,1
+Sutton,Walsall,1,1,0,0,7,3,1,1,0,1
+Swindon,Hartlepool,2,1,2,1,7,3,3,2,0,0
+AFC Wimbledon,Crewe,1,1,1,0,6,9,1,5,0,0
+Barrow,Grimsby,1,0,0,0,8,7,2,2,0,0
+Bradford,Swindon,1,1,1,0,4,10,0,1,0,0
+Colchester,Crawley Town,2,2,1,1,9,6,1,3,0,0
+Doncaster,Stevenage,0,1,0,1,4,0,2,1,0,0
+Hartlepool,Salford,0,2,0,1,5,7,0,1,0,0
+Leyton Orient,Gillingham,2,0,0,0,1,4,2,1,0,0
+Mansfield,Newport County,0,0,0,0,5,4,0,2,1,0
+Northampton,Sutton,2,2,2,0,5,5,1,2,0,0
+Stockport,Carlisle,2,0,1,0,4,3,0,2,0,0
+Tranmere,Rochdale,1,1,1,1,6,0,1,1,0,0
+Walsall,Harrogate,3,1,3,0,6,2,0,3,0,0
+Northampton,Newport County,1,1,0,1,3,5,2,0,0,0
+AFC Wimbledon,Harrogate,3,2,1,0,6,4,2,0,0,0
+Barrow,Crewe,3,0,2,0,10,3,3,2,0,0
+Bradford,Crawley Town,1,1,0,0,11,7,1,2,0,0
+Colchester,Stevenage,1,1,1,1,2,8,1,3,0,0
+Doncaster,Gillingham,1,0,0,0,6,3,1,2,0,0
+Hartlepool,Grimsby,2,1,0,1,4,6,2,2,0,0
+Leyton Orient,Salford,1,0,1,0,7,1,1,3,0,0
+Mansfield,Swindon,2,5,2,2,5,3,3,2,1,0
+Stockport,Sutton,3,0,1,0,9,3,1,2,0,1
+Tranmere,Carlisle,0,2,0,1,7,0,0,2,0,0
+Walsall,Rochdale,1,0,1,0,6,3,2,1,0,0
+Barrow,Colchester,3,1,2,0,8,3,2,1,0,0
+Tranmere,Stockport,0,0,0,0,2,8,1,0,0,0
+AFC Wimbledon,Leyton Orient,2,0,2,0,0,5,4,5,0,0
+Harrogate,Carlisle,3,3,1,1,6,8,0,1,0,0
+Mansfield,Bradford,1,2,0,1,9,1,2,2,0,1
+Rochdale,Salford,1,0,0,0,5,2,1,1,0,0
+Carlisle,Walsall,0,0,0,0,11,4,0,0,0,0
+Crawley Town,Barrow,1,0,1,0,2,12,2,2,0,0
+Crewe,Colchester,1,0,0,0,1,7,2,3,0,0
+Gillingham,Northampton,0,2,0,1,3,1,0,2,0,0
+Grimsby,Doncaster,1,3,0,1,6,5,3,0,0,0
+Harrogate,Leyton Orient,0,2,0,2,7,3,2,0,0,0
+Newport County,Stockport,1,2,1,0,4,4,2,0,0,0
+Rochdale,Mansfield,0,1,0,0,2,5,3,2,0,0
+Salford,AFC Wimbledon,0,0,0,0,7,2,3,1,0,0
+Stevenage,Hartlepool,1,0,0,0,6,2,1,4,0,0
+Sutton,Bradford,0,2,0,1,5,2,0,3,0,0
+Swindon,Tranmere,1,1,1,1,4,0,0,2,0,1
+Barrow,Hartlepool,3,1,3,0,2,2,0,4,0,0
+Bradford,Northampton,1,3,0,2,3,4,1,1,0,0
+Colchester,Doncaster,3,0,1,0,9,6,3,3,0,0
+Grimsby,Stevenage,1,1,0,0,4,5,1,2,0,0
+Harrogate,Mansfield,3,0,3,0,4,9,3,2,0,0
+Newport County,Gillingham,2,0,1,0,7,2,2,3,0,0
+Salford,Carlisle,1,4,0,1,8,6,3,1,0,0
+Stockport,Leyton Orient,1,2,1,1,2,2,0,2,0,0
+Sutton,Rochdale,1,0,1,0,2,9,0,0,0,0
+Swindon,Crewe,0,1,0,1,9,3,2,1,0,0
+Tranmere,AFC Wimbledon,0,2,0,1,7,4,2,1,1,0
+Walsall,Crawley Town,2,1,1,1,8,2,0,2,0,1
+Crawley Town,Gillingham,0,0,0,0,4,3,0,2,0,0
+Crewe,Newport County,1,2,1,0,2,6,2,3,0,0
+Doncaster,Walsall,0,2,0,0,5,4,0,0,0,0
+Stevenage,Barrow,5,0,1,0,5,2,2,1,0,0
+AFC Wimbledon,Grimsby,1,0,0,0,5,4,3,1,0,0
+Gillingham,Salford,0,3,0,0,7,2,1,0,0,0
+Leyton Orient,Bradford,3,0,2,0,5,3,0,1,0,0
+Carlisle,Sutton,1,1,1,1,8,8,2,3,0,0
+Crawley Town,Swindon,2,0,0,0,2,6,1,1,0,0
+Hartlepool,Stockport,0,5,0,2,1,3,0,2,0,0
+Mansfield,Colchester,2,1,1,1,1,2,2,2,0,0
+Northampton,Tranmere,0,0,0,0,7,4,1,3,0,0
+Rochdale,Harrogate,1,4,1,1,6,5,2,1,0,0
+Crawley Town,Hartlepool,0,2,0,0,3,3,0,0,0,0
+Grimsby,Tranmere,2,1,1,0,9,3,1,1,0,0
+Newport County,Doncaster,0,1,0,0,6,6,0,2,0,0
+Stevenage,Mansfield,0,0,0,0,3,2,1,0,0,0
+Sutton,Colchester,1,0,1,0,5,2,3,3,0,1
+Swindon,AFC Wimbledon,0,0,0,0,6,7,2,4,0,0
+Barrow,Swindon,0,1,0,1,6,3,1,3,0,0
+Leyton Orient,Sutton,2,0,0,0,4,3,2,1,0,0
+Northampton,Carlisle,2,1,0,0,8,3,3,2,0,0
+AFC Wimbledon,Newport County,1,1,0,0,4,3,0,4,1,0
+Carlisle,Bradford,1,0,1,0,9,3,0,2,0,0
+Crawley Town,Sutton,1,2,0,0,4,2,1,2,0,0
+Gillingham,Colchester,0,1,0,1,6,1,3,1,0,0
+Harrogate,Grimsby,3,2,1,1,3,4,2,1,0,0
+Mansfield,Northampton,1,1,0,0,2,5,3,1,0,0
+Rochdale,Hartlepool,1,2,0,1,6,9,1,3,0,0
+Salford,Barrow,1,1,1,0,2,7,2,3,1,0
+Stockport,Crewe,2,0,0,0,5,5,0,1,0,0
+Swindon,Walsall,1,2,1,1,4,6,1,1,0,0
+Tranmere,Doncaster,3,0,1,0,2,5,1,2,0,0
+Leyton Orient,Stevenage,0,0,0,0,6,3,2,2,0,0
+Crewe,Carlisle,0,3,0,1,6,8,1,1,1,0
+Barrow,Tranmere,1,2,1,1,5,4,1,0,0,1
+Bradford,Harrogate,1,0,1,0,3,6,1,2,0,0
+Colchester,AFC Wimbledon,1,2,0,0,4,3,3,2,0,0
+Doncaster,Rochdale,4,3,3,2,6,3,0,1,0,0
+Grimsby,Salford,1,4,1,4,7,1,1,0,0,0
+Hartlepool,Mansfield,1,2,1,0,3,6,2,1,0,0
+Northampton,Swindon,1,2,0,1,15,3,2,3,0,0
+Sutton,Gillingham,2,1,1,0,5,1,2,1,0,0
+Walsall,Stockport,0,2,0,1,7,5,3,1,0,0
+Newport County,Leyton Orient,0,0,0,0,3,6,1,1,0,0
+Stevenage,Crawley Town,3,1,2,0,7,5,1,0,0,0
+Bradford,Salford,3,2,2,1,4,6,4,2,0,0
+Colchester,Swindon,1,0,1,0,4,6,3,2,0,0
+Crewe,Tranmere,1,0,1,0,5,13,1,1,0,0
+Doncaster,Carlisle,2,1,1,0,5,0,1,1,0,0
+Grimsby,Stockport,1,0,0,0,2,10,2,0,0,0
+Hartlepool,Harrogate,3,3,1,1,2,4,1,1,0,0
+Sutton,AFC Wimbledon,2,1,1,1,2,2,1,1,0,0
+Walsall,Mansfield,2,1,1,0,5,4,2,2,0,0
+Barrow,Rochdale,0,0,0,0,3,2,1,3,0,0
+Newport County,Crawley Town,2,2,0,1,6,1,1,3,0,0
+Northampton,Leyton Orient,1,0,0,0,6,6,3,2,0,1
+Stevenage,Gillingham,1,0,1,0,2,2,3,1,0,0
+Salford,Northampton,2,1,2,1,2,4,1,1,0,0
+Crewe,AFC Wimbledon,0,0,0,0,4,4,1,2,0,0
+Harrogate,Colchester,1,3,0,2,9,4,2,3,0,0
+Leyton Orient,Doncaster,1,0,0,0,6,3,1,1,0,0
+Mansfield,Barrow,2,3,2,1,4,3,1,3,0,0
+Rochdale,Newport County,1,1,1,0,3,4,1,4,0,0
+Tranmere,Sutton,2,2,1,1,6,2,4,2,0,0
+Bradford,Rochdale,1,2,1,0,5,4,1,3,0,0
+AFC Wimbledon,Bradford,0,0,0,0,10,3,0,2,0,1
+Carlisle,Newport County,2,0,1,0,4,2,2,1,0,0
+Gillingham,Hartlepool,2,0,1,0,2,3,1,2,0,0
+Harrogate,Stevenage,1,1,0,0,2,8,0,1,0,0
+Leyton Orient,Barrow,0,0,0,0,3,7,1,2,1,0
+Mansfield,Crewe,1,1,1,0,8,6,2,1,1,0
+Rochdale,Colchester,1,2,1,1,6,2,2,1,0,0
+Salford,Sutton,2,0,2,0,5,8,3,2,0,0
+Stockport,Northampton,2,0,1,0,5,9,1,1,0,0
+Swindon,Grimsby,5,0,1,0,4,5,1,2,0,1
+Tranmere,Walsall,1,1,0,0,6,3,2,1,0,1
+Colchester,Gillingham,0,2,0,2,8,2,1,2,0,0
+Hartlepool,Rochdale,2,0,0,0,8,4,3,0,0,2
+Stevenage,Leyton Orient,3,0,2,0,5,4,2,1,0,1
+Carlisle,Hartlepool,3,1,2,1,4,4,0,0,0,0
+Colchester,Salford,1,1,0,0,6,6,0,0,0,0
+Stockport,Bradford,0,0,0,0,9,1,1,1,0,0
+AFC Wimbledon,Stockport,1,0,0,0,2,9,5,2,0,0
+Barrow,Northampton,0,2,0,0,3,3,1,2,0,0
+Crawley Town,Salford,3,2,2,0,3,6,3,1,0,0
+Harrogate,Sutton,0,1,0,1,7,7,1,1,0,0
+Hartlepool,Colchester,1,2,0,1,7,1,2,1,0,0
+Mansfield,Doncaster,4,1,2,0,4,2,2,2,0,0
+Rochdale,Carlisle,0,1,0,1,1,6,2,3,0,0
+Swindon,Gillingham,3,3,1,3,7,1,1,2,1,0
+Tranmere,Leyton Orient,1,0,0,0,6,1,0,2,0,0
+Carlisle,Barrow,5,1,1,0,5,2,2,2,0,0
+Crewe,Stockport,1,1,1,0,8,4,0,2,0,0
+Salford,Walsall,1,0,1,0,2,4,3,2,0,0
+Newport County,Swindon,2,1,0,0,6,2,4,1,0,1
+Bradford,Mansfield,1,1,1,0,9,4,1,3,0,0
+Carlisle,Harrogate,0,1,0,0,10,2,2,2,0,0
+Colchester,Barrow,1,1,0,0,8,8,3,4,0,0
+Crewe,Grimsby,0,3,0,2,8,1,0,1,0,0
+Doncaster,Hartlepool,0,1,0,0,6,3,1,1,0,0
+Gillingham,Crawley Town,1,0,0,0,5,6,0,0,0,0
+Leyton Orient,AFC Wimbledon,1,0,0,0,8,2,3,1,0,0
+Northampton,Walsall,0,0,0,0,1,3,1,3,1,0
+Salford,Rochdale,2,1,1,0,4,7,2,1,0,0
+Stockport,Tranmere,3,2,2,1,3,8,0,1,0,0
+Sutton,Stevenage,0,0,0,0,2,4,1,2,0,0
+Crewe,Leyton Orient,0,2,0,1,4,9,1,0,0,0
+Doncaster,Tranmere,2,0,0,0,0,9,1,3,0,0
+AFC Wimbledon,Carlisle,0,0,0,0,2,7,1,2,0,0
+Barrow,Newport County,0,1,0,0,7,5,1,3,1,0
+Crawley Town,Crewe,2,2,1,0,7,3,2,2,0,1
+Grimsby,Colchester,0,1,0,1,2,3,1,2,0,0
+Harrogate,Stockport,1,3,0,2,5,6,1,2,0,0
+Hartlepool,Sutton,2,2,2,2,3,7,2,2,0,1
+Mansfield,Gillingham,2,0,2,0,5,5,2,3,0,0
+Rochdale,Northampton,1,1,0,0,4,4,3,0,0,0
+Stevenage,Bradford,2,3,1,0,7,3,1,5,0,0
+Swindon,Doncaster,0,2,0,0,5,5,2,3,0,0
+Tranmere,Salford,1,0,1,0,7,5,2,2,0,0
+Walsall,Leyton Orient,1,1,1,0,4,4,3,1,0,0
+Bradford,Tranmere,2,0,1,0,6,0,2,1,0,0
+Carlisle,Mansfield,0,4,0,4,5,4,3,1,0,0
+Colchester,Walsall,0,0,0,0,0,7,2,1,0,0
+Crewe,Hartlepool,2,0,2,0,4,3,0,2,0,1
+Doncaster,Barrow,1,0,1,0,1,3,1,2,0,0
+Gillingham,Grimsby,2,1,0,0,5,3,1,3,0,0
+Leyton Orient,Rochdale,2,1,2,0,6,3,1,4,0,0
+Newport County,Stevenage,2,2,1,1,3,2,1,3,0,0
+Northampton,AFC Wimbledon,0,0,0,0,6,4,1,4,0,0
+Salford,Harrogate,1,1,0,0,10,2,0,2,0,0
+Stockport,Crawley Town,2,1,1,1,8,5,2,1,0,0
+Sutton,Swindon,2,1,0,1,8,5,2,3,0,0
+Northampton,Grimsby,1,2,1,0,6,4,1,4,0,0
+AFC Wimbledon,Hartlepool,2,2,1,0,3,2,3,1,0,0
+Bradford,Barrow,0,1,0,1,8,1,2,4,0,0
+Carlisle,Colchester,1,0,1,0,1,5,0,0,0,0
+Harrogate,Crewe,2,2,1,0,11,5,0,2,0,0
+Leyton Orient,Crawley Town,1,0,0,0,9,4,2,1,0,0
+Rochdale,Gillingham,0,2,0,1,5,1,2,0,0,0
+Salford,Swindon,1,2,1,1,6,1,2,2,0,0
+Stockport,Stevenage,2,0,1,0,1,1,0,3,0,0
+Sutton,Doncaster,2,0,0,0,4,7,1,1,0,0
+Tranmere,Mansfield,0,2,0,1,4,5,0,1,0,0
+Walsall,Newport County,1,1,1,0,4,2,2,4,0,0
+Grimsby,Harrogate,0,0,0,0,7,1,0,0,0,0
+Hartlepool,Newport County,0,1,0,0,7,9,2,2,0,0
+Rochdale,Stockport,1,2,0,0,5,3,1,1,0,0
+Walsall,Crewe,0,0,0,0,4,3,2,3,0,0
+Barrow,Stockport,1,0,0,0,3,3,1,1,0,0
+Colchester,Northampton,0,1,0,1,9,5,3,5,0,0
+Crawley Town,Carlisle,2,5,0,4,3,9,1,1,0,0
+Crewe,Rochdale,1,1,0,0,3,7,1,1,1,0
+Doncaster,Bradford,0,1,0,0,3,1,2,4,0,0
+Gillingham,AFC Wimbledon,2,1,0,0,6,6,1,5,0,0
+Grimsby,Leyton Orient,2,2,0,1,1,1,1,3,0,0
+Hartlepool,Walsall,3,3,0,1,5,5,1,2,0,0
+Mansfield,Salford,2,5,1,2,6,6,4,1,0,0
+Newport County,Sutton,0,2,0,1,6,2,0,1,0,0
+Stevenage,Tranmere,0,1,0,0,5,3,2,4,0,0
+Swindon,Harrogate,3,0,2,0,4,1,1,3,0,0
+AFC Wimbledon,Stevenage,2,3,1,0,3,3,2,4,0,0
+Barrow,Salford,1,1,0,1,4,4,1,3,0,0
+Gillingham,Bradford,0,2,0,1,3,4,2,1,0,0
+Harrogate,Northampton,1,1,0,0,5,2,1,1,0,0
+Tranmere,Crawley Town,1,0,0,0,7,8,1,0,0,0
+AFC Wimbledon,Mansfield,1,3,1,1,2,4,1,4,0,0
+Bradford,Colchester,2,0,0,0,5,5,3,1,0,0
+Carlisle,Grimsby,2,0,2,0,2,1,1,2,0,0
+Harrogate,Gillingham,0,0,0,0,4,6,0,2,0,0
+Leyton Orient,Swindon,1,1,1,0,12,2,1,1,0,0
+Northampton,Crawley Town,1,0,0,0,7,5,3,5,1,0
+Rochdale,Stevenage,2,0,2,0,0,10,0,2,0,0
+Salford,Newport County,3,1,1,1,6,1,0,1,0,0
+Stockport,Doncaster,0,0,0,0,8,0,2,2,0,0
+Sutton,Crewe,1,1,0,1,11,1,1,2,0,1
+Tranmere,Hartlepool,1,1,0,1,7,6,0,1,0,0
+Walsall,Barrow,0,1,0,1,2,1,2,2,0,0
+Doncaster,Harrogate,0,2,0,0,4,5,1,0,0,0
+Grimsby,Newport County,1,1,1,0,5,4,1,0,0,0
+Stockport,Gillingham,0,0,0,0,7,0,0,2,0,0
+Sutton,Crawley Town,3,0,1,0,9,5,0,2,0,1
+Walsall,Bradford,0,0,0,0,5,1,1,3,0,0
+Crewe,Salford,4,3,2,2,2,4,2,0,0,0
+Barrow,Sutton,0,0,0,0,4,4,1,0,0,0
+Colchester,Stockport,0,1,0,1,7,7,2,2,0,0
+Crawley Town,Harrogate,3,1,2,0,6,2,4,2,0,1
+Doncaster,AFC Wimbledon,2,1,2,1,9,2,2,0,0,0
+Gillingham,Tranmere,2,0,1,0,8,3,0,1,0,0
+Grimsby,Rochdale,1,0,0,0,5,3,4,1,0,0
+Hartlepool,Northampton,1,1,1,0,6,4,1,0,0,0
+Newport County,Bradford,1,1,0,1,7,2,1,4,0,0
+Stevenage,Walsall,3,1,3,1,6,4,3,1,0,0
+Swindon,Carlisle,1,2,0,0,3,6,4,3,0,0
+Newport County,AFC Wimbledon,1,1,0,1,7,2,3,3,0,0
+Northampton,Mansfield,1,0,1,0,6,1,1,3,0,1
+Stevenage,Crewe,1,0,0,0,16,2,2,0,0,0
+Sutton,Grimsby,0,1,0,1,5,3,4,2,0,0
+Walsall,Swindon,0,0,0,0,5,5,2,0,0,0
+Bradford,Hartlepool,2,2,0,1,2,7,1,2,0,0
+AFC Wimbledon,Crawley Town,0,1,0,1,1,5,3,4,0,0
+Carlisle,Stevenage,0,0,0,0,4,3,2,3,0,0
+Harrogate,Barrow,1,0,0,0,5,5,1,1,0,0
+Leyton Orient,Colchester,2,2,1,0,1,3,3,2,0,0
+Northampton,Crewe,1,0,1,0,8,0,1,0,0,0
+Rochdale,Swindon,4,4,2,2,6,5,2,1,0,0
+Salford,Doncaster,3,1,2,1,9,5,2,1,0,0
+Stockport,Mansfield,1,1,1,0,6,9,2,0,0,0
+Tranmere,Newport County,1,3,0,2,10,1,1,1,0,0
+Walsall,Gillingham,2,0,0,0,7,4,2,1,0,0
+Bradford,Carlisle,0,0,0,0,3,4,1,3,0,0
+Crawley Town,Doncaster,1,1,0,1,9,0,1,4,0,0
+Gillingham,Crewe,2,1,0,0,3,3,2,1,0,0
+Mansfield,Grimsby,0,0,0,0,9,8,0,1,0,0
+Barrow,AFC Wimbledon,2,1,0,1,4,5,2,3,0,0
+Colchester,Tranmere,1,1,0,1,7,3,5,8,0,0
+Crawley Town,Rochdale,2,0,2,0,9,5,1,2,0,0
+Doncaster,Northampton,0,2,0,1,3,4,2,3,0,0
+Gillingham,Carlisle,1,0,0,0,6,3,2,5,0,0
+Grimsby,Walsall,1,1,1,0,2,8,5,4,0,0
+Hartlepool,Leyton Orient,1,1,0,0,3,6,0,3,0,0
+Mansfield,Sutton,0,0,0,0,4,5,1,4,0,0
+Stevenage,Salford,1,3,0,0,8,3,2,2,0,0
+Swindon,Stockport,0,1,0,0,1,2,3,5,1,0
+AFC Wimbledon,Walsall,2,0,0,0,7,3,1,4,0,0
+Crawley Town,Grimsby,1,1,0,1,5,4,2,2,0,0
+Stockport,Salford,1,1,1,0,7,2,1,1,0,0
+Tranmere,Harrogate,1,1,1,1,3,4,3,3,0,0
+Bradford,Grimsby,3,2,1,2,4,4,3,1,0,0
+AFC Wimbledon,Rochdale,0,1,0,0,6,2,2,2,0,0
+Barrow,Gillingham,2,1,1,0,3,1,2,2,0,0
+Colchester,Newport County,0,0,0,0,10,7,2,2,0,0
+Doncaster,Crewe,0,2,0,2,3,9,0,0,0,0
+Hartlepool,Swindon,2,1,0,1,10,5,4,3,0,0
+Leyton Orient,Carlisle,1,0,0,0,5,7,4,1,1,0
+Mansfield,Crawley Town,4,1,1,0,5,5,1,2,0,0
+Northampton,Stevenage,1,1,1,0,3,5,5,3,0,0
+Walsall,Sutton,1,1,0,1,5,10,2,2,0,0
+Carlisle,Tranmere,2,0,2,0,7,4,2,1,0,0
+Crawley Town,Bradford,0,0,0,0,12,4,3,2,0,1
+Crewe,Barrow,3,0,2,0,2,5,5,2,0,0
+Gillingham,Doncaster,1,0,1,0,5,2,0,1,0,0
+Grimsby,Hartlepool,1,4,0,1,3,1,1,0,0,0
+Harrogate,AFC Wimbledon,2,2,0,1,6,5,2,3,0,0
+Newport County,Northampton,3,0,1,0,1,5,3,3,0,0
+Rochdale,Walsall,4,2,2,1,4,5,0,2,0,0
+Salford,Leyton Orient,0,2,0,2,5,1,4,4,0,0
+Stevenage,Colchester,1,1,0,1,8,3,2,2,0,0
+Sutton,Stockport,0,1,0,0,2,4,2,3,0,0
+Swindon,Mansfield,2,4,1,3,0,2,2,2,0,0
+AFC Wimbledon,Salford,2,3,1,0,4,4,3,3,0,0
+Barrow,Crawley Town,4,0,1,0,3,3,4,2,0,0
+Bradford,Sutton,3,1,1,0,7,3,2,2,0,0
+Colchester,Crewe,4,0,3,0,6,5,1,2,0,0
+Doncaster,Grimsby,1,2,1,0,3,5,1,5,0,0
+Hartlepool,Stevenage,1,1,0,1,4,6,1,3,0,0
+Leyton Orient,Harrogate,2,2,2,0,7,4,0,2,0,0
+Mansfield,Rochdale,1,1,1,1,12,1,1,2,0,0
+Northampton,Gillingham,2,1,1,0,4,0,1,1,0,0
+Stockport,Newport County,4,0,2,0,6,3,0,1,0,0
+Tranmere,Swindon,1,0,1,0,3,7,0,2,0,0
+Walsall,Carlisle,0,0,0,0,4,8,1,2,1,0
+Carlisle,Northampton,0,0,0,0,3,4,1,3,0,0
+Crawley Town,Tranmere,2,1,2,1,8,4,2,3,0,0
+Crewe,Walsall,2,0,2,0,7,3,2,2,0,1
+Gillingham,Stockport,1,1,0,0,2,6,4,1,0,0
+Grimsby,Mansfield,1,1,0,1,3,6,2,3,0,0
+Harrogate,Doncaster,2,2,0,1,11,4,1,1,0,0
+Newport County,Hartlepool,2,0,2,0,7,5,2,1,0,0
+Rochdale,Bradford,0,3,0,1,1,4,0,1,0,0
+Salford,Colchester,0,1,0,1,9,4,3,3,0,0
+Stevenage,AFC Wimbledon,2,1,1,1,1,1,2,1,0,0
+Sutton,Leyton Orient,0,2,0,2,2,3,1,2,0,0
+Swindon,Barrow,0,0,0,0,6,3,0,2,0,0
+Carlisle,Stockport,2,2,0,1,12,6,3,1,0,0
+Crawley Town,Colchester,0,0,0,0,2,7,0,0,0,0
+Gillingham,Leyton Orient,2,0,1,0,2,2,1,4,0,1
+Grimsby,Barrow,1,0,0,0,3,8,1,2,0,0
+Harrogate,Walsall,3,0,1,0,2,2,0,0,0,0
+Newport County,Mansfield,1,2,0,1,3,4,3,4,0,0
+Rochdale,Tranmere,2,2,0,1,6,5,1,1,0,0
+Salford,Hartlepool,2,0,2,0,5,3,0,2,0,0
+Stevenage,Doncaster,1,0,1,0,3,0,3,1,0,0
+Sutton,Northampton,1,2,1,1,5,3,3,2,0,0
+Swindon,Bradford,1,0,0,0,5,3,0,2,0,0
+AFC Wimbledon,Swindon,1,5,1,3,7,2,3,4,1,0
+Barrow,Carlisle,0,1,0,1,5,4,4,2,0,0
+Bradford,Gillingham,2,2,0,1,6,8,1,3,0,0
+Colchester,Sutton,4,1,3,1,5,6,0,1,0,0
+Doncaster,Newport County,1,3,1,0,2,4,2,4,0,0
+Hartlepool,Crawley Town,0,2,0,1,3,2,2,4,0,0
+Leyton Orient,Crewe,2,0,0,0,6,8,1,2,0,0
+Mansfield,Stevenage,1,0,1,0,2,4,1,1,0,0
+Northampton,Harrogate,3,1,3,1,7,7,2,0,0,0
+Stockport,Rochdale,1,0,1,0,8,0,2,1,0,0
+Tranmere,Grimsby,2,0,1,0,5,8,1,2,0,0
+Walsall,Salford,2,3,0,1,2,4,3,1,0,1
+Grimsby,Crewe,2,0,1,0,2,8,1,1,0,0
+Mansfield,Leyton Orient,1,2,1,2,7,1,2,3,0,1
+Newport County,Harrogate,2,3,1,2,8,1,3,1,0,0
+Swindon,Stevenage,0,1,0,1,6,4,0,1,0,0
+AFC Wimbledon,Tranmere,1,1,0,0,4,4,0,0,0,0
+Carlisle,Salford,2,3,0,2,3,3,4,3,1,0
+Crawley Town,Walsall,0,0,0,0,5,3,1,1,0,0
+Crewe,Swindon,2,1,0,1,3,2,2,1,0,0
+Doncaster,Colchester,1,0,1,0,3,7,1,3,0,0
+Gillingham,Newport County,1,2,1,1,3,7,0,0,0,0
+Hartlepool,Barrow,3,1,1,1,10,3,2,2,0,2
+Leyton Orient,Stockport,0,3,0,2,5,3,2,2,0,0
+Mansfield,Harrogate,1,2,0,2,7,1,1,1,0,0
+Northampton,Bradford,1,2,0,1,10,1,2,1,0,0
+Rochdale,Sutton,4,1,2,1,6,4,1,2,0,1
+Stevenage,Grimsby,2,0,0,0,5,7,0,1,0,0
+Crewe,Bradford,3,2,2,0,1,8,3,2,0,0
+Barrow,Stevenage,0,1,0,1,2,2,1,1,0,0
+Bradford,Leyton Orient,1,1,1,1,3,5,2,2,0,0
+Colchester,Mansfield,0,2,0,1,3,8,2,1,0,0
+Grimsby,AFC Wimbledon,1,0,1,0,4,7,1,3,0,0
+Harrogate,Rochdale,1,1,0,1,6,3,0,0,0,0
+Newport County,Crewe,2,2,0,0,12,1,1,1,0,0
+Salford,Gillingham,0,1,0,0,6,2,2,2,0,0
+Stockport,Hartlepool,1,1,1,0,9,1,0,1,0,0
+Sutton,Carlisle,1,1,1,0,5,2,0,1,0,0
+Swindon,Crawley Town,2,1,2,0,7,3,1,2,0,0
+Tranmere,Northampton,0,1,0,1,9,8,1,1,0,0
+Walsall,Doncaster,2,1,0,0,3,5,0,1,0,0

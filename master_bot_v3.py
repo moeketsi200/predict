@@ -1,3 +1,11 @@
+import warnings
+
+try:
+    from urllib3.exceptions import NotOpenSSLWarning
+    warnings.filterwarnings('ignore', category=NotOpenSSLWarning)
+except ImportError:
+    pass
+
 import pandas as pd
 import requests
 import os
@@ -11,34 +19,67 @@ from scipy.stats import poisson
 EURO_LEAGUES = {
     "epl": ["E0"], "laliga": ["SP1"], "seriaa": ["I1"], 
     "ligue1": ["F1"], "bundesliga": ["D1"], "eredivisie": ["N1"], 
-    "championship": ["E1"]
+    "championship": ["E1"], "scotland": ["SC0"], "belgium": ["B1"], 
+    "portugal": ["P1"], "turkey": ["T1"], "greece": ["G1"],
+    "league1_eng": ["E2"], "league2_eng": ["E3"], "national_league": ["E4"],
+    "bundesliga2": ["D2"], "serieb": ["I2"], "segunda": ["SP2"], 
+    "ligue2": ["F2"], "scotland2": ["SC1"]
 }
 
 CUSTOM_LEAGUES = {
     "psl": "https://fbref.com/en/comps/38/schedule/South-African-Premier-Division-Scores-and-Fixtures",
     "saudi": "https://fbref.com/en/comps/70/schedule/Saudi-Professional-League-Scores-and-Fixtures",
     "hnl": "https://fbref.com/en/comps/62/schedule/HNL-Scores-and-Fixtures",
-    "eliteserien": "https://fbref.com/en/comps/28/schedule/Eliteserien-Scores-and-Fixtures"
+    "eliteserien": "https://fbref.com/en/comps/28/schedule/Eliteserien-Scores-and-Fixtures",
+    "ucl": "https://fbref.com/en/comps/8/schedule/Champions-League-Scores-and-Fixtures"
+}
+
+EXTRA_LEAGUES = {
+    "argentina": "ARG", "austria": "AUT", "brazil": "BRA", "china": "CHN",
+    "denmark": "DNK", "finland": "FIN", "ireland": "IRL", "japan": "JPN",
+    "mexico": "MEX", "norway": "NOR", "poland": "POL", "romania": "ROU",
+    "russia": "RUS", "sweden": "SWE", "switzerland": "SWZ", "usa": "USA"
 }
 
 FBREF_LEAGUE_IDS = {
     "epl": "9", "laliga": "12", "seriaa": "11", "ligue1": "13", 
     "bundesliga": "20", "eredivisie": "21", "championship": "10",
-    "psl": "38", "saudi": "70", "hnl": "62", "eliteserien": "28"
+    "scotland": "40", "belgium": "37", "portugal": "32", "turkey": "26", "greece": "27",
+    "psl": "38", "saudi": "70", "hnl": "62", "eliteserien": "28", "ucl": "8",
+    "league1_eng": "15", "league2_eng": "16", "national_league": "34",
+    "bundesliga2": "33", "serieb": "18", "segunda": "17", 
+    "ligue2": "60", "scotland2": "72"
 }
 
-SEASONS = ["2425", "2324", "2223"]
+# --- NEW: The Guardian URL Paths ---
+GUARDIAN_LEAGUES = {
+    "epl": "premierleague", "championship": "championship",
+    "league1_eng": "leagueonefootball", "league2_eng": "leaguetwofootball",
+    "national_league": "national-league", "scotland": "scottish-premiership",
+    "laliga": "la-ligafootball", "seriaa": "serieafootball",
+    "bundesliga": "bundesligafootball", "ligue1": "ligue1football",
+    "ucl": "championsleague"
+}
+
+# The Guardian uses slightly different names for some teams. We translate them here!
+GUARDIAN_TEAM_MAP = {
+    "Man Utd": "Man United", "Spurs": "Tottenham", "Nottm Forest": "Nott'm Forest",
+    "Sheff Utd": "Sheffield United", "Sheff Wed": "Sheffield Weds", "Wolverhampton": "Wolves"
+}
+
+SEASONS = ["2526", "2425", "2324", "2223"]
 
 DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
 
-# Auto-migrate existing database files to keep the root folder clean
-for f in os.listdir('.'):
-    if f.endswith('.csv') and f not in ['fixtures.csv', 'sim_results.csv']:
-        try:
-            os.rename(f, os.path.join(DATA_DIR, f))
-        except Exception:
-            pass
+def auto_migrate_files():
+    """Auto-migrate existing database files to keep the root folder clean."""
+    for f in os.listdir('.'):
+        if f.endswith('.csv') and f not in ['fixtures.csv', 'sim_results.csv']:
+            try:
+                os.rename(f, os.path.join(DATA_DIR, f))
+            except Exception:
+                pass
 
 # ==========================================
 #      PART 1: DATA MANAGER (UPDATER)
@@ -72,10 +113,21 @@ def update_euro_data(league_name):
 def update_custom_data(league_name):
     print(f"--- SCRAPING {league_name.upper()} ---")
     url = CUSTOM_LEAGUES[league_name]
-    time.sleep(2)
+    time.sleep(3)
 
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1"
+        }
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         
@@ -83,9 +135,10 @@ def update_custom_data(league_name):
         df = tables[0]
         
         df = df[df['Score'].notna()]
-        df = df[df['Score'].str.contains("–", na=False)]
+        # Support both en-dash (–) and standard hyphen (-)
+        df = df[df['Score'].str.contains(r"[–-]", na=False, regex=True)]
         
-        scores = df['Score'].str.split('–', expand=True)
+        scores = df['Score'].str.split(r'[–-]', expand=True, regex=True)
         
         clean_df = pd.DataFrame()
         clean_df['HomeTeam'] = df['Home']
@@ -95,29 +148,53 @@ def update_custom_data(league_name):
 
         # Note: fbref scraping currently only supports full-time goals.
         # Other stats (corners, cards, HT goals) are not available.
-        clean_df.to_csv(os.path.join(DATA_DIR, f"{league_name}.csv"), index=False)
-        print(f"Success! Scraped {len(clean_df)} matches.")
+        target_file = os.path.join(DATA_DIR, f"{league_name}.csv")
+        if os.path.exists(target_file):
+            existing_df = pd.read_csv(target_file)
+            combined_df = pd.concat([existing_df, clean_df], ignore_index=True)
+            clean_df = combined_df.drop_duplicates(subset=['HomeTeam', 'AwayTeam', 'FTHG', 'FTAG'], keep='last')
+            
+        clean_df.to_csv(target_file, index=False)
+        print(f"Success! Updated {league_name}. Total matches on file: {len(clean_df)}.")
         
     except Exception as e:
         print(f"Scraping Error: {e}")
+
+def update_extra_data(league_name):
+    print(f"--- UPDATING {league_name.upper()} ---")
+    code = EXTRA_LEAGUES[league_name]
+    url = f"https://www.football-data.co.uk/new/{code}.csv"
+    print(f"Downloading from {url}...")
+    try:
+        df = pd.read_csv(url)
+        # Extra leagues use different column names: Home, Away, HG, AG
+        # Drop rows where goals are missing (e.g., unplayed/postponed matches)
+        df = df.dropna(subset=['Home', 'Away', 'HG', 'AG'])
+        
+        clean_df = pd.DataFrame()
+        clean_df['HomeTeam'] = df['Home']
+        clean_df['AwayTeam'] = df['Away']
+        clean_df['FTHG'] = df['HG'].astype(int)
+        clean_df['FTAG'] = df['AG'].astype(int)
+        
+        target_file = os.path.join(DATA_DIR, f"{league_name}.csv")
+        clean_df.to_csv(target_file, index=False)
+        print(f"Success! Saved {len(clean_df)} matches.")
+    except Exception as e:
+        print(f"Error downloading {league_name}: {e}")
 
 # ==========================================
 #      PART 2: SINGLE MATCH PREDICTOR
 # ==========================================
 
-def get_match_probabilities(league_name, home_team, away_team, verbose=True):
-    filename = os.path.join(DATA_DIR, f"{league_name}.csv")
-    if not os.path.exists(filename):
-        if verbose: print(f"Error: Run 'update {league_name}' first.")
-        return None
-        
-    df = pd.read_csv(filename)
-    df = df.fillna(0)
+def calculate_probabilities_from_df(df, home_team, away_team, verbose=True):
+    """Core math engine: calculates Poisson probabilities from a given DataFrame."""
     if len(df) == 0: return None
     
     # --- TIME-WEIGHTED FORM (Exponential Smoothing) ---
-    # Older matches get ~0.36 weight, newest matches get 1.0 weight
-    df['Weight'] = np.exp(np.linspace(-1, 0, len(df)))
+    # With multiple seasons (e.g., 1000+ matches), exp(-1) is too high for old matches.
+    # np.linspace(-3, 0) gives the oldest matches a ~0.04 weight instead of 0.36.
+    df['Weight'] = np.exp(np.linspace(-3, 0, len(df)))
     
     avg_home_goals = np.average(df['FTHG'], weights=df['Weight'])
     avg_away_goals = np.average(df['FTAG'], weights=df['Weight'])
@@ -188,8 +265,8 @@ def get_match_probabilities(league_name, home_team, away_team, verbose=True):
     rho = 0.15 # Dixon-Coles correlation parameter for low-scoring matches
     total_prob = 0
     
-    for h in range(7):
-        for a in range(7):
+    for h in range(10):
+        for a in range(10):
             p = poisson.pmf(h, home_xg) * poisson.pmf(a, away_xg)
             
             # --- DIXON-COLES ADJUSTMENT ---
@@ -228,6 +305,15 @@ def get_match_probabilities(league_name, home_team, away_team, verbose=True):
         outcomes["corners"] = home_exp_corners + away_exp_corners
 
     return outcomes
+
+def get_match_probabilities(league_name, home_team, away_team, verbose=True):
+    filename = os.path.join(DATA_DIR, f"{league_name}.csv")
+    if not os.path.exists(filename):
+        if verbose: print(f"Error: Run 'update {league_name}' first.")
+        return None
+        
+    df = pd.read_csv(filename)
+    return calculate_probabilities_from_df(df, home_team, away_team, verbose)
 
 def run_single_prediction(league, home, away):
     probs = get_match_probabilities(league, home, away)
@@ -279,35 +365,42 @@ def run_slip_checker():
         "A-1.5": lambda p: p["a_minus_1_5"],
     }
 
-    while True:
-        print("\n--- ADD LEG ---")
-        league = input("League (epl, laliga, psl...): ").strip().lower()
-        home = input("Home Team: ").strip()
-        away = input("Away Team: ").strip()
-        
-        probs = get_match_probabilities(league, home, away, verbose=True)
-        if not probs: continue
-        
-        print(f"\nSelect Market for {home} vs {away}:")
-        print("[1] Home Win | [X] Draw | [2] Away Win")
-        print("[1X] Home/Draw | [X2] Draw/Away | [DNB1] Home DNB | [DNB2] Away DNB")
-        print("[O1.5] Over 1.5 | [O2.5] Over 2.5 | [BTTS] Both Teams Score")
-        print("[H-1.5] Home Win by 2+ | [A-1.5] Away Win by 2+")
-        
-        market = input("Choice: ").upper().strip()
-        
-        if market not in MARKET_PROB_MAP:
-            print("Invalid market. Skipping.")
-            continue
-        
-        leg_prob = MARKET_PROB_MAP[market](probs)
-        slip_prob *= leg_prob
-        legs.append(f"{home} vs {away} ({market})")
-        
-        print(f"--> Leg Added (Prob: {leg_prob*100:.1f}%)")
-        print(f"--> NEW SLIP TOTAL: {slip_prob*100:.2f}%")
-        
-        if input("\nAdd another? (y/n): ").lower() != 'y': break
+    try:
+        while True:
+            print("\n--- ADD LEG ---")
+            league = input("League (epl, laliga, psl...): ").strip().lower()
+            home = input("Home Team: ").strip()
+            away = input("Away Team: ").strip()
+            
+            probs = get_match_probabilities(league, home, away, verbose=True)
+            if not probs: continue
+            
+            print(f"\nSelect Market for {home} vs {away}:")
+            print("[1] Home Win | [X] Draw | [2] Away Win")
+            print("[1X] Home/Draw | [X2] Draw/Away | [DNB1] Home DNB | [DNB2] Away DNB")
+            print("[O1.5] Over 1.5 | [O2.5] Over 2.5 | [BTTS] Both Teams Score")
+            print("[H-1.5] Home Win by 2+ | [A-1.5] Away Win by 2+")
+            
+            market = input("Choice: ").upper().strip()
+            
+            if market not in MARKET_PROB_MAP:
+                print("Invalid market. Skipping.")
+                continue
+            
+            leg_prob = MARKET_PROB_MAP[market](probs)
+            slip_prob *= leg_prob
+            legs.append(f"{home} vs {away} ({market})")
+            
+            print(f"--> Leg Added (Prob: {leg_prob*100:.1f}%)")
+            print(f"--> NEW SLIP TOTAL: {slip_prob*100:.2f}%")
+            
+            if input("\nAdd another? (y/n): ").lower() != 'y': break
+    except KeyboardInterrupt:
+        print("\n\nSlip builder interrupted. Calculating current slip...")
+
+    if not legs:
+        print("\nNo legs added. Exiting.")
+        return
 
     print("\n===============================")
     print(f"FINAL SLIP PROBABILITY: {slip_prob*100:.2f}%")
@@ -330,6 +423,8 @@ def run_batch_predictions(filepath, date_filter=None):
             print(f"Error: CSV must contain columns: {', '.join(required_cols)}")
             return
             
+        df = df.dropna(subset=required_cols)
+        
         if date_filter:
             if 'Date' not in df.columns:
                 print("Error: To filter by date, your CSV must have a 'Date' column.")
@@ -377,6 +472,74 @@ def run_batch_predictions(filepath, date_filter=None):
     except Exception as e:
         print(f"Error reading batch file: {e}")
 
+def download_full_schedule(league_name):
+    """Scrapes the entire season schedule and saves it to a CSV for batch predictions."""
+    if league_name not in FBREF_LEAGUE_IDS:
+        print(f"Error: Schedule scraping not supported for '{league_name}'.")
+        return
+        
+    comp_id = FBREF_LEAGUE_IDS[league_name]
+    url = f"https://fbref.com/en/comps/{comp_id}/schedule/Scores-and-Fixtures"
+    print(f"Scraping full season schedule for {league_name.upper()}...")
+    time.sleep(3)
+
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1"
+        }
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        
+        tables = pd.read_html(response.text)
+        df = tables[0]
+        
+        # Filter valid matches and remove repeated mid-table headers
+        df = df.dropna(subset=['Home', 'Away'])
+        df = df[df['Home'] != 'Home'] 
+        
+        # Format Matchweek column correctly (e.g., '1.0' -> 'MW1')
+        df['Date'] = df.get('Wk', '1').apply(
+            lambda x: f"MW{int(float(x))}" if pd.notna(x) and str(x).replace('.', '', 1).isdigit() else "Cup/Other"
+        )
+            
+        schedule_df = pd.DataFrame({'League': league_name, 'Date': df['Date'], 'Home': df['Home'], 'Away': df['Away']})
+        
+        os.makedirs("schedules", exist_ok=True)
+        filename = os.path.join("schedules", f"{league_name}_fixtures.csv")
+        schedule_df.to_csv(filename, index=False)
+        print(f"Success! Saved {len(schedule_df)} matches to {filename}.")
+        
+    except Exception as e:
+        print(f"Error scraping schedule: {e}")
+        
+        # --- FOOTBALL-DATA FALLBACK (Highly stable, no blocks) ---
+        if league_name in EURO_LEAGUES:
+            print(f"Falling back to football-data.co.uk to rescue {league_name.upper()} fixtures...")
+            try:
+                fd_url = "https://www.football-data.co.uk/fixtures.csv"
+                df_fd = pd.read_csv(fd_url)
+                div_codes = EURO_LEAGUES[league_name]
+                df_fd = df_fd[df_fd['Div'].isin(div_codes)]
+                
+                if not df_fd.empty:
+                    # FData doesn't have Matchweeks, so we use the actual calendar Date
+                    schedule_df = pd.DataFrame({'League': league_name, 'Date': df_fd['Date'], 'Home': df_fd['HomeTeam'], 'Away': df_fd['AwayTeam']})
+                    os.makedirs("schedules", exist_ok=True)
+                    filename = os.path.join("schedules", f"{league_name}_fixtures.csv")
+                    schedule_df.to_csv(filename, index=False)
+                    print(f"Success! Saved {len(schedule_df)} upcoming matches to {filename} using football-data fallback.")
+            except Exception as fd_e:
+                print(f"Football-data Fallback Error: {fd_e}")
+
 def scrape_upcoming_fixtures(league_name):
     """Scrapes upcoming, un-played fixtures."""
     # --- EUROPEAN LEAGUES (Use football-data to avoid 403 blocks and match team names) ---
@@ -388,30 +551,62 @@ def scrape_upcoming_fixtures(league_name):
             div_codes = EURO_LEAGUES[league_name]
             df = df[df['Div'].isin(div_codes)]
             
-            if df.empty:
-                return None
-                
-            fixtures = pd.DataFrame({
-                'Home': df['HomeTeam'],
-                'Away': df['AwayTeam']
-            })
-            return fixtures
+            if not df.empty:
+                fixtures = pd.DataFrame({
+                    'Home': df['HomeTeam'],
+                    'Away': df['AwayTeam']
+                })
+                return fixtures
+            else:
+                print("No immediate fixtures found on football-data.co.uk. Falling back to The Guardian...")
         except Exception as e:
-            print(f"Fixture Download Error: {e}")
-            return None
+            print(f"Fixture Download Error: {e}. Falling back to The Guardian...")
             
-    # --- CUSTOM LEAGUES (Fallback to fbref.com with enhanced stealth headers) ---
-    elif league_name in FBREF_LEAGUE_IDS:
+    # --- THE GUARDIAN FALLBACK (Highly stable, no Cloudflare blocks) ---
+    if league_name in GUARDIAN_LEAGUES:
+        path = GUARDIAN_LEAGUES[league_name]
+        url = f"https://www.theguardian.com/football/{path}/fixtures"
+        print(f"Scraping fixtures from The Guardian: {url}...")
+        try:
+            headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+            response = requests.get(url, headers=headers)
+            if response.status_code == 200:
+                tables = pd.read_html(response.text)
+                fixtures_list = []
+                for df in tables:
+                    # Guardian columns: [0] Time, [1] Home, [2] 'v', [3] Away
+                    if len(df.columns) >= 4:
+                        for _, row in df.iterrows():
+                            home = str(row.iloc[1]).strip()
+                            away = str(row.iloc[3]).strip()
+                            if home != 'nan' and away != 'nan' and home.lower() != 'home':
+                                home = GUARDIAN_TEAM_MAP.get(home, home)
+                                away = GUARDIAN_TEAM_MAP.get(away, away)
+                                fixtures_list.append({'Home': home, 'Away': away})
+                if fixtures_list:
+                    return pd.DataFrame(fixtures_list)
+        except Exception as e:
+            print(f"Guardian Scraping Error: {e}. Falling back to FBRef...")
+            
+    # --- FBRef FALLBACK & CUSTOM LEAGUES ---
+    if league_name in FBREF_LEAGUE_IDS:
         comp_id = FBREF_LEAGUE_IDS[league_name]
         url = f"https://fbref.com/en/comps/{comp_id}/schedule/Scores-and-Fixtures"
         print(f"Scraping fixtures from {url}...")
-        time.sleep(2)
+        time.sleep(3)
     
         try:
             headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.5"
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Connection": "keep-alive",
+                "Upgrade-Insecure-Requests": "1",
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Site": "none",
+                "Sec-Fetch-User": "?1"
             }
             response = requests.get(url, headers=headers)
             response.raise_for_status()
@@ -474,6 +669,24 @@ def import_custom_results(league_name, filepath):
         print(f"Error: File '{filepath}' not found.")
         return
 
+    # Football Web Pages (FWP) uses long names. We translate them to match our database.
+    team_name_map = {
+        "AFC Bournemouth": "Bournemouth", "Brighton & Hove Albion": "Brighton",
+        "Leeds United": "Leeds", "Manchester City": "Man City",
+        "Manchester United": "Man United", "Newcastle United": "Newcastle",
+        "Nottingham Forest": "Nott'm Forest", "Tottenham Hotspur": "Tottenham",
+        "West Ham United": "West Ham", "Wolverhampton Wanderers": "Wolves",
+        "Sheffield Wednesday": "Sheffield Weds", "Queens Park Rangers": "QPR",
+        "West Bromwich Albion": "West Brom", "Preston North End": "Preston",
+        "Blackburn Rovers": "Blackburn", "Coventry City": "Coventry",
+        "Swansea City": "Swansea", "Norwich City": "Norwich",
+        "Birmingham City": "Birmingham", "Hull City": "Hull",
+        "Cardiff City": "Cardiff", "Stoke City": "Stoke",
+        "Leicester City": "Leicester", "Luton Town": "Luton",
+        "Ipswich Town": "Ipswich", "Huddersfield Town": "Huddersfield",
+        "Rotherham United": "Rotherham"
+    }
+
     new_rows = []
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -486,6 +699,9 @@ def import_custom_results(league_name, filepath):
                     fthg = row[3].strip()
                     ftag = row[4].strip()
                     away = row[5].strip()
+                    
+                    home = team_name_map.get(home, home)
+                    away = team_name_map.get(away, away)
                     
                     if fthg.isdigit() and ftag.isdigit():
                         new_rows.append({'HomeTeam': home, 'AwayTeam': away, 'FTHG': int(fthg), 'FTAG': int(ftag)})
@@ -500,17 +716,110 @@ def import_custom_results(league_name, filepath):
         if os.path.exists(target_file):
             existing_df = pd.read_csv(target_file)
             combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-            combined_df = combined_df.fillna(0)
-            combined_df.to_csv(target_file, index=False)
-            print(f"Success! Added {len(new_df)} new match results into {target_file}.")
+        else:
+            combined_df = new_df
+            
+        combined_df = combined_df.fillna(0)
+        combined_df.to_csv(target_file, index=False)
+        print(f"Success! Added {len(new_df)} new match results into {target_file}.")
     except Exception as e:
         print(f"Error reading custom results file: {e}")
+
+# ==========================================
+#      PART 4: BACKTESTING ENGINE
+# ==========================================
+
+def run_backtest(league_name, test_matches=100):
+    filename = os.path.join(DATA_DIR, f"{league_name}.csv")
+    if not os.path.exists(filename):
+        print(f"Error: Run 'update {league_name}' first.")
+        return
+        
+    df = pd.read_csv(filename)
+    if len(df) < test_matches + 50:
+        print(f"Error: Not enough data to backtest {test_matches} matches (Need at least {test_matches + 50}).")
+        return
+        
+    print(f"\n=== BACKTESTING LAST {test_matches} MATCHES IN {league_name.upper()} ===")
+    
+    wins, losses = 0, 0
+    start_idx = len(df) - test_matches
+    
+    for i in range(start_idx, len(df)):
+        row = df.iloc[i]
+        home, away = str(row['HomeTeam']), str(row['AwayTeam'])
+        actual_hg, actual_ag = int(row['FTHG']), int(row['FTAG'])
+        
+        # CRITICAL: Hide the future. Only feed the model matches that happened BEFORE this one.
+        history_df = df.iloc[:i].copy()
+        
+        probs = calculate_probabilities_from_df(history_df, home, away, verbose=False)
+        if not probs: continue
+            
+        markets = {
+            "1": probs['home'], "2": probs['away'], "1X": probs['home'] + probs['draw'], 
+            "X2": probs['away'] + probs['draw'], "O1.5": probs['o15'], "O2.5": probs['o25'],
+            "U2.5": 1 - probs['o25'], "BTTS": probs['btts']
+        }
+        safest_market = max(markets, key=markets.get)
+        
+        # Grade the prediction against reality
+        hit = False
+        if safest_market == "1" and actual_hg > actual_ag: hit = True
+        elif safest_market == "2" and actual_ag > actual_hg: hit = True
+        elif safest_market == "1X" and actual_hg >= actual_ag: hit = True
+        elif safest_market == "X2" and actual_ag >= actual_hg: hit = True
+        elif safest_market == "O1.5" and (actual_hg + actual_ag) >= 2: hit = True
+        elif safest_market == "O2.5" and (actual_hg + actual_ag) >= 3: hit = True
+        elif safest_market == "U2.5" and (actual_hg + actual_ag) <= 2: hit = True
+        elif safest_market == "BTTS" and actual_hg > 0 and actual_ag > 0: hit = True
+        
+        if hit:
+            wins += 1
+            print(f"✅ [WIN] {home} {actual_hg}-{actual_ag} {away} | Predicted: {safest_market} ({(markets[safest_market]*100):.1f}%)")
+        else:
+            losses += 1
+            print(f"❌ [LOSS] {home} {actual_hg}-{actual_ag} {away} | Predicted: {safest_market} ({(markets[safest_market]*100):.1f}%)")
+            
+    win_rate = wins / (wins + losses) if (wins + losses) > 0 else 0
+    print("\n======================================")
+    print(f"BACKTEST RESULTS ({league_name.upper()})")
+    print(f"Total Matches Tested: {wins + losses}")
+    print(f"Wins: {wins} | Losses: {losses}")
+    print(f"System Accuracy: {win_rate*100:.1f}%")
+    if win_rate >= 0.65: print("Status: 🔥 HIGHLY PROFITABLE SYSTEM")
+    elif win_rate >= 0.55: print("Status: ✅ PROFITABLE SYSTEM")
+    else: print("Status: ⚠️ HIGH RISK (Needs odds > 2.0 to be profitable)")
+    print("======================================\n")
+
+def show_teams(league_name):
+    filename = os.path.join(DATA_DIR, f"{league_name}.csv")
+    if not os.path.exists(filename):
+        print(f"Error: No data found for '{league_name}'. Run 'update {league_name}' first.")
+        return
+        
+    df = pd.read_csv(filename)
+    if len(df) == 0:
+        print(f"No match data in {league_name}.csv")
+        return
+        
+    # Look at the most recent 200 matches to avoid counting relegated teams from past seasons
+    recent_matches = df.tail(200) 
+    teams = sorted(recent_matches['HomeTeam'].dropna().unique())
+    
+    print(f"\n=== {league_name.upper()} ({len(teams)} CURRENT TEAMS) ===")
+    for i, team in enumerate(teams, 1):
+        print(f"{i}. {team}")
+    print("========================\n")
 
 # ==========================================
 #      MAIN MENU
 # ==========================================
 
 def main():
+    # Run environment setup and file migrations
+    auto_migrate_files()
+
     parser = argparse.ArgumentParser(
         description="A football prediction and analysis tool.",
         formatter_class=argparse.RawTextHelpFormatter
@@ -518,9 +827,9 @@ def main():
     subparsers = parser.add_subparsers(dest="mode", help="Available modes", required=True)
 
     # --- Update command ---
-    valid_leagues = list(EURO_LEAGUES.keys()) + list(CUSTOM_LEAGUES.keys())
+    valid_leagues = list(EURO_LEAGUES.keys()) + list(CUSTOM_LEAGUES.keys()) + list(EXTRA_LEAGUES.keys())
     parser_update = subparsers.add_parser("update", help="Update league data from a CSV or by scraping.")
-    parser_update.add_argument("league", help=f"The league to update.\nChoices: {', '.join(valid_leagues)}")
+    parser_update.add_argument("league", help=f"The league to update, or 'all'.\nChoices: all, {', '.join(valid_leagues)}")
 
     # --- Predict command ---
     parser_predict = subparsers.add_parser("predict", help="Predict a single match outcome.")
@@ -540,17 +849,41 @@ def main():
     parser_fixtures = subparsers.add_parser("fixtures", help="Scrape upcoming fixtures for a league and predict them.")
     parser_fixtures.add_argument("league", help=f"The league to get fixtures for.\nChoices: {', '.join(FBREF_LEAGUE_IDS.keys())}")
 
+    # --- Schedule command (NEW) ---
+    parser_schedule = subparsers.add_parser("schedule", help="Download the full season schedule to a CSV.")
+    parser_schedule.add_argument("league", help=f"The league schedule to download, or 'all'.\nChoices: all, {', '.join(FBREF_LEAGUE_IDS.keys())}")
+
     # --- Import command ---
     parser_import = subparsers.add_parser("import", help="Import custom match results from a CSV file.")
     parser_import.add_argument("league", help="The league to update (e.g., epl).")
     parser_import.add_argument("file", help="Path to the CSV file containing the results.")
 
+    # --- Backtest command ---
+    parser_backtest = subparsers.add_parser("backtest", help="Backtest the prediction model on historical data.")
+    parser_backtest.add_argument("league", help="The league to backtest.")
+    parser_backtest.add_argument("--matches", type=int, default=100, help="Number of past matches to backtest (default: 100).")
+
+    # --- Teams command ---
+    parser_teams = subparsers.add_parser("teams", help="Show the number of active teams and their names in a league.")
+    parser_teams.add_argument("league", help="The league to check.")
+
     args = parser.parse_args()
 
     if args.mode == "update":
         league = args.league.lower()
-        if league in EURO_LEAGUES:
+        if league == "all":
+            print("=== UPDATING ALL LEAGUES ===")
+            for l in EURO_LEAGUES:
+                update_euro_data(l)
+            for l in EXTRA_LEAGUES:
+                update_extra_data(l)
+            for l in CUSTOM_LEAGUES:
+                update_custom_data(l)
+            print("\n=== ALL LEAGUES SUCCESSFULLY UPDATED ===")
+        elif league in EURO_LEAGUES:
             update_euro_data(league)
+        elif league in EXTRA_LEAGUES:
+            update_extra_data(league)
         elif league in CUSTOM_LEAGUES:
             update_custom_data(league)
         else:
@@ -563,8 +896,22 @@ def main():
         run_batch_predictions(args.file, args.date)
     elif args.mode == "fixtures":
         run_fixture_predictions(args.league)
+    elif args.mode == "schedule":
+        league = args.league.lower()
+        if league == "all":
+            print("=== DOWNLOADING ALL SCHEDULES ===")
+            for l in FBREF_LEAGUE_IDS:
+                download_full_schedule(l)
+        elif league in FBREF_LEAGUE_IDS:
+            download_full_schedule(league)
+        else:
+            print(f"Error: Unknown league '{league}'.")
     elif args.mode == "import":
         import_custom_results(args.league, args.file)
+    elif args.mode == "backtest":
+        run_backtest(args.league, args.matches)
+    elif args.mode == "teams":
+        show_teams(args.league)
 
 if __name__ == "__main__":
     main()

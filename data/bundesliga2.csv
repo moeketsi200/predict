@@ -1,0 +1,1153 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Schalke 04,Hertha,2,1,2,0,5,10,7,1,1,0
+Darmstadt,Bochum,4,1,2,1,5,8,2,3,0,0
+Elversberg,Nurnberg,1,0,0,0,2,4,2,3,0,0
+Karlsruhe,Preußen Münster,3,2,2,1,6,5,3,3,0,1
+Paderborn,Holstein Kiel,2,1,1,0,3,0,1,3,0,0
+Bielefeld,Fortuna Dusseldorf,5,1,1,1,8,3,4,4,0,1
+Greuther Furth,Dresden,3,2,2,1,4,10,1,0,0,0
+Hannover,Kaiserslautern,1,0,0,0,5,5,2,3,0,0
+Magdeburg,Braunschweig,0,1,0,0,12,2,4,1,0,1
+Nurnberg,Darmstadt,0,1,0,0,4,5,2,2,0,0
+Preußen Münster,Paderborn,1,1,0,1,5,5,0,0,0,0
+Braunschweig,Greuther Furth,3,2,2,1,3,9,2,3,0,0
+Dresden,Magdeburg,1,2,1,2,6,5,1,3,0,0
+Fortuna Dusseldorf,Hannover,0,2,0,0,5,2,6,4,0,0
+Kaiserslautern,Schalke 04,1,0,0,0,5,3,4,4,0,0
+Bochum,Elversberg,2,0,0,0,10,0,8,5,0,1
+Hertha,Karlsruhe,0,0,0,0,5,10,0,1,0,0
+Holstein Kiel,Bielefeld,0,2,0,2,9,7,0,6,0,1
+Elversberg,Kaiserslautern,2,1,1,0,4,8,3,2,0,0
+Preußen Münster,Nurnberg,2,1,2,0,1,7,3,6,0,0
+Hannover,Magdeburg,3,1,2,0,4,2,3,4,0,0
+Karlsruhe,Braunschweig,2,0,1,0,5,2,3,4,0,1
+Paderborn,Fortuna Dusseldorf,1,2,0,2,9,7,2,2,1,0
+Schalke 04,Bochum,2,1,0,0,8,9,0,3,0,0
+Bielefeld,Dresden,1,2,0,1,4,5,3,3,1,0
+Darmstadt,Hertha,0,0,0,0,7,2,1,1,0,0
+Greuther Furth,Holstein Kiel,0,2,0,1,6,3,3,8,0,0
+Hertha,Elversberg,0,2,0,1,4,4,6,2,1,0
+Nurnberg,Paderborn,0,0,0,0,7,5,3,4,0,0
+Bochum,Preußen Münster,1,2,1,1,6,4,3,3,0,0
+Braunschweig,Bielefeld,1,1,0,0,3,7,3,3,0,0
+Holstein Kiel,Hannover,1,2,1,0,1,5,2,3,0,0
+Fortuna Dusseldorf,Karlsruhe,0,0,0,0,4,2,1,3,0,0
+Dresden,Schalke 04,0,1,0,0,1,6,1,4,0,0
+Kaiserslautern,Darmstadt,3,1,0,0,3,5,2,2,0,0
+Magdeburg,Greuther Furth,4,5,1,1,2,3,5,4,1,0
+Bielefeld,Magdeburg,2,0,0,0,5,5,1,2,0,0
+Paderborn,Bochum,1,0,0,0,3,7,1,4,0,0
+Darmstadt,Braunschweig,2,1,0,1,2,5,2,2,0,1
+Karlsruhe,Nurnberg,2,1,1,1,6,10,2,1,0,0
+Schalke 04,Holstein Kiel,0,1,0,1,8,3,0,3,0,0
+Hannover,Hertha,0,3,0,0,15,0,2,5,0,0
+Elversberg,Dresden,2,2,1,2,7,5,0,4,0,0
+Greuther Furth,Kaiserslautern,0,3,0,1,4,5,1,6,1,0
+Preußen Münster,Fortuna Dusseldorf,1,2,1,0,8,2,3,2,0,0
+Bielefeld,Greuther Furth,1,3,0,1,6,3,2,1,0,0
+Kaiserslautern,Preußen Münster,4,1,3,0,4,0,3,4,0,0
+Braunschweig,Elversberg,1,4,1,2,4,9,4,6,1,0
+Hertha,Paderborn,0,2,0,1,7,4,4,1,0,0
+Magdeburg,Schalke 04,0,2,0,1,3,2,2,1,0,0
+Nurnberg,Bochum,2,1,0,0,8,5,1,5,0,0
+Dresden,Hannover,2,2,2,2,5,8,3,1,1,0
+Fortuna Dusseldorf,Darmstadt,0,3,0,0,6,6,0,0,0,0
+Holstein Kiel,Karlsruhe,3,0,2,0,4,5,5,3,0,0
+Darmstadt,Dresden,2,0,1,0,6,4,2,1,0,0
+Schalke 04,Greuther Furth,1,0,0,0,10,6,2,2,0,0
+Elversberg,Holstein Kiel,1,0,0,0,9,4,4,2,0,0
+Karlsruhe,Magdeburg,1,0,0,0,8,5,1,6,0,0
+Paderborn,Kaiserslautern,2,0,0,0,8,2,2,0,0,1
+Bochum,Fortuna Dusseldorf,0,1,0,1,4,3,5,3,0,0
+Hannover,Bielefeld,3,1,0,1,4,2,2,1,0,0
+Nurnberg,Hertha,0,3,0,2,6,1,2,3,0,0
+Preußen Münster,Braunschweig,3,1,1,0,3,9,3,4,0,0
+Braunschweig,Paderborn,1,2,0,1,4,4,3,2,0,0
+Fortuna Dusseldorf,Nurnberg,2,3,0,1,1,2,3,2,0,0
+Hertha,Preußen Münster,2,1,1,0,5,4,4,3,0,0
+Holstein Kiel,Darmstadt,1,1,0,0,5,0,1,1,0,0
+Kaiserslautern,Bochum,3,2,1,1,11,2,2,5,0,0
+Dresden,Karlsruhe,3,3,1,2,3,7,1,1,0,0
+Bielefeld,Schalke 04,1,2,0,2,6,2,3,2,0,0
+Greuther Furth,Hannover,2,2,1,1,3,6,2,1,0,0
+Magdeburg,Elversberg,0,4,0,2,7,13,1,2,0,0
+Fortuna Dusseldorf,Braunschweig,1,2,0,2,9,2,1,2,0,0
+Hannover,Schalke 04,0,3,0,2,9,7,0,2,0,0
+Karlsruhe,Kaiserslautern,2,3,0,1,7,1,6,4,0,0
+Paderborn,Bielefeld,4,3,1,2,8,5,5,3,0,0
+Preußen Münster,Dresden,2,2,0,1,4,3,2,3,0,1
+Bochum,Hertha,3,2,2,0,1,6,3,3,0,0
+Darmstadt,Magdeburg,0,0,0,0,1,5,2,1,1,0
+Elversberg,Greuther Furth,6,0,1,0,6,3,1,3,0,0
+Nurnberg,Holstein Kiel,1,1,1,0,3,7,3,1,0,0
+Greuther Furth,Karlsruhe,1,4,0,2,9,5,0,3,0,0
+Schalke 04,Darmstadt,1,0,1,0,6,4,5,1,0,0
+Bielefeld,Elversberg,2,0,2,0,3,6,2,2,0,0
+Dresden,Paderborn,1,2,1,1,10,4,2,2,0,0
+Holstein Kiel,Bochum,1,1,0,0,9,7,1,5,0,0
+Hertha,Fortuna Dusseldorf,1,0,0,0,6,7,2,2,0,0
+Braunschweig,Hannover,0,3,0,2,2,5,2,5,1,0
+Kaiserslautern,Nurnberg,1,1,1,0,4,8,3,3,0,0
+Magdeburg,Preußen Münster,2,0,0,0,2,5,1,4,0,0
+Elversberg,Hannover,2,2,1,1,5,4,3,2,0,0
+Preußen Münster,Holstein Kiel,2,1,0,1,4,7,5,4,0,0
+Hertha,Dresden,2,0,2,0,3,5,0,0,0,0
+Karlsruhe,Schalke 04,2,1,0,0,2,7,4,5,0,0
+Nurnberg,Braunschweig,2,1,2,1,1,9,2,3,0,1
+Darmstadt,Bielefeld,2,2,2,1,9,9,4,1,0,0
+Bochum,Magdeburg,2,0,1,0,8,7,2,4,0,0
+Fortuna Dusseldorf,Kaiserslautern,1,1,0,0,2,4,4,2,0,0
+Paderborn,Greuther Furth,2,1,1,0,5,5,1,3,0,0
+Dresden,Nurnberg,1,2,1,1,5,5,3,3,0,0
+Greuther Furth,Preußen Münster,1,0,0,0,4,7,1,4,0,0
+Bielefeld,Karlsruhe,4,0,1,0,3,5,0,2,0,0
+Hannover,Darmstadt,2,3,2,1,5,5,2,1,0,0
+Schalke 04,Elversberg,1,0,1,0,1,5,4,2,0,0
+Kaiserslautern,Hertha,0,1,0,1,7,4,2,3,0,0
+Braunschweig,Bochum,0,2,0,1,10,9,3,3,0,0
+Holstein Kiel,Fortuna Dusseldorf,1,0,0,0,3,5,1,3,0,0
+Magdeburg,Paderborn,0,1,0,1,3,5,4,4,0,0
+Bochum,Dresden,1,2,0,2,13,8,0,3,0,0
+Hertha,Braunschweig,1,0,0,0,6,5,1,3,0,0
+Fortuna Dusseldorf,Magdeburg,2,1,1,0,3,11,4,1,0,0
+Paderborn,Hannover,0,2,0,2,11,4,0,1,0,0
+Preußen Münster,Schalke 04,0,0,0,0,4,6,1,5,1,0
+Darmstadt,Greuther Furth,4,2,1,1,5,2,2,3,0,0
+Kaiserslautern,Holstein Kiel,4,1,4,1,10,3,2,5,0,1
+Karlsruhe,Elversberg,2,3,0,1,4,9,3,1,0,0
+Nurnberg,Bielefeld,2,0,0,0,6,13,3,3,0,0
+Hannover,Karlsruhe,3,0,0,0,4,1,2,1,0,0
+Schalke 04,Paderborn,2,1,1,1,3,3,2,4,0,0
+Braunschweig,Kaiserslautern,2,0,1,0,5,6,2,5,0,0
+Greuther Furth,Bochum,0,3,0,3,6,9,2,0,0,0
+Holstein Kiel,Hertha,0,1,0,0,8,3,2,6,0,0
+Magdeburg,Nurnberg,3,0,0,0,6,5,3,3,0,1
+Bielefeld,Preußen Münster,1,2,1,1,13,2,3,6,0,0
+Dresden,Fortuna Dusseldorf,2,1,1,0,4,0,1,2,0,0
+Elversberg,Darmstadt,0,0,0,0,6,5,0,1,0,0
+Fortuna Dusseldorf,Schalke 04,0,2,0,1,1,4,7,1,1,0
+Preußen Münster,Hannover,2,2,0,1,5,2,4,3,0,0
+Bochum,Bielefeld,1,0,0,0,4,5,5,2,0,0
+Kaiserslautern,Dresden,3,1,1,0,7,3,3,4,0,0
+Paderborn,Elversberg,1,2,0,1,3,10,4,1,1,0
+Darmstadt,Karlsruhe,3,2,1,1,8,9,1,2,0,0
+Braunschweig,Holstein Kiel,1,1,1,1,2,4,1,5,1,1
+Hertha,Magdeburg,0,2,0,0,7,5,0,3,0,0
+Nurnberg,Greuther Furth,2,2,0,0,5,3,2,3,0,0
+Dresden,Braunschweig,2,3,0,2,7,8,3,4,0,0
+Greuther Furth,Hertha,3,3,1,2,2,4,2,3,0,0
+Bielefeld,Kaiserslautern,0,0,0,0,10,4,1,1,0,0
+Karlsruhe,Paderborn,0,4,0,0,1,6,5,2,2,0
+Magdeburg,Holstein Kiel,3,3,2,1,6,4,2,3,0,0
+Hannover,Bochum,0,0,0,0,7,0,0,4,0,0
+Darmstadt,Preußen Münster,1,0,0,0,7,4,2,2,0,0
+Elversberg,Fortuna Dusseldorf,1,0,0,0,8,6,1,3,0,0
+Schalke 04,Nurnberg,1,0,0,0,0,7,3,3,0,0
+Hertha,Bielefeld,1,1,0,0,3,4,3,2,1,0
+Paderborn,Darmstadt,2,2,0,2,7,3,2,1,0,0
+Bochum,Karlsruhe,2,2,1,0,3,3,2,0,0,0
+Fortuna Dusseldorf,Greuther Furth,2,1,1,0,6,4,4,2,0,0
+Kaiserslautern,Magdeburg,2,3,0,2,4,4,6,5,0,0
+Holstein Kiel,Dresden,2,1,1,1,7,9,0,1,0,0
+Braunschweig,Schalke 04,2,1,0,0,3,4,0,1,0,0
+Nurnberg,Hannover,2,1,1,1,3,6,4,2,0,0
+Preußen Münster,Elversberg,1,1,0,1,5,6,2,2,0,0
+Braunschweig,Magdeburg,0,3,0,1,1,9,3,3,0,0
+Fortuna Dusseldorf,Bielefeld,1,0,0,0,2,2,0,0,0,0
+Dresden,Greuther Furth,2,0,1,0,7,3,3,3,0,0
+Nurnberg,Elversberg,3,2,0,1,7,3,5,1,0,0
+Preußen Münster,Karlsruhe,0,2,0,0,7,9,0,3,1,0
+Hertha,Schalke 04,0,0,0,0,6,3,4,2,0,0
+Bochum,Darmstadt,3,3,2,2,8,6,1,2,0,0
+Holstein Kiel,Paderborn,2,0,1,0,1,11,3,3,0,0
+Kaiserslautern,Hannover,3,1,0,0,5,6,1,2,0,1
+Bielefeld,Holstein Kiel,2,2,0,2,5,6,1,3,0,1
+Darmstadt,Nurnberg,2,0,0,0,3,6,1,0,0,0
+Greuther Furth,Braunschweig,0,0,0,0,2,10,3,2,1,0
+Hannover,Fortuna Dusseldorf,2,1,1,0,5,2,2,4,0,1
+Karlsruhe,Hertha,2,2,2,1,3,5,3,2,0,0
+Magdeburg,Dresden,1,2,1,2,10,5,2,0,0,0
+Elversberg,Bochum,1,1,0,1,9,2,0,0,0,0
+Paderborn,Preußen Münster,2,1,0,1,7,6,1,3,0,1
+Schalke 04,Kaiserslautern,2,2,0,0,10,2,1,1,0,0
+Magdeburg,Hannover,1,2,0,1,6,3,1,4,0,0
+Nurnberg,Preußen Münster,1,1,0,0,7,2,2,4,0,0
+Bochum,Schalke 04,2,0,2,0,2,4,4,0,0,0
+Braunschweig,Karlsruhe,1,0,1,0,6,4,4,5,0,0
+Holstein Kiel,Greuther Furth,1,2,0,0,6,2,4,1,0,0
+Kaiserslautern,Elversberg,1,3,1,1,2,2,4,3,1,0
+Dresden,Bielefeld,1,1,1,0,3,5,2,3,1,0
+Fortuna Dusseldorf,Paderborn,2,1,0,1,7,1,2,3,0,1
+Hertha,Darmstadt,2,2,2,1,4,6,0,4,1,0
+Greuther Furth,Magdeburg,4,5,3,5,9,1,1,2,0,0
+Preußen Münster,Bochum,1,1,1,0,3,6,2,2,0,0
+Elversberg,Hertha,0,3,0,1,7,5,1,2,0,0
+Paderborn,Nurnberg,2,1,2,0,6,5,2,3,0,1
+Schalke 04,Dresden,2,2,0,0,7,1,2,2,0,0
+Darmstadt,Kaiserslautern,4,0,3,0,6,6,1,2,0,0
+Bielefeld,Braunschweig,3,2,2,2,9,1,1,3,0,0
+Hannover,Holstein Kiel,3,1,2,0,10,4,0,3,0,0
+Karlsruhe,Fortuna Dusseldorf,1,1,0,1,3,3,1,2,0,0
+Fortuna Dusseldorf,Preußen Münster,0,0,0,0,2,2,3,4,0,0
+Nurnberg,Karlsruhe,5,1,3,0,4,6,1,3,0,0
+Braunschweig,Darmstadt,2,2,2,0,6,7,1,1,0,0
+Hertha,Hannover,2,3,0,2,5,6,1,0,0,0
+Kaiserslautern,Greuther Furth,1,0,1,0,1,6,2,3,0,0
+Dresden,Elversberg,1,2,1,0,5,6,3,3,0,0
+Bochum,Paderborn,0,0,0,0,4,6,2,3,0,0
+Holstein Kiel,Schalke 04,1,2,0,2,9,6,3,1,0,0
+Magdeburg,Bielefeld,0,2,0,1,4,4,2,2,0,0
+Bochum,Nurnberg,1,1,0,1,3,3,1,3,0,0
+Greuther Furth,Bielefeld,2,1,1,1,0,10,2,3,0,0
+Darmstadt,Fortuna Dusseldorf,2,1,1,1,4,11,4,0,0,1
+Elversberg,Braunschweig,3,1,2,1,4,0,1,1,0,0
+Karlsruhe,Holstein Kiel,3,1,1,0,3,4,5,5,0,0
+Schalke 04,Magdeburg,5,3,2,1,4,2,2,0,0,0
+Hannover,Dresden,0,0,0,0,9,2,2,3,0,0
+Paderborn,Hertha,5,2,3,1,4,7,0,1,0,0
+Preußen Münster,Kaiserslautern,2,3,1,3,6,5,3,3,0,0
+Dresden,Darmstadt,3,1,2,0,1,8,3,1,1,1
+Fortuna Dusseldorf,Bochum,2,1,1,0,10,3,1,1,0,0
+Bielefeld,Hannover,0,1,0,0,9,3,3,4,0,0
+Holstein Kiel,Elversberg,1,1,0,0,5,7,2,2,0,0
+Kaiserslautern,Paderborn,1,2,0,1,3,2,2,3,0,0
+Greuther Furth,Schalke 04,1,1,1,0,4,5,2,4,0,0
+Braunschweig,Preußen Münster,1,2,0,0,7,0,2,3,0,1
+Hertha,Nurnberg,2,1,1,1,3,6,0,2,0,0
+Magdeburg,Karlsruhe,1,3,0,1,6,2,2,4,0,0
+Elversberg,Magdeburg,1,0,0,0,11,5,0,2,0,0
+Schalke 04,Bielefeld,1,0,1,0,9,2,0,2,0,0
+Darmstadt,Holstein Kiel,2,0,0,0,1,5,4,2,0,1
+Nurnberg,Fortuna Dusseldorf,0,1,0,0,3,5,1,2,0,0
+Paderborn,Braunschweig,1,1,0,0,9,5,1,2,0,1
+Bochum,Kaiserslautern,3,2,1,1,5,6,3,4,0,0
+Hannover,Greuther Furth,1,2,0,1,17,5,2,1,0,0
+Karlsruhe,Dresden,3,3,1,3,7,5,2,0,0,0
+Preußen Münster,Hertha,1,2,0,1,4,8,2,2,0,0
+Greuther Furth,Elversberg,2,0,1,0,2,6,1,2,0,0
+Magdeburg,Darmstadt,1,1,0,0,8,1,3,1,0,0
+Bielefeld,Paderborn,2,2,1,0,4,1,3,2,0,0
+Braunschweig,Fortuna Dusseldorf,1,0,0,0,4,5,2,3,0,0
+Holstein Kiel,Nurnberg,2,3,2,2,7,1,3,5,0,0
+Hertha,Bochum,1,1,1,0,5,6,2,3,0,0
+Dresden,Preußen Münster,6,0,3,0,5,4,1,2,0,0
+Kaiserslautern,Karlsruhe,3,0,2,0,5,2,1,3,0,0
+Schalke 04,Hannover,2,2,2,0,4,2,1,2,1,0
+FC Koln,Hamburg,1,2,0,2,6,3,2,2,0,0
+Hannover,Regensburg,2,0,2,0,5,3,1,0,0,0
+Hertha,Paderborn,1,2,0,1,1,8,2,1,0,0
+Karlsruhe,Nurnberg,3,2,1,2,7,3,2,4,0,0
+Magdeburg,Elversberg,0,0,0,0,11,1,3,2,0,0
+Schalke 04,Braunschweig,5,1,2,1,3,3,2,2,0,0
+Darmstadt,Fortuna Dusseldorf,0,2,0,0,7,6,2,2,1,0
+Greuther Furth,Preußen Münster,3,1,1,1,6,5,1,2,0,0
+Ulm,Kaiserslautern,1,2,0,0,6,7,2,3,0,0
+Kaiserslautern,Greuther Furth,2,2,1,2,8,5,3,1,0,0
+Regensburg,Ulm,1,0,1,0,5,4,3,2,0,0
+Elversberg,FC Koln,2,2,0,1,4,13,3,2,0,0
+Fortuna Dusseldorf,Karlsruhe,0,0,0,0,7,4,2,1,0,0
+Nurnberg,Schalke 04,3,1,0,1,1,7,3,4,1,1
+Hamburg,Hertha,1,1,1,0,9,11,2,2,0,0
+Braunschweig,Magdeburg,1,3,0,1,10,2,0,1,0,0
+Paderborn,Darmstadt,3,1,0,1,7,6,1,1,0,0
+Preußen Münster,Hannover,0,0,0,0,7,6,3,1,0,0
+Hannover,Hamburg,1,0,0,0,1,3,4,4,0,1
+Karlsruhe,Elversberg,3,2,1,1,7,3,2,0,0,0
+Greuther Furth,Paderborn,1,1,0,0,7,5,2,4,0,0
+Hertha,Regensburg,2,0,0,0,8,2,4,2,0,1
+Preußen Münster,Kaiserslautern,0,1,0,0,4,2,4,4,0,0
+FC Koln,Braunschweig,5,0,2,0,8,2,2,1,0,0
+Darmstadt,Nurnberg,1,1,1,0,13,2,2,3,0,0
+Magdeburg,Schalke 04,2,2,2,1,9,4,4,2,0,0
+Ulm,Fortuna Dusseldorf,1,2,1,0,6,5,2,5,0,0
+Fortuna Dusseldorf,Hannover,1,0,0,0,8,2,3,5,0,0
+Regensburg,Greuther Furth,0,4,0,1,7,4,3,2,0,0
+Elversberg,Darmstadt,4,0,2,0,8,11,2,3,0,0
+Hamburg,Preußen Münster,4,1,3,0,7,10,0,0,0,0
+Nurnberg,Magdeburg,0,4,0,1,3,9,0,1,0,0
+Kaiserslautern,Hertha,3,4,2,1,11,7,1,1,0,0
+Braunschweig,Karlsruhe,1,2,1,0,1,6,2,1,0,0
+Paderborn,Ulm,0,0,0,0,4,4,3,3,0,0
+Schalke 04,FC Koln,1,3,0,2,6,3,2,4,0,0
+Karlsruhe,Schalke 04,2,0,1,0,4,3,4,1,0,0
+Preußen Münster,Paderborn,3,3,1,1,7,6,2,3,0,0
+Darmstadt,Braunschweig,1,1,1,0,2,10,1,7,0,0
+Hannover,Kaiserslautern,3,1,1,0,10,3,5,3,0,0
+Ulm,Nurnberg,1,2,0,0,2,6,5,6,0,1
+FC Koln,Magdeburg,1,2,0,0,10,2,4,3,0,0
+Greuther Furth,Elversberg,0,0,0,0,8,6,3,1,0,0
+Hamburg,Regensburg,5,0,2,0,5,4,4,5,0,0
+Hertha,Fortuna Dusseldorf,0,2,0,1,6,4,4,3,0,0
+Paderborn,Hannover,2,1,1,1,5,11,2,2,0,0
+Schalke 04,Darmstadt,3,5,3,1,3,3,4,7,0,0
+Braunschweig,Greuther Furth,2,0,1,0,8,1,3,6,0,0
+Fortuna Dusseldorf,FC Koln,2,2,1,1,4,8,2,2,0,0
+Nurnberg,Hertha,0,2,0,1,7,4,2,3,0,0
+Kaiserslautern,Hamburg,2,2,1,0,3,10,2,3,0,0
+Elversberg,Ulm,1,3,0,1,9,8,3,2,0,0
+Magdeburg,Karlsruhe,2,2,1,2,2,5,3,3,0,0
+Regensburg,Preußen Münster,0,3,0,1,7,4,3,1,0,0
+Greuther Furth,Fortuna Dusseldorf,1,2,1,1,6,0,1,1,0,0
+Ulm,Braunschweig,3,1,2,0,3,5,2,5,0,1
+Darmstadt,Magdeburg,1,2,1,1,8,4,4,5,0,1
+Hamburg,Paderborn,2,2,0,0,7,3,3,3,0,0
+Regensburg,Kaiserslautern,0,0,0,0,4,4,2,4,0,0
+Preußen Münster,Schalke 04,1,2,0,0,7,4,3,3,0,0
+FC Koln,Karlsruhe,4,4,4,2,3,8,0,3,0,0
+Hannover,Nurnberg,2,0,0,0,7,4,2,2,0,0
+Hertha,Elversberg,1,4,0,2,7,7,3,5,0,0
+Karlsruhe,Darmstadt,3,3,2,1,3,6,4,1,0,0
+Paderborn,Regensburg,3,0,1,0,9,6,2,3,0,0
+Elversberg,Kaiserslautern,1,0,0,0,6,5,3,2,0,0
+FC Koln,Ulm,2,0,1,0,7,4,4,1,0,1
+Nurnberg,Preußen Münster,3,2,1,2,7,3,1,3,0,0
+Schalke 04,Hertha,2,2,2,1,2,6,4,4,0,0
+Braunschweig,Hannover,2,0,1,0,6,8,2,4,0,0
+Fortuna Dusseldorf,Hamburg,0,3,0,1,10,3,2,2,1,0
+Magdeburg,Greuther Furth,2,2,2,1,5,7,3,0,0,0
+Darmstadt,FC Koln,5,1,2,1,3,6,2,3,0,0
+Hertha,Braunschweig,3,1,0,1,7,5,4,1,0,1
+Hannover,Schalke 04,1,0,1,0,7,2,0,4,0,0
+Preußen Münster,Elversberg,1,1,1,0,3,8,4,2,0,0
+Regensburg,Fortuna Dusseldorf,0,3,0,1,4,8,4,1,2,0
+Kaiserslautern,Paderborn,3,0,1,0,5,5,3,3,0,1
+Greuther Furth,Nurnberg,0,4,0,3,3,3,3,2,0,0
+Hamburg,Magdeburg,3,1,3,0,4,7,2,2,1,0
+Ulm,Karlsruhe,0,1,0,0,5,12,3,3,0,0
+FC Koln,Paderborn,1,2,0,0,6,3,1,4,0,0
+Nurnberg,Regensburg,8,3,3,2,3,3,0,3,0,0
+Elversberg,Hamburg,4,2,1,1,6,3,0,0,0,0
+Karlsruhe,Hertha,1,3,1,1,7,2,6,4,0,0
+Schalke 04,Greuther Furth,3,4,1,3,6,5,6,3,1,0
+Fortuna Dusseldorf,Kaiserslautern,3,4,1,1,4,3,2,3,0,0
+Braunschweig,Preußen Münster,1,1,1,1,2,4,2,2,0,0
+Darmstadt,Ulm,1,1,1,1,4,2,2,3,0,0
+Magdeburg,Hannover,0,3,0,2,10,3,3,3,0,0
+Preußen Münster,Fortuna Dusseldorf,1,0,1,0,3,11,0,2,0,0
+Ulm,Schalke 04,0,0,0,0,2,3,2,3,0,0
+Greuther Furth,Darmstadt,1,5,0,3,0,3,1,0,0,0
+Hannover,Karlsruhe,2,1,0,1,6,5,3,2,0,0
+Regensburg,Elversberg,1,0,1,0,6,10,1,2,1,0
+Hertha,FC Koln,0,1,0,1,6,3,4,2,0,0
+Hamburg,Nurnberg,1,1,1,0,5,11,1,3,0,0
+Kaiserslautern,Magdeburg,2,2,1,2,11,1,2,5,0,2
+Paderborn,Braunschweig,0,0,0,0,8,6,0,2,1,0
+Braunschweig,Hamburg,3,1,1,0,3,7,3,2,0,0
+Nurnberg,Kaiserslautern,0,0,0,0,12,1,1,3,0,0
+Darmstadt,Hertha,3,1,1,1,1,9,5,3,0,0
+FC Koln,Greuther Furth,1,0,0,0,10,4,2,4,0,0
+Magdeburg,Ulm,0,0,0,0,14,1,2,4,0,1
+Fortuna Dusseldorf,Paderborn,1,1,0,0,5,4,2,0,0,0
+Elversberg,Hannover,3,1,2,0,15,2,1,1,0,0
+Karlsruhe,Preußen Münster,1,1,1,0,8,7,1,3,0,0
+Schalke 04,Regensburg,2,0,1,0,6,2,1,3,0,0
+Paderborn,Nurnberg,3,2,1,1,7,5,0,0,0,0
+Preußen Münster,FC Koln,0,1,0,0,3,5,3,1,0,0
+Fortuna Dusseldorf,Elversberg,0,2,0,0,12,6,2,1,0,0
+Greuther Furth,Karlsruhe,2,3,1,0,7,5,2,2,0,0
+Hannover,Darmstadt,1,2,0,0,5,4,1,3,0,0
+Hertha,Ulm,2,2,1,1,4,5,0,0,0,0
+Hamburg,Schalke 04,2,2,2,0,2,4,2,2,0,0
+Kaiserslautern,Braunschweig,3,2,3,1,7,6,1,4,0,0
+Regensburg,Magdeburg,0,1,0,1,7,4,4,4,0,0
+Magdeburg,Hertha,1,3,0,0,5,1,3,3,0,0
+Schalke 04,Kaiserslautern,0,3,0,1,7,3,1,4,0,0
+Braunschweig,Regensburg,0,0,0,0,2,10,3,3,0,0
+Elversberg,Paderborn,1,3,1,1,1,6,0,0,0,0
+FC Koln,Hannover,2,2,0,1,10,4,1,1,0,1
+Darmstadt,Preußen Münster,0,0,0,0,6,1,3,4,0,0
+Karlsruhe,Hamburg,1,3,1,1,7,7,4,4,0,0
+Nurnberg,Fortuna Dusseldorf,2,2,1,0,12,5,2,5,0,0
+Ulm,Greuther Furth,1,1,1,1,4,3,5,4,0,0
+Elversberg,Nurnberg,2,1,1,1,8,8,2,3,0,0
+Paderborn,Schalke 04,2,4,1,2,2,9,1,3,0,0
+Greuther Furth,Hertha,2,1,1,1,6,10,4,3,1,0
+Hannover,Ulm,3,2,0,1,7,2,3,2,0,0
+Kaiserslautern,Karlsruhe,3,1,1,0,3,3,5,1,0,0
+Preußen Münster,Magdeburg,1,2,1,1,3,5,3,3,0,0
+Fortuna Dusseldorf,Braunschweig,5,0,3,0,7,5,1,4,0,0
+Hamburg,Darmstadt,2,2,2,1,2,8,2,4,0,0
+Regensburg,FC Koln,0,1,0,1,4,6,1,3,0,0
+Hertha,Preußen Münster,1,2,1,0,9,2,2,4,0,0
+Karlsruhe,Regensburg,4,2,1,1,4,0,4,2,0,0
+Magdeburg,Paderborn,1,1,0,0,7,7,5,1,0,0
+Schalke 04,Fortuna Dusseldorf,1,1,0,0,6,2,1,4,0,0
+Ulm,Hamburg,1,1,1,0,5,2,3,6,0,1
+Darmstadt,Kaiserslautern,5,1,2,0,3,4,1,2,0,0
+Braunschweig,Elversberg,0,3,0,0,6,5,4,3,0,0
+FC Koln,Nurnberg,3,1,3,0,3,4,4,2,0,0
+Greuther Furth,Hannover,1,0,0,0,4,4,2,1,0,0
+Elversberg,Schalke 04,1,4,1,1,4,1,3,1,0,0
+Fortuna Dusseldorf,Magdeburg,2,5,2,1,4,1,3,3,1,0
+Hamburg,Greuther Furth,5,0,3,0,3,4,2,1,0,0
+Paderborn,Karlsruhe,1,2,1,2,10,2,2,3,0,0
+Preußen Münster,Ulm,0,0,0,0,1,3,4,1,0,0
+Nurnberg,Braunschweig,1,0,0,0,7,3,1,3,0,1
+Hannover,Hertha,0,0,0,0,7,5,3,4,1,1
+Kaiserslautern,FC Koln,0,1,0,1,10,5,2,3,0,0
+Regensburg,Darmstadt,2,1,0,0,6,9,5,2,0,0
+Fortuna Dusseldorf,Darmstadt,2,2,1,0,7,5,4,1,0,0
+Regensburg,Hannover,0,1,0,1,4,8,1,1,0,0
+Braunschweig,Schalke 04,0,0,0,0,0,5,4,4,1,0
+Kaiserslautern,Ulm,2,1,2,1,7,5,2,3,0,0
+Preußen Münster,Greuther Furth,2,1,1,1,4,3,3,5,0,1
+Hamburg,FC Koln,1,0,0,0,6,6,3,4,0,0
+Elversberg,Magdeburg,2,5,2,0,6,3,2,2,1,0
+Nurnberg,Karlsruhe,2,1,1,1,9,2,3,5,0,0
+Paderborn,Hertha,1,2,0,1,7,4,1,4,0,0
+Greuther Furth,Kaiserslautern,2,4,1,1,2,4,1,5,1,1
+Magdeburg,Braunschweig,1,1,1,0,10,6,0,0,0,0
+FC Koln,Elversberg,1,0,0,0,6,6,1,6,0,1
+Karlsruhe,Fortuna Dusseldorf,2,3,2,0,6,9,3,3,0,0
+Schalke 04,Nurnberg,3,1,3,1,1,5,0,0,0,0
+Hertha,Hamburg,2,3,0,1,8,4,1,4,0,0
+Darmstadt,Paderborn,0,1,0,1,3,11,2,6,0,0
+Hannover,Preußen Münster,2,2,1,1,6,1,4,1,0,0
+Ulm,Regensburg,5,1,3,0,9,0,0,0,0,0
+Elversberg,Karlsruhe,2,2,1,0,7,7,1,0,0,0
+Nurnberg,Darmstadt,1,0,0,0,6,1,3,1,0,0
+Braunschweig,FC Koln,1,2,1,2,10,4,4,2,0,0
+Fortuna Dusseldorf,Ulm,3,2,2,1,0,4,4,4,0,0
+Regensburg,Hertha,2,0,1,0,4,12,0,0,0,0
+Schalke 04,Magdeburg,2,5,0,2,5,6,4,1,0,0
+Hamburg,Hannover,2,2,1,0,6,3,4,2,0,0
+Kaiserslautern,Preußen Münster,2,1,0,0,4,4,1,6,0,0
+Paderborn,Greuther Furth,1,2,0,1,6,6,3,2,1,0
+Greuther Furth,Regensburg,2,1,2,1,9,3,1,3,0,0
+Preußen Münster,Hamburg,1,2,1,1,3,7,3,2,0,0
+Darmstadt,Elversberg,0,3,0,2,2,5,2,3,1,0
+Magdeburg,Nurnberg,3,4,1,3,10,2,1,3,0,0
+Ulm,Paderborn,0,2,0,0,4,5,1,4,1,0
+Hertha,Kaiserslautern,0,1,0,0,6,7,0,0,0,0
+FC Koln,Schalke 04,1,0,1,0,4,4,3,0,0,0
+Hannover,Fortuna Dusseldorf,1,1,1,1,6,1,1,3,0,0
+Karlsruhe,Braunschweig,0,2,0,1,10,5,0,0,0,0
+Magdeburg,FC Koln,3,0,0,0,3,14,0,2,0,0
+Paderborn,Preußen Münster,2,0,0,0,9,1,1,3,0,0
+Braunschweig,Darmstadt,1,0,0,0,3,1,3,7,0,1
+Elversberg,Greuther Furth,2,0,2,0,6,3,2,2,1,0
+Kaiserslautern,Hannover,0,0,0,0,2,9,2,2,0,0
+Fortuna Dusseldorf,Hertha,2,1,0,1,4,7,1,0,0,0
+Nurnberg,Ulm,2,0,0,0,11,5,0,0,0,0
+Regensburg,Hamburg,1,1,1,0,9,7,1,5,0,1
+Schalke 04,Karlsruhe,2,1,2,1,7,4,1,1,0,0
+Hamburg,Kaiserslautern,3,0,1,0,11,2,1,1,0,0
+Hertha,Nurnberg,0,0,0,0,6,4,2,2,0,0
+Karlsruhe,Magdeburg,3,1,1,1,3,6,1,4,0,1
+Preußen Münster,Regensburg,2,0,1,0,4,3,6,3,0,0
+Ulm,Elversberg,0,0,0,0,4,4,4,3,0,0
+Hannover,Paderborn,1,1,1,0,4,6,3,0,1,0
+Darmstadt,Schalke 04,2,0,2,0,3,11,4,5,0,1
+FC Koln,Fortuna Dusseldorf,1,1,0,0,7,0,2,4,0,0
+Greuther Furth,Braunschweig,3,0,1,0,3,5,4,3,0,0
+Fortuna Dusseldorf,Greuther Furth,1,2,1,1,6,4,3,1,0,0
+Schalke 04,Preußen Münster,1,0,0,0,10,7,1,1,0,0
+Braunschweig,Ulm,1,1,0,1,8,4,2,4,0,0
+Kaiserslautern,Regensburg,3,0,0,0,7,7,1,4,0,0
+Nurnberg,Hannover,1,2,1,1,4,2,2,5,0,0
+Karlsruhe,FC Koln,1,0,0,0,3,2,4,3,0,0
+Elversberg,Hertha,4,0,4,0,7,6,0,1,0,0
+Magdeburg,Darmstadt,4,1,0,1,12,4,1,4,0,0
+Paderborn,Hamburg,2,0,1,0,9,3,2,1,0,0
+Darmstadt,Karlsruhe,3,0,1,0,2,3,0,2,0,0
+Kaiserslautern,Elversberg,1,1,1,0,7,3,4,2,0,0
+Greuther Furth,Magdeburg,1,1,1,1,1,9,2,2,0,0
+Hertha,Schalke 04,1,2,0,1,3,5,2,3,0,0
+Ulm,FC Koln,0,1,0,0,3,7,0,1,0,0
+Hamburg,Fortuna Dusseldorf,4,1,2,1,8,3,1,4,0,0
+Hannover,Braunschweig,1,1,0,0,5,10,2,3,0,0
+Preußen Münster,Nurnberg,0,1,0,0,5,3,4,1,0,0
+Regensburg,Paderborn,0,0,0,0,3,10,3,2,0,0
+Magdeburg,Hamburg,0,3,0,2,3,3,1,2,0,0
+Schalke 04,Hannover,1,2,1,0,5,7,2,3,0,0
+Elversberg,Preußen Münster,0,1,0,0,4,2,0,3,0,0
+Fortuna Dusseldorf,Regensburg,1,0,1,0,5,4,1,1,0,0
+Paderborn,Kaiserslautern,5,3,3,2,4,5,3,2,0,0
+FC Koln,Darmstadt,2,1,1,1,6,3,1,3,0,1
+Braunschweig,Hertha,1,5,0,3,4,3,0,1,0,0
+Karlsruhe,Ulm,0,0,0,0,4,2,1,3,0,0
+Nurnberg,Greuther Furth,3,0,3,0,1,6,3,2,0,0
+Hamburg,Elversberg,0,0,0,0,8,4,0,3,0,0
+Ulm,Darmstadt,2,1,0,0,5,4,5,1,0,0
+Hannover,Magdeburg,0,0,0,0,12,4,0,2,0,0
+Hertha,Karlsruhe,3,1,1,0,4,5,3,5,0,0
+Paderborn,FC Koln,1,2,1,1,6,6,3,1,0,0
+Kaiserslautern,Fortuna Dusseldorf,3,1,1,0,5,5,2,5,0,0
+Greuther Furth,Schalke 04,3,3,2,1,4,6,2,3,0,0
+Preußen Münster,Braunschweig,1,1,1,1,4,3,4,2,0,0
+Regensburg,Nurnberg,2,1,0,1,3,6,3,3,0,0
+Braunschweig,Paderborn,3,2,1,1,0,4,1,2,0,0
+Karlsruhe,Hannover,1,0,0,0,5,6,4,1,0,0
+Darmstadt,Greuther Furth,1,0,0,0,6,3,0,1,0,0
+Fortuna Dusseldorf,Preußen Münster,1,0,1,0,5,7,2,1,1,0
+Nurnberg,Hamburg,0,3,0,2,7,7,4,2,1,0
+FC Koln,Hertha,0,1,0,0,7,5,1,4,0,0
+Elversberg,Regensburg,6,0,3,0,0,4,2,3,0,0
+Magdeburg,Kaiserslautern,2,0,2,0,3,5,3,1,0,0
+Schalke 04,Ulm,2,1,0,1,4,2,3,0,1,0
+Greuther Furth,FC Koln,1,1,1,1,5,5,1,6,0,0
+Hamburg,Braunschweig,2,4,0,2,5,4,3,4,0,0
+Hannover,Elversberg,1,3,1,0,5,5,1,3,0,0
+Hertha,Darmstadt,1,1,0,0,6,5,2,3,0,0
+Ulm,Magdeburg,1,0,1,0,5,3,3,2,0,0
+Kaiserslautern,Nurnberg,1,2,0,1,12,2,2,5,0,0
+Paderborn,Fortuna Dusseldorf,1,2,0,1,4,2,2,3,1,0
+Preußen Münster,Karlsruhe,1,1,0,1,8,6,5,1,0,0
+Regensburg,Schalke 04,2,0,1,0,4,8,2,4,0,0
+Braunschweig,Kaiserslautern,2,0,0,0,6,3,5,3,0,0
+Elversberg,Fortuna Dusseldorf,1,1,0,0,7,0,0,1,0,0
+Nurnberg,Paderborn,2,3,1,1,3,7,3,4,0,0
+Schalke 04,Hamburg,2,2,1,2,4,2,3,3,1,0
+Darmstadt,Hannover,3,1,1,0,4,8,2,4,0,0
+FC Koln,Preußen Münster,3,1,2,1,5,12,1,1,0,0
+Karlsruhe,Greuther Furth,1,0,0,0,4,5,3,2,0,0
+Magdeburg,Regensburg,3,0,1,0,5,6,1,3,0,0
+Ulm,Hertha,2,3,1,0,10,3,2,3,0,0
+Greuther Furth,Ulm,0,1,0,0,7,4,2,2,0,0
+Hertha,Magdeburg,1,1,1,1,4,4,3,2,0,0
+Paderborn,Elversberg,1,1,0,0,2,7,1,2,0,0
+Preußen Münster,Darmstadt,1,1,0,1,2,5,4,3,0,0
+Regensburg,Braunschweig,1,1,1,1,7,1,1,2,0,0
+Fortuna Dusseldorf,Nurnberg,3,3,0,2,7,0,1,3,0,0
+Hamburg,Karlsruhe,1,2,1,2,4,1,1,5,0,0
+Hannover,FC Koln,1,0,0,0,5,4,5,4,0,1
+Kaiserslautern,Schalke 04,2,1,1,0,5,8,1,1,0,0
+Magdeburg,Preußen Münster,0,5,0,3,7,3,4,2,0,0
+Schalke 04,Paderborn,0,2,0,1,6,8,2,0,0,0
+Braunschweig,Fortuna Dusseldorf,2,2,1,0,4,3,1,2,0,0
+Darmstadt,Hamburg,0,4,0,1,4,5,3,3,0,0
+Ulm,Hannover,1,2,0,1,7,1,3,2,0,1
+FC Koln,Regensburg,1,1,0,0,8,1,0,1,0,0
+Hertha,Greuther Furth,1,0,1,0,8,3,2,1,0,0
+Karlsruhe,Kaiserslautern,2,2,1,1,8,5,1,1,0,0
+Nurnberg,Elversberg,1,3,1,0,2,4,5,1,0,0
+Nurnberg,FC Koln,1,2,0,0,0,8,4,1,0,0
+Preußen Münster,Hertha,2,0,1,0,2,7,4,1,0,1
+Elversberg,Braunschweig,3,0,3,0,8,1,0,2,0,0
+Fortuna Dusseldorf,Schalke 04,2,0,0,0,5,4,2,1,0,0
+Paderborn,Magdeburg,2,1,1,1,6,6,0,2,0,0
+Hamburg,Ulm,6,1,3,1,3,6,3,1,0,0
+Hannover,Greuther Furth,1,1,0,1,5,4,5,1,0,0
+Kaiserslautern,Darmstadt,2,1,2,1,3,11,2,3,0,0
+Regensburg,Karlsruhe,2,2,1,2,5,3,0,3,0,0
+Braunschweig,Nurnberg,1,4,0,4,6,7,1,1,0,0
+Darmstadt,Regensburg,3,1,0,1,6,7,2,0,0,0
+FC Koln,Kaiserslautern,4,0,2,0,6,5,0,2,0,0
+Greuther Furth,Hamburg,3,2,1,0,4,7,4,1,0,0
+Hertha,Hannover,1,1,1,1,12,3,1,2,0,0
+Karlsruhe,Paderborn,3,0,0,0,2,4,0,2,0,0
+Magdeburg,Fortuna Dusseldorf,4,2,0,1,1,3,2,3,0,0
+Schalke 04,Elversberg,1,2,0,1,7,1,2,2,0,0
+Ulm,Preußen Münster,2,2,1,0,0,6,1,5,0,0
+Hamburg,Schalke 04,5,3,1,2,9,3,3,3,0,1
+Hannover,Elversberg,2,2,1,2,3,6,3,4,0,0
+Kaiserslautern,St Pauli,1,2,0,0,3,5,2,1,0,0
+Osnabruck,Karlsruhe,2,3,1,2,4,9,3,2,1,0
+Wehen,Magdeburg,1,1,0,1,3,2,2,3,1,0
+Fortuna Dusseldorf,Hertha,1,0,0,0,7,8,3,2,0,0
+Braunschweig,Holstein Kiel,0,1,0,0,4,10,3,1,1,0
+Greuther Furth,Paderborn,5,0,3,0,5,2,1,1,0,1
+Hansa Rostock,Nurnberg,2,0,1,0,6,6,3,4,0,0
+Hertha,Wehen,0,1,0,0,6,4,2,3,0,0
+Paderborn,Osnabruck,1,1,0,0,7,7,1,0,0,0
+Elversberg,Hansa Rostock,1,2,0,0,7,2,3,4,0,0
+Holstein Kiel,Greuther Furth,2,1,0,0,8,5,2,2,0,0
+St Pauli,Fortuna Dusseldorf,0,0,0,0,4,8,2,1,1,0
+Schalke 04,Kaiserslautern,3,0,1,0,8,7,1,3,0,2
+Karlsruhe,Hamburg,2,2,1,0,7,3,3,2,0,0
+Magdeburg,Braunschweig,2,1,2,0,1,5,1,3,0,0
+Nurnberg,Hannover,2,2,0,2,5,7,6,2,0,0
+Kaiserslautern,Elversberg,3,2,1,0,4,6,3,1,0,0
+Wehen,Karlsruhe,1,0,1,0,2,7,3,1,0,0
+Fortuna Dusseldorf,Paderborn,1,2,0,1,12,1,0,3,0,0
+Greuther Furth,St Pauli,0,0,0,0,2,1,1,5,0,0
+Hansa Rostock,Hannover,1,2,0,1,4,5,3,1,0,0
+Hamburg,Hertha,3,0,2,0,4,2,2,2,0,0
+Braunschweig,Schalke 04,1,0,1,0,6,4,3,0,1,0
+Holstein Kiel,Magdeburg,2,4,1,2,6,3,1,2,0,0
+Osnabruck,Nurnberg,2,3,0,1,3,12,2,2,0,0
+Paderborn,Kaiserslautern,1,2,0,0,1,2,2,5,0,0
+Schalke 04,Holstein Kiel,0,2,0,1,3,7,1,1,1,0
+Elversberg,Fortuna Dusseldorf,0,5,0,3,8,6,1,3,0,0
+Hansa Rostock,Osnabruck,2,1,1,1,4,5,3,0,0,0
+Hertha,Greuther Furth,5,0,2,0,5,8,1,1,0,0
+Hannover,Hamburg,0,1,0,0,3,3,1,4,0,1
+Karlsruhe,Braunschweig,2,0,1,0,6,4,1,1,0,1
+Nurnberg,Wehen,2,1,0,0,10,6,2,6,1,2
+St Pauli,Magdeburg,0,0,0,0,11,3,2,3,0,0
+Braunschweig,St Pauli,1,1,0,0,3,5,2,3,0,0
+Fortuna Dusseldorf,Karlsruhe,3,1,1,1,7,7,1,3,0,0
+Holstein Kiel,Paderborn,2,1,1,1,6,8,3,3,0,0
+Magdeburg,Hertha,6,4,2,3,4,3,2,3,0,0
+Wehen,Schalke 04,1,1,0,0,3,7,4,2,0,0
+Kaiserslautern,Nurnberg,3,1,3,1,4,7,1,2,0,1
+Greuther Furth,Hannover,1,3,0,2,9,2,1,2,0,0
+Hamburg,Hansa Rostock,2,0,1,0,3,5,2,5,0,0
+Osnabruck,Elversberg,0,1,0,0,6,2,1,2,0,0
+Nurnberg,Greuther Furth,1,1,1,1,6,5,2,3,0,0
+Paderborn,Wehen,2,1,0,1,5,1,3,2,0,0
+Elversberg,Hamburg,2,1,1,0,7,6,3,2,0,0
+Hansa Rostock,Fortuna Dusseldorf,1,3,1,2,10,8,2,2,0,0
+Karlsruhe,Kaiserslautern,1,1,1,1,9,3,0,1,0,0
+Schalke 04,Magdeburg,4,3,1,2,9,4,4,4,0,1
+Hannover,Osnabruck,7,0,2,0,5,3,0,2,0,1
+Hertha,Braunschweig,3,0,2,0,4,9,2,0,0,0
+St Pauli,Holstein Kiel,5,1,3,0,3,1,3,3,0,0
+Magdeburg,Paderborn,1,1,0,1,2,6,4,1,0,0
+Osnabruck,Hamburg,2,1,2,1,13,7,5,6,0,0
+Braunschweig,Nurnberg,2,2,1,2,2,3,2,2,0,0
+Greuther Furth,Karlsruhe,4,3,3,3,9,4,3,5,1,0
+Wehen,Elversberg,0,2,0,1,7,3,4,4,0,0
+St Pauli,Schalke 04,3,1,1,1,4,2,1,4,0,0
+Fortuna Dusseldorf,Hannover,1,1,0,1,5,2,2,3,0,0
+Holstein Kiel,Hertha,2,3,0,2,2,4,4,3,1,0
+Kaiserslautern,Hansa Rostock,3,1,2,1,6,10,2,2,0,0
+Hamburg,Fortuna Dusseldorf,1,0,0,0,8,3,3,6,0,1
+Paderborn,Schalke 04,3,1,1,0,2,10,1,3,0,0
+Hannover,Wehen,2,0,1,0,4,6,0,2,0,0
+Hansa Rostock,Braunschweig,1,0,0,0,7,5,3,1,0,0
+Karlsruhe,Holstein Kiel,0,2,0,2,7,9,0,4,0,0
+Hertha,St Pauli,1,2,0,1,7,3,2,0,0,0
+Elversberg,Greuther Furth,1,1,1,1,2,8,1,1,0,0
+Nurnberg,Magdeburg,1,0,0,0,7,3,6,5,0,0
+Osnabruck,Kaiserslautern,2,2,2,1,4,13,4,3,0,0
+Fortuna Dusseldorf,Osnabruck,1,1,0,0,8,1,5,3,0,0
+Kaiserslautern,Hannover,3,1,1,1,5,2,4,2,0,1
+Greuther Furth,Hansa Rostock,1,0,1,0,8,2,1,7,0,0
+Magdeburg,Karlsruhe,1,1,0,1,7,1,3,2,0,0
+Wehen,Hamburg,1,1,0,0,4,13,2,2,0,0
+St Pauli,Nurnberg,5,1,1,1,8,4,4,1,0,0
+Braunschweig,Paderborn,1,3,1,2,13,4,3,0,0,0
+Holstein Kiel,Elversberg,1,1,1,0,11,2,1,1,0,0
+Schalke 04,Hertha,1,2,0,1,11,5,2,3,1,0
+Elversberg,Braunschweig,3,0,2,0,6,1,0,1,0,0
+Hannover,Magdeburg,2,1,1,0,6,9,2,3,0,0
+Hamburg,Greuther Furth,2,0,2,0,6,7,2,4,0,0
+Osnabruck,Wehen,0,2,0,1,2,3,3,1,0,0
+Paderborn,St Pauli,2,2,1,0,3,6,0,1,0,0
+Fortuna Dusseldorf,Kaiserslautern,4,3,1,3,6,5,4,1,0,0
+Hansa Rostock,Holstein Kiel,1,3,1,1,9,2,1,4,0,1
+Karlsruhe,Schalke 04,3,0,2,0,7,5,1,1,0,0
+Nurnberg,Hertha,3,1,0,1,11,5,3,2,1,1
+Braunschweig,Fortuna Dusseldorf,1,4,0,2,8,4,2,1,0,0
+Greuther Furth,Osnabruck,4,0,1,0,10,1,0,3,0,0
+Hertha,Paderborn,3,1,2,0,3,9,5,1,1,0
+Schalke 04,Hannover,3,2,1,0,4,5,4,1,0,0
+St Pauli,Karlsruhe,2,1,0,1,7,3,1,2,0,0
+Kaiserslautern,Hamburg,3,3,2,1,3,4,1,4,0,0
+Holstein Kiel,Nurnberg,0,2,0,0,7,3,2,4,0,0
+Magdeburg,Elversberg,1,2,0,2,5,3,2,2,0,0
+Wehen,Hansa Rostock,1,0,0,0,9,11,1,0,0,0
+Elversberg,St Pauli,0,2,0,2,6,3,2,1,0,0
+Fortuna Dusseldorf,Wehen,1,3,0,3,6,6,4,5,0,0
+Kaiserslautern,Greuther Furth,0,2,0,1,9,3,3,2,1,0
+Nurnberg,Schalke 04,1,2,0,1,4,7,4,2,0,0
+Osnabruck,Holstein Kiel,1,1,0,0,6,5,1,3,0,0
+Hamburg,Magdeburg,2,0,1,0,4,6,1,2,0,1
+Hannover,Braunschweig,2,0,2,0,2,5,2,7,0,1
+Hansa Rostock,Hertha,0,0,0,0,7,5,2,2,0,0
+Karlsruhe,Paderborn,0,3,0,1,2,3,4,1,0,0
+Schalke 04,Elversberg,1,2,1,2,8,2,3,2,0,0
+St Pauli,Hannover,0,0,0,0,7,1,2,4,0,0
+Braunschweig,Osnabruck,3,2,1,1,4,4,3,5,0,1
+Holstein Kiel,Hamburg,4,2,1,0,7,6,2,2,0,0
+Paderborn,Nurnberg,1,3,0,3,12,2,2,1,0,1
+Hertha,Karlsruhe,2,2,2,1,6,9,0,2,0,0
+Greuther Furth,Fortuna Dusseldorf,1,0,0,0,3,7,4,3,0,0
+Magdeburg,Hansa Rostock,1,2,1,0,13,2,3,2,0,0
+Wehen,Kaiserslautern,2,1,0,1,5,2,0,2,0,0
+Hamburg,Braunschweig,2,1,2,0,7,4,1,2,0,0
+Hannover,Hertha,2,2,0,2,9,1,0,1,0,0
+Elversberg,Paderborn,4,1,1,1,4,3,2,3,0,0
+Hansa Rostock,St Pauli,2,3,1,3,2,1,2,1,0,0
+Osnabruck,Magdeburg,0,2,0,0,5,8,2,2,0,0
+Fortuna Dusseldorf,Schalke 04,5,3,3,0,6,8,1,2,0,0
+Greuther Furth,Wehen,2,0,1,0,7,6,3,5,0,0
+Kaiserslautern,Holstein Kiel,0,3,0,2,6,10,1,1,0,0
+Karlsruhe,Nurnberg,4,1,1,0,6,8,2,3,0,0
+Schalke 04,Osnabruck,4,0,1,0,3,0,2,2,0,0
+St Pauli,Hamburg,2,2,2,0,9,3,1,3,0,0
+Braunschweig,Greuther Furth,0,1,0,1,2,5,4,3,0,0
+Holstein Kiel,Wehen,3,2,2,0,11,3,1,2,0,0
+Nurnberg,Fortuna Dusseldorf,0,5,0,3,2,5,2,3,0,0
+Magdeburg,Kaiserslautern,4,1,1,1,6,2,3,1,0,0
+Hertha,Elversberg,5,1,2,1,3,4,0,2,0,0
+Karlsruhe,Hansa Rostock,2,2,1,2,8,5,2,1,0,0
+Paderborn,Hannover,1,0,0,0,6,5,1,2,0,1
+Hannover,Karlsruhe,2,2,0,1,5,4,1,0,0,0
+Wehen,Braunschweig,1,3,1,0,4,7,2,1,0,0
+Greuther Furth,Magdeburg,1,1,0,0,7,3,1,4,0,0
+Hamburg,Paderborn,1,2,1,1,8,4,2,1,1,1
+Kaiserslautern,Hertha,1,2,1,0,9,6,1,3,1,0
+Osnabruck,St Pauli,1,1,0,1,9,10,4,0,1,0
+Elversberg,Nurnberg,0,1,0,0,9,4,3,4,0,0
+Fortuna Dusseldorf,Holstein Kiel,0,1,0,1,9,3,2,0,0,0
+Hansa Rostock,Schalke 04,0,2,0,0,3,4,1,2,1,0
+Paderborn,Hansa Rostock,3,0,1,0,12,2,4,3,0,1
+Schalke 04,Greuther Furth,2,2,1,0,2,3,4,1,1,0
+Hertha,Osnabruck,0,0,0,0,4,7,3,3,1,0
+Magdeburg,Fortuna Dusseldorf,2,3,2,0,7,2,2,3,0,0
+Nurnberg,Hamburg,0,2,0,0,4,6,1,5,0,0
+Holstein Kiel,Hannover,3,0,3,0,2,4,2,2,0,1
+Braunschweig,Kaiserslautern,2,1,1,1,4,6,1,3,0,0
+Karlsruhe,Elversberg,3,2,2,1,5,1,2,2,0,0
+St Pauli,Wehen,1,1,0,0,12,2,2,3,0,0
+Holstein Kiel,Braunschweig,1,2,1,1,6,3,1,2,0,0
+Karlsruhe,Osnabruck,2,1,1,1,7,2,1,2,0,0
+Elversberg,Hannover,2,2,0,1,6,4,1,0,0,0
+Nurnberg,Hansa Rostock,3,0,2,0,2,5,0,0,0,0
+St Pauli,Kaiserslautern,2,0,1,0,4,4,3,2,0,0
+Schalke 04,Hamburg,0,2,0,2,11,5,3,2,0,0
+Hertha,Fortuna Dusseldorf,2,2,2,1,1,4,6,1,0,0
+Magdeburg,Wehen,1,0,0,0,9,1,3,5,0,1
+Paderborn,Greuther Furth,0,1,0,1,6,5,1,2,0,0
+Hannover,Nurnberg,3,0,2,0,7,5,2,1,0,0
+Kaiserslautern,Schalke 04,4,1,1,0,4,1,1,3,0,0
+Hansa Rostock,Elversberg,2,1,0,1,2,11,2,3,0,1
+Osnabruck,Paderborn,0,0,0,0,11,6,3,4,0,1
+Wehen,Hertha,3,1,1,0,3,10,0,2,0,0
+Fortuna Dusseldorf,St Pauli,1,2,0,2,2,4,2,2,0,0
+Braunschweig,Magdeburg,1,0,1,0,3,2,1,5,0,1
+Greuther Furth,Holstein Kiel,2,1,0,0,10,5,3,5,0,0
+Hamburg,Karlsruhe,3,4,2,2,11,2,1,2,0,0
+Karlsruhe,Wehen,2,2,1,0,4,3,1,2,0,0
+Magdeburg,Holstein Kiel,1,1,0,1,12,4,2,3,0,0
+Nurnberg,Osnabruck,2,2,1,1,5,6,3,2,0,0
+Schalke 04,Braunschweig,1,0,0,0,3,5,2,2,0,0
+St Pauli,Greuther Furth,3,2,2,1,7,3,1,2,0,0
+Hertha,Hamburg,1,2,0,0,4,6,5,2,0,0
+Elversberg,Kaiserslautern,2,1,1,1,3,4,3,1,0,0
+Hannover,Hansa Rostock,2,1,1,1,6,6,4,2,1,0
+Paderborn,Fortuna Dusseldorf,4,3,3,0,5,7,1,1,0,0
+Hamburg,Hannover,3,4,1,3,10,7,2,2,2,0
+Wehen,Nurnberg,1,1,0,0,2,11,1,1,0,0
+Braunschweig,Karlsruhe,2,0,1,0,5,11,2,2,0,0
+Fortuna Dusseldorf,Elversberg,1,1,1,0,5,2,2,1,0,0
+Magdeburg,St Pauli,1,0,0,0,2,4,1,2,0,0
+Kaiserslautern,Paderborn,1,2,1,0,4,2,3,2,0,0
+Greuther Furth,Hertha,1,2,0,1,2,3,2,4,0,1
+Holstein Kiel,Schalke 04,1,0,0,0,10,4,1,3,0,0
+Osnabruck,Hansa Rostock,0,0,0,0,9,2,3,2,0,0
+Hannover,Greuther Furth,2,1,0,1,7,5,2,1,0,0
+Hertha,Magdeburg,3,2,2,1,9,4,2,4,0,1
+Hansa Rostock,Hamburg,2,2,0,1,1,1,4,2,0,0
+Paderborn,Holstein Kiel,0,4,0,2,6,6,3,3,1,0
+Schalke 04,Wehen,1,0,0,0,8,3,2,2,0,0
+Karlsruhe,Fortuna Dusseldorf,2,2,0,1,7,4,2,2,0,0
+Elversberg,Osnabruck,3,1,3,0,5,5,3,2,0,0
+Nurnberg,Kaiserslautern,1,1,0,1,8,9,5,3,0,0
+St Pauli,Braunschweig,1,0,1,0,5,4,3,2,1,0
+Holstein Kiel,St Pauli,3,4,0,3,3,1,1,1,0,0
+Wehen,Paderborn,1,2,1,1,2,7,2,2,0,0
+Braunschweig,Hertha,1,1,1,0,5,4,2,0,1,0
+Kaiserslautern,Karlsruhe,0,4,0,0,6,4,3,1,0,0
+Osnabruck,Hannover,1,0,0,0,3,8,2,3,0,0
+Magdeburg,Schalke 04,3,0,3,0,4,4,0,0,0,0
+Fortuna Dusseldorf,Hansa Rostock,2,0,2,0,2,7,1,0,0,0
+Greuther Furth,Nurnberg,2,1,1,1,13,0,3,4,0,1
+Hamburg,Elversberg,1,0,0,0,5,5,2,1,0,0
+Hertha,Holstein Kiel,2,2,2,0,5,5,3,3,0,0
+Schalke 04,St Pauli,3,1,1,0,6,4,3,0,0,0
+Hannover,Fortuna Dusseldorf,2,2,0,2,8,4,4,0,0,0
+Hansa Rostock,Kaiserslautern,0,3,0,1,2,7,3,1,1,0
+Nurnberg,Braunschweig,2,1,2,0,5,4,3,2,0,0
+Karlsruhe,Greuther Furth,4,0,1,0,5,4,3,1,0,0
+Elversberg,Wehen,0,3,0,1,8,4,3,2,0,0
+Hamburg,Osnabruck,1,2,1,1,11,5,4,4,0,1
+Paderborn,Magdeburg,0,0,0,0,13,3,1,1,0,1
+Braunschweig,Hansa Rostock,0,1,0,0,4,4,4,3,0,0
+Fortuna Dusseldorf,Hamburg,2,0,1,0,4,1,2,2,0,1
+Holstein Kiel,Karlsruhe,1,0,0,0,8,8,1,2,0,0
+Schalke 04,Paderborn,3,3,1,0,7,4,2,1,0,0
+Wehen,Hannover,1,1,1,0,2,3,1,1,0,0
+Magdeburg,Nurnberg,0,1,0,0,8,2,1,1,0,0
+Greuther Furth,Elversberg,1,4,0,1,2,2,4,2,1,0
+Kaiserslautern,Osnabruck,3,2,0,0,11,6,2,2,0,0
+St Pauli,Hertha,2,0,2,0,7,6,1,1,0,0
+Osnabruck,Fortuna Dusseldorf,0,4,0,1,4,3,1,2,0,0
+Paderborn,Braunschweig,1,2,0,0,10,1,1,2,0,0
+Elversberg,Holstein Kiel,0,2,0,1,4,7,1,1,0,0
+Hansa Rostock,Greuther Furth,1,0,1,0,3,8,1,1,0,0
+Nurnberg,St Pauli,0,2,0,1,1,11,0,2,0,0
+Hannover,Kaiserslautern,1,1,0,0,3,3,3,2,0,0
+Hamburg,Wehen,3,0,1,0,9,2,1,1,0,0
+Hertha,Schalke 04,5,2,3,2,8,5,0,1,0,0
+Karlsruhe,Magdeburg,7,0,4,0,9,4,0,1,0,0
+Braunschweig,Elversberg,5,0,2,0,6,4,4,1,0,0
+Holstein Kiel,Hansa Rostock,2,0,1,0,7,4,6,4,0,0
+Kaiserslautern,Fortuna Dusseldorf,1,3,1,0,8,3,0,1,0,0
+Hertha,Nurnberg,3,3,1,2,5,2,4,2,0,0
+Greuther Furth,Hamburg,1,1,0,0,3,7,2,3,0,0
+Magdeburg,Hannover,0,3,0,1,4,5,1,2,0,0
+Schalke 04,Karlsruhe,0,0,0,0,6,9,2,1,0,0
+St Pauli,Paderborn,2,1,1,0,1,3,2,2,0,1
+Wehen,Osnabruck,0,1,0,1,12,2,2,5,0,1
+Hansa Rostock,Wehen,3,1,0,0,5,5,1,2,0,1
+Paderborn,Hertha,2,3,1,1,9,3,1,1,0,0
+Elversberg,Magdeburg,0,0,0,0,5,3,3,1,0,0
+Hamburg,Kaiserslautern,2,1,1,1,7,6,1,1,0,0
+Nurnberg,Holstein Kiel,0,4,0,3,4,9,4,1,1,0
+Karlsruhe,St Pauli,2,1,1,1,4,8,4,2,0,1
+Fortuna Dusseldorf,Braunschweig,2,0,1,0,3,6,3,1,0,0
+Hannover,Schalke 04,1,1,0,1,8,4,3,1,0,0
+Osnabruck,Greuther Furth,2,0,2,0,5,8,0,3,0,0
+Greuther Furth,Kaiserslautern,2,1,0,1,2,4,2,4,0,0
+Hertha,Hansa Rostock,4,0,2,0,5,1,1,2,0,0
+Holstein Kiel,Osnabruck,4,0,2,0,4,5,2,4,0,0
+Paderborn,Karlsruhe,1,1,1,1,8,2,2,1,0,0
+Wehen,Fortuna Dusseldorf,0,2,0,1,2,6,2,2,1,0
+Schalke 04,Nurnberg,2,0,1,0,7,6,4,4,0,0
+Braunschweig,Hannover,0,0,0,0,5,5,2,0,0,0
+Magdeburg,Hamburg,2,2,2,0,3,9,2,0,0,1
+St Pauli,Elversberg,3,4,1,0,5,1,4,2,0,0
+Elversberg,Schalke 04,1,1,1,0,3,7,0,0,0,0
+Nurnberg,Paderborn,0,2,0,1,8,5,2,4,0,0
+Fortuna Dusseldorf,Greuther Furth,1,0,0,0,3,4,1,2,0,0
+Kaiserslautern,Wehen,1,1,1,0,7,7,2,3,0,0
+Osnabruck,Braunschweig,0,3,0,2,6,2,1,2,0,0
+Hamburg,Holstein Kiel,0,1,0,0,13,4,1,2,0,1
+Hannover,St Pauli,1,2,1,1,7,4,0,3,0,0
+Hansa Rostock,Magdeburg,0,2,0,2,6,1,4,3,0,0
+Karlsruhe,Hertha,3,2,2,1,3,7,3,0,0,0
+Hertha,Hannover,1,1,1,0,2,10,0,1,0,0
+St Pauli,Hansa Rostock,1,0,0,0,6,6,0,4,0,0
+Braunschweig,Hamburg,0,4,0,2,1,6,0,1,0,0
+Holstein Kiel,Kaiserslautern,1,3,1,2,6,4,4,0,0,0
+Paderborn,Elversberg,3,1,0,0,5,1,1,4,0,0
+Schalke 04,Fortuna Dusseldorf,1,1,0,0,4,4,4,2,0,0
+Magdeburg,Osnabruck,1,1,1,1,10,5,2,4,0,0
+Nurnberg,Karlsruhe,0,1,0,1,3,8,2,0,0,0
+Wehen,Greuther Furth,3,5,2,3,8,5,3,4,0,0
+Fortuna Dusseldorf,Nurnberg,3,1,2,0,5,7,0,2,0,0
+Hamburg,St Pauli,1,0,0,0,5,1,2,3,0,1
+Greuther Furth,Braunschweig,3,3,1,2,12,2,1,2,0,1
+Hansa Rostock,Karlsruhe,1,2,1,0,2,3,2,0,0,0
+Kaiserslautern,Magdeburg,4,1,2,0,3,8,3,2,0,0
+Elversberg,Hertha,4,2,1,1,7,5,2,1,0,0
+Hannover,Paderborn,3,2,3,2,5,4,2,3,0,0
+Wehen,Holstein Kiel,0,1,0,0,4,2,1,2,0,0
+Osnabruck,Schalke 04,0,4,0,2,2,5,1,1,0,0
+Magdeburg,Greuther Furth,0,0,0,0,1,2,2,1,0,0
+Paderborn,Hamburg,1,0,1,0,4,9,3,2,0,0
+Hertha,Kaiserslautern,3,1,2,1,2,6,2,3,0,0
+Nurnberg,Elversberg,3,0,1,0,4,4,2,2,0,0
+Schalke 04,Hansa Rostock,2,1,2,1,5,4,2,2,0,1
+Holstein Kiel,Fortuna Dusseldorf,1,1,1,0,2,13,1,3,0,0
+Braunschweig,Wehen,1,0,1,0,3,8,3,1,0,0
+Karlsruhe,Hannover,1,2,1,1,8,6,6,2,0,0
+St Pauli,Osnabruck,3,1,1,0,4,3,2,0,0,0
+Elversberg,Karlsruhe,0,3,0,0,2,5,1,0,0,0
+Fortuna Dusseldorf,Magdeburg,3,2,2,1,6,11,4,2,0,0
+Greuther Furth,Schalke 04,2,0,0,0,3,3,0,5,0,0
+Hamburg,Nurnberg,4,1,3,1,4,6,2,2,0,0
+Hannover,Holstein Kiel,1,2,0,2,10,3,2,2,0,0
+Hansa Rostock,Paderborn,1,2,0,0,1,6,1,1,0,0
+Kaiserslautern,Braunschweig,5,0,1,0,3,6,1,2,1,0
+Osnabruck,Hertha,2,1,1,1,7,5,1,4,0,0
+Wehen,St Pauli,1,2,1,0,8,8,1,2,0,0
+Kaiserslautern,Hannover,2,1,1,0,4,3,6,3,0,0
+Greuther Furth,Holstein Kiel,2,2,0,1,12,1,5,2,0,0
+Regensburg,Darmstadt,2,0,1,0,3,5,3,4,0,1
+Sandhausen,Bielefeld,2,1,1,0,5,6,7,3,0,1
+St Pauli,Nurnberg,3,2,3,0,4,4,3,4,0,0
+Magdeburg,Fortuna Dusseldorf,1,2,0,1,6,3,1,2,0,0
+Braunschweig,Hamburg,0,2,0,0,9,4,0,2,0,0
+Hansa Rostock,Heidenheim,0,1,0,0,2,4,2,1,0,0
+Paderborn,Karlsruhe,5,0,0,0,2,7,0,2,0,0
+Darmstadt,Sandhausen,2,1,1,1,8,3,2,3,0,0
+Fortuna Dusseldorf,Paderborn,2,1,2,1,3,1,2,2,0,0
+Heidenheim,Braunschweig,3,0,1,0,7,3,1,0,0,0
+Holstein Kiel,Kaiserslautern,2,2,0,1,3,4,1,1,0,0
+Nurnberg,Greuther Furth,2,0,1,0,6,6,4,2,0,0
+Hannover,St Pauli,2,2,1,1,2,6,1,3,0,0
+Bielefeld,Regensburg,0,3,0,1,4,1,0,0,0,0
+Hamburg,Hansa Rostock,0,1,0,0,5,7,1,5,0,0
+Karlsruhe,Magdeburg,2,3,0,3,9,4,2,3,0,0
+Greuther Furth,Karlsruhe,1,1,0,0,7,3,4,3,0,0
+Sandhausen,Fortuna Dusseldorf,1,0,0,0,5,8,4,1,0,0
+Hamburg,Heidenheim,1,0,1,0,2,15,1,2,0,0
+Paderborn,Hannover,4,2,1,2,3,3,2,4,0,0
+Regensburg,Nurnberg,0,0,0,0,6,4,3,1,0,0
+Hansa Rostock,Bielefeld,2,1,1,0,7,7,1,0,0,0
+Braunschweig,Darmstadt,0,1,0,0,2,5,2,3,0,0
+Kaiserslautern,St Pauli,2,1,1,0,8,4,1,1,0,0
+Magdeburg,Holstein Kiel,1,2,1,1,3,9,4,4,1,0
+Kaiserslautern,Paderborn,0,1,0,0,3,3,3,3,1,0
+Nurnberg,Heidenheim,0,3,0,1,2,6,0,1,0,0
+Bielefeld,Hamburg,0,2,0,1,6,4,4,1,0,0
+Holstein Kiel,Braunschweig,3,0,1,0,4,4,2,2,0,0
+Karlsruhe,Sandhausen,3,2,1,1,10,2,2,3,0,0
+Darmstadt,Hansa Rostock,4,0,2,0,3,2,3,3,0,0
+Fortuna Dusseldorf,Greuther Furth,2,2,0,1,5,2,3,4,0,0
+Hannover,Regensburg,1,0,0,0,5,3,3,2,0,0
+St Pauli,Magdeburg,3,0,2,0,7,3,3,0,0,0
+Hamburg,Darmstadt,1,2,0,2,6,7,3,5,2,1
+Magdeburg,Hannover,0,4,0,2,6,4,3,4,0,0
+Paderborn,Holstein Kiel,7,2,5,2,2,9,1,4,0,0
+Regensburg,Karlsruhe,0,6,0,3,4,7,3,2,0,0
+Sandhausen,Nurnberg,1,2,1,0,4,7,2,3,0,0
+Braunschweig,Fortuna Dusseldorf,2,2,0,0,7,6,1,5,0,0
+Greuther Furth,Kaiserslautern,1,3,1,0,8,3,0,3,0,0
+Hansa Rostock,St Pauli,2,0,2,0,3,7,3,2,0,0
+Heidenheim,Bielefeld,1,1,1,1,6,2,1,4,0,1
+Bielefeld,Braunschweig,4,1,3,0,4,4,3,3,0,0
+Fortuna Dusseldorf,Regensburg,4,0,0,0,3,3,2,3,0,0
+Darmstadt,Heidenheim,2,2,1,0,12,2,2,6,0,0
+Karlsruhe,Hansa Rostock,2,0,2,0,8,2,2,4,0,0
+St Pauli,Paderborn,2,2,0,1,7,2,2,1,0,0
+Nurnberg,Hamburg,0,2,0,1,4,6,1,2,0,0
+Hannover,Greuther Furth,2,1,0,0,2,5,4,0,0,0
+Holstein Kiel,Sandhausen,1,0,0,0,7,5,2,2,0,0
+Kaiserslautern,Magdeburg,4,4,2,3,5,5,1,3,0,0
+Braunschweig,Nurnberg,4,2,2,2,9,3,4,1,0,0
+Heidenheim,Fortuna Dusseldorf,2,1,1,0,8,5,1,4,0,0
+Greuther Furth,St Pauli,2,2,0,1,6,6,1,5,0,0
+Paderborn,Magdeburg,1,0,0,0,8,2,2,4,0,1
+Regensburg,Holstein Kiel,0,0,0,0,6,9,2,0,0,0
+Hamburg,Karlsruhe,1,0,1,0,5,4,1,2,0,0
+Darmstadt,Bielefeld,1,1,1,0,9,4,0,3,0,0
+Hansa Rostock,Hannover,0,1,0,1,10,3,4,2,0,0
+Sandhausen,Kaiserslautern,0,0,0,0,2,7,3,3,0,0
+Holstein Kiel,Hamburg,2,3,0,1,10,4,0,2,0,0
+Nurnberg,Bielefeld,1,0,0,0,9,1,1,2,0,0
+Hannover,Braunschweig,1,1,0,0,5,4,3,5,0,0
+Karlsruhe,Heidenheim,0,0,0,0,6,7,1,1,0,0
+Paderborn,Regensburg,3,0,1,0,8,2,2,2,0,1
+Fortuna Dusseldorf,Hansa Rostock,3,1,2,0,1,1,2,0,0,0
+Kaiserslautern,Darmstadt,3,3,0,1,3,0,1,3,0,0
+Magdeburg,Greuther Furth,2,1,1,1,6,3,0,4,0,0
+St Pauli,Sandhausen,1,1,1,0,11,1,0,2,0,0
+Braunschweig,Karlsruhe,2,1,1,0,4,2,3,1,0,0
+Sandhausen,Hannover,2,3,0,1,9,2,2,2,0,0
+Bielefeld,Holstein Kiel,4,2,2,0,3,6,3,2,0,0
+Darmstadt,Nurnberg,2,0,2,0,5,3,1,3,0,0
+Hansa Rostock,Magdeburg,3,1,2,0,5,9,2,2,0,0
+Hamburg,Fortuna Dusseldorf,2,0,1,0,8,3,2,3,0,0
+Greuther Furth,Paderborn,2,1,1,0,5,4,5,4,0,0
+Heidenheim,Kaiserslautern,2,2,2,1,5,3,1,2,0,1
+Regensburg,St Pauli,2,0,2,0,1,5,2,5,0,0
+Hannover,Hamburg,1,2,1,1,5,5,3,4,0,0
+Paderborn,Darmstadt,1,2,1,2,7,2,0,2,0,0
+Fortuna Dusseldorf,Bielefeld,4,1,1,1,12,5,1,2,0,0
+Greuther Furth,Sandhausen,1,1,0,1,8,0,1,5,0,1
+Holstein Kiel,Hansa Rostock,1,1,1,0,12,4,2,3,0,0
+St Pauli,Heidenheim,0,0,0,0,2,5,2,5,0,0
+Kaiserslautern,Braunschweig,1,1,0,0,9,8,2,1,0,0
+Karlsruhe,Nurnberg,3,0,1,0,8,3,2,2,0,0
+Magdeburg,Regensburg,1,0,0,0,5,7,1,4,0,0
+Bielefeld,Karlsruhe,1,2,0,1,7,6,0,0,0,0
+Regensburg,Greuther Furth,2,2,1,1,8,2,1,3,0,0
+Braunschweig,St Pauli,2,1,0,0,7,4,5,1,0,0
+Darmstadt,Fortuna Dusseldorf,1,0,0,0,6,2,6,4,0,0
+Hansa Rostock,Paderborn,0,3,0,1,6,8,2,1,0,0
+Hamburg,Kaiserslautern,1,1,1,0,5,4,0,0,0,0
+Heidenheim,Hannover,2,1,1,0,3,4,0,2,0,0
+Nurnberg,Holstein Kiel,2,3,1,0,6,3,1,4,0,0
+Sandhausen,Magdeburg,1,0,0,0,4,5,4,2,0,0
+Greuther Furth,Hansa Rostock,2,2,1,0,8,4,0,6,0,1
+St Pauli,Hamburg,3,0,0,0,7,2,3,1,0,1
+Fortuna Dusseldorf,Nurnberg,0,1,0,0,7,4,2,7,0,0
+Karlsruhe,Darmstadt,1,2,1,0,12,2,2,4,0,0
+Magdeburg,Braunschweig,0,2,0,0,4,2,2,4,0,0
+Hannover,Bielefeld,2,0,1,0,1,5,2,3,0,0
+Holstein Kiel,Heidenheim,3,1,1,1,6,7,0,1,0,0
+Kaiserslautern,Regensburg,0,3,0,1,11,5,1,3,0,0
+Paderborn,Sandhausen,3,0,1,0,7,2,1,2,0,0
+Darmstadt,Holstein Kiel,1,1,0,1,6,7,3,2,0,0
+Hansa Rostock,Kaiserslautern,0,2,0,0,8,6,2,2,0,0
+Braunschweig,Paderborn,0,0,0,0,8,7,1,3,0,0
+Nurnberg,Hannover,0,0,0,0,5,5,2,0,0,0
+Regensburg,Sandhausen,2,1,1,1,3,1,2,1,0,0
+Bielefeld,St Pauli,2,0,0,0,2,3,1,2,0,0
+Hamburg,Magdeburg,2,3,0,1,11,1,1,2,0,0
+Heidenheim,Greuther Furth,3,1,2,0,5,3,1,2,0,0
+Karlsruhe,Fortuna Dusseldorf,0,2,0,2,11,3,1,0,0,0
+Greuther Furth,Bielefeld,1,0,1,0,6,3,2,2,0,0
+Magdeburg,Heidenheim,1,1,0,1,7,4,2,1,0,0
+Holstein Kiel,Fortuna Dusseldorf,1,2,0,1,2,7,2,3,0,1
+Kaiserslautern,Nurnberg,0,0,0,0,7,3,2,1,0,0
+Regensburg,Hansa Rostock,0,3,0,2,9,3,5,3,0,0
+St Pauli,Darmstadt,1,1,0,0,6,6,3,1,0,0
+Hannover,Karlsruhe,1,0,0,0,6,1,1,3,0,1
+Paderborn,Hamburg,2,3,1,2,5,4,2,0,0,0
+Sandhausen,Braunschweig,2,2,0,0,9,0,3,3,0,0
+Darmstadt,Hannover,1,0,0,0,12,6,0,3,0,1
+Hansa Rostock,Sandhausen,0,1,0,1,8,2,4,1,0,0
+Fortuna Dusseldorf,St Pauli,1,0,1,0,5,10,2,1,0,1
+Heidenheim,Paderborn,3,0,1,0,9,4,1,2,0,0
+Karlsruhe,Holstein Kiel,1,4,0,2,5,2,0,0,0,0
+Bielefeld,Kaiserslautern,2,3,0,0,3,7,4,1,1,0
+Braunschweig,Greuther Furth,0,1,0,1,5,4,2,2,0,0
+Hamburg,Regensburg,3,1,1,1,8,4,1,3,0,0
+Nurnberg,Magdeburg,1,2,0,0,5,5,4,4,0,0
+Hannover,Fortuna Dusseldorf,2,0,2,0,4,9,1,4,0,0
+Kaiserslautern,Karlsruhe,2,0,1,0,2,8,1,3,0,0
+Paderborn,Bielefeld,0,2,0,2,7,2,2,6,1,1
+St Pauli,Holstein Kiel,0,0,0,0,3,10,2,0,0,0
+Greuther Furth,Hamburg,1,0,1,0,5,4,4,6,1,0
+Hansa Rostock,Nurnberg,1,1,0,1,4,9,3,3,0,0
+Regensburg,Braunschweig,1,1,1,1,8,5,0,3,0,0
+Sandhausen,Heidenheim,3,4,0,2,5,2,1,4,0,0
+Magdeburg,Darmstadt,0,1,0,0,2,6,3,4,1,0
+Fortuna Dusseldorf,Kaiserslautern,1,2,1,0,3,3,2,1,0,0
+Holstein Kiel,Hannover,1,1,1,1,6,5,3,4,0,0
+Hamburg,Sandhausen,4,2,1,0,4,0,1,4,0,0
+Heidenheim,Regensburg,5,4,3,2,4,3,1,4,0,0
+Karlsruhe,St Pauli,4,4,3,3,3,6,1,1,0,0
+Braunschweig,Hansa Rostock,0,1,0,0,6,1,2,3,0,0
+Bielefeld,Magdeburg,3,1,1,0,3,13,2,1,0,0
+Darmstadt,Greuther Furth,1,1,1,1,4,5,2,3,0,1
+Nurnberg,Paderborn,2,1,1,0,10,6,4,2,0,1
+Fortuna Dusseldorf,Magdeburg,3,2,2,1,11,2,4,4,0,0
+Karlsruhe,Paderborn,0,1,0,0,5,5,2,3,0,0
+Darmstadt,Regensburg,2,0,2,0,4,3,1,1,0,1
+Heidenheim,Hansa Rostock,2,0,0,0,5,0,1,0,0,0
+Holstein Kiel,Greuther Furth,2,1,0,1,12,6,1,1,0,0
+Hannover,Kaiserslautern,1,3,1,0,7,5,1,3,0,0
+Bielefeld,Sandhausen,1,2,1,2,3,4,2,3,0,0
+Hamburg,Braunschweig,4,2,2,1,8,7,1,0,0,0
+Nurnberg,St Pauli,0,1,0,1,2,2,1,2,0,0
+Paderborn,Fortuna Dusseldorf,4,1,1,0,6,4,0,1,0,0
+Sandhausen,Darmstadt,0,4,0,2,3,7,3,1,0,0
+Braunschweig,Heidenheim,2,0,0,0,3,6,0,1,0,0
+Kaiserslautern,Holstein Kiel,2,1,1,1,8,3,3,3,0,0
+Regensburg,Bielefeld,1,3,1,1,2,2,2,3,0,0
+Greuther Furth,Nurnberg,1,0,0,0,4,3,1,3,0,0
+Hansa Rostock,Hamburg,0,2,0,1,3,7,3,4,1,0
+Magdeburg,Karlsruhe,1,1,0,1,8,4,1,2,0,0
+St Pauli,Hannover,2,0,2,0,8,3,1,3,0,1
+Bielefeld,Hansa Rostock,0,1,0,0,6,10,1,3,0,0
+Karlsruhe,Greuther Furth,2,1,1,1,4,5,3,2,1,0
+Hannover,Paderborn,3,4,2,2,4,1,3,4,0,0
+Holstein Kiel,Magdeburg,2,3,1,1,6,2,6,6,0,0
+Nurnberg,Regensburg,1,0,0,0,3,4,3,2,0,0
+Heidenheim,Hamburg,3,3,3,0,4,5,3,2,0,0
+Darmstadt,Braunschweig,2,1,0,0,8,1,5,7,0,1
+Fortuna Dusseldorf,Sandhausen,2,0,0,0,8,1,0,4,0,0
+St Pauli,Kaiserslautern,1,0,0,0,4,4,5,6,0,0
+Braunschweig,Holstein Kiel,2,3,0,2,12,3,3,3,0,0
+Paderborn,Kaiserslautern,1,0,0,0,3,6,0,3,0,0
+Greuther Furth,Fortuna Dusseldorf,2,1,1,0,5,4,1,5,0,1
+Magdeburg,St Pauli,1,2,1,0,3,9,2,1,0,0
+Regensburg,Hannover,1,1,1,0,9,6,4,2,0,0
+Hansa Rostock,Darmstadt,0,1,0,0,9,5,0,1,0,0
+Hamburg,Bielefeld,2,1,1,0,2,4,2,3,0,0
+Heidenheim,Nurnberg,5,0,3,0,5,5,0,1,0,1
+Sandhausen,Karlsruhe,0,3,0,1,4,6,0,2,0,0
+Fortuna Dusseldorf,Braunschweig,3,1,2,0,6,3,3,4,0,0
+Karlsruhe,Regensburg,1,0,1,0,2,4,2,5,0,0
+Holstein Kiel,Paderborn,1,1,0,1,4,3,1,2,0,0
+Kaiserslautern,Greuther Furth,3,1,1,0,2,7,3,3,0,1
+Nurnberg,Sandhausen,1,0,0,0,1,2,1,3,0,0
+Darmstadt,Hamburg,1,1,0,1,6,5,1,5,0,0
+Bielefeld,Heidenheim,0,1,0,0,6,0,3,2,0,0
+Hannover,Magdeburg,1,2,0,0,8,6,5,3,1,0
+St Pauli,Hansa Rostock,1,0,1,0,4,4,2,5,0,0
+Magdeburg,Kaiserslautern,2,0,1,0,4,2,4,4,0,0
+Paderborn,St Pauli,1,2,0,2,5,1,4,2,1,0
+Hamburg,Nurnberg,3,0,1,0,4,4,2,1,0,0
+Regensburg,Fortuna Dusseldorf,0,1,0,0,4,3,2,1,0,0
+Sandhausen,Holstein Kiel,1,1,0,0,9,4,3,1,0,0
+Heidenheim,Darmstadt,1,0,0,0,9,2,3,1,1,0
+Braunschweig,Bielefeld,3,3,2,3,7,1,2,2,0,0
+Greuther Furth,Hannover,1,1,0,0,4,5,4,2,0,0
+Hansa Rostock,Karlsruhe,0,2,0,2,6,5,1,2,0,0
+Kaiserslautern,Sandhausen,2,2,1,1,8,5,1,3,0,0
+Nurnberg,Braunschweig,2,0,0,0,5,3,2,4,0,0
+Bielefeld,Darmstadt,3,1,0,0,6,4,0,0,0,0
+Magdeburg,Paderborn,0,0,0,0,7,4,3,1,0,0
+St Pauli,Greuther Furth,2,1,1,1,3,4,4,1,0,1
+Fortuna Dusseldorf,Heidenheim,1,1,1,1,3,1,3,2,0,1
+Hannover,Hansa Rostock,1,1,0,1,5,6,1,3,0,0
+Holstein Kiel,Regensburg,1,2,1,1,9,0,2,4,0,0
+Karlsruhe,Hamburg,4,2,3,0,5,2,2,2,0,1
+Bielefeld,Nurnberg,2,2,2,0,1,7,2,1,0,0
+Heidenheim,Karlsruhe,5,2,2,2,4,2,2,1,0,0
+Greuther Furth,Magdeburg,3,0,0,0,2,2,2,2,0,0
+Hamburg,Holstein Kiel,0,0,0,0,17,3,3,4,0,0
+Regensburg,Paderborn,1,0,0,0,4,7,1,0,0,0
+Darmstadt,Kaiserslautern,2,0,2,0,5,3,4,1,0,0
+Braunschweig,Hannover,1,0,0,0,7,4,2,2,0,0
+Hansa Rostock,Fortuna Dusseldorf,2,5,0,3,3,2,1,2,0,0
+Sandhausen,St Pauli,0,5,0,4,3,9,2,0,1,0
+Fortuna Dusseldorf,Hamburg,2,2,2,1,4,1,4,4,0,1
+Nurnberg,Darmstadt,0,1,0,1,9,3,1,5,0,0
+Hannover,Sandhausen,3,1,1,1,7,9,4,2,0,0
+Karlsruhe,Braunschweig,1,1,0,1,13,1,2,6,0,1
+St Pauli,Regensburg,1,0,1,0,0,4,2,4,0,0
+Kaiserslautern,Heidenheim,2,2,0,0,3,5,2,2,0,0
+Holstein Kiel,Bielefeld,2,3,1,2,4,8,3,2,0,0
+Magdeburg,Hansa Rostock,3,0,1,0,2,1,0,4,0,1
+Paderborn,Greuther Furth,3,2,1,0,2,3,1,1,0,0
+Braunschweig,Kaiserslautern,1,0,0,0,9,3,1,2,0,0
+Hamburg,Hannover,6,1,2,0,6,3,3,1,0,0
+Nurnberg,Karlsruhe,1,1,0,1,10,2,2,6,0,1
+Heidenheim,St Pauli,0,1,0,1,5,3,2,2,0,0
+Bielefeld,Fortuna Dusseldorf,2,2,1,0,3,3,3,1,0,0
+Darmstadt,Paderborn,2,1,1,1,7,3,1,3,0,0
+Hansa Rostock,Holstein Kiel,2,3,1,2,14,2,1,1,0,0
+Regensburg,Magdeburg,2,2,0,1,2,7,4,1,0,1
+Sandhausen,Greuther Furth,0,2,0,2,2,6,4,1,0,0
+Greuther Furth,Regensburg,2,1,0,0,5,4,2,1,0,0
+Hannover,Heidenheim,0,3,0,3,6,8,3,1,0,0
+Holstein Kiel,Nurnberg,2,1,2,0,4,2,3,6,0,1
+Magdeburg,Sandhausen,1,2,0,1,5,6,2,5,0,0
+Paderborn,Hansa Rostock,3,0,0,0,11,4,1,1,0,1
+Kaiserslautern,Hamburg,2,0,0,0,4,4,3,1,0,0
+Fortuna Dusseldorf,Darmstadt,1,0,0,0,2,13,1,3,0,0
+Karlsruhe,Bielefeld,4,2,0,1,7,6,3,1,0,0
+St Pauli,Braunschweig,1,2,0,2,4,1,1,2,0,0
+Darmstadt,Karlsruhe,2,1,1,1,2,4,1,2,0,0
+Hamburg,St Pauli,4,3,1,1,3,3,4,3,0,0
+Bielefeld,Hannover,1,3,1,2,4,6,3,2,0,1
+Hansa Rostock,Greuther Furth,2,0,0,0,2,11,1,1,0,0
+Nurnberg,Fortuna Dusseldorf,2,0,1,0,13,3,1,2,0,0
+Braunschweig,Magdeburg,1,2,0,1,4,1,4,3,0,0
+Heidenheim,Holstein Kiel,3,0,1,0,12,1,2,2,0,0
+Regensburg,Kaiserslautern,0,0,0,0,4,3,0,4,1,0
+Sandhausen,Paderborn,2,2,1,2,3,3,1,1,0,0
+Greuther Furth,Heidenheim,0,2,0,1,9,4,0,2,0,0
+Paderborn,Braunschweig,5,1,2,0,4,0,2,4,0,0
+Kaiserslautern,Hansa Rostock,0,1,0,1,14,6,4,3,0,0
+Magdeburg,Hamburg,3,2,1,1,2,12,2,3,0,0
+St Pauli,Bielefeld,2,1,0,0,5,5,2,3,0,0
+Hannover,Nurnberg,3,0,1,0,3,9,1,1,0,0
+Fortuna Dusseldorf,Karlsruhe,3,2,1,1,8,6,1,1,0,0
+Holstein Kiel,Darmstadt,0,3,0,2,4,4,1,1,0,0
+Sandhausen,Regensburg,2,1,1,0,9,5,2,2,0,1
+Bielefeld,Greuther Furth,1,1,1,1,8,5,0,1,0,0
+Hamburg,Paderborn,2,2,1,1,3,4,4,1,0,0
+Fortuna Dusseldorf,Holstein Kiel,3,0,3,0,4,3,0,1,0,0
+Hansa Rostock,Regensburg,2,0,1,0,2,3,1,2,0,0
+Karlsruhe,Hannover,2,1,2,1,4,6,1,0,0,0
+Darmstadt,St Pauli,0,3,0,1,2,1,2,1,0,0
+Braunschweig,Sandhausen,2,1,0,0,3,12,1,0,0,0
+Heidenheim,Magdeburg,0,0,0,0,8,3,2,2,0,0
+Nurnberg,Kaiserslautern,3,3,2,1,3,10,2,2,0,0
+Magdeburg,Nurnberg,2,2,1,0,6,6,0,4,0,0
+Sandhausen,Hansa Rostock,1,2,0,2,7,5,3,2,0,0
+Greuther Furth,Braunschweig,2,2,1,1,8,1,0,2,0,0
+Holstein Kiel,Karlsruhe,2,1,1,0,1,6,1,2,0,0
+Kaiserslautern,Bielefeld,1,2,0,1,5,5,1,4,0,0
+St Pauli,Fortuna Dusseldorf,0,0,0,0,7,0,1,4,0,0
+Hannover,Darmstadt,2,1,2,1,2,7,2,5,0,2
+Paderborn,Heidenheim,3,2,1,2,5,3,2,1,0,0
+Regensburg,Hamburg,1,5,0,4,6,4,3,1,0,0
+Darmstadt,Magdeburg,1,0,1,0,5,4,2,3,0,0
+Holstein Kiel,St Pauli,3,4,1,1,9,5,4,2,0,1
+Bielefeld,Paderborn,2,2,2,1,6,2,1,0,0,0
+Braunschweig,Regensburg,1,2,1,1,8,5,2,5,0,1
+Heidenheim,Sandhausen,1,0,0,0,13,1,2,3,0,0
+Hamburg,Greuther Furth,2,1,1,0,1,7,5,2,1,1
+Fortuna Dusseldorf,Hannover,3,3,1,2,5,4,3,2,0,0
+Karlsruhe,Kaiserslautern,2,0,0,0,1,8,3,3,0,0
+Nurnberg,Hansa Rostock,0,0,0,0,5,1,1,5,0,0
+Greuther Furth,Darmstadt,4,0,0,0,5,3,0,3,0,1
+Hannover,Holstein Kiel,1,5,0,3,6,2,0,1,0,0
+Hansa Rostock,Braunschweig,2,1,0,0,8,6,2,3,0,1
+Kaiserslautern,Fortuna Dusseldorf,0,3,0,1,6,3,1,3,1,0
+Magdeburg,Bielefeld,4,0,2,0,7,4,2,1,0,0
+Paderborn,Nurnberg,0,1,0,1,6,1,2,2,0,0
+Regensburg,Heidenheim,2,3,0,0,5,4,6,0,0,0
+Sandhausen,Hamburg,0,1,0,1,2,8,1,3,0,0
+St Pauli,Karlsruhe,1,1,0,1,4,4,3,3,0,0

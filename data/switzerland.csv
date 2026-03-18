@@ -1,0 +1,2627 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Servette,Basel,0,1
+Thun,Lausanne,0,0
+Grasshoppers,Sion,0,2
+Luzern,Zurich,1,1
+St. Gallen,Young Boys,1,1
+Basel,Luzern,2,2
+Lausanne,St. Gallen,0,1
+Sion,Servette,1,0
+Young Boys,Grasshoppers,0,1
+Zurich,Thun,0,2
+Grasshoppers,Basel,2,2
+St. Gallen,Zurich,3,1
+Lausanne,Servette,5,1
+Young Boys,Thun,3,0
+Luzern,Sion,0,3
+Sion,Basel,1,1
+St. Gallen,Grasshoppers,1,1
+Thun,Luzern,2,1
+Zurich,Lausanne,4,0
+Servette,Young Boys,1,1
+Lausanne,Sion,0,2
+Luzern,St. Gallen,1,1
+Grasshoppers,Servette,1,0
+Young Boys,Zurich,4,1
+Basel,Thun,3,1
+Basel,Lausanne,2,0
+Thun,St. Gallen,0,1
+Servette,Zurich,1,1
+Sion,Young Boys,1,0
+Luzern,Grasshoppers,0,2
+Grasshoppers,Thun,1,0
+St. Gallen,Basel,2,1
+Servette,Luzern,0,2
+Zurich,Sion,1,0
+Young Boys,Lausanne,0,0
+Lausanne,Grasshoppers,0,2
+Sion,St. Gallen,0,3
+Luzern,Young Boys,1,2
+Thun,Servette,3,0
+Basel,Zurich,0,0
+Sion,Thun,2,1
+Zurich,Grasshoppers,0,1
+Lausanne,Luzern,1,0
+St. Gallen,Servette,2,0
+Young Boys,Basel,1,1
+Servette,Lausanne,0,1
+Zurich,St. Gallen,0,2
+Basel,Sion,4,1
+Grasshoppers,Luzern,2,0
+Thun,Young Boys,2,1
+Lausanne,Basel,1,1
+Luzern,Thun,2,1
+Young Boys,Servette,6,2
+Sion,Zurich,2,2
+Grasshoppers,St. Gallen,1,0
+St. Gallen,Lausanne,2,1
+Thun,Grasshoppers,2,3
+Sion,Luzern,3,2
+Zurich,Young Boys,1,1
+Basel,Servette,3,2
+Servette,St. Gallen,1,1
+Thun,Sion,1,1
+Lausanne,Zurich,0,2
+Luzern,Basel,1,0
+Grasshoppers,Young Boys,3,2
+Sion,Lausanne,1,1
+Servette,Grasshoppers,2,0
+St. Gallen,Thun,1,0
+Zurich,Basel,1,2
+Basel,Young Boys,2,0
+Grasshoppers,Lausanne,1,1
+Luzern,Servette,1,1
+Thun,Zurich,1,4
+St. Gallen,Sion,0,3
+Lausanne,Thun,3,0
+Zurich,Luzern,0,2
+Servette,Sion,0,2
+Young Boys,St. Gallen,0,0
+Basel,Grasshoppers,4,0
+Sion,Grasshoppers,1,1
+Zurich,Servette,0,2
+Lausanne,Young Boys,2,1
+St. Gallen,Luzern,1,1
+Thun,Basel,3,2
+Young Boys,Luzern,2,1
+Basel,St. Gallen,1,0
+Luzern,Lausanne,0,0
+Servette,Thun,0,0
+Young Boys,Sion,3,1
+Grasshoppers,Zurich,1,0
+Servette,Grasshoppers,0,1
+Young Boys,Luzern,3,2
+Zurich,Lausanne,2,0
+Basel,Sion,3,0
+Grasshoppers,Young Boys,2,0
+Sion,St. Gallen,1,0
+Lausanne,Basel,1,2
+Luzern,Zurich,1,1
+Thun,Servette,1,1
+Servette,Lausanne,1,0
+Zurich,Young Boys,4,0
+St. Gallen,Luzern,4,0
+Thun,Sion,4,0
+Basel,Grasshoppers,0,0
+Luzern,Thun,0,0
+Zurich,Sion,3,1
+Servette,Basel,1,2
+Young Boys,St. Gallen,2,0
+Lausanne,Grasshoppers,0,0
+Grasshoppers,St. Gallen,3,1
+Luzern,Servette,1,1
+Sion,Lausanne,0,1
+Thun,Zurich,0,4
+Basel,Young Boys,3,0
+St. Gallen,Thun,0,0
+Servette,Zurich,1,2
+St. Gallen,Lausanne,3,1
+Basel,Thun,1,0
+Young Boys,Sion,0,0
+Grasshoppers,Luzern,0,0
+Sion,Servette,1,1
+Thun,Grasshoppers,1,0
+Zurich,St. Gallen,1,3
+Lausanne,Young Boys,0,0
+Luzern,Basel,0,4
+Sion,Luzern,2,1
+Zurich,Grasshoppers,2,4
+Lausanne,Thun,2,4
+Young Boys,Servette,0,2
+St. Gallen,Basel,1,1
+Luzern,Lausanne,1,0
+Servette,St. Gallen,1,3
+Basel,Zurich,3,1
+Young Boys,Thun,1,2
+Grasshoppers,Sion,1,1
+Lausanne,St. Gallen,1,3
+Zurich,Servette,4,0
+Luzern,Grasshoppers,1,1
+Thun,Basel,2,2
+Sion,Young Boys,0,0
+Grasshoppers,Thun,0,2
+Basel,Luzern,0,3
+Young Boys,Lausanne,3,1
+St. Gallen,Zurich,1,2
+Lausanne,Zurich,1,1
+Grasshoppers,Servette,2,0
+St. Gallen,Young Boys,3,1
+Sion,Basel,0,1
+Thun,Luzern,1,1
+Young Boys,Grasshoppers,4,0
+Lausanne,Sion,1,3
+Luzern,St. Gallen,2,0
+Zurich,Basel,3,1
+Servette,Thun,2,0
+Luzern,Young Boys,3,1
+St. Gallen,Sion,5,0
+Basel,Servette,2,0
+Thun,Lausanne,2,0
+Grasshoppers,Zurich,0,1
+Basel,Lausanne,2,0
+Sion,Grasshoppers,0,4
+Thun,St. Gallen,3,0
+Servette,Young Boys,0,1
+Zurich,Luzern,4,1
+Servette,Sion,4,0
+Lausanne,Luzern,3,0
+Sion,Thun,0,1
+St. Gallen,Servette,4,1
+Young Boys,Zurich,2,4
+Grasshoppers,Basel,1,0
+Lausanne,Servette,3,0
+Luzern,Sion,2,0
+St. Gallen,Grasshoppers,1,2
+Young Boys,Basel,0,1
+Zurich,Thun,2,0
+Basel,St. Gallen,1,0
+Grasshoppers,Lausanne,4,1
+Servette,Luzern,3,4
+Sion,Zurich,4,2
+Thun,Young Boys,2,2
+Basel,Aarau,3,1
+Young Boys,Sion,2,0
+Luzern,Lausanne,2,0
+Zurich,Thun,3,2
+St. Gallen,Grasshoppers,0,2
+Aarau,Luzern,4,2
+Lausanne,Young Boys,1,3
+Sion,Zurich,0,0
+Thun,St. Gallen,3,2
+Grasshoppers,Basel,1,1
+Basel,Lausanne,2,0
+Grasshoppers,Aarau,4,2
+Luzern,Zurich,3,2
+Sion,St. Gallen,0,1
+Young Boys,Thun,3,2
+Lausanne,Grasshoppers,0,0
+St. Gallen,Basel,1,1
+Thun,Aarau,2,2
+Zurich,Young Boys,1,3
+Luzern,Sion,1,0
+Aarau,Young Boys,0,4
+Grasshoppers,Sion,0,0
+St. Gallen,Lausanne,2,0
+Thun,Luzern,1,1
+Basel,Zurich,1,2
+Lausanne,Aarau,1,2
+Luzern,Basel,1,1
+Sion,Thun,0,0
+Young Boys,Grasshoppers,1,2
+Zurich,St. Gallen,0,0
+Aarau,Sion,0,1
+St. Gallen,Luzern,4,1
+Thun,Lausanne,4,1
+Basel,Young Boys,2,1
+Young Boys,Luzern,0,1
+Grasshoppers,Thun,2,1
+Lausanne,Zurich,1,2
+Sion,Basel,1,3
+St. Gallen,Young Boys,0,0
+Luzern,Grasshoppers,0,2
+Sion,Lausanne,2,1
+Thun,Basel,0,2
+Zurich,Aarau,1,2
+Basel,Sion,2,2
+Grasshoppers,St. Gallen,0,1
+Aarau,Lausanne,2,3
+Luzern,Thun,1,1
+Young Boys,Zurich,0,1
+Sion,Young Boys,2,2
+Zurich,Luzern,0,2
+St. Gallen,Aarau,1,0
+Thun,Grasshoppers,1,1
+Lausanne,Basel,1,2
+Basel,St. Gallen,3,0
+Thun,Sion,1,0
+Aarau,Zurich,5,1
+Grasshoppers,Lausanne,2,0
+Luzern,Young Boys,1,1
+Lausanne,Luzern,0,1
+Young Boys,Aarau,3,0
+Sion,Grasshoppers,2,0
+St. Gallen,Thun,0,0
+Zurich,Basel,0,0
+Aarau,St. Gallen,2,2
+Grasshoppers,Zurich,3,1
+Aarau,Basel,1,1
+Sion,Luzern,3,0
+Lausanne,St. Gallen,0,3
+Thun,Zurich,2,1
+Grasshoppers,Young Boys,0,1
+Basel,Thun,4,1
+Young Boys,Lausanne,3,2
+Aarau,Grasshoppers,2,4
+Zurich,Sion,4,1
+Luzern,St. Gallen,3,1
+Grasshoppers,Luzern,1,2
+Lausanne,Thun,0,2
+St. Gallen,Zurich,2,1
+Young Boys,Basel,2,2
+Basel,Grasshoppers,1,1
+Zurich,Lausanne,4,0
+Luzern,Aarau,1,0
+St. Gallen,Sion,2,0
+Thun,Young Boys,1,0
+Basel,Luzern,1,1
+Lausanne,Sion,3,1
+Aarau,Thun,2,1
+Young Boys,St. Gallen,1,0
+Zurich,Grasshoppers,1,1
+Aarau,St. Gallen,1,1
+Zurich,Sion,1,0
+Lausanne,Basel,1,3
+Luzern,Grasshoppers,1,3
+Young Boys,Thun,2,1
+Basel,Young Boys,3,2
+Thun,Luzern,2,1
+Grasshoppers,Aarau,1,2
+Sion,Lausanne,1,2
+St. Gallen,Zurich,0,2
+Basel,Sion,1,0
+Luzern,Aarau,3,2
+St. Gallen,Grasshoppers,1,5
+Zurich,Thun,3,1
+Young Boys,Lausanne,5,3
+Aarau,Zurich,1,2
+Thun,Sion,3,1
+Lausanne,St. Gallen,3,0
+Luzern,Young Boys,1,2
+Grasshoppers,Basel,1,1
+Sion,Young Boys,3,0
+Lausanne,Aarau,0,1
+Zurich,Grasshoppers,3,1
+Thun,Basel,2,2
+St. Gallen,Luzern,1,1
+Basel,St. Gallen,1,1
+Grasshoppers,Lausanne,2,1
+Aarau,Thun,1,4
+Young Boys,Zurich,1,3
+Sion,Luzern,3,2
+Sion,Aarau,1,2
+St. Gallen,Young Boys,1,1
+Thun,Lausanne,2,2
+Grasshoppers,Sion,4,2
+Luzern,Zurich,1,0
+Basel,Aarau,5,0
+Aarau,Sion,2,0
+St. Gallen,Thun,1,0
+Lausanne,Luzern,1,0
+Young Boys,Grasshoppers,0,4
+Zurich,Basel,0,0
+Aarau,Young Boys,2,1
+Sion,St. Gallen,1,1
+Thun,Grasshoppers,1,3
+Zurich,Lausanne,0,3
+Luzern,Basel,0,2
+Grasshoppers,Zurich,2,0
+St. Gallen,Aarau,4,1
+Basel,Thun,0,0
+Lausanne,Sion,0,1
+Young Boys,Luzern,2,1
+Lausanne,Grasshoppers,0,2
+Thun,Aarau,2,0
+Luzern,St. Gallen,1,0
+Sion,Basel,0,1
+Zurich,Young Boys,2,2
+Aarau,Luzern,1,2
+Grasshoppers,Thun,0,5
+Basel,Zurich,4,2
+St. Gallen,Lausanne,0,0
+Young Boys,Sion,0,0
+Sion,Aarau,2,0
+Zurich,Luzern,1,2
+Lausanne,Young Boys,0,1
+Thun,St. Gallen,4,0
+Basel,Grasshoppers,1,1
+Luzern,Sion,0,1
+Thun,Zurich,1,2
+Aarau,Lausanne,3,1
+St. Gallen,Basel,0,3
+Grasshoppers,Young Boys,5,0
+Sion,Zurich,1,0
+Grasshoppers,St. Gallen,2,0
+Young Boys,Aarau,2,2
+Basel,Luzern,3,1
+Lausanne,Thun,1,3
+Aarau,Grasshoppers,4,0
+Zurich,St. Gallen,2,2
+Luzern,Lausanne,3,4
+Sion,Thun,3,1
+Young Boys,Basel,3,1
+Aarau,Basel,1,3
+Grasshoppers,Luzern,4,1
+Lausanne,Zurich,0,1
+St. Gallen,Sion,2,0
+Thun,Young Boys,0,3
+Basel,Lausanne,4,2
+Luzern,Thun,3,0
+Sion,Grasshoppers,3,1
+Young Boys,St. Gallen,2,0
+Zurich,Aarau,2,2
+Aarau,Basel,1,2
+St. Gallen,Young Boys,2,2
+Luzern,Sion,1,1
+Thun,Vaduz,1,0
+Zurich,Grasshoppers,1,0
+Aarau,Sion,1,0
+Zurich,Thun,2,1
+Grasshoppers,Thun,2,3
+Sion,St. Gallen,1,0
+Vaduz,Zurich,1,4
+Young Boys,Aarau,1,1
+Basel,Luzern,3,0
+Thun,Basel,2,3
+Grasshoppers,Sion,0,0
+Zurich,Young Boys,2,1
+St. Gallen,Luzern,2,1
+Aarau,Vaduz,1,1
+St. Gallen,Aarau,2,2
+Basel,Zurich,4,1
+Luzern,Grasshoppers,1,1
+Sion,Vaduz,1,0
+Young Boys,Thun,1,1
+Vaduz,Luzern,1,1
+Young Boys,Grasshoppers,4,0
+Basel,St. Gallen,0,2
+Aarau,Grasshoppers,1,2
+Luzern,Zurich,1,1
+Sion,Basel,2,3
+Thun,St. Gallen,3,1
+Vaduz,Young Boys,0,2
+Thun,Sion,2,1
+Luzern,Aarau,1,1
+Grasshoppers,Vaduz,0,1
+St. Gallen,Zurich,0,2
+Basel,Young Boys,3,1
+Grasshoppers,Basel,3,1
+Aarau,Thun,2,1
+Vaduz,St. Gallen,2,2
+Young Boys,Luzern,3,2
+Zurich,Sion,4,1
+Basel,Vaduz,3,1
+Thun,Luzern,3,2
+St. Gallen,Grasshoppers,3,0
+Zurich,Aarau,0,0
+Sion,Young Boys,0,1
+Grasshoppers,Aarau,2,1
+Basel,Thun,1,1
+Vaduz,Sion,1,0
+Young Boys,Zurich,2,1
+Luzern,St. Gallen,1,2
+Thun,Grasshoppers,3,2
+St. Gallen,Basel,2,1
+Sion,Luzern,3,1
+Zurich,Vaduz,3,0
+Aarau,Young Boys,3,2
+Aarau,St. Gallen,0,3
+Young Boys,Basel,0,1
+Luzern,Vaduz,0,0
+Sion,Thun,0,0
+Grasshoppers,Zurich,1,3
+Thun,Aarau,0,0
+Basel,Sion,1,1
+Vaduz,Grasshoppers,1,1
+Zurich,St. Gallen,1,1
+Zurich,Luzern,2,3
+Basel,Grasshoppers,2,0
+Sion,Aarau,2,2
+Young Boys,Vaduz,0,1
+St. Gallen,Thun,1,0
+Luzern,Thun,0,0
+Grasshoppers,St. Gallen,3,0
+Aarau,Zurich,0,1
+Vaduz,Basel,0,4
+Young Boys,Sion,2,1
+Sion,Zurich,1,3
+Grasshoppers,Luzern,3,2
+Basel,Aarau,3,0
+St. Gallen,Vaduz,3,3
+Thun,Young Boys,0,1
+Aarau,Luzern,0,3
+Sion,Grasshoppers,3,3
+Vaduz,Thun,0,1
+Young Boys,St. Gallen,4,2
+Zurich,Basel,1,2
+Luzern,Young Boys,1,2
+Luzern,Basel,0,3
+Grasshoppers,Young Boys,0,1
+Thun,Zurich,2,1
+Vaduz,Aarau,1,0
+St. Gallen,Sion,2,0
+Luzern,Young Boys,1,1
+St. Gallen,Zurich,1,4
+Thun,Aarau,1,1
+Grasshoppers,Basel,2,4
+Basel,Sion,1,1
+Young Boys,Grasshoppers,4,2
+Aarau,Vaduz,0,1
+St. Gallen,Luzern,0,0
+Zurich,Thun,0,1
+Grasshoppers,Zurich,0,2
+Luzern,Aarau,4,0
+Vaduz,Thun,1,1
+Young Boys,Basel,4,2
+Vaduz,Sion,0,2
+Zurich,Aarau,0,0
+Basel,Vaduz,1,0
+St. Gallen,Grasshoppers,1,1
+Thun,Young Boys,0,0
+Sion,Luzern,2,2
+Grasshoppers,Luzern,1,0
+Basel,Thun,3,0
+Vaduz,Zurich,2,2
+Young Boys,Sion,3,2
+Aarau,St. Gallen,0,2
+Luzern,Vaduz,2,0
+Thun,Grasshoppers,2,2
+Aarau,Young Boys,1,1
+Zurich,Sion,0,1
+St. Gallen,Basel,2,2
+Sion,St. Gallen,3,0
+Luzern,Basel,1,4
+Grasshoppers,Aarau,3,1
+Sion,Thun,3,0
+Vaduz,St. Gallen,3,1
+Young Boys,Zurich,3,0
+Vaduz,Young Boys,0,1
+Sion,Grasshoppers,0,5
+Thun,St. Gallen,4,1
+Zurich,Luzern,0,1
+Basel,Aarau,6,0
+Thun,Luzern,1,0
+St. Gallen,Young Boys,3,1
+Aarau,Sion,0,1
+Grasshoppers,Vaduz,1,1
+Basel,Zurich,5,1
+Sion,Basel,0,1
+Zurich,St. Gallen,1,2
+Vaduz,Aarau,0,2
+Young Boys,Thun,4,0
+Luzern,Grasshoppers,2,0
+Aarau,Zurich,0,0
+Thun,Sion,2,1
+Basel,Luzern,1,2
+St. Gallen,Vaduz,1,2
+Grasshoppers,Young Boys,2,2
+Sion,Zurich,1,2
+Grasshoppers,Thun,0,0
+Vaduz,Basel,1,3
+Young Boys,Aarau,2,2
+Luzern,St. Gallen,6,2
+Thun,Vaduz,4,0
+Basel,Grasshoppers,2,1
+Aarau,Luzern,2,6
+St. Gallen,Sion,0,1
+Zurich,Young Boys,0,1
+Aarau,Grasshoppers,0,1
+Sion,Vaduz,4,0
+Luzern,Thun,0,0
+Young Boys,St. Gallen,3,1
+Zurich,Basel,1,2
+Vaduz,Luzern,0,2
+Sion,Aarau,1,0
+Grasshoppers,St. Gallen,2,0
+Thun,Zurich,2,2
+Basel,Young Boys,0,0
+Grasshoppers,Sion,0,0
+St. Gallen,Thun,2,1
+Aarau,Basel,2,1
+Young Boys,Luzern,0,1
+Zurich,Vaduz,2,2
+Luzern,Zurich,0,1
+Sion,Young Boys,6,2
+St. Gallen,Aarau,5,1
+Thun,Basel,2,2
+Vaduz,Grasshoppers,0,1
+Aarau,Thun,3,2
+Basel,St. Gallen,4,3
+Luzern,Sion,3,0
+Young Boys,Vaduz,2,1
+Zurich,Grasshoppers,4,3
+Luzern,Sion,2,2
+Zurich,Young Boys,1,1
+Basel,Vaduz,2,0
+Thun,Grasshoppers,3,5
+St. Gallen,Lugano,2,0
+Young Boys,Luzern,1,1
+Grasshoppers,Basel,2,3
+Lugano,Thun,2,3
+Sion,St. Gallen,1,0
+Vaduz,Zurich,2,2
+Basel,Sion,3,0
+St. Gallen,Young Boys,1,1
+Lugano,Vaduz,1,0
+Thun,Luzern,0,1
+Zurich,Grasshoppers,2,3
+Grasshoppers,Lugano,6,1
+Luzern,Basel,1,3
+St. Gallen,Zurich,0,2
+Vaduz,Sion,1,1
+Young Boys,Thun,3,1
+Basel,Thun,3,1
+Young Boys,Lugano,0,1
+Luzern,St. Gallen,0,1
+Sion,Zurich,3,1
+Vaduz,Grasshoppers,3,3
+Lugano,Basel,1,3
+Zurich,Luzern,2,5
+St. Gallen,Grasshoppers,0,2
+Thun,Vaduz,1,0
+Sion,Young Boys,1,3
+Lugano,Luzern,0,1
+Vaduz,St. Gallen,1,0
+Thun,Sion,0,2
+Basel,Zurich,3,1
+Grasshoppers,Young Boys,3,2
+Basel,St. Gallen,2,1
+Young Boys,Vaduz,4,0
+Luzern,Grasshoppers,3,3
+Zurich,Thun,3,3
+Sion,Lugano,3,0
+Lugano,Zurich,0,0
+St. Gallen,Thun,1,0
+Grasshoppers,Sion,2,0
+Vaduz,Luzern,1,2
+Young Boys,Basel,4,3
+Grasshoppers,St. Gallen,1,1
+Basel,Lugano,3,1
+Sion,Vaduz,0,1
+Thun,Young Boys,0,1
+Luzern,Zurich,1,0
+Vaduz,Thun,1,1
+Luzern,Lugano,2,2
+St. Gallen,Sion,1,1
+Young Boys,Grasshoppers,3,1
+Zurich,Basel,2,2
+Grasshoppers,Luzern,1,0
+Vaduz,Young Boys,1,1
+Sion,Basel,0,2
+Thun,Zurich,5,1
+Lugano,St. Gallen,3,1
+Luzern,Vaduz,1,1
+Zurich,St. Gallen,2,2
+Sion,Grasshoppers,3,2
+Thun,Lugano,2,1
+Basel,Young Boys,1,0
+Grasshoppers,Thun,1,2
+Vaduz,Basel,1,2
+Lugano,Sion,3,0
+Young Boys,Zurich,1,1
+St. Gallen,Luzern,1,0
+Zurich,Vaduz,1,1
+Lugano,Young Boys,1,1
+Sion,Luzern,2,0
+Thun,St. Gallen,0,2
+Basel,Grasshoppers,2,3
+Grasshoppers,Vaduz,2,0
+Luzern,Thun,1,0
+St. Gallen,Basel,2,1
+Zurich,Lugano,5,3
+Young Boys,Sion,1,1
+Vaduz,Lugano,1,1
+Young Boys,St. Gallen,2,1
+Basel,Luzern,3,0
+Sion,Thun,1,2
+Grasshoppers,Zurich,5,0
+Zurich,Sion,1,0
+Luzern,Young Boys,3,1
+Lugano,Grasshoppers,4,1
+St. Gallen,Vaduz,2,2
+Thun,Basel,0,2
+Lugano,Vaduz,2,5
+Young Boys,Grasshoppers,1,1
+St. Gallen,Thun,1,2
+Zurich,Sion,0,1
+Basel,Luzern,3,0
+Thun,Lugano,2,1
+Vaduz,Young Boys,1,1
+Grasshoppers,Basel,0,4
+Luzern,Zurich,1,2
+Lugano,Zurich,0,0
+Young Boys,Thun,2,1
+Basel,Vaduz,5,1
+Grasshoppers,Sion,3,0
+Luzern,St. Gallen,0,1
+Sion,Luzern,3,1
+Zurich,Young Boys,0,1
+Thun,Basel,1,1
+Vaduz,Grasshoppers,1,1
+St. Gallen,Lugano,3,3
+Zurich,Thun,0,0
+Sion,Vaduz,2,0
+Young Boys,Luzern,5,2
+St. Gallen,Grasshoppers,2,0
+Vaduz,Thun,0,0
+Luzern,Lugano,2,1
+Basel,St. Gallen,4,2
+Young Boys,Sion,3,2
+Grasshoppers,Zurich,4,2
+Thun,Luzern,1,1
+St. Gallen,Young Boys,2,3
+Grasshoppers,Lugano,0,1
+Vaduz,Zurich,0,3
+Sion,Basel,0,1
+Luzern,Vaduz,5,1
+Zurich,St. Gallen,4,0
+Lugano,Sion,0,6
+Thun,Grasshoppers,2,1
+Basel,Young Boys,2,0
+Young Boys,Lugano,7,0
+Grasshoppers,Luzern,1,1
+Basel,Zurich,2,2
+Sion,Thun,2,1
+Vaduz,St. Gallen,3,0
+Lugano,Basel,1,4
+Sion,St. Gallen,1,1
+Sion,Grasshoppers,2,1
+Zurich,Luzern,0,1
+Lugano,Thun,2,1
+Young Boys,Vaduz,5,4
+St. Gallen,Basel,0,7
+Zurich,Grasshoppers,1,1
+Basel,Lugano,3,0
+St. Gallen,Sion,2,1
+Luzern,Young Boys,2,3
+Thun,Vaduz,2,2
+Sion,Lugano,3,1
+Grasshoppers,St. Gallen,2,0
+Luzern,Thun,3,0
+Young Boys,Zurich,3,0
+Vaduz,Basel,0,0
+Grasshoppers,Young Boys,1,2
+Basel,Sion,2,1
+St. Gallen,Vaduz,1,3
+Thun,Zurich,4,0
+Lugano,Luzern,1,1
+Thun,St. Gallen,2,2
+Zurich,Basel,2,3
+Lugano,Grasshoppers,0,1
+Vaduz,Luzern,1,2
+Sion,Young Boys,2,1
+Basel,Thun,1,1
+Luzern,Grasshoppers,3,0
+Vaduz,Sion,2,0
+Zurich,Lugano,0,4
+Young Boys,St. Gallen,3,1
+Grasshoppers,Vaduz,1,2
+Lugano,Young Boys,1,3
+Luzern,Basel,4,0
+St. Gallen,Zurich,3,0
+Thun,Sion,1,1
+Grasshoppers,Thun,0,0
+Sion,Zurich,2,2
+St. Gallen,Luzern,1,4
+Vaduz,Lugano,0,0
+Young Boys,Basel,2,3
+Basel,Grasshoppers,0,1
+Lugano,St. Gallen,3,0
+Luzern,Sion,2,2
+Thun,Young Boys,0,3
+Zurich,Vaduz,3,1
+Lugano,Luzern,1,2
+St. Gallen,Young Boys,0,2
+Grasshoppers,Lausanne,2,0
+Thun,Vaduz,1,1
+Basel,Sion,3,0
+Sion,St. Gallen,2,1
+Young Boys,Lugano,1,2
+Lausanne,Thun,4,4
+Vaduz,Basel,1,5
+Luzern,Grasshoppers,4,3
+Young Boys,Thun,4,1
+Sion,Lausanne,1,3
+Lugano,Vaduz,0,2
+Luzern,Basel,2,3
+St. Gallen,Grasshoppers,2,1
+Lugano,Sion,3,1
+Vaduz,Luzern,1,3
+Basel,Young Boys,3,0
+Lausanne,St. Gallen,1,0
+Thun,Grasshoppers,2,1
+Young Boys,Lausanne,7,2
+Basel,Lugano,4,1
+Grasshoppers,Sion,2,1
+Luzern,Thun,3,0
+Vaduz,St. Gallen,2,0
+Lugano,Lausanne,1,1
+Sion,Vaduz,3,1
+Grasshoppers,Young Boys,4,1
+St. Gallen,Luzern,3,0
+Thun,Basel,0,3
+Basel,Grasshoppers,3,1
+Young Boys,Luzern,2,1
+Lausanne,Vaduz,5,0
+Sion,Thun,1,0
+St. Gallen,Lugano,0,2
+Thun,St. Gallen,1,2
+Luzern,Sion,2,2
+Vaduz,Young Boys,0,0
+Lausanne,Basel,1,2
+Lugano,Grasshoppers,2,0
+Luzern,Lausanne,1,3
+St. Gallen,Basel,1,3
+Grasshoppers,Vaduz,2,1
+Thun,Lugano,2,2
+Sion,Young Boys,0,0
+Vaduz,Sion,2,5
+Basel,Thun,1,1
+Lausanne,Lugano,4,1
+Young Boys,St. Gallen,2,2
+Grasshoppers,Luzern,3,2
+Thun,Lausanne,1,0
+Basel,Luzern,3,0
+Sion,Grasshoppers,4,2
+St. Gallen,Vaduz,0,2
+Lugano,Young Boys,0,0
+Vaduz,Thun,2,3
+Lugano,Basel,2,2
+Young Boys,Grasshoppers,4,0
+Lausanne,Sion,0,2
+Luzern,St. Gallen,3,0
+Sion,Lugano,5,1
+Grasshoppers,Basel,0,2
+Lausanne,Luzern,2,3
+Young Boys,Vaduz,5,0
+St. Gallen,Thun,0,0
+Thun,Sion,2,3
+Basel,Lausanne,2,1
+Lugano,St. Gallen,2,3
+Vaduz,Grasshoppers,0,0
+Luzern,Young Boys,2,2
+Grasshoppers,Thun,1,1
+Basel,Vaduz,6,0
+St. Gallen,Lausanne,2,0
+Young Boys,Sion,4,3
+Luzern,Lugano,2,1
+Thun,Luzern,1,2
+Grasshoppers,St. Gallen,2,2
+Lausanne,Young Boys,1,2
+Vaduz,Lugano,5,1
+Sion,Basel,1,2
+Luzern,Vaduz,3,0
+Young Boys,Basel,3,1
+Lausanne,Grasshoppers,1,2
+Lugano,Thun,1,1
+St. Gallen,Sion,2,1
+Vaduz,Lausanne,1,1
+Basel,St. Gallen,1,0
+Grasshoppers,Lugano,0,0
+Sion,Luzern,3,1
+Thun,Young Boys,2,3
+Grasshoppers,Thun,0,1
+Basel,Lugano,4,0
+Lausanne,Luzern,4,4
+Vaduz,St. Gallen,1,1
+Young Boys,Sion,3,1
+Thun,Basel,0,2
+Lugano,Grasshoppers,3,0
+Sion,Vaduz,4,2
+St. Gallen,Lausanne,2,1
+Luzern,Young Boys,4,1
+Luzern,Thun,1,1
+Young Boys,St. Gallen,2,2
+Basel,Lausanne,4,3
+Vaduz,Lugano,1,1
+Grasshoppers,Sion,0,1
+Thun,Vaduz,4,3
+Grasshoppers,Young Boys,2,3
+Basel,Luzern,3,1
+Lausanne,Sion,0,1
+St. Gallen,Lugano,0,1
+Lugano,Lausanne,2,1
+Young Boys,Thun,3,2
+Sion,St. Gallen,1,2
+Vaduz,Basel,1,1
+Luzern,Grasshoppers,1,1
+Grasshoppers,Vaduz,1,2
+St. Gallen,Luzern,1,1
+Lausanne,Young Boys,0,0
+Thun,Lugano,5,2
+Sion,Basel,0,1
+Luzern,Sion,0,0
+Basel,Grasshoppers,1,0
+Lugano,Young Boys,0,2
+Thun,St. Gallen,2,2
+Vaduz,Lausanne,0,1
+Sion,Thun,2,1
+St. Gallen,Basel,0,3
+Luzern,Lugano,0,2
+Young Boys,Vaduz,3,2
+Lausanne,Grasshoppers,0,0
+Thun,Lausanne,2,4
+Grasshoppers,St. Gallen,3,1
+Lugano,Sion,4,2
+Vaduz,Luzern,0,2
+Basel,Young Boys,1,1
+Vaduz,Sion,0,1
+Lausanne,Basel,0,4
+Lugano,Thun,2,1
+Young Boys,Grasshoppers,0,1
+Luzern,St. Gallen,2,0
+Grasshoppers,Luzern,4,1
+Basel,Vaduz,2,2
+St. Gallen,Thun,1,2
+Young Boys,Lugano,1,2
+Sion,Lausanne,0,1
+Luzern,Basel,1,2
+Lausanne,Vaduz,1,3
+St. Gallen,Young Boys,0,2
+Thun,Sion,2,1
+Grasshoppers,Lugano,0,1
+Thun,Luzern,3,1
+Vaduz,Grasshoppers,2,4
+Lausanne,St. Gallen,0,1
+Lugano,Basel,2,2
+Sion,Young Boys,0,1
+Sion,Lugano,2,0
+St. Gallen,Vaduz,2,0
+Basel,Thun,3,3
+Grasshoppers,Lausanne,1,1
+Young Boys,Luzern,4,1
+Lugano,St. Gallen,3,2
+Luzern,Lausanne,0,3
+Vaduz,Young Boys,1,0
+Thun,Grasshoppers,3,1
+Basel,Sion,2,2
+Lausanne,Thun,0,0
+Lugano,Vaduz,2,1
+Sion,Luzern,2,3
+St. Gallen,Grasshoppers,4,1
+Young Boys,Basel,2,1
+Grasshoppers,Basel,1,3
+Lausanne,Lugano,1,2
+Luzern,Vaduz,2,2
+St. Gallen,Sion,1,1
+Thun,Young Boys,0,0
+Basel,St. Gallen,4,1
+Lugano,Luzern,0,1
+Sion,Grasshoppers,1,1
+Vaduz,Thun,1,3
+Young Boys,Lausanne,2,0
+Lausanne,St. Gallen,3,3
+Young Boys,Basel,2,0
+Grasshoppers,Zurich,0,2
+Luzern,Lugano,1,0
+Thun,Sion,0,1
+Grasshoppers,Young Boys,0,4
+Basel,Luzern,3,1
+Lausanne,Sion,0,1
+Zurich,Thun,2,1
+Lugano,Zurich,0,0
+Thun,Basel,0,3
+Luzern,Grasshoppers,2,2
+St. Gallen,Sion,2,0
+Young Boys,Lausanne,3,0
+Lausanne,Lugano,2,3
+St. Gallen,Luzern,0,2
+Young Boys,Thun,0,4
+Basel,Grasshoppers,3,2
+Zurich,Sion,2,0
+Lugano,St. Gallen,0,1
+Thun,Lausanne,5,2
+Zurich,Young Boys,0,0
+Basel,Lugano,1,1
+Grasshoppers,St. Gallen,2,0
+Sion,Luzern,1,1
+Lausanne,Grasshoppers,1,1
+Lugano,Thun,4,1
+Luzern,Zurich,1,1
+Sion,Basel,1,1
+St. Gallen,Young Boys,2,2
+Basel,Lausanne,1,2
+Zurich,St. Gallen,1,1
+Grasshoppers,Sion,3,2
+Luzern,Thun,2,2
+Young Boys,Lugano,3,0
+Lausanne,Zurich,1,1
+St. Gallen,Basel,2,1
+Young Boys,Luzern,4,1
+Lugano,Sion,1,2
+Thun,Grasshoppers,2,2
+Basel,Zurich,1,0
+Luzern,Lausanne,2,3
+Lugano,Grasshoppers,0,3
+Sion,Young Boys,0,1
+St. Gallen,Thun,3,0
+Sion,Lausanne,1,1
+Grasshoppers,Basel,0,0
+Thun,Luzern,2,0
+Young Boys,St. Gallen,6,1
+Zurich,Lugano,3,0
+Lausanne,Young Boys,2,1
+Lugano,Basel,0,4
+Grasshoppers,Luzern,1,1
+Sion,St. Gallen,1,2
+Thun,Zurich,1,3
+Basel,Thun,2,1
+Zurich,Grasshoppers,0,4
+Luzern,Young Boys,0,1
+Sion,Lugano,2,2
+St. Gallen,Lausanne,0,4
+Lausanne,Thun,1,3
+Zurich,Basel,0,0
+Lugano,Luzern,1,0
+St. Gallen,Grasshoppers,3,1
+Young Boys,Sion,5,1
+Grasshoppers,Lausanne,2,0
+Sion,Zurich,1,1
+Basel,Young Boys,1,1
+Luzern,St. Gallen,3,0
+Thun,Lugano,1,1
+Basel,Sion,5,1
+St. Gallen,Lugano,0,2
+Grasshoppers,Thun,2,0
+Lausanne,Luzern,3,1
+Young Boys,Zurich,2,1
+Luzern,Basel,1,4
+Thun,St. Gallen,1,2
+Lugano,Young Boys,1,2
+Sion,Grasshoppers,3,0
+Zurich,Lausanne,2,0
+Lausanne,Basel,1,4
+Luzern,Sion,2,1
+Grasshoppers,Lugano,0,1
+St. Gallen,Zurich,1,3
+Thun,Young Boys,3,1
+Basel,St. Gallen,3,0
+Sion,Thun,2,3
+Lugano,Lausanne,1,2
+Young Boys,Grasshoppers,1,1
+Zurich,Luzern,1,2
+St. Gallen,Sion,3,2
+Thun,Lugano,0,2
+Grasshoppers,Basel,0,2
+Lausanne,Zurich,5,1
+Luzern,Young Boys,2,4
+Luzern,Lausanne,2,1
+Young Boys,St. Gallen,2,0
+Basel,Lugano,0,1
+Sion,Grasshoppers,1,3
+Zurich,Thun,2,4
+Lugano,Sion,1,0
+Thun,Basel,0,2
+Grasshoppers,Luzern,1,2
+Lausanne,Young Boys,1,4
+St. Gallen,Zurich,1,2
+Basel,St. Gallen,0,2
+Lugano,Grasshoppers,1,0
+Sion,Lausanne,3,1
+Young Boys,Thun,3,1
+Zurich,Luzern,1,1
+Young Boys,Sion,1,0
+Grasshoppers,Zurich,1,0
+Luzern,Thun,2,1
+St. Gallen,Lugano,3,0
+Grasshoppers,Lausanne,0,0
+Lugano,Young Boys,2,4
+Sion,Luzern,1,1
+Thun,St. Gallen,1,2
+Lausanne,St. Gallen,1,4
+Zurich,Lugano,3,0
+Luzern,Basel,1,0
+Sion,Thun,7,2
+Young Boys,Grasshoppers,3,1
+Lausanne,Basel,1,1
+St. Gallen,Grasshoppers,2,1
+Zurich,Young Boys,1,2
+Basel,Sion,1,0
+Lugano,Luzern,1,2
+Thun,Lausanne,0,0
+Grasshoppers,Thun,0,2
+Sion,Zurich,1,1
+Lausanne,Lugano,2,1
+Luzern,St. Gallen,3,1
+Young Boys,Basel,2,2
+Thun,Luzern,1,0
+Zurich,Grasshoppers,1,1
+Lausanne,Sion,0,2
+Lugano,Basel,0,1
+St. Gallen,Young Boys,2,4
+Basel,Zurich,3,0
+Grasshoppers,St. Gallen,1,2
+Lugano,Thun,1,1
+Basel,Lausanne,2,1
+Luzern,Sion,0,1
+Young Boys,Zurich,1,0
+Basel,Grasshoppers,1,0
+Sion,Lugano,0,1
+Thun,Young Boys,2,2
+Zurich,St. Gallen,4,0
+Lausanne,Luzern,0,1
+Grasshoppers,Lugano,4,3
+St. Gallen,Thun,0,1
+Luzern,Zurich,2,1
+Sion,Basel,2,2
+Young Boys,Lausanne,4,1
+Lausanne,Grasshoppers,0,1
+Young Boys,Luzern,2,1
+Basel,Thun,6,1
+Lugano,St. Gallen,2,1
+Zurich,Sion,3,3
+Luzern,Lugano,2,0
+Sion,Young Boys,0,1
+St. Gallen,Basel,2,4
+Thun,Grasshoppers,2,1
+Zurich,Lausanne,1,1
+Grasshoppers,Sion,0,2
+St. Gallen,Luzern,2,3
+Thun,Zurich,0,1
+Basel,Young Boys,5,1
+Lugano,Lausanne,2,0
+Lausanne,Thun,0,3
+Luzern,Grasshoppers,1,1
+Sion,St. Gallen,3,2
+Young Boys,Lugano,3,1
+Zurich,Basel,4,1
+Basel,Luzern,2,2
+Grasshoppers,Young Boys,1,2
+Lugano,Zurich,1,1
+St. Gallen,Lausanne,0,3
+Thun,Sion,1,4
+Basel,St. Gallen,1,2
+Luzern,Xamax,0,2
+Sion,Lugano,1,2
+Young Boys,Grasshoppers,2,0
+Zurich,Thun,2,1
+Grasshoppers,Zurich,0,2
+Xamax,Basel,1,1
+Lugano,Young Boys,0,2
+St. Gallen,Sion,2,4
+Thun,Luzern,2,1
+Basel,Grasshoppers,4,2
+Luzern,Lugano,4,2
+Sion,Xamax,3,0
+St. Gallen,Thun,3,2
+Young Boys,Zurich,4,0
+Lugano,Grasshoppers,2,2
+Xamax,Thun,1,5
+Basel,Sion,3,2
+Luzern,Young Boys,2,3
+Zurich,St. Gallen,0,0
+Grasshoppers,Sion,2,1
+Young Boys,Xamax,5,2
+St. Gallen,Luzern,0,1
+Thun,Lugano,1,1
+Zurich,Basel,1,1
+Lugano,Zurich,1,0
+Sion,Young Boys,0,3
+Basel,Thun,1,1
+Luzern,Grasshoppers,2,1
+Xamax,St. Gallen,2,3
+Grasshoppers,Xamax,3,1
+Thun,Sion,4,1
+St. Gallen,Lugano,2,2
+Young Boys,Basel,7,1
+Zurich,Luzern,1,0
+Grasshoppers,Thun,0,2
+Basel,Luzern,2,1
+Xamax,Lugano,2,1
+Young Boys,St. Gallen,2,0
+Sion,Zurich,1,2
+St. Gallen,Grasshoppers,2,1
+Thun,Young Boys,1,4
+Lugano,Basel,2,2
+Luzern,Sion,1,3
+Zurich,Xamax,0,0
+St. Gallen,Basel,1,3
+Young Boys,Luzern,2,3
+Grasshoppers,Lugano,2,1
+Thun,Zurich,2,2
+Xamax,Sion,1,1
+Luzern,Thun,0,2
+Zurich,Young Boys,3,3
+Basel,Xamax,1,1
+Lugano,St. Gallen,3,1
+Sion,Grasshoppers,0,0
+Grasshoppers,Basel,1,3
+Young Boys,Sion,3,2
+Lugano,Thun,2,1
+St. Gallen,Zurich,3,2
+Xamax,Luzern,1,2
+Grasshoppers,Young Boys,0,3
+Thun,Xamax,2,2
+Basel,Lugano,3,2
+Luzern,Zurich,2,5
+Sion,St. Gallen,0,1
+Lugano,Luzern,1,4
+Thun,Basel,4,2
+St. Gallen,Young Boys,2,3
+Xamax,Grasshoppers,2,3
+Zurich,Sion,1,2
+Xamax,Zurich,3,3
+Young Boys,Lugano,1,0
+Grasshoppers,St. Gallen,2,1
+Luzern,Basel,1,1
+Sion,Thun,2,1
+Sion,Luzern,2,0
+Thun,St. Gallen,2,0
+Basel,Young Boys,1,3
+Lugano,Xamax,2,2
+Zurich,Grasshoppers,2,0
+St. Gallen,Xamax,3,2
+Young Boys,Thun,3,2
+Basel,Zurich,2,0
+Grasshoppers,Luzern,2,3
+Lugano,Sion,2,2
+Sion,Basel,1,2
+Thun,Grasshoppers,1,0
+Luzern,St. Gallen,2,1
+Xamax,Young Boys,1,4
+Zurich,Lugano,0,0
+Young Boys,Xamax,2,0
+Grasshoppers,Basel,0,4
+Lugano,Thun,1,3
+St. Gallen,Zurich,3,1
+Basel,St. Gallen,1,1
+Zurich,Grasshoppers,3,1
+Sion,Lugano,2,2
+Thun,Young Boys,1,1
+Xamax,Luzern,2,1
+Luzern,Sion,1,3
+Luzern,Lugano,0,3
+St. Gallen,Thun,1,3
+Basel,Sion,1,0
+Grasshoppers,Xamax,0,1
+Young Boys,Zurich,2,0
+Sion,St. Gallen,2,2
+Xamax,Basel,0,2
+Lugano,Young Boys,0,1
+Thun,Grasshoppers,1,1
+Zurich,Luzern,1,1
+Grasshoppers,Luzern,1,3
+Young Boys,Sion,1,0
+Basel,Thun,3,1
+St. Gallen,Xamax,3,0
+Zurich,Lugano,0,1
+Grasshoppers,Young Boys,0,1
+Xamax,Sion,3,1
+Lugano,Basel,1,1
+Luzern,St. Gallen,3,0
+Thun,Zurich,2,2
+St. Gallen,Lugano,0,2
+Sion,Grasshoppers,3,0
+Basel,Young Boys,2,2
+Thun,Luzern,1,1
+Zurich,Xamax,2,1
+Luzern,Basel,0,1
+Sion,Zurich,1,0
+Grasshoppers,Lugano,1,1
+Xamax,Thun,3,2
+Young Boys,St. Gallen,3,2
+Lugano,Xamax,0,0
+St. Gallen,Grasshoppers,0,0
+Zurich,Basel,0,2
+Thun,Sion,1,2
+Grasshoppers,Zurich,1,1
+Xamax,St. Gallen,0,1
+Basel,Lugano,1,1
+Sion,Luzern,2,2
+Young Boys,Thun,5,1
+Luzern,Young Boys,1,3
+Basel,Grasshoppers,0,0
+Luzern,Xamax,0,1
+Lugano,Sion,1,1
+Thun,St. Gallen,0,0
+Zurich,Young Boys,0,1
+Lugano,Zurich,3,0
+Sion,Basel,0,3
+Grasshoppers,Thun,1,1
+St. Gallen,Luzern,1,2
+Xamax,Young Boys,1,0
+Luzern,Thun,3,1
+Xamax,Grasshoppers,1,1
+St. Gallen,Basel,0,3
+Young Boys,Lugano,2,2
+Zurich,Sion,1,0
+Basel,Zurich,3,0
+Grasshoppers,St. Gallen,0,1
+Lugano,Luzern,1,0
+Sion,Young Boys,0,4
+Thun,Xamax,0,2
+Thun,Lugano,1,0
+Xamax,Zurich,1,2
+St. Gallen,Sion,2,1
+Luzern,Grasshoppers,3,0
+Young Boys,Basel,3,1
+Basel,Luzern,3,2
+Sion,Xamax,1,0
+Zurich,Thun,3,0
+Lugano,St. Gallen,1,0
+Young Boys,Grasshoppers,6,1
+Grasshoppers,Sion,0,3
+Luzern,Zurich,3,0
+St. Gallen,Young Boys,4,1
+Thun,Basel,1,2
+Xamax,Lugano,1,1
+Basel,Xamax,4,1
+Lugano,Grasshoppers,3,3
+Sion,Thun,0,1
+Young Boys,Luzern,4,0
+Zurich,St. Gallen,1,1
+Xamax,Aarau,0,4
+Aarau,Xamax,0,5
+Sion,Basel,1,4
+St. Gallen,Luzern,0,2
+Thun,Xamax,2,2
+Young Boys,Servette,1,1
+Zurich,Lugano,0,4
+Basel,St. Gallen,1,2
+Servette,Sion,0,0
+Lugano,Thun,0,0
+Luzern,Zurich,0,0
+Xamax,Young Boys,0,1
+Sion,Zurich,3,1
+Thun,Basel,2,3
+Servette,Luzern,1,0
+Xamax,St. Gallen,1,1
+Young Boys,Lugano,2,0
+Basel,Servette,3,1
+St. Gallen,Young Boys,2,3
+Lugano,Sion,0,1
+Luzern,Thun,0,2
+Zurich,Xamax,2,2
+Zurich,St. Gallen,2,1
+Xamax,Basel,0,3
+Young Boys,Zurich,4,0
+Sion,Luzern,2,1
+St. Gallen,Lugano,3,2
+Thun,Servette,0,4
+Servette,Xamax,2,2
+Basel,Lugano,2,1
+Luzern,Young Boys,2,2
+Thun,Sion,0,1
+St. Gallen,Servette,3,1
+Xamax,Sion,1,3
+Lugano,Luzern,1,1
+Young Boys,Basel,1,1
+Zurich,Thun,2,0
+Basel,Zurich,4,0
+Sion,St. Gallen,1,2
+Thun,Young Boys,1,1
+Luzern,Xamax,1,0
+Servette,Lugano,0,0
+St. Gallen,Thun,4,0
+Young Boys,Sion,3,2
+Basel,Luzern,3,0
+Lugano,Xamax,0,1
+Servette,Zurich,0,1
+Thun,Luzern,0,2
+Xamax,Servette,2,2
+Sion,Lugano,1,2
+St. Gallen,Basel,0,0
+Zurich,Young Boys,0,4
+Basel,Thun,3,1
+Young Boys,Xamax,4,1
+Lugano,Zurich,0,0
+Luzern,Sion,3,1
+Servette,St. Gallen,1,2
+Sion,Servette,1,1
+Xamax,Luzern,2,0
+Lugano,St. Gallen,1,3
+Young Boys,Thun,4,2
+Zurich,Basel,3,2
+St. Gallen,Sion,3,0
+Thun,Zurich,0,1
+Basel,Xamax,1,1
+Luzern,Lugano,1,2
+Servette,Young Boys,3,0
+Luzern,Servette,1,2
+Xamax,Thun,2,3
+Lugano,Basel,0,3
+Young Boys,St. Gallen,4,3
+Zurich,Sion,4,2
+Servette,Basel,2,0
+Zurich,Luzern,3,0
+Sion,Young Boys,3,4
+St. Gallen,Xamax,4,1
+Thun,Lugano,0,3
+Sion,Thun,2,1
+Xamax,Zurich,0,1
+Basel,Young Boys,3,0
+Lugano,Servette,1,0
+Luzern,St. Gallen,1,4
+Xamax,Lugano,1,1
+Young Boys,Luzern,1,0
+Basel,Sion,4,0
+Thun,St. Gallen,1,4
+Zurich,Servette,0,5
+Servette,Thun,2,1
+St. Gallen,Zurich,1,3
+Lugano,Young Boys,0,0
+Luzern,Basel,2,1
+Sion,Xamax,1,1
+Xamax,Servette,1,2
+Zurich,Luzern,2,3
+St. Gallen,Lugano,3,1
+Thun,Sion,2,1
+Young Boys,Basel,2,0
+Lugano,Xamax,1,1
+Luzern,Young Boys,2,0
+Basel,St. Gallen,1,2
+Servette,Thun,2,0
+Sion,Zurich,1,1
+Young Boys,Sion,1,0
+Zurich,Basel,0,4
+St. Gallen,Servette,1,0
+Thun,Lugano,3,2
+Xamax,Luzern,0,1
+Basel,Thun,0,1
+Sion,Xamax,1,2
+Lugano,Young Boys,2,1
+Luzern,St. Gallen,1,0
+Servette,Zurich,4,1
+Thun,Luzern,1,1
+Zurich,Xamax,1,1
+Basel,Servette,2,2
+Lugano,Sion,0,0
+St. Gallen,Young Boys,3,3
+Young Boys,Zurich,3,2
+Xamax,Thun,2,1
+Sion,St. Gallen,1,2
+Luzern,Basel,2,1
+Servette,Lugano,1,1
+Thun,Young Boys,1,0
+Xamax,Basel,1,2
+Lugano,Luzern,2,0
+Sion,Servette,1,1
+St. Gallen,Zurich,0,4
+Luzern,Servette,2,2
+Young Boys,Xamax,6,0
+Basel,Sion,2,0
+St. Gallen,Thun,3,2
+Zurich,Lugano,1,0
+Servette,Young Boys,1,1
+Lugano,Basel,2,1
+Thun,Zurich,3,2
+Xamax,St. Gallen,1,2
+Sion,Luzern,0,2
+Basel,Xamax,2,0
+Zurich,Servette,2,0
+Luzern,Thun,3,0
+St. Gallen,Sion,2,1
+Young Boys,Lugano,3,0
+Xamax,Zurich,1,1
+Young Boys,Thun,4,0
+Servette,Luzern,2,0
+Sion,Basel,1,0
+Lugano,St. Gallen,3,3
+Basel,Young Boys,3,2
+Luzern,Lugano,3,3
+Servette,St. Gallen,1,1
+Thun,Xamax,3,0
+Basel,Zurich,4,0
+Lugano,Thun,1,1
+Young Boys,Servette,4,2
+Xamax,Sion,0,0
+St. Gallen,Luzern,4,1
+Zurich,Young Boys,0,5
+Luzern,Xamax,1,2
+Servette,Basel,2,2
+Sion,Lugano,1,1
+Thun,St. Gallen,2,1
+Thun,Servette,5,1
+Lugano,Zurich,1,0
+Luzern,Sion,1,2
+St. Gallen,Basel,0,5
+Xamax,Young Boys,0,1
+Sion,Thun,1,1
+Zurich,St. Gallen,1,3
+Basel,Lugano,4,4
+Servette,Xamax,4,1
+Young Boys,Luzern,1,0
+Zurich,Sion,0,2
+Lugano,Servette,3,1
+Luzern,Zurich,2,1
+Sion,Young Boys,0,1
+St. Gallen,Xamax,6,0
+Thun,Basel,0,0
+Basel,Luzern,0,0
+Servette,Sion,1,2
+Xamax,Lugano,0,1
+Young Boys,St. Gallen,3,1
+Zurich,Thun,3,3
+Vaduz,Thun,2,0
+Thun,Vaduz,4,3
+Lugano,Luzern,2,1
+Young Boys,Zurich,2,1
+Basel,Vaduz,2,2
+Lausanne,Servette,2,1
+St. Gallen,Sion,1,0
+Sion,Young Boys,0,0
+Zurich,Lugano,2,2
+Luzern,Lausanne,2,2
+Servette,Basel,1,0
+Vaduz,St. Gallen,0,1
+Lausanne,Zurich,4,0
+Lugano,Sion,2,2
+Basel,Luzern,3,2
+St. Gallen,Servette,1,0
+Young Boys,Vaduz,1,0
+Servette,Young Boys,0,0
+Vaduz,Lugano,1,1
+Luzern,St. Gallen,2,2
+Sion,Lausanne,0,0
+Lugano,St. Gallen,1,0
+Vaduz,Zurich,1,4
+Young Boys,Luzern,2,1
+St. Gallen,Basel,1,3
+Zurich,Basel,1,0
+Lausanne,Lugano,0,1
+Zurich,Luzern,2,0
+Young Boys,St. Gallen,0,0
+Luzern,Vaduz,1,1
+Young Boys,Basel,2,1
+Servette,Lugano,1,1
+Sion,Zurich,2,2
+St. Gallen,Lausanne,2,2
+Basel,Lausanne,2,1
+Sion,Servette,2,0
+Vaduz,Sion,4,1
+Servette,Luzern,1,3
+Lausanne,Young Boys,0,3
+Lugano,Basel,1,0
+Lausanne,Vaduz,3,0
+Servette,Zurich,2,1
+Luzern,Sion,2,0
+Basel,Servette,1,0
+Luzern,Young Boys,2,3
+Zurich,Lausanne,4,0
+Basel,Sion,4,2
+Zurich,St. Gallen,1,2
+Vaduz,Servette,0,2
+Sion,Luzern,1,2
+Vaduz,Basel,0,2
+Lausanne,St. Gallen,0,1
+Lugano,Zurich,0,1
+Young Boys,Servette,1,2
+Luzern,Zurich,0,0
+Basel,Young Boys,0,2
+St. Gallen,Lugano,0,0
+Vaduz,Lausanne,0,2
+Servette,Sion,1,1
+Young Boys,Lugano,2,2
+Basel,St. Gallen,0,0
+Lausanne,Luzern,2,1
+Sion,Vaduz,2,1
+Zurich,Servette,0,1
+St. Gallen,Young Boys,1,2
+Luzern,Basel,1,2
+Servette,Vaduz,1,1
+Lugano,Lausanne,0,0
+Zurich,Sion,0,0
+Sion,Lugano,1,1
+Lugano,Young Boys,0,2
+St. Gallen,Vaduz,2,0
+Lausanne,Sion,0,1
+Basel,Zurich,1,4
+St. Gallen,Lugano,0,1
+Vaduz,Young Boys,0,0
+Zurich,Vaduz,0,1
+Sion,Basel,2,3
+St. Gallen,Zurich,2,3
+Basel,Lugano,2,2
+Servette,Lausanne,1,1
+Young Boys,Sion,2,1
+Zurich,Young Boys,1,4
+Lugano,Vaduz,1,1
+Sion,St. Gallen,3,2
+Luzern,Servette,3,0
+Lausanne,Basel,1,3
+Vaduz,Zurich,3,2
+Basel,Sion,2,2
+Servette,Luzern,4,2
+Young Boys,Lausanne,4,2
+Luzern,Lugano,1,1
+Servette,St. Gallen,2,2
+Young Boys,Lausanne,1,0
+Lausanne,Servette,3,1
+Sion,St. Gallen,1,1
+Lugano,Young Boys,1,3
+Luzern,Vaduz,4,0
+Zurich,Basel,2,0
+Lugano,Servette,1,1
+St. Gallen,Luzern,2,1
+Vaduz,St. Gallen,2,1
+Basel,Lausanne,0,0
+Lugano,Luzern,2,3
+Young Boys,Servette,2,0
+Zurich,Sion,1,1
+Vaduz,Luzern,1,1
+Servette,Zurich,3,1
+St. Gallen,Basel,3,1
+Lausanne,Lugano,2,0
+Luzern,Young Boys,2,2
+Sion,Vaduz,0,2
+St. Gallen,Servette,0,1
+Basel,Young Boys,1,1
+Vaduz,Lausanne,0,3
+Sion,Lugano,0,3
+Zurich,Luzern,1,2
+Young Boys,Vaduz,1,1
+Servette,Basel,2,1
+Lausanne,Sion,1,3
+Lugano,Zurich,0,1
+Luzern,St. Gallen,4,2
+Zurich,Lausanne,1,1
+Basel,Luzern,4,1
+Sion,Servette,1,2
+St. Gallen,Young Boys,2,2
+Vaduz,Lugano,0,3
+Lausanne,St. Gallen,4,3
+Lugano,Basel,2,1
+Luzern,Sion,1,1
+Servette,Vaduz,1,2
+Young Boys,Zurich,4,0
+Lausanne,Luzern,2,1
+St. Gallen,Zurich,1,1
+Servette,Lugano,1,1
+Sion,Young Boys,0,3
+Basel,Vaduz,1,2
+Lugano,Lausanne,1,0
+Luzern,Basel,3,4
+Vaduz,Sion,3,0
+Young Boys,St. Gallen,2,0
+Zurich,Servette,1,2
+Sion,Zurich,2,2
+St. Gallen,Luzern,0,0
+Basel,Servette,5,0
+Lausanne,Vaduz,2,1
+Young Boys,Lugano,3,0
+Luzern,Lausanne,1,0
+Lugano,St. Gallen,2,0
+Vaduz,Basel,1,1
+Servette,Sion,3,5
+Zurich,Young Boys,1,2
+St. Gallen,Vaduz,1,0
+Lausanne,Basel,3,3
+Lugano,Servette,0,1
+Luzern,Zurich,3,1
+Young Boys,Sion,2,1
+Vaduz,Luzern,1,2
+Basel,St. Gallen,1,0
+Servette,Young Boys,2,1
+Sion,Lausanne,1,1
+Zurich,Lugano,3,0
+Lugano,Vaduz,0,2
+Young Boys,Basel,2,0
+Lausanne,Zurich,2,2
+Luzern,Servette,3,0
+St. Gallen,Sion,0,3
+Vaduz,Young Boys,0,2
+Basel,Lugano,2,0
+Servette,Lausanne,1,4
+Sion,Luzern,1,1
+Zurich,St. Gallen,2,2
+Basel,Zurich,4,0
+Lugano,Sion,3,1
+St. Gallen,Lausanne,5,0
+Vaduz,Servette,1,3
+Young Boys,Luzern,5,2
+Lausanne,Young Boys,2,4
+Luzern,Lugano,1,2
+Servette,St. Gallen,1,2
+Sion,Basel,4,0
+Zurich,Vaduz,4,1
+Thun,Sion,1,4
+Sion,Thun,2,3
+Luzern,Young Boys,3,4
+Lausanne,St. Gallen,1,2
+Lugano,Zurich,0,2
+Grasshoppers,Basel,0,2
+Sion,Servette,1,2
+Zurich,Lausanne,3,1
+Young Boys,Grasshoppers,0,0
+St. Gallen,Luzern,2,2
+Basel,Sion,6,1
+Servette,Lugano,0,2
+Sion,Young Boys,1,0
+Grasshoppers,Lausanne,3,1
+Lugano,St. Gallen,2,1
+Basel,Servette,5,1
+Luzern,Zurich,1,3
+Zurich,Grasshoppers,2,1
+St. Gallen,Sion,1,1
+Lausanne,Basel,2,2
+Servette,Luzern,4,1
+St. Gallen,Zurich,3,3
+Sion,Lugano,3,2
+Luzern,Lausanne,1,1
+Basel,Young Boys,1,1
+Grasshoppers,Servette,1,1
+Luzern,Grasshoppers,1,1
+Young Boys,Zurich,4,0
+Servette,St. Gallen,5,1
+Lausanne,Sion,1,1
+Lugano,Basel,1,1
+Zurich,Servette,2,2
+Lausanne,Young Boys,1,6
+St. Gallen,Basel,0,2
+Lugano,Grasshoppers,1,1
+Sion,Luzern,1,1
+Young Boys,St. Gallen,2,1
+Servette,Lausanne,1,1
+Luzern,Lugano,2,3
+Basel,Zurich,3,1
+Grasshoppers,Sion,3,1
+Grasshoppers,St. Gallen,5,2
+Lugano,Lausanne,2,0
+Zurich,Sion,6,2
+Basel,Luzern,1,1
+Servette,Young Boys,0,6
+Young Boys,Luzern,1,1
+Zurich,Lugano,1,0
+Lausanne,Grasshoppers,3,1
+Sion,Basel,0,1
+St. Gallen,Servette,2,1
+Young Boys,Lausanne,3,2
+Grasshoppers,Zurich,3,3
+Luzern,St. Gallen,2,0
+Basel,Lugano,2,0
+Servette,Sion,1,2
+St. Gallen,Young Boys,3,1
+Zurich,Basel,3,3
+Sion,Grasshoppers,1,3
+Lausanne,Luzern,1,1
+Lugano,Servette,2,1
+Grasshoppers,Young Boys,1,1
+Luzern,Sion,0,1
+Servette,Zurich,1,2
+Basel,St. Gallen,0,1
+Lausanne,Lugano,0,2
+Sion,Zurich,0,1
+St. Gallen,Lausanne,0,1
+Lugano,Luzern,3,1
+Servette,Grasshoppers,3,2
+Grasshoppers,Lugano,0,1
+Sion,St. Gallen,3,1
+Zurich,Young Boys,1,0
+Lausanne,Servette,0,3
+Luzern,Basel,1,3
+Young Boys,Lugano,3,1
+Zurich,Luzern,4,0
+Young Boys,Servette,1,2
+Basel,Lausanne,1,1
+Lugano,Sion,2,0
+St. Gallen,Grasshoppers,0,4
+Lausanne,Zurich,1,3
+St. Gallen,Lugano,1,1
+Young Boys,Sion,4,3
+Grasshoppers,Luzern,1,1
+Servette,Basel,2,2
+Young Boys,Basel,1,1
+Zurich,St. Gallen,3,1
+Luzern,Servette,0,2
+Lugano,Young Boys,0,5
+Basel,Grasshoppers,2,2
+Sion,Lausanne,2,0
+Zurich,Servette,1,0
+Young Boys,Lugano,1,0
+Lausanne,St. Gallen,1,5
+Luzern,Basel,0,3
+Sion,Grasshoppers,2,0
+Servette,Lausanne,1,0
+Grasshoppers,Zurich,1,3
+Basel,Sion,3,3
+Lugano,Luzern,2,1
+St. Gallen,Young Boys,3,3
+Lausanne,Grasshoppers,0,2
+St. Gallen,Servette,5,1
+Young Boys,Basel,3,1
+Luzern,Sion,1,0
+Zurich,Lugano,3,0
+Lugano,St. Gallen,0,2
+Basel,Lausanne,3,0
+Sion,Zurich,1,1
+Grasshoppers,Young Boys,2,2
+Servette,Luzern,1,1
+Young Boys,Sion,3,1
+Lugano,Servette,2,0
+St. Gallen,Grasshoppers,2,0
+Lausanne,Luzern,1,2
+Zurich,Basel,4,2
+Servette,Young Boys,1,0
+Sion,Lausanne,1,0
+Luzern,Zurich,0,2
+Basel,St. Gallen,2,2
+Grasshoppers,Lugano,1,2
+Young Boys,Luzern,2,2
+Lausanne,Zurich,0,2
+Lugano,Basel,0,2
+Grasshoppers,Servette,2,4
+St. Gallen,Sion,1,1
+Zurich,St. Gallen,0,3
+Sion,Lugano,0,3
+Lausanne,Young Boys,2,2
+Basel,Servette,2,0
+Luzern,Grasshoppers,1,0
+St. Gallen,Luzern,3,2
+Young Boys,Zurich,1,2
+Servette,Sion,2,1
+Grasshoppers,Basel,2,4
+Lugano,Lausanne,3,1
+Zurich,Grasshoppers,1,1
+Sion,St. Gallen,0,3
+Luzern,Lugano,2,2
+Basel,Young Boys,2,2
+Lausanne,Servette,4,1
+Young Boys,Lausanne,2,2
+Grasshoppers,Luzern,2,2
+Servette,Zurich,1,0
+Lugano,Sion,1,3
+St. Gallen,Basel,2,2
+Zurich,Young Boys,2,1
+Servette,Grasshoppers,0,1
+Luzern,St. Gallen,3,2
+Lausanne,Lugano,4,1
+Sion,Basel,0,0
+Zurich,Sion,5,1
+Young Boys,Servette,3,1
+St. Gallen,Lugano,3,0
+Basel,Luzern,3,0
+Grasshoppers,Lausanne,3,1
+Lugano,Grasshoppers,1,1
+Servette,St. Gallen,0,2
+Sion,Young Boys,1,2
+Basel,Zurich,0,2
+Luzern,Lausanne,3,0
+Lugano,Young Boys,3,1
+St. Gallen,Zurich,1,2
+Grasshoppers,Sion,0,1
+Lausanne,Basel,0,0
+Luzern,Servette,4,0
+Young Boys,St. Gallen,4,1
+Servette,Lugano,2,2
+Sion,Luzern,1,3
+Basel,Grasshoppers,1,1
+Zurich,Lausanne,2,2
+Grasshoppers,St. Gallen,3,2
+Lausanne,Sion,1,2
+Lugano,Zurich,2,1
+Luzern,Young Boys,2,2
+Servette,Basel,0,0
+Basel,Lugano,2,1
+Sion,Servette,3,3
+St. Gallen,Lausanne,4,0
+Young Boys,Grasshoppers,3,0
+Zurich,Luzern,2,3
+Luzern,Schaffhausen,2,0
+Young Boys,Zurich,4,0
+Winterthur,Basel,1,1
+Lugano,Sion,2,3
+Servette,St. Gallen,1,0
+Zurich,Luzern,0,0
+St. Gallen,Winterthur,2,0
+Basel,Servette,1,1
+Grasshoppers,Lugano,2,1
+Sion,Young Boys,0,3
+St. Gallen,Zurich,2,0
+Sion,Servette,0,0
+Winterthur,Lugano,1,4
+Young Boys,Grasshoppers,1,1
+Servette,Winterthur,1,0
+Grasshoppers,St. Gallen,3,2
+Zurich,Sion,0,3
+Basel,Young Boys,0,0
+Lugano,Luzern,1,2
+Luzern,Grasshoppers,1,1
+Sion,Grasshoppers,2,2
+St. Gallen,Luzern,4,1
+Winterthur,Zurich,1,1
+Basel,Lugano,0,2
+Young Boys,Servette,3,0
+Luzern,Sion,2,0
+Servette,Grasshoppers,3,1
+Lugano,St. Gallen,2,3
+Winterthur,Young Boys,1,5
+Zurich,Basel,2,4
+Sion,Basel,2,1
+Zurich,Lugano,1,2
+Luzern,Servette,0,2
+Grasshoppers,Winterthur,3,0
+St. Gallen,Young Boys,2,1
+St. Gallen,Sion,1,2
+Winterthur,Luzern,0,6
+Servette,Zurich,3,2
+Basel,Grasshoppers,5,1
+Young Boys,Lugano,3,0
+Basel,St. Gallen,3,2
+Grasshoppers,Zurich,1,1
+Sion,Winterthur,1,3
+Lugano,Servette,1,0
+Luzern,Young Boys,1,2
+Grasshoppers,Sion,4,4
+Young Boys,St. Gallen,2,1
+Servette,Luzern,1,1
+Lugano,Basel,1,0
+Zurich,Winterthur,0,0
+Sion,Luzern,2,0
+Winterthur,Grasshoppers,1,0
+St. Gallen,Lugano,1,1
+Servette,Basel,0,0
+Zurich,Young Boys,0,0
+Winterthur,Sion,1,0
+Luzern,St. Gallen,3,3
+Lugano,Young Boys,1,4
+Grasshoppers,Servette,2,3
+Basel,Zurich,0,0
+Young Boys,Sion,1,1
+Luzern,Lugano,3,1
+Basel,Winterthur,3,1
+St. Gallen,Servette,1,1
+Zurich,Grasshoppers,1,4
+Grasshoppers,Luzern,1,3
+Servette,Lugano,2,2
+Sion,Zurich,0,1
+Winterthur,St. Gallen,1,0
+Young Boys,Basel,3,1
+St. Gallen,Grasshoppers,2,1
+Luzern,Winterthur,1,1
+Servette,Young Boys,0,0
+Basel,Sion,0,0
+Lugano,Zurich,2,0
+Luzern,Basel,0,2
+Sion,St. Gallen,2,7
+Grasshoppers,Basel,1,0
+Zurich,Servette,4,1
+Lugano,Winterthur,3,1
+Young Boys,Luzern,3,0
+Luzern,Zurich,2,2
+Grasshoppers,Young Boys,1,2
+Sion,Lugano,2,3
+St. Gallen,Basel,1,1
+Lugano,Grasshoppers,1,1
+Basel,Luzern,2,3
+Young Boys,Winterthur,5,1
+Servette,Sion,2,2
+Zurich,St. Gallen,1,0
+Grasshoppers,Basel,1,0
+St. Gallen,Servette,3,0
+Sion,Zurich,0,1
+Luzern,Young Boys,1,1
+Winterthur,Lugano,1,0
+Servette,Grasshoppers,2,1
+Basel,Sion,3,1
+Lugano,Luzern,1,1
+Young Boys,St. Gallen,5,1
+Zurich,Winterthur,1,1
+Winterthur,Servette,1,2
+Winterthur,Sion,1,1
+Young Boys,Lugano,1,1
+St. Gallen,Luzern,2,2
+Basel,Servette,2,2
+Grasshoppers,Zurich,1,2
+Sion,St. Gallen,0,4
+Zurich,Young Boys,2,2
+Luzern,Grasshoppers,1,0
+Lugano,Basel,2,2
+Servette,Winterthur,1,1
+Winterthur,Young Boys,1,1
+Luzern,Basel,0,1
+St. Gallen,Grasshoppers,1,1
+Sion,Lugano,1,1
+Zurich,Servette,1,1
+Young Boys,Sion,4,0
+Lugano,Zurich,2,0
+Servette,Luzern,0,1
+Basel,St. Gallen,1,1
+Grasshoppers,Winterthur,2,1
+Zurich,Luzern,2,1
+Sion,Grasshoppers,1,2
+Winterthur,St. Gallen,1,0
+Lugano,Servette,1,1
+Young Boys,Basel,3,0
+Servette,Young Boys,2,1
+Basel,Winterthur,2,0
+Grasshoppers,Lugano,2,1
+Luzern,Sion,1,2
+St. Gallen,Zurich,2,2
+Zurich,Basel,1,1
+Sion,Servette,2,2
+Lugano,St. Gallen,1,1
+Winterthur,Luzern,1,2
+Young Boys,Grasshoppers,2,0
+Servette,Lugano,0,0
+Luzern,Zurich,4,1
+St. Gallen,Winterthur,2,3
+Basel,Young Boys,1,1
+Grasshoppers,Sion,1,3
+Winterthur,Grasshoppers,1,2
+Young Boys,Servette,6,1
+Basel,Luzern,0,2
+Lugano,Sion,2,0
+Zurich,St. Gallen,1,0
+Grasshoppers,Young Boys,4,1
+Servette,Zurich,4,0
+St. Gallen,Lugano,1,2
+Luzern,Winterthur,3,1
+Sion,Basel,1,2
+Lugano,Grasshoppers,5,1
+Servette,St. Gallen,1,1
+Zurich,Sion,2,2
+Winterthur,Basel,1,4
+Young Boys,Luzern,5,1
+Sion,Winterthur,0,1
+St. Gallen,Young Boys,0,2
+Luzern,Lugano,2,2
+Basel,Zurich,0,2
+Grasshoppers,Servette,2,3
+Grasshoppers,Luzern,2,0
+Servette,Sion,5,0
+Young Boys,Zurich,1,1
+Lugano,Winterthur,2,1
+St. Gallen,Basel,6,1
+Winterthur,Servette,0,1
+Luzern,St. Gallen,1,1
+Sion,Young Boys,0,2
+Basel,Lugano,1,1
+Zurich,Grasshoppers,2,1
+Grasshoppers,St. Gallen,2,2
+Lugano,Young Boys,2,0
+Servette,Basel,3,3
+Sion,Luzern,1,2
+Winterthur,Zurich,0,2
+Basel,Grasshoppers,3,1
+Luzern,Servette,0,1
+St. Gallen,Sion,4,0
+Young Boys,Winterthur,2,1
+Zurich,Lugano,2,3
+Sion,Lausanne Ouchy,0,2
+Lausanne Ouchy,Sion,4,2
+Grasshoppers,Servette,1,3
+St. Gallen,Basel,2,1
+Winterthur,Luzern,0,0
+Young Boys,Lausanne,2,1
+Zurich,Yverdon,2,0
+Lausanne Ouchy,Lugano,0,3
+Lausanne,Grasshoppers,1,1
+Lugano,St. Gallen,1,0
+Servette,Zurich,2,2
+Luzern,Lausanne Ouchy,2,1
+Basel,Winterthur,5,2
+Yverdon,Young Boys,2,2
+Lausanne Ouchy,Servette,1,1
+Young Boys,Winterthur,5,2
+Zurich,Lugano,3,0
+Lausanne,Yverdon,1,2
+Grasshoppers,Basel,3,1
+St. Gallen,Luzern,2,1
+Lausanne Ouchy,Zurich,0,3
+Winterthur,Grasshoppers,3,1
+Servette,St. Gallen,1,1
+Basel,Lausanne,1,2
+Lugano,Yverdon,6,1
+Luzern,Young Boys,1,1
+Yverdon,Servette,4,1
+Zurich,St. Gallen,1,1
+Grasshoppers,Luzern,0,1
+Lausanne,Winterthur,2,5
+Lausanne Ouchy,Grasshoppers,2,1
+St. Gallen,Lausanne,2,1
+Winterthur,Yverdon,1,1
+Servette,Young Boys,0,1
+Basel,Zurich,2,2
+Luzern,Lugano,3,2
+Lausanne,Zurich,0,0
+Winterthur,Lausanne Ouchy,2,1
+Grasshoppers,St. Gallen,1,1
+Yverdon,Basel,3,2
+Luzern,Servette,2,0
+Young Boys,Lugano,4,1
+Zurich,Grasshoppers,2,1
+Lugano,Lausanne,2,1
+Servette,Winterthur,2,2
+St. Gallen,Young Boys,2,1
+Basel,Luzern,1,1
+Lausanne Ouchy,Yverdon,1,1
+Servette,Lausanne,2,1
+Winterthur,Lugano,2,3
+Grasshoppers,Young Boys,0,1
+Yverdon,St. Gallen,1,0
+Basel,Lausanne Ouchy,0,3
+Luzern,Zurich,1,4
+Yverdon,Grasshoppers,0,3
+Zurich,Winterthur,3,2
+St. Gallen,Lausanne Ouchy,4,0
+Lugano,Servette,0,1
+Lausanne,Luzern,3,1
+Young Boys,Basel,3,0
+Lausanne Ouchy,Lausanne,2,2
+Young Boys,Zurich,0,0
+Basel,Servette,0,1
+Winterthur,St. Gallen,2,1
+Grasshoppers,Lugano,2,1
+Luzern,Yverdon,2,1
+St. Gallen,Grasshoppers,3,1
+Yverdon,Winterthur,1,1
+Zurich,Lausanne Ouchy,1,1
+Lausanne,Basel,3,0
+Lugano,Young Boys,1,1
+Servette,Luzern,4,2
+Lausanne,Lugano,3,1
+Winterthur,Young Boys,1,4
+Zurich,Servette,0,2
+Luzern,Grasshoppers,2,0
+Basel,Yverdon,2,1
+Lausanne Ouchy,St. Gallen,2,5
+St. Gallen,Winterthur,4,2
+Yverdon,Lausanne,2,2
+Young Boys,Luzern,6,1
+Grasshoppers,Lausanne Ouchy,5,2
+Lugano,Zurich,0,3
+Servette,Basel,4,1
+Luzern,Winterthur,3,1
+Zurich,Young Boys,3,1
+Yverdon,Lugano,0,5
+Lausanne,Lausanne Ouchy,1,0
+Basel,St. Gallen,2,0
+Servette,Grasshoppers,2,0
+Grasshoppers,Lausanne,5,0
+Lausanne Ouchy,Basel,1,1
+Lugano,Luzern,1,0
+Young Boys,Servette,1,1
+St. Gallen,Yverdon,4,0
+Lugano,Basel,1,3
+Young Boys,Lausanne Ouchy,1,0
+Basel,Grasshoppers,0,1
+Young Boys,St. Gallen,3,0
+Lausanne,Servette,1,1
+Lugano,Winterthur,2,1
+Yverdon,Lausanne Ouchy,2,1
+Zurich,Luzern,1,1
+Winterthur,Zurich,2,1
+Lausanne Ouchy,Young Boys,1,3
+St. Gallen,Zurich,1,0
+Grasshoppers,Yverdon,1,1
+Winterthur,Lausanne,1,0
+Luzern,Basel,0,1
+Servette,Lugano,2,2
+Young Boys,Grasshoppers,1,0
+Lausanne,St. Gallen,0,1
+Lugano,Lausanne Ouchy,2,3
+Zurich,Basel,0,0
+Winterthur,Servette,3,3
+Yverdon,Luzern,2,1
+Lausanne Ouchy,Winterthur,1,3
+Servette,Yverdon,1,0
+Basel,Young Boys,1,0
+St. Gallen,Lugano,1,4
+Grasshoppers,Zurich,2,1
+Luzern,Lausanne,2,1
+Winterthur,Basel,1,3
+Young Boys,Yverdon,5,1
+Lugano,Grasshoppers,0,0
+St. Gallen,Servette,0,2
+Zurich,Lausanne,2,2
+Lausanne Ouchy,Luzern,0,3
+Grasshoppers,Winterthur,0,1
+Lausanne,Young Boys,0,1
+Basel,Lugano,0,1
+Yverdon,Zurich,3,0
+Luzern,St. Gallen,1,0
+Servette,Lausanne Ouchy,3,1
+Lausanne Ouchy,Lausanne,1,1
+Zurich,Grasshoppers,1,0
+Lugano,Young Boys,3,3
+Winterthur,Luzern,2,1
+Basel,St. Gallen,1,0
+Yverdon,Servette,2,1
+Lausanne,Yverdon,3,1
+St. Gallen,Winterthur,2,2
+Grasshoppers,Basel,2,1
+Young Boys,Lausanne Ouchy,1,0
+Luzern,Zurich,0,1
+Servette,Lugano,2,1
+St. Gallen,Lausanne Ouchy,1,0
+Yverdon,Basel,0,2
+Grasshoppers,Luzern,0,1
+Lugano,Zurich,2,0
+Lausanne,Winterthur,1,1
+Young Boys,Servette,0,1
+Lausanne Ouchy,Grasshoppers,1,1
+Servette,St. Gallen,2,0
+Basel,Lausanne,1,2
+Luzern,Lugano,0,1
+Winterthur,Yverdon,2,1
+Zurich,Young Boys,1,0
+Winterthur,Grasshoppers,2,0
+Yverdon,Zurich,3,2
+St. Gallen,Lugano,2,3
+Servette,Lausanne,3,1
+Lausanne Ouchy,Luzern,2,1
+Young Boys,Basel,5,1
+Basel,Winterthur,1,1
+Grasshoppers,St. Gallen,1,1
+Lugano,Yverdon,2,0
+Zurich,Lausanne Ouchy,2,2
+Lausanne,Young Boys,2,0
+Luzern,Servette,2,2
+Lausanne Ouchy,Lugano,1,3
+Winterthur,Servette,1,0
+Basel,Zurich,2,2
+Yverdon,Young Boys,0,0
+Grasshoppers,Lausanne,0,1
+St. Gallen,Luzern,1,1
+Lugano,Basel,2,0
+Servette,Lausanne Ouchy,1,2
+Zurich,Winterthur,0,0
+Lausanne,St. Gallen,3,3
+Luzern,Yverdon,1,0
+Young Boys,Grasshoppers,3,0
+Lausanne Ouchy,Basel,0,2
+Winterthur,Lugano,2,2
+Servette,Zurich,0,1
+Luzern,Lausanne,0,0
+St. Gallen,Young Boys,2,2
+Yverdon,Grasshoppers,3,2
+Grasshoppers,Lugano,0,1
+Lausanne,Zurich,1,0
+St. Gallen,Yverdon,5,1
+Basel,Servette,2,1
+Lausanne Ouchy,Winterthur,0,1
+Young Boys,Luzern,4,2
+Servette,Grasshoppers,1,0
+Yverdon,Lausanne Ouchy,3,0
+Lugano,Lausanne,2,0
+Luzern,Basel,1,1
+Winterthur,Young Boys,1,2
+Zurich,St. Gallen,0,1
+Grasshoppers,Lausanne Ouchy,3,2
+Servette,Winterthur,2,1
+Lugano,St. Gallen,0,1
+Basel,Luzern,1,1
+Yverdon,Lausanne,3,1
+Zurich,Young Boys,0,2
+Lausanne,Basel,0,0
+Luzern,Grasshoppers,1,1
+Lausanne Ouchy,Yverdon,3,1
+Young Boys,Lugano,0,1
+Winterthur,Zurich,1,3
+St. Gallen,Servette,1,1
+Basel,Lausanne Ouchy,2,0
+Grasshoppers,Yverdon,2,0
+Lausanne,Luzern,0,2
+Zurich,Servette,2,1
+Lugano,Winterthur,4,2
+Young Boys,St. Gallen,3,1
+Grasshoppers,Basel,0,1
+Lausanne Ouchy,Lausanne,0,4
+Yverdon,Luzern,3,1
+Servette,Young Boys,0,1
+Winterthur,St. Gallen,1,3
+Zurich,Lugano,2,1
+Basel,Yverdon,0,0
+Lausanne,Grasshoppers,0,0
+Luzern,Lausanne Ouchy,1,2
+Lugano,Servette,0,2
+St. Gallen,Zurich,1,2
+Young Boys,Winterthur,3,0
+Grasshoppers,Thun,1,1
+Thun,Grasshoppers,1,2
+Lugano,Grasshoppers,2,1
+Yverdon,Zurich,0,2
+Winterthur,St. Gallen,1,0
+Young Boys,Sion,1,2
+Lausanne,Basel,3,2
+Luzern,Servette,1,2
+Servette,Young Boys,3,1
+Grasshoppers,Luzern,2,2
+Sion,Lausanne,4,0
+Basel,Lugano,1,2
+Servette,Yverdon,3,2
+St. Gallen,Young Boys,4,0
+Zurich,Winterthur,4,2
+Grasshoppers,Basel,0,3
+Lugano,Servette,3,1
+Luzern,Sion,1,0
+Lausanne,St. Gallen,3,4
+Winterthur,Yverdon,0,0
+Young Boys,Zurich,2,2
+Sion,Winterthur,2,0
+Yverdon,Young Boys,2,2
+St. Gallen,Grasshoppers,1,0
+Lugano,Luzern,2,3
+Servette,Basel,0,6
+Zurich,Lausanne,2,0
+Luzern,Winterthur,3,0
+Grasshoppers,Sion,3,1
+Basel,Yverdon,2,0
+Sion,Basel,1,1
+Yverdon,Grasshoppers,2,1
+Young Boys,Lausanne,1,1
+Winterthur,Servette,0,1
+Lugano,St. Gallen,1,1
+Zurich,Luzern,1,1
+Lausanne,Lugano,1,2
+Grasshoppers,Servette,2,2
+St. Gallen,Luzern,2,3
+Basel,Zurich,0,2
+Lausanne,Yverdon,3,1
+Sion,Lugano,0,0
+Winterthur,Young Boys,1,4
+St. Gallen,Zurich,4,1
+Servette,Lausanne,1,0
+Yverdon,St. Gallen,1,0
+Young Boys,Grasshoppers,0,1
+Zurich,Sion,1,0
+Lugano,Winterthur,2,1
+Luzern,Basel,1,0
+Luzern,Lausanne,2,2
+Sion,Yverdon,1,1
+Winterthur,Grasshoppers,1,0
+Zurich,Lugano,1,1
+Basel,Young Boys,1,0
+St. Gallen,Servette,1,1
+Grasshoppers,Zurich,1,2
+Young Boys,Luzern,2,1
+Servette,Sion,3,0
+Basel,St. Gallen,2,1
+Lausanne,Winterthur,2,0
+Yverdon,Lugano,2,0
+Lausanne,Grasshoppers,3,0
+Winterthur,Basel,1,6
+Luzern,Yverdon,2,3
+Sion,St. Gallen,2,2
+Lugano,Young Boys,2,0
+Zurich,Servette,1,3
+Yverdon,Lausanne,0,3
+Sion,Zurich,0,2
+St. Gallen,Winterthur,2,2
+Young Boys,Basel,3,2
+Grasshoppers,Lugano,1,1
+Servette,Luzern,2,2
+Basel,Winterthur,5,0
+Zurich,Young Boys,0,0
+St. Gallen,Sion,1,1
+Lausanne,Servette,1,0
+Lugano,Yverdon,2,0
+Luzern,Grasshoppers,2,0
+Winterthur,Lausanne,1,0
+Yverdon,Basel,1,4
+Servette,Zurich,1,1
+Sion,Luzern,4,2
+Grasshoppers,St. Gallen,1,2
+Young Boys,Lugano,2,1
+Grasshoppers,Winterthur,1,1
+Luzern,Young Boys,1,1
+Lausanne,Sion,1,0
+Lugano,Zurich,4,1
+Basel,Servette,3,1
+St. Gallen,Yverdon,0,0
+Basel,Lausanne,1,1
+Yverdon,Luzern,0,1
+Zurich,Grasshoppers,1,1
+Winterthur,Sion,1,3
+Servette,Lugano,3,0
+Young Boys,St. Gallen,3,1
+Grasshoppers,Yverdon,1,1
+Sion,Young Boys,3,1
+Luzern,Lugano,1,4
+Lausanne,Zurich,3,0
+Servette,Winterthur,1,1
+St. Gallen,Basel,1,1
+Winterthur,Luzern,3,4
+Yverdon,Sion,0,1
+Basel,Grasshoppers,0,1
+Young Boys,Servette,2,1
+Lugano,Lausanne,1,4
+Zurich,St. Gallen,0,2
+Sion,Grasshoppers,0,1
+Young Boys,Winterthur,0,0
+Servette,St. Gallen,1,1
+Zurich,Yverdon,1,0
+Lausanne,Luzern,0,0
+Lugano,Basel,2,2
+Grasshoppers,Young Boys,0,0
+Yverdon,Servette,0,0
+Winterthur,Lugano,2,3
+St. Gallen,Lausanne,3,2
+Basel,Sion,4,1
+Luzern,Zurich,3,1
+Lausanne,Young Boys,1,2
+Lugano,Sion,3,2
+Servette,Grasshoppers,1,1
+Luzern,St. Gallen,2,0
+Yverdon,Winterthur,3,0
+Zurich,Basel,0,1
+Grasshoppers,Lausanne,2,2
+Sion,Servette,3,3
+St. Gallen,Lugano,2,1
+Young Boys,Yverdon,6,1
+Basel,Luzern,2,1
+Winterthur,Zurich,0,2
+Lausanne,Yverdon,4,1
+Lugano,Grasshoppers,1,1
+Young Boys,Sion,5,1
+Servette,Basel,2,1
+Luzern,Winterthur,3,2
+Zurich,St. Gallen,1,2
+Lugano,Luzern,2,0
+Sion,Zurich,2,1
+Winterthur,Young Boys,1,0
+Yverdon,St. Gallen,1,0
+Basel,Lausanne,1,1
+Grasshoppers,Servette,1,2
+Lausanne,Grasshoppers,2,2
+Zurich,Yverdon,2,1
+St. Gallen,Basel,2,2
+Luzern,Sion,2,1
+Servette,Winterthur,3,1
+Young Boys,Lugano,1,0
+Basel,Sion,2,0
+Winterthur,St. Gallen,4,0
+Lausanne,Servette,0,1
+Lugano,Zurich,0,3
+Grasshoppers,Young Boys,1,0
+Yverdon,Luzern,2,2
+Young Boys,Lausanne,3,0
+Yverdon,Winterthur,2,1
+St. Gallen,Grasshoppers,3,1
+Zurich,Servette,1,3
+Luzern,Basel,1,1
+Sion,Lugano,2,1
+Servette,Yverdon,2,3
+St. Gallen,Lausanne,0,2
+Zurich,Luzern,3,2
+Grasshoppers,Sion,1,1
+Basel,Young Boys,1,2
+Lugano,Winterthur,2,1
+Sion,Yverdon,1,1
+Young Boys,St. Gallen,1,0
+Lugano,Servette,0,2
+Winterthur,Basel,0,2
+Grasshoppers,Zurich,1,2
+Lausanne,Luzern,1,4
+Servette,Young Boys,0,1
+Yverdon,Lugano,0,2
+Sion,Winterthur,1,2
+Zurich,Lausanne,2,2
+Basel,Grasshoppers,2,1
+Luzern,St. Gallen,1,1
+Lausanne,Sion,2,0
+Winterthur,Zurich,0,0
+Young Boys,Yverdon,1,1
+St. Gallen,Servette,1,0
+Basel,Lugano,2,0
+Grasshoppers,Luzern,3,1
+Winterthur,Lausanne,1,0
+Yverdon,Grasshoppers,1,2
+Zurich,Basel,0,4
+Lugano,St. Gallen,1,1
+Luzern,Young Boys,5,0
+Sion,Servette,1,1
+Grasshoppers,Winterthur,0,1
+Basel,Yverdon,5,0
+Lausanne,Lugano,2,0
+Servette,Luzern,2,1
+St. Gallen,Sion,1,0
+Young Boys,Zurich,2,1
+Winterthur,Grasshoppers,2,0
+Lausanne,Young Boys,3,2
+Sion,Zurich,2,1
+Basel,Servette,5,1
+Luzern,Lugano,0,2
+Yverdon,St. Gallen,1,1
+St. Gallen,Winterthur,1,4
+Yverdon,Sion,1,1
+Zurich,Grasshoppers,3,0
+Lugano,Basel,2,5
+Luzern,Lausanne,1,1
+Servette,Young Boys,0,0
+Sion,St. Gallen,1,1
+Zurich,Winterthur,4,1
+Grasshoppers,Yverdon,5,0
+Lausanne,Basel,2,3
+Servette,Lugano,4,1
+Young Boys,Luzern,2,1
+St. Gallen,Zurich,3,2
+Winterthur,Yverdon,2,2
+Sion,Grasshoppers,2,1
+Young Boys,Basel,6,2
+Lausanne,Lugano,1,1
+Luzern,Servette,3,4
+Grasshoppers,St. Gallen,2,0
+Winterthur,Sion,2,0
+Yverdon,Zurich,3,2
+Basel,Luzern,4,0
+Lugano,Young Boys,1,1
+Servette,Lausanne,3,3
+Zurich,Sion,2,3
+Grasshoppers,Luzern,2,3
+St. Gallen,Basel,2,1
+Young Boys,Servette,3,1
+Lausanne,Winterthur,3,2
+Lugano,Thun,1,2
+Servette,St. Gallen,1,4
+Winterthur,Young Boys,1,1
+Basel,Grasshoppers,2,1
+Thun,Lausanne,2,1
+Luzern,Zurich,1,1
+Sion,Lugano,4,0
+Basel,Young Boys,4,1
+St. Gallen,Winterthur,5,0
+Luzern,Thun,1,2
+Young Boys,Sion,0,0
+Lausanne,Zurich,1,2
+Lugano,Basel,3,1
+Servette,Grasshoppers,1,1
+Zurich,Thun,0,4
+Grasshoppers,Winterthur,2,2
+St. Gallen,Luzern,0,1
+Thun,Grasshoppers,1,1
+Winterthur,Zurich,1,3
+Sion,Basel,0,1
+Lausanne,St. Gallen,1,2
+Servette,Luzern,2,2
+Young Boys,Lugano,3,1
+Thun,Basel,1,3
+Zurich,Servette,2,1
+St. Gallen,Lugano,1,0
+Winterthur,Sion,2,3
+Grasshoppers,Lausanne,3,1
+Luzern,Young Boys,1,2
+Lugano,Lausanne,1,1
+Sion,Servette,0,2
+Lugano,Grasshoppers,2,1
+Servette,Winterthur,4,0
+Zurich,St. Gallen,3,1
+Young Boys,Thun,4,2
+Basel,Luzern,1,2
+Sion,Lausanne,0,0
+Luzern,Sion,3,3
+St. Gallen,Thun,1,2
+Grasshoppers,Zurich,3,0
+Lausanne,Young Boys,5,0
+Servette,Basel,0,3
+Winterthur,Lugano,2,4
+Basel,Winterthur,3,0
+Thun,Servette,3,1
+Lugano,Zurich,1,0
+Grasshoppers,Sion,0,1
+Luzern,Lausanne,2,2
+Young Boys,St. Gallen,1,2
+Sion,Thun,0,1
+St. Gallen,Grasshoppers,5,0
+Winterthur,Luzern,2,2
+Zurich,Young Boys,2,3
+Lausanne,Basel,5,1
+Servette,Lugano,2,1
+Sion,St. Gallen,3,2
+Thun,Winterthur,3,0
+Basel,Zurich,2,0
+Lausanne,Servette,1,3
+Grasshoppers,Young Boys,3,3
+Lugano,Luzern,2,0
+Thun,Sion,2,1
+Winterthur,Servette,4,2
+Zurich,Lausanne,1,2
+Luzern,Grasshoppers,6,0
+Young Boys,Basel,0,0
+Winterthur,Grasshoppers,0,1
+Zurich,Luzern,3,2
+Servette,Thun,0,1
+Basel,Lugano,0,1
+Lausanne,Sion,2,2
+St. Gallen,Young Boys,1,4
+Luzern,Servette,2,2
+Young Boys,Winterthur,5,0
+Thun,Lugano,0,1
+Sion,Zurich,2,2
+Grasshoppers,Basel,1,1
+St. Gallen,Lausanne,1,0
+Lugano,St. Gallen,1,3
+Lugano,Sion,1,1
+Zurich,Grasshoppers,1,0
+Luzern,Winterthur,1,3
+Servette,Young Boys,4,4
+Basel,St. Gallen,0,0
+Lausanne,Thun,2,1
+Grasshoppers,Servette,0,1
+Thun,Luzern,4,1
+St. Gallen,Zurich,1,2
+Winterthur,Basel,1,2
+Lausanne,Lugano,0,0
+Sion,Young Boys,2,0
+Sion,Grasshoppers,1,0
+Zurich,Winterthur,2,2
+Thun,St. Gallen,0,2
+Young Boys,Luzern,2,0
+Basel,Lausanne,0,0
+Lugano,Servette,4,2
+Luzern,Basel,1,2
+Young Boys,Grasshoppers,2,6
+Zurich,Lugano,0,1
+St. Gallen,Sion,3,1
+Winterthur,Thun,1,4
+Thun,Zurich,4,2
+Basel,Servette,1,1
+Lausanne,Luzern,0,4
+Grasshoppers,St. Gallen,1,2
+Lugano,Young Boys,3,0
+Servette,Lausanne,0,1
+Sion,Winterthur,2,0
+Luzern,Lugano,2,5
+Young Boys,Lausanne,1,3
+Servette,Zurich,1,1
+Basel,Sion,1,1
+Grasshoppers,Thun,1,3
+Lausanne,Grasshoppers,1,1
+Lugano,Winterthur,4,1
+Sion,Luzern,1,1
+Thun,Young Boys,4,1
+St. Gallen,Servette,2,4
+Zurich,Basel,3,4
+Servette,Sion,3,3
+Winterthur,Lausanne,2,1
+Grasshoppers,Lugano,1,1
+Luzern,St. Gallen,2,2
+Basel,Thun,1,2
+Young Boys,Zurich,3,0
+Sion,Luzern,0,0
+Winterthur,Lugano,1,1
+Grasshoppers,Young Boys,1,1
+Servette,Thun,1,3
+Basel,Zurich,2,1
+Lausanne,St. Gallen,1,1
+Luzern,Grasshoppers,4,3
+Lugano,Servette,1,1
+St. Gallen,Young Boys,2,1
+Zurich,Winterthur,3,0
+Sion,Basel,2,0
+Thun,Lausanne,5,1
+St. Gallen,Grasshoppers,0,0
+Zurich,Luzern,1,4
+Young Boys,Winterthur,6,1
+Thun,Sion,1,0
+Basel,Lugano,1,1
+Lausanne,Servette,3,3
+Winterthur,St. Gallen,1,5
+Servette,St. Gallen,1,1
+Grasshoppers,Zurich,1,2
+Sion,Young Boys,3,1
+Lugano,Lausanne,2,1
+Luzern,Basel,4,2
+Winterthur,Thun,0,3
+St. Gallen,Winterthur,2,1
+Thun,Luzern,2,1
+Servette,Sion,0,0
+Lausanne,Basel,1,2
+Grasshoppers,Lugano,1,0
+Young Boys,Zurich,3,0
+Winterthur,Servette,1,1
+Lugano,Sion,2,1
+Luzern,Young Boys,1,2
+Zurich,Lausanne,1,2
+Basel,Grasshoppers,1,0
+Thun,St. Gallen,2,2
+Servette,Zurich,2,1
+Sion,Winterthur,1,1
+Lugano,Luzern,1,3
+St. Gallen,Basel,3,0
+Grasshoppers,Lausanne,2,3
+Young Boys,Thun,1,2
+Thun,Grasshoppers,5,1
+Zurich,Sion,1,2
+Lausanne,Young Boys,0,2
+Basel,Servette,3,1
+Luzern,Winterthur,1,2

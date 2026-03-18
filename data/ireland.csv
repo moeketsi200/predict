@@ -1,0 +1,2599 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Drogheda,Shamrock Rovers,1,2
+Derry City,Bohemians,1,0
+St. Patricks,Bray,1,0
+UC Dublin,Cork City,1,0
+Monaghan,Dundalk,0,0
+Shelbourne,Sligo Rovers,1,1
+Bohemians,Shelbourne,0,2
+Bray,Derry City,0,4
+Cork City,Drogheda,2,3
+Dundalk,St. Patricks,0,2
+Shamrock Rovers,Monaghan,3,1
+Sligo Rovers,UC Dublin,2,1
+Cork City,Shamrock Rovers,1,1
+Drogheda,Dundalk,0,0
+Sligo Rovers,Bohemians,1,0
+St. Patricks,Monaghan,1,1
+UC Dublin,Bray,2,3
+Shelbourne,Derry City,1,0
+Bray,Drogheda,2,4
+Derry City,Cork City,2,0
+Dundalk,UC Dublin,2,1
+Monaghan,Sligo Rovers,0,1
+Shamrock Rovers,Shelbourne,4,0
+Bohemians,St. Patricks,0,0
+Shamrock Rovers,Bohemians,2,0
+Cork City,Bray,1,1
+Drogheda,Derry City,2,0
+UC Dublin,Monaghan,3,2
+Shelbourne,St. Patricks,1,1
+Sligo Rovers,Dundalk,3,0
+St. Patricks,Shamrock Rovers,5,1
+Bohemians,Cork City,1,0
+Bray,Sligo Rovers,1,2
+Derry City,UC Dublin,0,0
+Dundalk,Shelbourne,0,0
+Monaghan,Drogheda,0,1
+Sligo Rovers,Derry City,1,1
+Cork City,Monaghan,6,0
+Drogheda,St. Patricks,0,0
+UC Dublin,Bohemians,1,2
+Shamrock Rovers,Dundalk,6,0
+Shelbourne,Bray,2,1
+Bohemians,Monaghan,1,2
+Bray,Shamrock Rovers,2,2
+Cork City,Sligo Rovers,0,1
+Derry City,Dundalk,1,2
+Drogheda,Shelbourne,3,1
+St. Patricks,UC Dublin,2,0
+Sligo Rovers,St. Patricks,1,1
+Dundalk,Bohemians,0,2
+UC Dublin,Drogheda,1,1
+Monaghan,Bray,0,1
+Shamrock Rovers,Derry City,1,1
+Shelbourne,Cork City,1,2
+Derry City,St. Patricks,0,2
+Bray,Bohemians,2,1
+Cork City,Dundalk,3,2
+Drogheda,Sligo Rovers,1,3
+Shamrock Rovers,UC Dublin,2,2
+Shelbourne,Monaghan,2,1
+Bohemians,Drogheda,1,1
+Dundalk,Bray,0,2
+St. Patricks,Cork City,0,0
+UC Dublin,Shelbourne,0,2
+Sligo Rovers,Shamrock Rovers,3,0
+Monaghan,Derry City,1,4
+Shamrock Rovers,Drogheda,3,1
+Bohemians,Derry City,1,2
+Bray,St. Patricks,3,3
+Cork City,UC Dublin,4,2
+Dundalk,Monaghan,1,2
+Sligo Rovers,Shelbourne,3,0
+Derry City,Bray,3,2
+Drogheda,Cork City,1,1
+St. Patricks,Dundalk,1,2
+UC Dublin,Sligo Rovers,1,0
+Monaghan,Shamrock Rovers,0,0
+Shelbourne,Bohemians,1,2
+Dundalk,Drogheda,1,2
+Bohemians,Sligo Rovers,0,0
+Bray,UC Dublin,3,1
+Derry City,Shelbourne,0,1
+Monaghan,St. Patricks,0,4
+Shamrock Rovers,Cork City,1,1
+Shelbourne,Shamrock Rovers,2,3
+Cork City,Derry City,2,2
+Drogheda,Bray,3,1
+St. Patricks,Bohemians,2,1
+UC Dublin,Dundalk,1,1
+Bohemians,Shamrock Rovers,4,0
+Bray,Cork City,0,3
+Derry City,Drogheda,0,3
+Dundalk,Sligo Rovers,1,2
+St. Patricks,Shelbourne,1,0
+UC Dublin,Derry City,0,1
+Shelbourne,Dundalk,4,0
+Sligo Rovers,Bray,1,1
+Shamrock Rovers,St. Patricks,1,1
+Cork City,Bohemians,1,1
+Derry City,Sligo Rovers,1,2
+Bray,Shelbourne,2,3
+Dundalk,Shamrock Rovers,1,1
+Bohemians,UC Dublin,1,0
+St. Patricks,Drogheda,0,2
+Shamrock Rovers,Bray,0,0
+Dundalk,Derry City,1,1
+Shelbourne,Drogheda,1,2
+UC Dublin,St. Patricks,1,1
+Sligo Rovers,Cork City,2,2
+Bohemians,Dundalk,2,1
+Cork City,Shelbourne,0,0
+Derry City,Shamrock Rovers,0,1
+Drogheda,UC Dublin,1,0
+Bohemians,Bray,0,0
+Dundalk,Cork City,1,1
+UC Dublin,Shamrock Rovers,0,2
+Sligo Rovers,Drogheda,4,1
+Bray,Dundalk,1,1
+Drogheda,Bohemians,1,0
+Shelbourne,UC Dublin,1,2
+Cork City,St. Patricks,0,1
+Shamrock Rovers,Sligo Rovers,1,1
+Derry City,Bohemians,2,0
+St. Patricks,Bray,0,1
+UC Dublin,Cork City,3,1
+Drogheda,Shamrock Rovers,0,2
+Shelbourne,Sligo Rovers,1,3
+Bohemians,Shelbourne,2,2
+Bray,Derry City,0,0
+Cork City,Drogheda,3,2
+Dundalk,St. Patricks,0,1
+Sligo Rovers,UC Dublin,3,0
+St. Patricks,Sligo Rovers,0,0
+Cork City,Shamrock Rovers,1,2
+Drogheda,Dundalk,3,2
+UC Dublin,Bray,3,1
+Shelbourne,Derry City,0,2
+St. Patricks,Derry City,3,0
+Sligo Rovers,Bohemians,3,1
+Bohemians,St. Patricks,2,3
+Bray,Drogheda,1,3
+Derry City,Cork City,0,1
+Dundalk,UC Dublin,1,2
+Shamrock Rovers,Shelbourne,2,2
+Cork City,Bray,2,0
+Drogheda,Derry City,2,1
+Sligo Rovers,Dundalk,3,0
+Shamrock Rovers,Bohemians,0,1
+Shelbourne,St. Patricks,0,2
+Bray,Sligo Rovers,0,0
+Bohemians,Cork City,1,1
+Derry City,UC Dublin,1,2
+Dundalk,Shelbourne,0,1
+St. Patricks,Shamrock Rovers,2,1
+Drogheda,St. Patricks,0,0
+UC Dublin,Bohemians,2,2
+Shamrock Rovers,Dundalk,7,0
+Shelbourne,Bray,0,0
+Sligo Rovers,Derry City,4,1
+Drogheda,Shelbourne,2,1
+St. Patricks,UC Dublin,5,0
+Derry City,Dundalk,4,0
+Bray,Shamrock Rovers,1,3
+Cork City,Sligo Rovers,0,0
+Sligo Rovers,St. Patricks,3,2
+Dundalk,Bohemians,2,2
+Shamrock Rovers,Derry City,1,3
+UC Dublin,Drogheda,1,0
+Shelbourne,Cork City,3,2
+Drogheda,Sligo Rovers,2,1
+Bray,Bohemians,1,4
+Cork City,Dundalk,3,0
+Derry City,St. Patricks,2,1
+Shamrock Rovers,UC Dublin,2,1
+Longford,Waterford,0,2
+Bohemians,Drogheda,1,4
+Dundalk,Bray,2,1
+Sligo Rovers,Shamrock Rovers,0,2
+St. Patricks,Cork City,1,0
+UC Dublin,Shelbourne,1,1
+Waterford,Longford,1,1
+Dundalk,Waterford,2,2
+Waterford,Dundalk,0,2
+Bohemians,UC Dublin,2,1
+Bray,Shelbourne,1,0
+Derry City,Sligo Rovers,0,1
+Dundalk,Shamrock Rovers,0,0
+St. Patricks,Drogheda,1,0
+Limerick,Cork City,0,0
+Shamrock Rovers,St. Patricks,3,0
+Cork City,Bohemians,2,1
+Drogheda,Limerick,2,2
+UC Dublin,Derry City,0,6
+Shelbourne,Dundalk,1,3
+Sligo Rovers,Bray,3,0
+Bohemians,Shamrock Rovers,0,0
+Derry City,Drogheda,1,1
+Dundalk,Sligo Rovers,1,3
+Limerick,UC Dublin,3,1
+Sligo Rovers,Limerick,2,1
+UC Dublin,Dundalk,1,2
+Drogheda,Bray,2,1
+Cork City,Derry City,0,1
+Shelbourne,Shamrock Rovers,0,0
+Dundalk,Drogheda,2,2
+Bohemians,Sligo Rovers,0,3
+Bray,UC Dublin,2,2
+Derry City,Shelbourne,4,0
+Shamrock Rovers,Cork City,1,1
+Limerick,St. Patricks,0,1
+Derry City,Bray,2,0
+Drogheda,Cork City,1,1
+Shelbourne,Bohemians,0,1
+UC Dublin,Sligo Rovers,0,3
+Limerick,Shamrock Rovers,1,1
+St. Patricks,Dundalk,1,2
+Bohemians,Derry City,0,4
+Bray,St. Patricks,0,1
+Cork City,UC Dublin,2,1
+Dundalk,Limerick,2,2
+Shamrock Rovers,Drogheda,1,1
+Sligo Rovers,Shelbourne,2,0
+Dundalk,Derry City,1,3
+UC Dublin,St. Patricks,0,1
+Shamrock Rovers,Bray,7,0
+Shelbourne,Drogheda,1,3
+Sligo Rovers,Cork City,2,0
+St. Patricks,Shelbourne,4,0
+Limerick,Bohemians,2,1
+St. Patricks,Sligo Rovers,2,0
+Bohemians,Dundalk,0,2
+Cork City,Shelbourne,1,1
+Derry City,Shamrock Rovers,2,1
+Drogheda,UC Dublin,3,2
+Bray,Limerick,0,4
+Dundalk,Cork City,2,0
+Bohemians,Bray,3,2
+St. Patricks,Derry City,1,1
+UC Dublin,Shamrock Rovers,2,0
+Limerick,Shelbourne,0,0
+Sligo Rovers,Drogheda,2,2
+Bray,Cork City,1,2
+St. Patricks,Bohemians,1,1
+Bray,Dundalk,0,1
+Cork City,St. Patricks,0,2
+Derry City,Limerick,2,1
+Drogheda,Bohemians,2,2
+Shamrock Rovers,Sligo Rovers,1,1
+Shelbourne,UC Dublin,2,0
+Drogheda,St. Patricks,1,2
+Cork City,Limerick,2,3
+Sligo Rovers,Derry City,3,0
+Shamrock Rovers,Dundalk,1,0
+Shelbourne,Bray,1,2
+UC Dublin,Bohemians,1,0
+Bohemians,Cork City,1,2
+Bray,Sligo Rovers,0,0
+Derry City,UC Dublin,2,4
+Dundalk,Shelbourne,1,0
+Limerick,Drogheda,0,1
+St. Patricks,Shamrock Rovers,0,0
+Shamrock Rovers,Bohemians,1,1
+Cork City,Bray,1,3
+Drogheda,Derry City,2,3
+UC Dublin,Limerick,1,1
+Shelbourne,St. Patricks,0,3
+Limerick,Sligo Rovers,0,0
+Bohemians,St. Patricks,0,2
+Bray,Drogheda,3,2
+Derry City,Cork City,1,1
+Dundalk,UC Dublin,2,3
+Shamrock Rovers,Shelbourne,1,0
+Sligo Rovers,Dundalk,0,1
+St. Patricks,UC Dublin,5,0
+St. Patricks,Limerick,3,0
+Sligo Rovers,Bohemians,0,0
+UC Dublin,Bray,4,5
+Shelbourne,Derry City,0,1
+Cork City,Shamrock Rovers,1,2
+Drogheda,Dundalk,0,1
+Bohemians,Shelbourne,0,3
+Bray,Derry City,2,3
+Cork City,Drogheda,1,0
+Dundalk,St. Patricks,2,1
+Shamrock Rovers,Limerick,1,0
+Sligo Rovers,UC Dublin,5,2
+Derry City,Bohemians,2,1
+Drogheda,Shamrock Rovers,0,3
+St. Patricks,Bray,2,0
+UC Dublin,Cork City,3,0
+Shelbourne,Sligo Rovers,0,2
+Limerick,Dundalk,3,2
+Bohemians,Limerick,0,1
+Bray,Shamrock Rovers,0,0
+Cork City,Sligo Rovers,3,1
+Derry City,Dundalk,0,1
+Drogheda,Shelbourne,0,0
+Limerick,Bray,4,4
+Dundalk,Bohemians,3,0
+Shamrock Rovers,Derry City,2,1
+Shelbourne,Cork City,2,1
+Sligo Rovers,St. Patricks,1,1
+UC Dublin,Drogheda,2,2
+Bray,Bohemians,1,3
+Shamrock Rovers,UC Dublin,1,1
+Shelbourne,Limerick,2,1
+Cork City,Dundalk,2,2
+Bohemians,Drogheda,1,1
+Dundalk,Bray,1,0
+St. Patricks,Cork City,2,1
+UC Dublin,Shelbourne,1,2
+Sligo Rovers,Shamrock Rovers,0,0
+Limerick,Derry City,0,1
+Bohemians,UC Dublin,1,3
+Derry City,Sligo Rovers,1,2
+Dundalk,Shamrock Rovers,3,1
+Limerick,Cork City,2,1
+St. Patricks,Drogheda,0,0
+Bray,Shelbourne,1,1
+Cork City,Bohemians,1,0
+Drogheda,Limerick,3,0
+UC Dublin,Derry City,1,3
+Shamrock Rovers,St. Patricks,0,4
+Shelbourne,Dundalk,1,2
+Sligo Rovers,Bray,2,0
+Bohemians,Shamrock Rovers,1,0
+Bray,Cork City,1,2
+Derry City,Drogheda,0,2
+Dundalk,Sligo Rovers,2,0
+Limerick,UC Dublin,1,3
+St. Patricks,Shelbourne,1,0
+Cork City,Derry City,4,1
+Drogheda,Bray,2,0
+St. Patricks,Bohemians,1,1
+UC Dublin,Dundalk,0,2
+Shelbourne,Shamrock Rovers,1,2
+Sligo Rovers,Limerick,2,0
+Derry City,St. Patricks,0,1
+Drogheda,Sligo Rovers,1,1
+Shamrock Rovers,Cork City,2,1
+Bohemians,Sligo Rovers,0,2
+Limerick,St. Patricks,0,0
+Bray,UC Dublin,1,1
+Dundalk,Drogheda,1,0
+St. Patricks,Dundalk,2,0
+Derry City,Bray,2,0
+UC Dublin,Sligo Rovers,0,3
+Shelbourne,Bohemians,0,3
+Drogheda,Cork City,2,3
+Limerick,Shamrock Rovers,2,0
+Bray,St. Patricks,1,3
+Bohemians,Derry City,2,0
+Cork City,UC Dublin,2,0
+Dundalk,Limerick,1,2
+Sligo Rovers,Shelbourne,2,0
+Shamrock Rovers,Drogheda,3,1
+Dundalk,Derry City,3,0
+Limerick,Bohemians,1,0
+Sligo Rovers,Cork City,0,0
+Shamrock Rovers,Bray,3,0
+Shelbourne,Drogheda,2,2
+Derry City,Shelbourne,3,1
+UC Dublin,St. Patricks,1,3
+Cork City,Shelbourne,5,3
+Derry City,Shamrock Rovers,0,0
+Drogheda,UC Dublin,1,1
+Bohemians,Dundalk,1,1
+Bray,Limerick,1,0
+St. Patricks,Sligo Rovers,2,0
+Limerick,Shelbourne,1,0
+Bohemians,Bray,0,1
+Dundalk,Cork City,4,0
+Mervue,Longford,1,0
+St. Patricks,Derry City,1,1
+UC Dublin,Shamrock Rovers,1,4
+Sligo Rovers,Drogheda,3,1
+Bray,Dundalk,0,2
+Cork City,St. Patricks,4,2
+Derry City,Limerick,6,0
+Drogheda,Bohemians,1,0
+Longford,Mervue,2,1
+Shamrock Rovers,Sligo Rovers,1,2
+Shelbourne,UC Dublin,1,2
+Bray,Longford,2,2
+Longford,Bray,2,3
+Cork City,St. Patricks,1,1
+Drogheda,Dundalk,4,1
+Limerick,Bray,0,0
+UC Dublin,Bohemians,0,3
+Sligo Rovers,Athlone,2,1
+Shamrock Rovers,Derry City,1,1
+Athlone,Shamrock Rovers,1,4
+Bohemians,Drogheda,2,2
+Bray,Sligo Rovers,1,0
+Dundalk,Limerick,2,1
+St. Patricks,UC Dublin,3,2
+Derry City,Cork City,0,1
+Bohemians,Shamrock Rovers,1,3
+Cork City,Bray,3,1
+Drogheda,Derry City,1,1
+UC Dublin,Athlone,2,1
+St. Patricks,Limerick,1,1
+Sligo Rovers,Dundalk,0,1
+Shamrock Rovers,Sligo Rovers,1,0
+Athlone,Cork City,0,3
+Bray,UC Dublin,3,5
+Derry City,St. Patricks,0,0
+Dundalk,Bohemians,1,1
+Limerick,Drogheda,0,1
+St. Patricks,Dundalk,1,4
+Bohemians,Bray,1,1
+Cork City,Shamrock Rovers,3,0
+Derry City,Sligo Rovers,1,0
+Drogheda,Athlone,3,2
+UC Dublin,Limerick,1,1
+Athlone,Bohemians,1,3
+Bray,St. Patricks,1,3
+Dundalk,Derry City,3,0
+Sligo Rovers,Drogheda,1,1
+Shamrock Rovers,UC Dublin,2,0
+Bohemians,Limerick,0,1
+Cork City,Sligo Rovers,1,1
+Derry City,Athlone,3,2
+Drogheda,Bray,0,2
+St. Patricks,Shamrock Rovers,1,0
+UC Dublin,Dundalk,1,4
+Bray,Derry City,0,0
+Cork City,Drogheda,3,1
+Dundalk,Shamrock Rovers,2,2
+Limerick,Athlone,2,1
+Sligo Rovers,UC Dublin,5,0
+St. Patricks,Bohemians,3,1
+Bohemians,Sligo Rovers,0,2
+Derry City,Limerick,0,0
+UC Dublin,Cork City,0,1
+Athlone,Dundalk,0,1
+Drogheda,St. Patricks,0,4
+Shamrock Rovers,Bray,2,1
+Bray,Dundalk,1,0
+Cork City,Bohemians,1,1
+Derry City,UC Dublin,1,1
+Drogheda,Shamrock Rovers,2,3
+Limerick,Sligo Rovers,0,3
+St. Patricks,Athlone,4,0
+Athlone,Bray,0,0
+Bohemians,Derry City,1,1
+Dundalk,Cork City,4,0
+UC Dublin,Drogheda,2,1
+Shamrock Rovers,Limerick,1,1
+Sligo Rovers,St. Patricks,2,2
+Bohemians,UC Dublin,0,0
+Bray,Limerick,1,0
+Derry City,Shamrock Rovers,0,1
+St. Patricks,Cork City,3,2
+Cork City,Derry City,2,0
+Drogheda,Bohemians,1,0
+Limerick,Dundalk,1,2
+UC Dublin,St. Patricks,1,1
+Shamrock Rovers,Athlone,1,0
+Sligo Rovers,Bray,3,0
+Athlone,Sligo Rovers,0,2
+Dundalk,Drogheda,7,0
+Limerick,Cork City,1,2
+Athlone,UC Dublin,2,0
+Bray,Cork City,0,2
+Derry City,Drogheda,2,0
+Dundalk,Sligo Rovers,3,0
+Limerick,St. Patricks,2,0
+Shamrock Rovers,Bohemians,0,0
+Bohemians,Dundalk,0,2
+Cork City,Athlone,1,0
+Drogheda,Limerick,1,4
+St. Patricks,Derry City,5,2
+UC Dublin,Bray,0,0
+Sligo Rovers,Shamrock Rovers,0,1
+Dundalk,UC Dublin,5,2
+St. Patricks,Drogheda,6,0
+Athlone,Drogheda,6,0
+Bray,Bohemians,0,5
+Dundalk,St. Patricks,0,0
+Limerick,UC Dublin,2,1
+Sligo Rovers,Derry City,2,2
+Shamrock Rovers,Cork City,0,2
+Bohemians,Athlone,2,2
+Cork City,Limerick,3,0
+Derry City,Dundalk,2,2
+Drogheda,Sligo Rovers,1,2
+St. Patricks,Bray,3,2
+UC Dublin,Shamrock Rovers,0,2
+Bray,Drogheda,1,3
+Limerick,Bohemians,1,2
+Shamrock Rovers,St. Patricks,2,1
+Athlone,Derry City,0,1
+Sligo Rovers,Cork City,0,0
+Athlone,Limerick,3,0
+Drogheda,Cork City,0,1
+Bohemians,St. Patricks,1,1
+UC Dublin,Sligo Rovers,1,0
+Shamrock Rovers,Dundalk,0,1
+Derry City,Bray,5,0
+Bray,Shamrock Rovers,0,3
+Cork City,UC Dublin,2,1
+Dundalk,Athlone,2,0
+Bohemians,Cork City,2,0
+Shamrock Rovers,Drogheda,0,1
+Athlone,St. Patricks,0,2
+UC Dublin,Derry City,1,6
+Dundalk,Bray,5,1
+Sligo Rovers,Limerick,2,0
+Bray,Athlone,1,1
+Derry City,Bohemians,4,0
+Drogheda,UC Dublin,4,0
+Limerick,Shamrock Rovers,4,1
+St. Patricks,Sligo Rovers,1,0
+Cork City,Dundalk,1,2
+Limerick,Bray,4,1
+Cork City,St. Patricks,1,0
+UC Dublin,Bohemians,0,0
+Drogheda,Dundalk,1,1
+Shamrock Rovers,Derry City,2,0
+Sligo Rovers,Athlone,3,1
+Athlone,Shamrock Rovers,1,1
+Bohemians,Drogheda,2,1
+Bray,Sligo Rovers,0,1
+Derry City,Cork City,0,1
+Dundalk,Limerick,1,0
+St. Patricks,UC Dublin,3,2
+Cork City,Bray,1,1
+Drogheda,Derry City,1,0
+Sligo Rovers,Dundalk,1,1
+St. Patricks,Limerick,0,1
+UC Dublin,Athlone,1,1
+Limerick,Derry City,0,4
+Athlone,Cork City,2,2
+Bray,UC Dublin,2,0
+Derry City,St. Patricks,0,1
+Dundalk,Bohemians,3,2
+Limerick,Drogheda,0,3
+Shamrock Rovers,Sligo Rovers,1,0
+St. Patricks,Dundalk,1,0
+Bohemians,Bray,2,1
+Cork City,Shamrock Rovers,1,0
+Derry City,Sligo Rovers,2,1
+Drogheda,Athlone,1,1
+UC Dublin,Limerick,1,3
+Dundalk,Derry City,5,0
+Sligo Rovers,Bohemians,3,2
+Bray,St. Patricks,2,4
+Athlone,Bohemians,0,0
+Sligo Rovers,Drogheda,0,2
+Limerick,Cork City,0,1
+Bohemians,Shamrock Rovers,1,1
+Cork City,Sligo Rovers,2,1
+Bohemians,Limerick,2,0
+Derry City,Athlone,1,1
+Drogheda,Bray,1,1
+St. Patricks,Shamrock Rovers,1,1
+UC Dublin,Dundalk,0,2
+Bray,Derry City,1,1
+St. Patricks,Bohemians,3,1
+Shamrock Rovers,UC Dublin,3,0
+Limerick,Athlone,4,2
+Cork City,Drogheda,2,1
+Sligo Rovers,UC Dublin,4,0
+Athlone,Dundalk,0,3
+Bohemians,Sligo Rovers,2,2
+Derry City,Limerick,1,2
+Drogheda,St. Patricks,2,3
+UC Dublin,Cork City,0,4
+Shamrock Rovers,Bray,1,0
+Dundalk,Shamrock Rovers,0,0
+Bray,Dundalk,1,1
+Cork City,Bohemians,1,0
+Derry City,UC Dublin,0,1
+Drogheda,Shamrock Rovers,0,2
+Galway,Shelbourne,2,0
+Limerick,Sligo Rovers,1,0
+St. Patricks,Athlone,0,2
+Athlone,Bray,1,1
+Bohemians,Derry City,2,1
+Dundalk,Cork City,2,0
+Shamrock Rovers,Limerick,1,0
+Sligo Rovers,St. Patricks,1,4
+UC Dublin,Drogheda,1,0
+Shelbourne,Galway,1,2
+UC Dublin,Galway,1,2
+Galway,UC Dublin,3,0
+Dundalk,Longford,1,0
+Galway,Derry City,1,2
+Shamrock Rovers,St. Patricks,1,0
+Bray,Drogheda,0,1
+Limerick,Bohemians,0,3
+Sligo Rovers,Cork City,1,1
+Bohemians,Galway,2,0
+Cork City,Limerick,5,0
+Derry City,Dundalk,0,1
+Drogheda,Sligo Rovers,3,2
+St. Patricks,Bray,3,0
+Longford,Shamrock Rovers,0,2
+Dundalk,St. Patricks,3,0
+Galway,Drogheda,1,0
+Shamrock Rovers,Cork City,0,0
+Bray,Bohemians,0,1
+Limerick,Longford,2,2
+Sligo Rovers,Derry City,1,1
+Bohemians,Dundalk,0,3
+Cork City,Galway,2,0
+Drogheda,Limerick,1,1
+Sligo Rovers,Shamrock Rovers,1,2
+St. Patricks,Derry City,2,0
+Longford,Bray,2,0
+Dundalk,Sligo Rovers,3,0
+Derry City,Drogheda,3,0
+Galway,Longford,1,2
+Shamrock Rovers,Bohemians,0,0
+Bray,Cork City,0,1
+Limerick,St. Patricks,1,2
+Sligo Rovers,Bray,1,3
+Cork City,Derry City,3,0
+Drogheda,Bohemians,0,1
+Shamrock Rovers,Galway,3,0
+Limerick,Dundalk,1,1
+Longford,St. Patricks,2,2
+Bohemians,Longford,2,0
+Derry City,Shamrock Rovers,0,0
+Dundalk,Drogheda,1,0
+Galway,Sligo Rovers,0,1
+St. Patricks,Cork City,0,0
+Bray,Limerick,4,0
+Bohemians,St. Patricks,0,1
+Derry City,Bray,0,0
+Drogheda,Cork City,1,2
+Galway,Limerick,3,2
+Longford,Sligo Rovers,1,1
+Shamrock Rovers,Dundalk,2,2
+Bray,Shamrock Rovers,0,3
+Cork City,Longford,2,0
+Dundalk,Galway,3,0
+Limerick,Derry City,0,2
+Sligo Rovers,Bohemians,0,0
+St. Patricks,Drogheda,2,2
+Cork City,Dundalk,1,2
+Derry City,Bohemians,1,2
+Drogheda,Longford,0,3
+St. Patricks,Sligo Rovers,3,0
+Bray,Galway,0,5
+Limerick,Shamrock Rovers,1,1
+Galway,St. Patricks,1,4
+Shamrock Rovers,Drogheda,1,0
+Longford,Derry City,0,0
+Sligo Rovers,Limerick,1,1
+Dundalk,Bray,8,1
+Bohemians,Cork City,1,1
+Bohemians,Limerick,2,1
+Cork City,Sligo Rovers,3,2
+Derry City,Galway,0,2
+Drogheda,Bray,4,2
+Longford,Dundalk,0,2
+Cork City,Drogheda,4,1
+St. Patricks,Shamrock Rovers,0,0
+Dundalk,Derry City,1,0
+Galway,Bohemians,5,3
+Shamrock Rovers,Longford,3,2
+Bray,St. Patricks,1,0
+Limerick,Cork City,0,1
+Sligo Rovers,Drogheda,2,0
+Bohemians,Bray,0,0
+Cork City,Shamrock Rovers,0,0
+Derry City,Sligo Rovers,1,1
+Drogheda,Galway,2,0
+St. Patricks,Dundalk,0,2
+Longford,Limerick,1,0
+Bray,Longford,0,1
+Derry City,St. Patricks,0,3
+Dundalk,Bohemians,1,2
+Galway,Cork City,1,3
+Limerick,Drogheda,1,2
+Shamrock Rovers,Sligo Rovers,5,1
+Shamrock Rovers,Derry City,4,1
+St. Patricks,Bohemians,3,1
+Bohemians,Shamrock Rovers,3,1
+Cork City,Bray,1,0
+Drogheda,Derry City,1,1
+Longford,Galway,0,1
+Sligo Rovers,Dundalk,1,2
+St. Patricks,Limerick,3,1
+Bohemians,Drogheda,0,1
+Derry City,Cork City,0,2
+Dundalk,Limerick,6,2
+Galway,Shamrock Rovers,1,2
+St. Patricks,Longford,3,0
+Bray,Sligo Rovers,1,0
+Drogheda,Dundalk,1,2
+Limerick,Bray,0,1
+Longford,Bohemians,2,1
+Sligo Rovers,Galway,1,1
+Galway,Dundalk,2,4
+Bray,Derry City,1,0
+Limerick,Galway,2,4
+Sligo Rovers,Longford,3,2
+Derry City,Limerick,0,0
+Drogheda,St. Patricks,0,2
+Bohemians,Sligo Rovers,1,0
+Longford,Cork City,1,4
+Bohemians,Derry City,4,2
+Galway,Bray,0,1
+Sligo Rovers,St. Patricks,0,3
+Longford,Drogheda,1,1
+Shamrock Rovers,Limerick,4,1
+Dundalk,Cork City,1,1
+Bray,Dundalk,0,1
+Derry City,Longford,3,0
+Drogheda,Shamrock Rovers,0,1
+St. Patricks,Galway,3,1
+Cork City,Bohemians,4,0
+Limerick,Sligo Rovers,3,2
+Dundalk,Longford,0,0
+Galway,Derry City,0,4
+Shamrock Rovers,St. Patricks,0,2
+Bray,Drogheda,1,0
+Limerick,Bohemians,4,3
+Sligo Rovers,Cork City,0,2
+Bohemians,Galway,3,0
+Cork City,Limerick,2,3
+Derry City,Dundalk,0,2
+Drogheda,Sligo Rovers,0,4
+St. Patricks,Bray,1,0
+Longford,Shamrock Rovers,1,3
+Shamrock Rovers,Cork City,3,0
+Bray,Bohemians,3,1
+Dundalk,St. Patricks,4,1
+Galway,Drogheda,1,1
+Limerick,Longford,3,3
+Sligo Rovers,Derry City,1,0
+Bohemians,Dundalk,2,2
+Cork City,Galway,1,0
+Drogheda,Limerick,1,4
+St. Patricks,Derry City,0,1
+Longford,Bray,1,0
+Sligo Rovers,Shamrock Rovers,1,1
+Cork City,St. Patricks,3,1
+Dundalk,Shamrock Rovers,2,0
+Shamrock Rovers,Bohemians,1,1
+Derry City,Drogheda,0,2
+Bray,Cork City,0,0
+Limerick,St. Patricks,3,1
+Dundalk,Sligo Rovers,2,2
+Galway,Longford,4,2
+Dundalk,Drogheda,6,0
+Bohemians,Longford,1,1
+Derry City,Shamrock Rovers,1,0
+Bray,Limerick,2,2
+Shamrock Rovers,Bray,1,0
+Cork City,Derry City,0,0
+Drogheda,Bohemians,2,2
+Shamrock Rovers,Galway,2,0
+Limerick,Dundalk,1,3
+Longford,St. Patricks,0,3
+Sligo Rovers,Bray,3,2
+Galway,Sligo Rovers,2,1
+Bohemians,St. Patricks,2,0
+Derry City,Bray,3,1
+Drogheda,Cork City,1,1
+Galway,Limerick,1,3
+Shamrock Rovers,Dundalk,1,1
+Longford,Sligo Rovers,1,1
+Cork City,Longford,2,3
+Dundalk,Galway,0,0
+St. Patricks,Drogheda,2,1
+Bray,Shamrock Rovers,2,2
+Limerick,Derry City,0,2
+Sligo Rovers,Bohemians,0,2
+St. Patricks,Cork City,1,2
+Cork City,Dundalk,2,2
+Derry City,Bohemians,2,3
+Drogheda,Longford,0,3
+Limerick,Shamrock Rovers,0,2
+St. Patricks,Sligo Rovers,0,2
+UC Dublin,Finn Harps,0,1
+Bray,Galway,1,1
+Bohemians,Cork City,0,1
+Dundalk,Bray,4,0
+Finn Harps,UC Dublin,2,1
+Galway,St. Patricks,0,1
+Longford,Derry City,4,2
+Shamrock Rovers,Drogheda,5,3
+Sligo Rovers,Limerick,2,3
+Limerick,Finn Harps,1,0
+Finn Harps,Limerick,1,0
+Cork City,Bohemians,2,0
+St. Patricks,Galway,1,3
+Finn Harps,Derry City,2,1
+Wexford,Longford,0,2
+Bray,Dundalk,1,3
+Sligo Rovers,Shamrock Rovers,0,2
+Bohemians,Sligo Rovers,1,0
+Derry City,Cork City,1,0
+Dundalk,Finn Harps,3,0
+Galway,Bray,4,0
+Longford,St. Patricks,0,1
+Shamrock Rovers,Wexford,2,0
+Bray,Derry City,0,3
+Cork City,Longford,6,0
+Sligo Rovers,Galway,1,1
+St. Patricks,Bohemians,3,0
+Finn Harps,Shamrock Rovers,0,1
+Wexford,Dundalk,1,2
+Bohemians,Wexford,3,3
+Derry City,Galway,2,1
+Dundalk,Cork City,0,1
+Shamrock Rovers,St. Patricks,0,2
+Longford,Bray,1,1
+Sligo Rovers,Finn Harps,1,1
+St. Patricks,Dundalk,0,4
+Galway,Bohemians,1,0
+Wexford,Derry City,1,2
+Bray,Sligo Rovers,4,0
+Finn Harps,Longford,1,0
+Bohemians,Longford,2,0
+Dundalk,Derry City,1,1
+Shamrock Rovers,Galway,2,0
+Wexford,Bray,2,0
+Sligo Rovers,Cork City,0,0
+Cork City,Wexford,1,1
+Derry City,Shamrock Rovers,3,0
+Galway,Finn Harps,1,0
+St. Patricks,Sligo Rovers,1,1
+Bray,Bohemians,0,2
+Longford,Dundalk,0,4
+Finn Harps,St. Patricks,1,2
+Bohemians,Shamrock Rovers,0,4
+Dundalk,Sligo Rovers,1,0
+Galway,Cork City,2,2
+St. Patricks,Wexford,4,0
+Finn Harps,Bray,1,0
+Longford,Derry City,1,1
+Cork City,Finn Harps,3,1
+Derry City,Bohemians,1,0
+Shamrock Rovers,Dundalk,0,2
+Wexford,Galway,0,2
+Bray,St. Patricks,1,0
+Sligo Rovers,Longford,3,0
+Cork City,Shamrock Rovers,2,0
+Bohemians,Dundalk,0,2
+Cork City,St. Patricks,1,0
+Derry City,Sligo Rovers,0,2
+Galway,Longford,2,2
+Shamrock Rovers,Bray,2,0
+Wexford,Finn Harps,1,1
+St. Patricks,Derry City,0,1
+Dundalk,Galway,2,1
+Finn Harps,Bohemians,0,0
+Bray,Cork City,0,2
+Longford,Shamrock Rovers,0,2
+Sligo Rovers,Wexford,4,1
+Bohemians,Cork City,0,1
+Dundalk,Bray,1,0
+Galway,St. Patricks,0,3
+Derry City,Finn Harps,2,2
+Longford,Wexford,2,4
+Shamrock Rovers,Sligo Rovers,3,0
+Cork City,Derry City,2,1
+Finn Harps,Dundalk,0,7
+St. Patricks,Longford,3,3
+Wexford,Shamrock Rovers,2,0
+Bray,Galway,1,2
+Sligo Rovers,Bohemians,1,0
+St. Patricks,Finn Harps,4,0
+Bohemians,St. Patricks,5,1
+Galway,Sligo Rovers,1,2
+Longford,Cork City,0,3
+Shamrock Rovers,Finn Harps,1,1
+Derry City,Bray,2,0
+Dundalk,Wexford,3,2
+Bray,Longford,0,0
+Galway,Derry City,0,0
+St. Patricks,Shamrock Rovers,0,2
+Cork City,Dundalk,1,0
+Finn Harps,Sligo Rovers,3,0
+Wexford,Bohemians,0,1
+Bohemians,Galway,1,1
+Derry City,Wexford,1,0
+Dundalk,St. Patricks,2,0
+Sligo Rovers,Bray,0,0
+Longford,Finn Harps,0,2
+Shamrock Rovers,Cork City,0,0
+Derry City,Dundalk,0,5
+Bray,Wexford,3,0
+Longford,Bohemians,0,1
+Dundalk,Longford,4,3
+Bohemians,Bray,0,0
+Finn Harps,Galway,1,0
+Sligo Rovers,St. Patricks,1,0
+Wexford,Cork City,0,1
+Derry City,Longford,4,0
+Shamrock Rovers,Bohemians,3,1
+Bray,Finn Harps,1,0
+Galway,Wexford,4,2
+Bohemians,Derry City,0,1
+Longford,Sligo Rovers,2,2
+Bray,Shamrock Rovers,1,1
+Finn Harps,Wexford,0,1
+Sligo Rovers,Derry City,0,0
+Longford,Galway,1,1
+Wexford,St. Patricks,0,1
+Bohemians,Finn Harps,2,0
+Derry City,St. Patricks,1,1
+Galway,Dundalk,1,0
+Shamrock Rovers,Longford,2,1
+Wexford,Sligo Rovers,0,5
+Cork City,Sligo Rovers,1,2
+Bray,Dundalk,2,1
+Cork City,Bohemians,0,0
+Sligo Rovers,Shamrock Rovers,3,2
+St. Patricks,Galway,1,0
+Finn Harps,Derry City,0,5
+Wexford,Longford,2,0
+Bohemians,Sligo Rovers,3,2
+Derry City,Cork City,0,0
+Longford,St. Patricks,0,1
+Shamrock Rovers,Wexford,3,1
+Galway,Bray,0,2
+Cork City,Longford,5,2
+St. Patricks,Bohemians,0,1
+Finn Harps,Shamrock Rovers,0,2
+Wexford,Dundalk,0,1
+Bray,Derry City,2,2
+Sligo Rovers,Galway,2,1
+Cork City,Bray,4,0
+Shamrock Rovers,Derry City,0,1
+Bohemians,Dundalk,1,2
+Derry City,Galway,0,0
+Shamrock Rovers,St. Patricks,0,0
+Galway,Shamrock Rovers,0,1
+Sligo Rovers,Dundalk,0,1
+St. Patricks,Bray,1,2
+Longford,Bray,0,2
+Dundalk,Finn Harps,2,0
+Cork City,Shamrock Rovers,3,0
+Galway,Bohemians,2,0
+Finn Harps,Longford,0,1
+Wexford,Derry City,0,0
+Bray,Sligo Rovers,4,0
+Bohemians,Wexford,1,0
+Finn Harps,Cork City,0,1
+Dundalk,Shamrock Rovers,1,1
+Bohemians,Longford,1,0
+Dundalk,Derry City,3,1
+Shamrock Rovers,Galway,4,2
+Wexford,Bray,1,3
+Sligo Rovers,Cork City,0,0
+Cork City,Galway,5,3
+Derry City,Shamrock Rovers,2,2
+St. Patricks,Sligo Rovers,0,0
+Bray,Bohemians,2,1
+Galway,Finn Harps,3,2
+Sligo Rovers,Finn Harps,0,0
+Bohemians,Shamrock Rovers,1,0
+St. Patricks,Wexford,4,1
+Finn Harps,Bray,2,1
+Dundalk,Sligo Rovers,0,3
+Galway,Cork City,0,5
+Longford,Derry City,2,3
+Dundalk,Cork City,2,1
+Finn Harps,St. Patricks,1,1
+Bray,St. Patricks,2,1
+Cork City,Finn Harps,2,0
+Derry City,Bohemians,2,1
+Shamrock Rovers,Dundalk,0,3
+Sligo Rovers,Longford,1,0
+Wexford,Galway,5,4
+St. Patricks,Cork City,3,1
+Longford,Dundalk,0,3
+Cork City,St. Patricks,3,1
+Derry City,Sligo Rovers,2,1
+Galway,Longford,0,0
+Shamrock Rovers,Bray,0,0
+Wexford,Finn Harps,0,0
+Cobh Ramblers,Drogheda,0,2
+Dundalk,Bohemians,2,1
+Cork City,Wexford,5,0
+St. Patricks,Dundalk,5,2
+Bray,Cork City,4,1
+Drogheda,Cobh Ramblers,1,2
+Dundalk,Galway,4,1
+Finn Harps,Bohemians,1,0
+Longford,Shamrock Rovers,2,4
+Sligo Rovers,Wexford,5,0
+St. Patricks,Derry City,0,2
+Wexford,Drogheda,2,0
+Drogheda,Wexford,3,0
+Bohemians,Derry City,1,4
+Galway,Drogheda,0,1
+Limerick,Sligo Rovers,5,1
+St. Patricks,Bray,1,2
+Dundalk,Shamrock Rovers,2,1
+Finn Harps,Cork City,0,1
+Shamrock Rovers,Bohemians,2,1
+Bray,Finn Harps,5,3
+Cork City,Galway,4,0
+Drogheda,St. Patricks,2,0
+Sligo Rovers,Dundalk,0,4
+Bohemians,Bray,3,2
+Dundalk,Limerick,1,0
+Sligo Rovers,St. Patricks,1,1
+Drogheda,Cork City,1,4
+Finn Harps,Galway,1,1
+Shamrock Rovers,Derry City,0,1
+Galway,Shamrock Rovers,1,2
+Bray,Drogheda,2,1
+Cork City,Sligo Rovers,2,1
+Derry City,Dundalk,3,1
+Limerick,Bohemians,0,1
+St. Patricks,Finn Harps,1,2
+Shamrock Rovers,Cork City,1,2
+Bohemians,Galway,1,1
+Limerick,Finn Harps,1,1
+Derry City,Drogheda,4,0
+Dundalk,St. Patricks,3,0
+Sligo Rovers,Bray,3,2
+Cork City,Dundalk,2,1
+St. Patricks,Shamrock Rovers,2,1
+Drogheda,Bohemians,0,1
+Bray,Limerick,0,1
+Finn Harps,Sligo Rovers,2,1
+Dundalk,Drogheda,3,1
+Bohemians,St. Patricks,0,4
+Derry City,Bray,2,3
+Limerick,Cork City,0,3
+Shamrock Rovers,Finn Harps,3,2
+Galway,Sligo Rovers,1,1
+Cork City,Derry City,3,0
+Bray,Galway,1,0
+Drogheda,Shamrock Rovers,2,1
+St. Patricks,Limerick,0,2
+Finn Harps,Dundalk,0,2
+Sligo Rovers,Bohemians,2,0
+Bohemians,Cork City,0,2
+Derry City,Finn Harps,0,2
+Dundalk,Bray,1,3
+Galway,St. Patricks,1,1
+Shamrock Rovers,Sligo Rovers,1,0
+Limerick,Drogheda,3,0
+Bray,Shamrock Rovers,4,2
+Dundalk,Bohemians,2,0
+Limerick,Galway,1,1
+St. Patricks,Cork City,0,3
+Finn Harps,Drogheda,0,2
+Sligo Rovers,Derry City,1,1
+Derry City,Limerick,1,1
+Bohemians,Finn Harps,2,0
+Cork City,Bray,2,1
+Derry City,St. Patricks,2,2
+Drogheda,Sligo Rovers,1,1
+Galway,Dundalk,2,1
+Shamrock Rovers,Limerick,1,1
+Bray,St. Patricks,1,1
+Cork City,Finn Harps,5,0
+Derry City,Bohemians,2,0
+Drogheda,Galway,2,2
+Shamrock Rovers,Dundalk,2,1
+Sligo Rovers,Limerick,3,0
+Galway,Derry City,0,0
+Bohemians,Shamrock Rovers,0,2
+Dundalk,Sligo Rovers,4,0
+Galway,Cork City,1,1
+St. Patricks,Drogheda,2,0
+Finn Harps,Bray,0,3
+Limerick,Derry City,1,1
+Bray,Bohemians,1,2
+Cork City,Drogheda,5,0
+Derry City,Shamrock Rovers,3,1
+Galway,Finn Harps,2,1
+Limerick,Dundalk,0,3
+St. Patricks,Sligo Rovers,1,1
+Sligo Rovers,Cork City,1,2
+Finn Harps,St. Patricks,3,1
+Shamrock Rovers,Galway,2,0
+Bohemians,Limerick,1,2
+Drogheda,Bray,0,0
+Dundalk,Derry City,0,0
+Bray,Sligo Rovers,2,2
+Cork City,Shamrock Rovers,4,1
+Drogheda,Derry City,0,0
+Galway,Bohemians,1,2
+St. Patricks,Dundalk,0,2
+Finn Harps,Limerick,3,2
+Shamrock Rovers,Bray,2,0
+Dundalk,Cork City,0,3
+Bohemians,Drogheda,0,0
+Derry City,Galway,2,1
+Limerick,Bray,5,3
+Sligo Rovers,Finn Harps,0,0
+Shamrock Rovers,St. Patricks,1,1
+Bray,Derry City,3,2
+Drogheda,Dundalk,0,6
+St. Patricks,Bohemians,1,3
+Cork City,Limerick,4,1
+Finn Harps,Shamrock Rovers,0,1
+Sligo Rovers,Galway,1,1
+Bohemians,Sligo Rovers,2,0
+Derry City,Cork City,1,2
+Galway,Bray,1,2
+Dundalk,Finn Harps,4,0
+Shamrock Rovers,Drogheda,4,1
+Limerick,St. Patricks,2,2
+Dundalk,Galway,2,0
+Bray,Dundalk,0,3
+Drogheda,Limerick,0,2
+St. Patricks,Galway,1,1
+Sligo Rovers,Shamrock Rovers,1,0
+Bohemians,Dundalk,0,1
+Drogheda,Finn Harps,0,2
+Galway,Limerick,3,1
+Cork City,St. Patricks,1,0
+Derry City,Sligo Rovers,4,0
+St. Patricks,Derry City,2,1
+Finn Harps,Bohemians,2,1
+Sligo Rovers,Drogheda,1,1
+Bray,Cork City,0,2
+Bohemians,Derry City,0,1
+Galway,Drogheda,4,1
+St. Patricks,Bray,3,1
+Limerick,Sligo Rovers,0,0
+Dundalk,Shamrock Rovers,0,1
+Finn Harps,Derry City,0,2
+Bray,Finn Harps,2,3
+Cork City,Galway,2,1
+Drogheda,St. Patricks,0,1
+Shamrock Rovers,Bohemians,1,2
+Sligo Rovers,Dundalk,1,1
+Derry City,Limerick,3,0
+Cork City,Bohemians,0,1
+Bohemians,Bray,0,0
+Drogheda,Cork City,0,1
+Dundalk,Limerick,3,0
+Finn Harps,Galway,1,3
+Shamrock Rovers,Derry City,0,2
+Sligo Rovers,St. Patricks,1,1
+Limerick,Shamrock Rovers,0,2
+Sligo Rovers,Bray,0,0
+Cork City,Sligo Rovers,0,1
+Bray,Drogheda,2,1
+Galway,Shamrock Rovers,1,2
+St. Patricks,Finn Harps,4,0
+Limerick,Bohemians,1,0
+Derry City,Dundalk,0,4
+Finn Harps,Cork City,0,1
+Bohemians,Galway,1,1
+Dundalk,St. Patricks,6,0
+Limerick,Finn Harps,0,2
+Shamrock Rovers,Cork City,3,1
+Bray,Limerick,1,1
+Drogheda,Bohemians,1,4
+Galway,Derry City,2,1
+Finn Harps,Sligo Rovers,1,2
+Bohemians,St. Patricks,3,2
+Derry City,Bray,0,5
+Dundalk,Drogheda,3,0
+Galway,Sligo Rovers,3,1
+Limerick,Cork City,2,1
+Shamrock Rovers,Finn Harps,4,1
+Cork City,Dundalk,1,1
+St. Patricks,Shamrock Rovers,2,0
+Derry City,Drogheda,2,1
+Bray,Galway,3,3
+Drogheda,Shamrock Rovers,0,2
+Finn Harps,Dundalk,0,2
+Sligo Rovers,Bohemians,1,0
+St. Patricks,Limerick,2,2
+Bohemians,Cork City,0,0
+Derry City,Finn Harps,3,0
+Dundalk,Bray,1,0
+Galway,St. Patricks,1,1
+Shamrock Rovers,Sligo Rovers,1,1
+Limerick,Drogheda,1,0
+Cork City,Derry City,0,0
+Bray,Shamrock Rovers,1,0
+Dundalk,Bohemians,0,1
+Limerick,Galway,2,2
+St. Patricks,Cork City,4,2
+Sligo Rovers,Derry City,3,0
+Finn Harps,Drogheda,2,3
+Bohemians,Finn Harps,3,1
+Cork City,Bray,1,0
+Derry City,St. Patricks,1,1
+Drogheda,Sligo Rovers,0,0
+Galway,Dundalk,3,4
+Shamrock Rovers,Limerick,2,1
+Bohemians,Shamrock Rovers,3,1
+Dundalk,Bray,0,0
+St. Patricks,Cork City,2,3
+Waterford,Derry City,2,1
+Sligo Rovers,Limerick,0,1
+Bray,St. Patricks,1,2
+Cork City,Waterford,2,0
+Sligo Rovers,Derry City,2,1
+Shamrock Rovers,Dundalk,0,0
+Limerick,Bohemians,1,1
+Sligo Rovers,Cork City,1,4
+Waterford,St. Patricks,2,0
+Shamrock Rovers,Bray,6,0
+Bohemians,Derry City,0,1
+Dundalk,Limerick,8,0
+Bohemians,St. Patricks,0,1
+Limerick,Bray,1,0
+Sligo Rovers,Waterford,1,2
+Dundalk,Cork City,1,0
+Shamrock Rovers,Derry City,6,1
+Bray,Sligo Rovers,1,2
+Cork City,Shamrock Rovers,1,0
+Derry City,Limerick,5,0
+St. Patricks,Dundalk,0,0
+Waterford,Bohemians,1,0
+Bohemians,Sligo Rovers,2,2
+Derry City,Bray,5,1
+Dundalk,Waterford,1,0
+Limerick,Cork City,1,1
+Shamrock Rovers,St. Patricks,1,0
+Cork City,Bohemians,3,0
+Limerick,Shamrock Rovers,0,1
+Bohemians,Bray,2,1
+St. Patricks,Limerick,1,0
+Waterford,Shamrock Rovers,2,1
+Sligo Rovers,Dundalk,0,2
+Derry City,St. Patricks,2,1
+Bray,Cork City,0,4
+Dundalk,Bohemians,3,0
+Limerick,Waterford,0,2
+Shamrock Rovers,Sligo Rovers,1,0
+Dundalk,Shamrock Rovers,2,1
+Bohemians,Limerick,0,0
+St. Patricks,Bray,5,0
+Waterford,Cork City,2,1
+Sligo Rovers,Derry City,0,2
+Bray,Dundalk,0,2
+Cork City,St. Patricks,1,0
+Derry City,Waterford,1,0
+Shamrock Rovers,Bohemians,1,2
+Limerick,Sligo Rovers,1,2
+Bray,Shamrock Rovers,1,0
+Derry City,Bohemians,3,1
+St. Patricks,Waterford,1,0
+Cork City,Sligo Rovers,1,0
+Limerick,Dundalk,0,3
+Dundalk,Derry City,2,2
+Waterford,Bray,3,0
+Bohemians,Cork City,0,2
+Shamrock Rovers,Limerick,1,1
+Sligo Rovers,St. Patricks,0,0
+Cork City,Dundalk,1,0
+Bray,Limerick,0,1
+Derry City,Shamrock Rovers,0,0
+St. Patricks,Bohemians,2,2
+Waterford,Sligo Rovers,1,1
+Bohemians,Waterford,0,1
+Dundalk,St. Patricks,5,0
+Limerick,Derry City,0,3
+Sligo Rovers,Bray,2,1
+Shamrock Rovers,Cork City,3,0
+Bray,Derry City,2,1
+St. Patricks,Shamrock Rovers,2,0
+Waterford,Dundalk,2,1
+Cork City,Limerick,2,1
+Sligo Rovers,Bohemians,0,2
+Bray,Bohemians,1,3
+Derry City,Cork City,0,0
+Dundalk,Sligo Rovers,2,1
+Limerick,St. Patricks,0,1
+Shamrock Rovers,Waterford,1,1
+Bray,Waterford,2,2
+Derry City,Dundalk,1,4
+St. Patricks,Sligo Rovers,2,0
+Bohemians,Dundalk,0,2
+Cork City,Bray,4,0
+St. Patricks,Derry City,5,2
+Waterford,Limerick,3,6
+Sligo Rovers,Shamrock Rovers,0,0
+Derry City,Bray,2,0
+Dundalk,Waterford,2,0
+Limerick,Cork City,0,2
+Shamrock Rovers,St. Patricks,3,0
+Bohemians,Shamrock Rovers,1,1
+Dundalk,Bray,5,0
+Sligo Rovers,Limerick,0,0
+St. Patricks,Cork City,1,3
+Waterford,Derry City,4,0
+Bray,St. Patricks,3,1
+Cork City,Waterford,3,0
+Derry City,Sligo Rovers,0,2
+Limerick,Bohemians,1,1
+Shamrock Rovers,Dundalk,2,5
+Cork City,Derry City,4,2
+Bohemians,Derry City,1,2
+Dundalk,Limerick,4,0
+Waterford,St. Patricks,2,0
+Shamrock Rovers,Bray,5,0
+Sligo Rovers,Cork City,0,2
+Bray,Waterford,0,0
+Cork City,Bohemians,1,0
+Derry City,Dundalk,0,4
+Limerick,Shamrock Rovers,0,2
+St. Patricks,Sligo Rovers,0,3
+Dundalk,Cork City,2,1
+Bohemians,St. Patricks,1,0
+Limerick,Bray,2,1
+Shamrock Rovers,Derry City,2,0
+Sligo Rovers,Waterford,2,3
+Cork City,Shamrock Rovers,0,0
+Derry City,Limerick,2,1
+St. Patricks,Dundalk,1,3
+Waterford,Bohemians,1,1
+Bray,Sligo Rovers,2,1
+Bohemians,Sligo Rovers,0,3
+Bohemians,Bray,6,0
+St. Patricks,Limerick,2,1
+Waterford,Shamrock Rovers,0,1
+Cork City,Derry City,5,0
+Bray,Cork City,1,3
+Derry City,St. Patricks,2,1
+Limerick,Waterford,2,1
+Shamrock Rovers,Sligo Rovers,2,0
+Dundalk,Bohemians,2,0
+Bohemians,Limerick,5,0
+Derry City,Sligo Rovers,1,2
+St. Patricks,Bray,3,0
+Waterford,Cork City,1,2
+Bray,Dundalk,1,3
+Derry City,Waterford,1,2
+Limerick,Sligo Rovers,1,3
+Shamrock Rovers,Bohemians,0,1
+Cork City,St. Patricks,1,1
+Sligo Rovers,Dundalk,0,2
+Dundalk,Shamrock Rovers,1,2
+Bray,Shamrock Rovers,0,3
+Cork City,Sligo Rovers,1,2
+Derry City,Bohemians,0,2
+Limerick,Dundalk,0,1
+St. Patricks,Waterford,3,0
+Bohemians,Cork City,4,2
+Waterford,Bray,2,0
+Shamrock Rovers,Limerick,5,0
+Sligo Rovers,St. Patricks,1,2
+Cork City,Dundalk,0,1
+Bray,Limerick,0,2
+Waterford,Sligo Rovers,1,0
+Derry City,Shamrock Rovers,0,1
+St. Patricks,Bohemians,1,3
+Dundalk,Derry City,3,2
+Bohemians,Waterford,1,3
+Drogheda,Shelbourne,0,1
+Dundalk,St. Patricks,1,1
+Limerick,Derry City,0,1
+Shamrock Rovers,Cork City,0,0
+Sligo Rovers,Bray,2,1
+Shelbourne,Drogheda,1,2
+Cork City,Limerick,3,0
+Drogheda,Finn Harps,1,1
+St. Patricks,Shamrock Rovers,0,1
+Waterford,Dundalk,1,2
+Bray,Bohemians,0,5
+Derry City,Cork City,0,3
+Dundalk,Sligo Rovers,5,0
+Limerick,St. Patricks,0,4
+Shamrock Rovers,Waterford,3,1
+Bray,Derry City,2,1
+Sligo Rovers,Bohemians,1,1
+Bohemians,Dundalk,1,1
+Cork City,Bray,5,1
+Sligo Rovers,Shamrock Rovers,2,0
+St. Patricks,Derry City,5,0
+Waterford,Limerick,4,1
+Finn Harps,Limerick,1,0
+Limerick,Finn Harps,0,2
+Bohemians,Finn Harps,1,0
+Derry City,UC Dublin,3,0
+Dundalk,Sligo Rovers,1,1
+St. Patricks,Cork City,1,0
+Waterford,Shamrock Rovers,1,2
+Cork City,Waterford,0,2
+Sligo Rovers,St. Patricks,0,1
+UC Dublin,Bohemians,0,2
+Finn Harps,Dundalk,1,1
+Shamrock Rovers,Derry City,2,0
+Bohemians,Shamrock Rovers,1,0
+Derry City,Waterford,3,2
+Dundalk,UC Dublin,2,1
+Sligo Rovers,Cork City,1,2
+St. Patricks,Finn Harps,0,0
+Cork City,Derry City,0,0
+UC Dublin,St. Patricks,1,1
+Waterford,Bohemians,0,0
+Finn Harps,Sligo Rovers,1,2
+Shamrock Rovers,Dundalk,0,0
+Shamrock Rovers,Finn Harps,3,0
+Bohemians,Derry City,1,1
+Dundalk,Waterford,4,0
+St. Patricks,Shamrock Rovers,0,1
+Finn Harps,Cork City,3,4
+Sligo Rovers,UC Dublin,1,0
+Cork City,Bohemians,2,0
+Derry City,Dundalk,0,2
+UC Dublin,Finn Harps,3,0
+Waterford,St. Patricks,2,0
+Shamrock Rovers,Sligo Rovers,3,0
+Finn Harps,Shamrock Rovers,0,1
+Bohemians,St. Patricks,1,0
+Derry City,Sligo Rovers,2,0
+Dundalk,Cork City,1,0
+Waterford,Finn Harps,4,0
+Shamrock Rovers,UC Dublin,3,1
+Cork City,Shamrock Rovers,1,3
+Finn Harps,Derry City,2,3
+St. Patricks,Dundalk,1,0
+UC Dublin,Waterford,4,1
+Sligo Rovers,Bohemians,0,2
+Cork City,St. Patricks,1,1
+Sligo Rovers,Dundalk,2,1
+UC Dublin,Derry City,0,2
+Finn Harps,Bohemians,0,1
+Shamrock Rovers,Waterford,2,1
+Dundalk,Bohemians,1,0
+Sligo Rovers,Waterford,0,0
+St. Patricks,Derry City,1,3
+UC Dublin,Cork City,2,1
+Bohemians,UC Dublin,3,0
+Derry City,Shamrock Rovers,0,1
+Dundalk,Finn Harps,3,0
+St. Patricks,Sligo Rovers,2,1
+Waterford,Cork City,2,0
+UC Dublin,Dundalk,1,3
+Waterford,Derry City,2,2
+Cork City,Sligo Rovers,0,0
+Finn Harps,St. Patricks,0,2
+Shamrock Rovers,Bohemians,0,1
+Bohemians,Waterford,0,0
+Derry City,Cork City,2,0
+Sligo Rovers,Finn Harps,1,1
+St. Patricks,UC Dublin,2,0
+Dundalk,Shamrock Rovers,2,1
+Cork City,Finn Harps,1,1
+Derry City,Bohemians,0,2
+UC Dublin,Sligo Rovers,0,2
+Waterford,Dundalk,0,3
+Shamrock Rovers,St. Patricks,1,0
+Bohemians,Cork City,0,1
+Dundalk,Derry City,2,2
+St. Patricks,Waterford,0,3
+Finn Harps,UC Dublin,3,0
+Sligo Rovers,Shamrock Rovers,2,1
+Bohemians,Dundalk,0,2
+Cork City,UC Dublin,2,0
+Derry City,St. Patricks,1,1
+Waterford,Sligo Rovers,3,3
+Cork City,Dundalk,0,2
+St. Patricks,Bohemians,1,1
+UC Dublin,Shamrock Rovers,0,1
+Finn Harps,Waterford,3,2
+Sligo Rovers,Derry City,0,0
+Dundalk,Bohemians,2,1
+UC Dublin,Cork City,0,1
+Finn Harps,Shamrock Rovers,0,3
+St. Patricks,Derry City,1,0
+Bohemians,Sligo Rovers,1,2
+Derry City,Finn Harps,4,0
+Dundalk,St. Patricks,1,0
+Waterford,UC Dublin,1,0
+Shamrock Rovers,Cork City,2,0
+Bohemians,Finn Harps,5,3
+Dundalk,Sligo Rovers,4,0
+St. Patricks,Cork City,1,1
+Shamrock Rovers,Derry City,2,2
+Sligo Rovers,St. Patricks,1,1
+Finn Harps,Dundalk,0,3
+Sligo Rovers,Cork City,1,1
+St. Patricks,Finn Harps,1,0
+Bohemians,Shamrock Rovers,2,1
+Cork City,Derry City,1,4
+UC Dublin,St. Patricks,0,1
+Waterford,Bohemians,1,2
+Finn Harps,Sligo Rovers,2,0
+Shamrock Rovers,Dundalk,0,1
+Dundalk,Waterford,3,0
+Sligo Rovers,UC Dublin,5,1
+St. Patricks,Shamrock Rovers,0,2
+Bohemians,Derry City,0,0
+Finn Harps,Cork City,0,0
+Derry City,Dundalk,2,2
+UC Dublin,Finn Harps,1,0
+Waterford,St. Patricks,1,2
+Cork City,Bohemians,0,0
+Shamrock Rovers,Sligo Rovers,0,0
+Derry City,UC Dublin,0,0
+Sligo Rovers,Waterford,0,0
+UC Dublin,Bohemians,1,0
+Derry City,Sligo Rovers,3,0
+Waterford,Finn Harps,0,1
+Bohemians,St. Patricks,3,0
+Shamrock Rovers,UC Dublin,7,0
+UC Dublin,Waterford,1,2
+Finn Harps,Derry City,1,0
+St. Patricks,Dundalk,0,1
+Sligo Rovers,Bohemians,1,1
+Cork City,Shamrock Rovers,1,1
+Derry City,Waterford,2,0
+UC Dublin,Derry City,1,3
+Cork City,St. Patricks,0,1
+Finn Harps,Bohemians,1,0
+Bohemians,UC Dublin,10,1
+Derry City,Shamrock Rovers,0,2
+St. Patricks,Sligo Rovers,2,1
+Waterford,Cork City,1,2
+Dundalk,Finn Harps,5,0
+Waterford,Shamrock Rovers,1,5
+Dundalk,UC Dublin,3,0
+Shamrock Rovers,Waterford,2,1
+Cork City,Sligo Rovers,2,4
+UC Dublin,Dundalk,0,5
+Waterford,Derry City,1,1
+Shamrock Rovers,Bohemians,1,0
+Cork City,Waterford,1,2
+Sligo Rovers,Dundalk,0,2
+Dundalk,Cork City,1,0
+Finn Harps,St. Patricks,1,2
+Bohemians,Waterford,1,2
+St. Patricks,UC Dublin,0,0
+Sligo Rovers,Finn Harps,3,1
+Cork City,Finn Harps,0,0
+Derry City,Bohemians,0,0
+UC Dublin,Sligo Rovers,0,2
+Waterford,Dundalk,0,1
+Shamrock Rovers,St. Patricks,0,0
+Dundalk,Shamrock Rovers,3,2
+Derry City,Cork City,4,0
+Bohemians,Cork City,1,0
+Cabinteely,Longford,0,0
+Dundalk,Derry City,1,0
+St. Patricks,Waterford,0,2
+Finn Harps,UC Dublin,0,0
+Sligo Rovers,Shamrock Rovers,0,0
+Waterford,Sligo Rovers,2,0
+Bohemians,Dundalk,2,1
+Cork City,UC Dublin,3,2
+Longford,Cabinteely,1,2
+Shamrock Rovers,Finn Harps,1,0
+Cabinteely,Drogheda,1,1
+Cork City,Dundalk,1,0
+St. Patricks,Bohemians,0,0
+UC Dublin,Shamrock Rovers,0,3
+Finn Harps,Waterford,1,0
+Sligo Rovers,Derry City,1,2
+Derry City,St. Patricks,1,3
+Bohemians,Sligo Rovers,2,1
+Derry City,Finn Harps,4,0
+Drogheda,Cabinteely,5,1
+Dundalk,St. Patricks,4,0
+Shamrock Rovers,Cork City,3,0
+Waterford,UC Dublin,4,2
+Drogheda,Finn Harps,1,0
+Finn Harps,Drogheda,1,0
+Cork City,Shelbourne,0,1
+Dundalk,Derry City,1,0
+St. Patricks,Waterford,0,1
+Finn Harps,Sligo Rovers,1,0
+Bohemians,Shamrock Rovers,0,1
+Derry City,Finn Harps,1,1
+Shelbourne,Dundalk,1,2
+Sligo Rovers,St. Patricks,0,2
+Waterford,Bohemians,0,2
+Shamrock Rovers,Cork City,6,0
+Waterford,Shamrock Rovers,0,2
+Bohemians,Sligo Rovers,2,0
+Dundalk,Cork City,3,0
+Cork City,Finn Harps,1,0
+Derry City,Bohemians,2,0
+Shamrock Rovers,Dundalk,3,2
+Shelbourne,St. Patricks,1,0
+St. Patricks,Cork City,1,0
+Waterford,Derry City,2,1
+Bohemians,Shelbourne,2,0
+Finn Harps,Dundalk,0,4
+Sligo Rovers,Shamrock Rovers,2,3
+Derry City,Sligo Rovers,0,2
+Dundalk,St. Patricks,1,1
+Shelbourne,Waterford,0,1
+Shamrock Rovers,Finn Harps,3,1
+Cork City,Bohemians,0,1
+St. Patricks,Derry City,0,2
+Finn Harps,Shelbourne,0,1
+Bohemians,Dundalk,2,1
+St. Patricks,Finn Harps,2,0
+Waterford,Cork City,0,0
+Sligo Rovers,Shelbourne,2,1
+Derry City,Shamrock Rovers,1,2
+Dundalk,Waterford,2,2
+Cork City,Sligo Rovers,3,0
+Finn Harps,Bohemians,0,1
+Shelbourne,Derry City,1,1
+St. Patricks,Shamrock Rovers,0,0
+Sligo Rovers,Waterford,2,1
+Derry City,Cork City,3,1
+Shamrock Rovers,Shelbourne,0,0
+Bohemians,St. Patricks,2,0
+Sligo Rovers,Dundalk,3,1
+Waterford,Finn Harps,2,3
+Waterford,St. Patricks,3,0
+Shamrock Rovers,Bohemians,1,0
+Shelbourne,Cork City,1,1
+Sligo Rovers,Finn Harps,3,1
+Bohemians,Waterford,0,2
+Dundalk,Shelbourne,3,2
+Cork City,Shamrock Rovers,0,3
+St. Patricks,Sligo Rovers,0,0
+Finn Harps,Derry City,0,0
+Derry City,St. Patricks,0,0
+Sligo Rovers,Bohemians,0,1
+Shelbourne,Finn Harps,1,1
+Shamrock Rovers,Waterford,6,1
+Bohemians,Derry City,2,1
+Waterford,Sligo Rovers,1,0
+St. Patricks,Shelbourne,2,0
+Finn Harps,Cork City,1,1
+Dundalk,Shamrock Rovers,0,4
+Sligo Rovers,Derry City,1,0
+Derry City,Waterford,2,0
+Shamrock Rovers,Sligo Rovers,4,0
+Cork City,St. Patricks,1,2
+Shelbourne,Bohemians,1,3
+Dundalk,Finn Harps,0,0
+Bohemians,Cork City,3,0
+Waterford,Shelbourne,0,1
+Cork City,Dundalk,0,2
+Dundalk,Bohemians,0,0
+Cork City,Waterford,0,0
+Shelbourne,Sligo Rovers,1,0
+Derry City,Dundalk,1,2
+Derry City,Shelbourne,2,0
+Sligo Rovers,Cork City,2,1
+Bohemians,Finn Harps,0,2
+Waterford,Dundalk,1,0
+Finn Harps,St. Patricks,3,2
+Bray,Galway,0,1
+UC Dublin,Longford,1,1
+St. Patricks,Dundalk,1,1
+Finn Harps,Shamrock Rovers,0,2
+Shamrock Rovers,St. Patricks,0,0
+Galway,Longford,1,2
+Shamrock Rovers,Derry City,2,0
+Cork City,Derry City,1,1
+Dundalk,Sligo Rovers,0,2
+Finn Harps,Waterford,1,0
+Shelbourne,Shamrock Rovers,0,2
+St. Patricks,Bohemians,1,2
+Shelbourne,Longford,0,1
+Drogheda,Waterford,1,0
+Shamrock Rovers,St. Patricks,1,1
+Finn Harps,Bohemians,1,0
+Longford,Derry City,2,0
+Sligo Rovers,Dundalk,1,1
+Dundalk,Finn Harps,1,2
+Waterford,Sligo Rovers,1,2
+Bohemians,Longford,2,2
+St. Patricks,Drogheda,2,1
+Longford,Sligo Rovers,0,1
+Shamrock Rovers,Dundalk,2,1
+Bohemians,St. Patricks,0,1
+Derry City,Waterford,1,2
+Drogheda,Finn Harps,1,1
+St. Patricks,Derry City,2,0
+Dundalk,Bohemians,0,1
+Finn Harps,Waterford,2,1
+Longford,Drogheda,0,4
+Sligo Rovers,Shamrock Rovers,1,1
+Derry City,Shamrock Rovers,0,2
+Waterford,Bohemians,0,1
+Derry City,Drogheda,1,1
+Dundalk,St. Patricks,1,1
+Shamrock Rovers,Longford,2,1
+Sligo Rovers,Finn Harps,1,0
+Bohemians,Sligo Rovers,1,3
+Derry City,Dundalk,1,1
+Drogheda,Shamrock Rovers,0,1
+Longford,Finn Harps,0,0
+St. Patricks,Waterford,1,0
+Finn Harps,St. Patricks,0,2
+Shamrock Rovers,Bohemians,2,1
+Dundalk,Drogheda,2,1
+Sligo Rovers,Derry City,0,1
+Waterford,Longford,1,0
+Drogheda,Sligo Rovers,1,1
+St. Patricks,Longford,3,0
+Bohemians,Derry City,1,2
+Finn Harps,Shamrock Rovers,0,2
+Waterford,Dundalk,0,3
+Drogheda,Bohemians,1,1
+Shamrock Rovers,Waterford,3,0
+Longford,Dundalk,2,2
+Sligo Rovers,St. Patricks,1,1
+Derry City,Finn Harps,1,2
+Derry City,Longford,1,1
+Dundalk,Sligo Rovers,0,1
+Bohemians,Finn Harps,4,0
+St. Patricks,Shamrock Rovers,1,2
+Waterford,Drogheda,0,7
+Finn Harps,Dundalk,1,1
+Drogheda,St. Patricks,3,1
+Longford,Bohemians,0,2
+Shamrock Rovers,Derry City,1,1
+Sligo Rovers,Waterford,3,0
+St. Patricks,Bohemians,2,1
+Waterford,Derry City,0,1
+Dundalk,Shamrock Rovers,2,1
+Finn Harps,Drogheda,0,1
+Sligo Rovers,Longford,2,0
+Bohemians,Dundalk,5,1
+Derry City,St. Patricks,2,2
+Drogheda,Longford,4,1
+Shamrock Rovers,Sligo Rovers,0,1
+Waterford,Finn Harps,1,2
+Finn Harps,Sligo Rovers,1,2
+Drogheda,Derry City,1,2
+St. Patricks,Dundalk,0,2
+Bohemians,Waterford,3,0
+Longford,Shamrock Rovers,0,1
+Derry City,Bohemians,1,1
+Dundalk,Waterford,1,3
+Shamrock Rovers,Finn Harps,1,1
+Longford,St. Patricks,1,3
+Sligo Rovers,Drogheda,1,2
+Bohemians,Drogheda,5,0
+Dundalk,Longford,1,1
+St. Patricks,Sligo Rovers,2,0
+Waterford,Shamrock Rovers,1,4
+Finn Harps,Derry City,1,2
+Bohemians,Shamrock Rovers,1,0
+Derry City,Sligo Rovers,1,1
+Drogheda,Dundalk,0,1
+Longford,Waterford,1,2
+St. Patricks,Finn Harps,4,1
+Dundalk,Derry City,2,1
+Waterford,St. Patricks,1,1
+Finn Harps,Longford,1,1
+Shamrock Rovers,Drogheda,1,1
+Sligo Rovers,Bohemians,4,0
+Bohemians,St. Patricks,3,2
+Derry City,Waterford,2,0
+Drogheda,Finn Harps,3,1
+Shamrock Rovers,Dundalk,3,1
+Longford,Sligo Rovers,0,1
+Finn Harps,Waterford,0,1
+St. Patricks,Derry City,1,0
+Longford,Drogheda,1,1
+Derry City,Shamrock Rovers,2,4
+St. Patricks,Drogheda,2,0
+Dundalk,Finn Harps,1,0
+Bohemians,Longford,1,1
+Waterford,Sligo Rovers,1,0
+Drogheda,Waterford,1,2
+Shamrock Rovers,St. Patricks,3,1
+Longford,Derry City,0,2
+Derry City,Drogheda,3,0
+Waterford,Bohemians,1,0
+Sligo Rovers,Finn Harps,0,1
+Dundalk,St. Patricks,1,4
+Shamrock Rovers,Longford,1,0
+St. Patricks,Waterford,2,1
+Longford,Finn Harps,0,3
+Bohemians,Sligo Rovers,1,0
+Derry City,Dundalk,1,0
+Drogheda,Shamrock Rovers,0,1
+Dundalk,Drogheda,1,2
+Waterford,Longford,4,1
+Finn Harps,St. Patricks,3,1
+Sligo Rovers,Derry City,1,2
+Drogheda,Sligo Rovers,0,0
+St. Patricks,Longford,3,2
+Waterford,Dundalk,1,1
+Finn Harps,Shamrock Rovers,2,1
+Derry City,Finn Harps,2,2
+Drogheda,Bohemians,3,2
+Sligo Rovers,St. Patricks,2,0
+Shamrock Rovers,Waterford,2,0
+Longford,Dundalk,1,0
+Finn Harps,Bohemians,1,2
+Sligo Rovers,Dundalk,2,1
+Sligo Rovers,Shamrock Rovers,0,1
+Bohemians,Derry City,3,3
+Bohemians,Finn Harps,1,2
+Derry City,Longford,3,0
+Dundalk,Sligo Rovers,4,1
+St. Patricks,Shamrock Rovers,0,1
+Waterford,Drogheda,1,0
+Dundalk,Bohemians,2,1
+Drogheda,St. Patricks,0,1
+Finn Harps,Dundalk,2,2
+Shamrock Rovers,Derry City,2,1
+Longford,Bohemians,1,4
+Sligo Rovers,Waterford,1,1
+Dundalk,Shamrock Rovers,1,0
+Bohemians,Dundalk,1,1
+Derry City,St. Patricks,1,0
+Drogheda,Longford,2,0
+Waterford,Finn Harps,4,1
+Shamrock Rovers,Sligo Rovers,2,0
+Shamrock Rovers,Bohemians,1,1
+Finn Harps,Sligo Rovers,2,2
+Longford,Shamrock Rovers,0,1
+Drogheda,Derry City,1,0
+Bohemians,Waterford,1,2
+St. Patricks,Dundalk,1,0
+Longford,St. Patricks,1,4
+Derry City,Bohemians,1,1
+Dundalk,Waterford,1,0
+Shamrock Rovers,Finn Harps,3,0
+Sligo Rovers,Drogheda,2,0
+Sligo Rovers,Longford,1,0
+St. Patricks,Bohemians,2,2
+Finn Harps,Drogheda,0,0
+Waterford,Derry City,2,2
+Bray,Galway,0,0
+Treaty United,UC Dublin,0,3
+Drogheda,Dundalk,0,1
+St. Patricks,Sligo Rovers,0,3
+Waterford,Shamrock Rovers,1,3
+Finn Harps,Derry City,1,1
+Bohemians,Drogheda,2,1
+Dundalk,Longford,2,0
+Galway,Bray,0,1
+UC Dublin,Treaty United,1,2
+Bohemians,Shamrock Rovers,3,1
+Derry City,Sligo Rovers,2,0
+St. Patricks,Finn Harps,2,2
+Longford,Waterford,1,1
+Bray,UC Dublin,0,2
+Dundalk,Derry City,1,2
+Finn Harps,Longford,5,0
+Shamrock Rovers,Drogheda,2,1
+Sligo Rovers,Bohemians,1,1
+Waterford,St. Patricks,0,0
+Waterford,UC Dublin,1,2
+Dundalk,Derry City,2,2
+Shelbourne,St. Patricks,0,3
+Shamrock Rovers,UC Dublin,3,0
+Bohemians,Dundalk,2,2
+Derry City,Shamrock Rovers,2,1
+Drogheda,Shelbourne,0,2
+St. Patricks,Sligo Rovers,1,2
+UC Dublin,Finn Harps,0,0
+Bohemians,St. Patricks,1,0
+Derry City,Sligo Rovers,0,0
+Dundalk,Finn Harps,3,0
+UC Dublin,Shelbourne,0,0
+Shamrock Rovers,Drogheda,3,1
+Drogheda,UC Dublin,4,2
+Shelbourne,Derry City,0,1
+St. Patricks,Shamrock Rovers,1,0
+Finn Harps,Bohemians,1,1
+Sligo Rovers,Dundalk,0,0
+Drogheda,Sligo Rovers,0,3
+Shelbourne,Dundalk,1,1
+Finn Harps,St. Patricks,0,2
+Shamrock Rovers,Bohemians,1,0
+Bohemians,Shelbourne,1,1
+Derry City,Drogheda,2,0
+Dundalk,Shamrock Rovers,0,0
+Sligo Rovers,Finn Harps,3,1
+St. Patricks,UC Dublin,2,0
+UC Dublin,Bohemians,1,1
+Derry City,St. Patricks,2,1
+Drogheda,Dundalk,1,0
+Shelbourne,Finn Harps,0,3
+Shamrock Rovers,Sligo Rovers,2,2
+Bohemians,Derry City,1,2
+Dundalk,UC Dublin,2,0
+Sligo Rovers,Shelbourne,0,1
+St. Patricks,Drogheda,1,1
+Finn Harps,Shamrock Rovers,0,3
+UC Dublin,Derry City,0,2
+Finn Harps,Drogheda,2,2
+Sligo Rovers,Bohemians,0,1
+Drogheda,Bohemians,1,1
+Shelbourne,Shamrock Rovers,1,2
+St. Patricks,Dundalk,0,0
+Finn Harps,Derry City,1,2
+Sligo Rovers,UC Dublin,2,2
+Bohemians,Finn Harps,2,2
+Derry City,Shelbourne,1,2
+Dundalk,Sligo Rovers,2,1
+UC Dublin,Drogheda,0,2
+Shamrock Rovers,St. Patricks,1,0
+Shelbourne,Bohemians,1,4
+UC Dublin,St. Patricks,1,2
+Finn Harps,Sligo Rovers,0,1
+Shamrock Rovers,Dundalk,1,0
+Drogheda,Derry City,1,1
+Bohemians,Shamrock Rovers,1,3
+Derry City,UC Dublin,7,1
+Dundalk,Shelbourne,2,1
+St. Patricks,Finn Harps,2,0
+Sligo Rovers,Drogheda,3,2
+Bohemians,UC Dublin,3,0
+Dundalk,Drogheda,4,1
+Sligo Rovers,Shamrock Rovers,1,1
+St. Patricks,Derry City,0,4
+Finn Harps,Shelbourne,1,0
+Derry City,Bohemians,1,1
+Drogheda,St. Patricks,0,4
+Shelbourne,Sligo Rovers,2,1
+UC Dublin,Dundalk,2,2
+Shamrock Rovers,Finn Harps,3,1
+Derry City,St. Patricks,0,0
+Shamrock Rovers,Sligo Rovers,3,1
+Dundalk,Bohemians,3,1
+Shamrock Rovers,Derry City,1,0
+Shelbourne,Drogheda,1,0
+Finn Harps,UC Dublin,0,1
+Sligo Rovers,St. Patricks,1,1
+UC Dublin,Shamrock Rovers,0,3
+Bohemians,Sligo Rovers,2,1
+Derry City,Dundalk,1,2
+Drogheda,Finn Harps,3,1
+St. Patricks,Shelbourne,1,2
+Drogheda,Shamrock Rovers,1,0
+Shelbourne,UC Dublin,2,0
+Sligo Rovers,Derry City,2,1
+St. Patricks,Bohemians,3,0
+Finn Harps,Dundalk,0,1
+Bohemians,Drogheda,1,1
+Derry City,Finn Harps,2,2
+Dundalk,St. Patricks,1,0
+UC Dublin,Sligo Rovers,1,1
+Shamrock Rovers,Shelbourne,2,0
+Bohemians,Shelbourne,1,0
+Derry City,Drogheda,1,1
+Dundalk,Shamrock Rovers,1,0
+St. Patricks,UC Dublin,2,1
+Sligo Rovers,Finn Harps,3,0
+Drogheda,Sligo Rovers,0,0
+Shamrock Rovers,Bohemians,1,0
+Shelbourne,Dundalk,0,0
+UC Dublin,Derry City,0,1
+Finn Harps,St. Patricks,2,2
+St. Patricks,Shamrock Rovers,1,2
+Bohemians,Derry City,2,3
+Dundalk,UC Dublin,3,0
+St. Patricks,Drogheda,3,0
+Finn Harps,Shamrock Rovers,0,1
+Sligo Rovers,Shelbourne,3,1
+UC Dublin,Bohemians,1,3
+Drogheda,Dundalk,1,0
+Shelbourne,Finn Harps,3,1
+Drogheda,Bohemians,0,1
+St. Patricks,Dundalk,1,1
+Finn Harps,Derry City,1,2
+Sligo Rovers,UC Dublin,0,2
+Dundalk,Finn Harps,3,0
+UC Dublin,Shelbourne,0,2
+Shamrock Rovers,Drogheda,1,1
+Drogheda,UC Dublin,1,1
+Dundalk,Derry City,1,1
+Finn Harps,Drogheda,3,0
+Sligo Rovers,Bohemians,2,1
+Bohemians,Dundalk,0,1
+Derry City,Shamrock Rovers,0,0
+Drogheda,Shelbourne,3,1
+UC Dublin,Finn Harps,2,1
+St. Patricks,Sligo Rovers,1,0
+Drogheda,Derry City,1,1
+Shelbourne,Bohemians,1,1
+UC Dublin,St. Patricks,1,2
+Finn Harps,Sligo Rovers,3,2
+Shamrock Rovers,Dundalk,3,0
+Bohemians,St. Patricks,1,3
+Shelbourne,Derry City,0,1
+Sligo Rovers,Dundalk,2,0
+Bohemians,Shamrock Rovers,1,0
+Derry City,UC Dublin,3,0
+Dundalk,Shelbourne,0,0
+St. Patricks,Finn Harps,2,1
+Sligo Rovers,Drogheda,2,0
+Derry City,Bohemians,1,0
+Drogheda,St. Patricks,0,2
+Shelbourne,Sligo Rovers,0,2
+UC Dublin,Dundalk,3,2
+Shamrock Rovers,Finn Harps,5,1
+Derry City,Sligo Rovers,1,0
+Shelbourne,Shamrock Rovers,0,0
+Finn Harps,Bohemians,0,2
+Shamrock Rovers,UC Dublin,1,0
+Bohemians,UC Dublin,1,0
+Dundalk,Drogheda,2,0
+St. Patricks,Derry City,0,1
+Finn Harps,Shelbourne,1,1
+Sligo Rovers,Shamrock Rovers,1,3
+Shelbourne,St. Patricks,4,4
+Bohemians,Drogheda,0,1
+Derry City,Finn Harps,3,0
+Dundalk,St. Patricks,1,2
+UC Dublin,Sligo Rovers,0,2
+Shamrock Rovers,Shelbourne,3,2
+St. Patricks,Bohemians,3,1
+Finn Harps,Dundalk,1,2
+Drogheda,Shamrock Rovers,1,1
+Bohemians,Finn Harps,2,2
+Derry City,Shelbourne,1,1
+Dundalk,Sligo Rovers,3,3
+Shamrock Rovers,St. Patricks,4,1
+UC Dublin,Drogheda,2,1
+Shelbourne,UC Dublin,1,1
+Sligo Rovers,Derry City,0,0
+Dundalk,Bohemians,2,1
+Shelbourne,Drogheda,6,0
+Sligo Rovers,St. Patricks,1,0
+Finn Harps,UC Dublin,1,3
+Shamrock Rovers,Derry City,1,0
+Bohemians,Sligo Rovers,3,1
+Derry City,Dundalk,0,1
+Drogheda,Finn Harps,2,0
+St. Patricks,Shelbourne,4,0
+UC Dublin,Shamrock Rovers,0,2
+UC Dublin,Waterford,1,0
+Cork City,Bohemians,1,2
+Dundalk,UC Dublin,1,1
+Shelbourne,Drogheda,0,0
+St. Patricks,Derry City,1,1
+Sligo Rovers,Shamrock Rovers,1,1
+Bohemians,Dundalk,2,1
+Derry City,Cork City,2,0
+Drogheda,Shamrock Rovers,1,1
+St. Patricks,Shelbourne,1,0
+UC Dublin,Sligo Rovers,2,3
+Cork City,UC Dublin,4,0
+Drogheda,Sligo Rovers,1,0
+Dundalk,St. Patricks,5,0
+Shelbourne,Bohemians,1,0
+Shamrock Rovers,Derry City,1,2
+Bohemians,Drogheda,3,1
+Dundalk,Shelbourne,2,1
+Sligo Rovers,St. Patricks,2,1
+UC Dublin,Derry City,0,4
+Shamrock Rovers,Cork City,4,4
+Derry City,Dundalk,0,0
+Shelbourne,Shamrock Rovers,0,0
+St. Patricks,Bohemians,0,2
+UC Dublin,Drogheda,0,1
+Sligo Rovers,Cork City,2,2
+Drogheda,Dundalk,0,1
+Cork City,Shelbourne,0,2
+Shamrock Rovers,St. Patricks,2,2
+Bohemians,UC Dublin,2,1
+Derry City,Sligo Rovers,1,1
+Cork City,Drogheda,1,1
+Dundalk,Shamrock Rovers,0,4
+Shelbourne,Derry City,0,1
+St. Patricks,UC Dublin,3,0
+Sligo Rovers,Bohemians,0,1
+Bohemians,Shamrock Rovers,0,2
+Derry City,Drogheda,0,1
+Dundalk,Sligo Rovers,1,2
+St. Patricks,Cork City,4,0
+UC Dublin,Shelbourne,0,0
+Cork City,Dundalk,1,0
+Derry City,Bohemians,0,1
+Drogheda,St. Patricks,1,3
+Shelbourne,Sligo Rovers,2,1
+Shamrock Rovers,UC Dublin,3,0
+Bohemians,St. Patricks,2,3
+Shamrock Rovers,Shelbourne,2,2
+UC Dublin,Cork City,1,0
+Sligo Rovers,Drogheda,1,1
+Dundalk,Derry City,2,2
+Cork City,Derry City,1,3
+Drogheda,Bohemians,0,2
+Shelbourne,Dundalk,1,1
+St. Patricks,Shamrock Rovers,0,2
+Sligo Rovers,UC Dublin,3,1
+Derry City,St. Patricks,2,0
+Dundalk,Drogheda,3,2
+Shelbourne,Cork City,2,1
+UC Dublin,Bohemians,1,1
+Shamrock Rovers,Sligo Rovers,2,1
+St. Patricks,Sligo Rovers,0,1
+Bohemians,Cork City,5,0
+Drogheda,Shelbourne,1,1
+UC Dublin,Dundalk,0,2
+Derry City,Shamrock Rovers,0,2
+Cork City,St. Patricks,2,3
+Drogheda,Derry City,0,1
+Shamrock Rovers,Bohemians,2,0
+Shelbourne,UC Dublin,1,0
+Sligo Rovers,Dundalk,0,1
+Bohemians,Derry City,0,1
+Dundalk,Cork City,2,1
+St. Patricks,Drogheda,3,0
+UC Dublin,Shamrock Rovers,0,3
+Sligo Rovers,Shelbourne,0,3
+Derry City,Dundalk,3,0
+Shamrock Rovers,St. Patricks,3,2
+Cork City,Sligo Rovers,1,0
+Derry City,UC Dublin,4,1
+Dundalk,Bohemians,2,2
+Shelbourne,St. Patricks,0,1
+Shamrock Rovers,Drogheda,1,2
+Bohemians,Shelbourne,0,0
+Cork City,Shamrock Rovers,1,0
+Drogheda,UC Dublin,3,1
+St. Patricks,Dundalk,2,1
+Sligo Rovers,Derry City,1,0
+Bohemians,Sligo Rovers,2,0
+Derry City,Shelbourne,0,0
+Drogheda,Cork City,0,1
+Shamrock Rovers,Dundalk,2,0
+UC Dublin,St. Patricks,1,3
+Cork City,Bohemians,2,1
+Dundalk,UC Dublin,4,1
+Sligo Rovers,Shamrock Rovers,0,3
+St. Patricks,Derry City,4,1
+Shelbourne,Drogheda,3,2
+Cork City,Dundalk,1,2
+Derry City,Bohemians,0,0
+Drogheda,St. Patricks,2,1
+Shelbourne,Sligo Rovers,1,1
+Shamrock Rovers,UC Dublin,4,0
+Bohemians,Shamrock Rovers,2,2
+Derry City,Cork City,2,0
+Drogheda,Dundalk,1,2
+St. Patricks,Shelbourne,1,0
+UC Dublin,Sligo Rovers,2,1
+Dundalk,St. Patricks,1,1
+Shamrock Rovers,Derry City,1,0
+Cork City,Drogheda,1,1
+Dundalk,Shamrock Rovers,2,0
+Shelbourne,Derry City,1,1
+Sligo Rovers,Bohemians,3,1
+St. Patricks,UC Dublin,7,0
+Bohemians,Dundalk,3,2
+Derry City,Sligo Rovers,2,1
+Drogheda,Shamrock Rovers,0,0
+St. Patricks,Cork City,1,1
+UC Dublin,Shelbourne,0,4
+Shelbourne,Bohemians,1,1
+UC Dublin,Drogheda,1,3
+Sligo Rovers,Cork City,3,0
+Bohemians,UC Dublin,2,0
+Cork City,Shelbourne,0,2
+Drogheda,Sligo Rovers,2,2
+Bohemians,Drogheda,4,2
+Sligo Rovers,St. Patricks,0,2
+Dundalk,Shelbourne,1,1
+Shamrock Rovers,Cork City,2,1
+Cork City,UC Dublin,1,1
+Dundalk,Sligo Rovers,1,0
+Shelbourne,Shamrock Rovers,1,1
+St. Patricks,Bohemians,0,0
+Derry City,Drogheda,3,0
+Bohemians,Derry City,2,2
+Drogheda,Cork City,3,1
+Shamrock Rovers,Dundalk,1,0
+UC Dublin,St. Patricks,0,1
+Sligo Rovers,Shelbourne,0,1
+Cork City,Sligo Rovers,3,0
+Drogheda,UC Dublin,3,0
+Dundalk,Derry City,1,3
+Shamrock Rovers,Bohemians,3,0
+Shelbourne,St. Patricks,2,1
+UC Dublin,Derry City,0,5
+Derry City,Shamrock Rovers,1,1
+Sligo Rovers,UC Dublin,2,0
+Drogheda,Bohemians,0,0
+Shelbourne,Cork City,2,1
+Sligo Rovers,Derry City,1,0
+St. Patricks,Dundalk,3,1
+UC Dublin,Shamrock Rovers,0,0
+Bohemians,Shelbourne,1,1
+Dundalk,Cork City,5,0
+St. Patricks,Drogheda,1,2
+Bohemians,Sligo Rovers,3,1
+Cork City,St. Patricks,0,1
+Derry City,UC Dublin,6,0
+Dundalk,Drogheda,3,1
+Shamrock Rovers,Shelbourne,1,0
+Drogheda,Derry City,0,0
+Shelbourne,Dundalk,1,0
+UC Dublin,Bohemians,1,2
+Bohemians,St. Patricks,0,2
+Derry City,Shelbourne,0,0
+Sligo Rovers,Dundalk,0,2
+UC Dublin,Cork City,0,2
+Shamrock Rovers,Drogheda,5,0
+St. Patricks,Sligo Rovers,1,0
+Cork City,Derry City,0,1
+Dundalk,Bohemians,2,0
+Shelbourne,UC Dublin,3,2
+St. Patricks,Shamrock Rovers,0,2
+Sligo Rovers,Drogheda,0,0
+Cork City,Shamrock Rovers,0,0
+Bohemians,Cork City,4,0
+Derry City,St. Patricks,3,0
+Drogheda,Shelbourne,2,4
+Shamrock Rovers,Sligo Rovers,4,2
+UC Dublin,Dundalk,1,5
+Waterford,Cork City,1,1
+Bohemians,Sligo Rovers,2,2
+Derry City,Drogheda,2,1
+Galway,St. Patricks,0,1
+Shamrock Rovers,Dundalk,1,1
+Waterford,Shelbourne,1,1
+Drogheda,Waterford,1,4
+Dundalk,Galway,0,2
+Shelbourne,Shamrock Rovers,2,1
+St. Patricks,Bohemians,0,1
+Sligo Rovers,Derry City,0,0
+Derry City,St. Patricks,2,1
+Galway,Waterford,2,1
+Sligo Rovers,Shelbourne,0,1
+Drogheda,Bohemians,2,1
+Dundalk,Sligo Rovers,0,5
+Shamrock Rovers,Derry City,2,2
+Shelbourne,Galway,1,0
+Waterford,St. Patricks,3,1
+Bohemians,Shelbourne,0,2
+Derry City,Waterford,3,0
+Galway,Drogheda,0,0
+St. Patricks,Dundalk,1,0
+Sligo Rovers,Shamrock Rovers,0,0
+Bohemians,Derry City,2,1
+Dundalk,Waterford,0,0
+Galway,Shamrock Rovers,0,1
+St. Patricks,Shelbourne,1,2
+Sligo Rovers,Drogheda,3,1
+Derry City,Galway,0,1
+Drogheda,St. Patricks,0,0
+Shamrock Rovers,Bohemians,3,1
+Shelbourne,Dundalk,2,1
+Waterford,Sligo Rovers,0,1
+Dundalk,Drogheda,0,0
+Shelbourne,Derry City,0,0
+St. Patricks,Sligo Rovers,3,0
+Waterford,Shamrock Rovers,1,2
+Galway,Bohemians,0,2
+Bohemians,Waterford,0,1
+Derry City,Dundalk,4,1
+Drogheda,Shelbourne,2,2
+St. Patricks,Shamrock Rovers,2,1
+Drogheda,Derry City,2,2
+Dundalk,St. Patricks,0,0
+Shelbourne,Bohemians,1,2
+Waterford,Galway,0,0
+Shamrock Rovers,Sligo Rovers,3,0
+Bohemians,Dundalk,1,0
+Bohemians,Drogheda,1,0
+Derry City,Shamrock Rovers,1,3
+Galway,Shelbourne,1,0
+Sligo Rovers,Dundalk,1,1
+St. Patricks,Waterford,1,1
+Derry City,St. Patricks,3,1
+Shelbourne,Shamrock Rovers,0,0
+Sligo Rovers,Galway,0,0
+Drogheda,Sligo Rovers,3,1
+Dundalk,Bohemians,2,0
+Shelbourne,St. Patricks,1,0
+Waterford,Derry City,0,2
+Shamrock Rovers,Galway,1,1
+Shamrock Rovers,Drogheda,4,0
+Bohemians,Shamrock Rovers,1,1
+Dundalk,Shelbourne,0,0
+Galway,Derry City,0,0
+Sligo Rovers,Waterford,0,1
+St. Patricks,Drogheda,1,0
+Drogheda,Dundalk,2,1
+Bohemians,Galway,0,1
+Shamrock Rovers,Waterford,1,3
+Sligo Rovers,St. Patricks,1,0
+Derry City,Shelbourne,1,1
+Derry City,Bohemians,1,0
+Galway,Sligo Rovers,0,0
+Shamrock Rovers,St. Patricks,2,2
+Shelbourne,Drogheda,1,1
+Waterford,Dundalk,4,1
+Drogheda,Galway,2,3
+Dundalk,Shamrock Rovers,1,0
+Shelbourne,Waterford,1,0
+Sligo Rovers,Bohemians,0,3
+St. Patricks,Derry City,0,1
+St. Patricks,Shelbourne,1,2
+Shamrock Rovers,Derry City,1,0
+Waterford,Drogheda,4,2
+Bohemians,St. Patricks,2,2
+Derry City,Sligo Rovers,2,2
+Galway,Dundalk,2,0
+Shamrock Rovers,Shelbourne,0,2
+Drogheda,Shamrock Rovers,0,2
+Dundalk,Derry City,0,0
+Shelbourne,Sligo Rovers,1,2
+St. Patricks,Galway,2,1
+Waterford,Bohemians,2,1
+Sligo Rovers,Drogheda,2,1
+St. Patricks,Dundalk,2,3
+Derry City,Waterford,3,0
+Derry City,Galway,2,0
+Drogheda,St. Patricks,0,0
+Shelbourne,Dundalk,1,0
+Waterford,Sligo Rovers,4,1
+Bohemians,Derry City,1,2
+Dundalk,Sligo Rovers,1,0
+Galway,Drogheda,3,0
+St. Patricks,Shamrock Rovers,2,1
+Waterford,Shelbourne,0,1
+Derry City,Drogheda,5,1
+Dundalk,Waterford,0,2
+Shelbourne,Galway,2,0
+Sligo Rovers,Shamrock Rovers,2,0
+St. Patricks,Bohemians,0,0
+Drogheda,Shelbourne,1,1
+Galway,Bohemians,1,1
+Sligo Rovers,Derry City,2,1
+Waterford,St. Patricks,1,0
+Shamrock Rovers,Dundalk,1,0
+Bohemians,Sligo Rovers,0,2
+Dundalk,Drogheda,4,2
+Galway,Waterford,1,0
+Bohemians,Dundalk,1,1
+Drogheda,Waterford,2,0
+Sligo Rovers,Galway,2,0
+Drogheda,Bohemians,2,2
+Dundalk,Galway,0,2
+Waterford,Shamrock Rovers,1,2
+St. Patricks,Sligo Rovers,3,2
+Shelbourne,Derry City,0,0
+Bohemians,Waterford,2,3
+Derry City,Dundalk,1,1
+Sligo Rovers,Shelbourne,2,1
+Galway,St. Patricks,1,1
+Shamrock Rovers,Drogheda,1,1
+Drogheda,Sligo Rovers,7,0
+Shelbourne,Bohemians,1,1
+Waterford,Derry City,0,1
+Shamrock Rovers,Galway,1,1
+Dundalk,Shelbourne,0,1
+Galway,Derry City,1,0
+Sligo Rovers,Waterford,2,0
+Bohemians,Shamrock Rovers,2,1
+St. Patricks,Drogheda,4,1
+Dundalk,St. Patricks,1,2
+Bohemians,Shelbourne,1,1
+Shamrock Rovers,Sligo Rovers,4,0
+Waterford,Dundalk,2,1
+Galway,Shamrock Rovers,1,2
+Bohemians,Drogheda,0,1
+Derry City,Shamrock Rovers,1,1
+Galway,Shelbourne,1,0
+St. Patricks,Waterford,3,0
+Sligo Rovers,Dundalk,2,1
+Drogheda,Galway,0,0
+Shamrock Rovers,Bohemians,1,0
+Drogheda,Derry City,2,1
+Dundalk,Bohemians,0,2
+Shelbourne,Sligo Rovers,0,0
+Waterford,Galway,1,2
+Shamrock Rovers,St. Patricks,0,3
+Shelbourne,St. Patricks,2,3
+Galway,Dundalk,1,1
+Shamrock Rovers,Shelbourne,2,0
+Derry City,Bohemians,1,1
+Waterford,Drogheda,0,0
+Derry City,Sligo Rovers,1,1
+Bohemians,St. Patricks,1,3
+Drogheda,Shamrock Rovers,0,1
+Dundalk,Derry City,0,2
+Shelbourne,Waterford,3,1
+St. Patricks,Galway,2,1
+Sligo Rovers,Bohemians,0,2
+Galway,Sligo Rovers,2,2
+Shelbourne,Drogheda,2,1
+St. Patricks,Derry City,1,0
+Waterford,Bohemians,1,1
+Dundalk,Shamrock Rovers,0,1
+Bohemians,Galway,1,1
+Derry City,Shelbourne,0,1
+Drogheda,Dundalk,0,0
+Shamrock Rovers,Waterford,2,1
+Sligo Rovers,St. Patricks,0,2
+Bray,Drogheda,1,3
+Cork City,Galway,2,2
+Shelbourne,Derry City,3,1
+St. Patricks,Drogheda,0,0
+Sligo Rovers,Waterford,2,3
+Bohemians,Shamrock Rovers,1,0
+Derry City,Bohemians,1,0
+Drogheda,Sligo Rovers,3,0
+Galway,St. Patricks,2,1
+Waterford,Shelbourne,0,1
+Cork City,Bohemians,2,1
+Derry City,Waterford,1,2
+Drogheda,Galway,1,1
+Shelbourne,Shamrock Rovers,1,1
+St. Patricks,Sligo Rovers,4,3
+Bohemians,Drogheda,0,1
+Galway,Shelbourne,1,1
+Sligo Rovers,Shamrock Rovers,2,1
+St. Patricks,Derry City,2,0
+Waterford,Cork City,2,1
+Cork City,Sligo Rovers,1,1
+Derry City,Galway,1,1
+Shamrock Rovers,St. Patricks,1,0
+Shelbourne,Drogheda,0,1
+Waterford,Bohemians,0,3
+Drogheda,Shamrock Rovers,1,2
+Galway,Waterford,1,0
+Shelbourne,Cork City,1,1
+St. Patricks,Bohemians,3,0
+Sligo Rovers,Derry City,0,1
+Bohemians,Galway,0,2
+Cork City,Drogheda,1,1
+Sligo Rovers,Shelbourne,1,2
+Waterford,St. Patricks,1,2
+Shamrock Rovers,Derry City,0,0
+Bohemians,Sligo Rovers,4,2
+Derry City,Cork City,2,1
+Drogheda,Waterford,2,0
+Galway,Shamrock Rovers,0,1
+St. Patricks,Shelbourne,0,0
+Cork City,St. Patricks,0,2
+Derry City,Drogheda,1,3
+Shelbourne,Bohemians,1,0
+Shamrock Rovers,Waterford,2,0
+Sligo Rovers,Galway,1,2
+Shamrock Rovers,Cork City,4,1
+Bohemians,Cork City,1,0
+Drogheda,Shelbourne,2,2
+Galway,Derry City,2,3
+St. Patricks,Shamrock Rovers,2,2
+Waterford,Sligo Rovers,0,4
+Shamrock Rovers,Bohemians,2,3
+Cork City,Waterford,2,1
+Drogheda,St. Patricks,0,0
+Shelbourne,Galway,2,2
+Derry City,Sligo Rovers,3,0
+Bohemians,St. Patricks,2,1
+Galway,Drogheda,2,1
+Shamrock Rovers,Shelbourne,2,2
+Waterford,Derry City,2,1
+Sligo Rovers,Cork City,1,1
+Bohemians,Waterford,1,2
+Cork City,Shamrock Rovers,1,1
+Derry City,Shelbourne,2,0
+Sligo Rovers,Drogheda,2,2
+St. Patricks,Galway,2,0
+Drogheda,Cork City,3,2
+Galway,Bohemians,1,2
+Shelbourne,Waterford,0,1
+Shamrock Rovers,Sligo Rovers,2,0
+Derry City,St. Patricks,1,0
+Cork City,Derry City,1,2
+Shamrock Rovers,Drogheda,3,0
+Shelbourne,St. Patricks,2,1
+Waterford,Galway,1,0
+Sligo Rovers,Bohemians,0,1
+Bohemians,Shelbourne,1,0
+Drogheda,Derry City,1,1
+Galway,Sligo Rovers,0,1
+St. Patricks,Cork City,3,2
+Waterford,Shamrock Rovers,1,3
+Shelbourne,Drogheda,0,0
+Shamrock Rovers,St. Patricks,4,0
+Derry City,Shamrock Rovers,1,2
+Drogheda,Bohemians,1,0
+Galway,Cork City,2,1
+Shelbourne,Sligo Rovers,3,2
+St. Patricks,Waterford,2,2
+Bohemians,Derry City,1,0
+Cork City,Shelbourne,1,1
+Sligo Rovers,St. Patricks,0,1
+Waterford,Drogheda,2,2
+Shamrock Rovers,Galway,0,0
+Cork City,Bohemians,0,2
+Derry City,Galway,1,1
+Shelbourne,Shamrock Rovers,1,2
+St. Patricks,Drogheda,0,0
+Sligo Rovers,Waterford,1,0
+Drogheda,Shamrock Rovers,1,2
+St. Patricks,Shelbourne,0,1
+Drogheda,Sligo Rovers,1,0
+Galway,St. Patricks,3,1
+Shamrock Rovers,Cork City,4,1
+Shelbourne,Derry City,0,1
+Waterford,Bohemians,2,1
+Bohemians,Shamrock Rovers,2,0
+Cork City,Drogheda,1,1
+Sligo Rovers,Galway,2,1
+St. Patricks,Derry City,0,1
+Waterford,Shelbourne,2,2
+Bohemians,Sligo Rovers,1,1
+Cork City,St. Patricks,0,0
+Derry City,Drogheda,3,0
+Galway,Shelbourne,1,1
+Shamrock Rovers,Waterford,1,0
+Derry City,Waterford,7,2
+Drogheda,Galway,1,0
+Shelbourne,Cork City,3,1
+St. Patricks,Bohemians,0,0
+Sligo Rovers,Shamrock Rovers,2,2
+Bohemians,Galway,3,0
+Waterford,Cork City,2,0
+Sligo Rovers,Derry City,2,0
+Cork City,Sligo Rovers,2,3
+Derry City,Bohemians,1,1
+Galway,Waterford,2,4
+Bohemians,Drogheda,0,1
+Cork City,Galway,1,0
+Sligo Rovers,Shelbourne,0,2
+Waterford,St. Patricks,0,2
+Shamrock Rovers,Derry City,2,0
+Derry City,Cork City,0,0
+Drogheda,Waterford,0,0
+Shelbourne,Bohemians,2,2
+Galway,Shamrock Rovers,0,0
+St. Patricks,Sligo Rovers,3,0
+Bohemians,Cork City,3,0
+Drogheda,St. Patricks,0,1
+Galway,Derry City,1,2
+Waterford,Sligo Rovers,1,2
+Cork City,Waterford,2,0
+Derry City,St. Patricks,2,2
+Sligo Rovers,Bohemians,0,0
+Shamrock Rovers,Drogheda,2,1
+Shelbourne,Galway,1,0
+Bohemians,Derry City,3,4
+Bohemians,Waterford,2,1
+Cork City,Shamrock Rovers,1,1
+Derry City,Shelbourne,1,1
+Sligo Rovers,Drogheda,1,1
+St. Patricks,Galway,1,1
+Drogheda,Shelbourne,2,1
+Galway,Sligo Rovers,0,1
+St. Patricks,Cork City,4,0
+Waterford,Shamrock Rovers,1,2
+Drogheda,Derry City,1,1
+Galway,Cork City,2,1
+Shamrock Rovers,Bohemians,2,1
+Shelbourne,Waterford,2,1
+Sligo Rovers,St. Patricks,1,0
+Derry City,Sligo Rovers,1,0
+Waterford,Drogheda,2,0
+Shamrock Rovers,Shelbourne,0,1
+Cork City,Shelbourne,1,2
+Drogheda,Cork City,1,0
+Galway,Bohemians,2,0
+Shelbourne,Sligo Rovers,3,1
+St. Patricks,Shamrock Rovers,1,0
+Waterford,Derry City,1,2
+Bohemians,St. Patricks,0,0
+Galway,Drogheda,1,1
+St. Patricks,Waterford,1,1
+Sligo Rovers,Cork City,1,1
+Derry City,Shamrock Rovers,2,1
+Bohemians,Shelbourne,2,3
+Shamrock Rovers,Galway,1,0
+Cork City,Derry City,0,1
+Drogheda,Bohemians,1,4
+Shamrock Rovers,Sligo Rovers,1,2
+Shelbourne,St. Patricks,0,0
+Waterford,Galway,1,1
+Galway,Drogheda,0,1
+Waterford,Shelbourne,1,1
+Derry City,Sligo Rovers,2,1
+Bohemians,St. Patricks,0,0
+Derry City,Dundalk,2,2
+Drogheda,Waterford,2,0
+Sligo Rovers,Bohemians,0,4
+Derry City,Bohemians,0,1
+Shelbourne,Galway,1,1
+Waterford,Sligo Rovers,0,0
+Dundalk,Drogheda,1,1
+Shamrock Rovers,St. Patricks,2,0
+Shamrock Rovers,Dundalk,1,1
+Derry City,Waterford,4,2
+Drogheda,Shelbourne,1,2
+Galway,Sligo Rovers,1,0
+St. Patricks,Dundalk,4,0
+Bohemians,Shamrock Rovers,3,2
+St. Patricks,Galway,1,0
+Galway,Dundalk,2,2
+Waterford,Bohemians,0,1
+Shamrock Rovers,Derry City,1,0
+Shelbourne,St. Patricks,2,3
+Sligo Rovers,Drogheda,2,1
+Shelbourne,Shamrock Rovers,2,2
+Bohemians,Galway,1,0
+Derry City,Shelbourne,1,2
+Dundalk,Waterford,5,0
+St. Patricks,Drogheda,4,1
+Sligo Rovers,Shamrock Rovers,0,2
+Drogheda,Shamrock Rovers,0,0
+Dundalk,Sligo Rovers,1,0
+Shelbourne,Bohemians,0,0
+St. Patricks,Derry City,0,0
+Galway,Waterford,4,3

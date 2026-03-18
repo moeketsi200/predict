@@ -1,0 +1,3385 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Elfsborg,Djurgarden,2,1
+GAIS,Hacken,0,0
+Sundsvall,Kalmar,0,1
+AIK,Mjallby,0,0
+Syrianska,Goteborg,2,1
+Malmo FF,Gefle,0,0
+Orebro,Atvidabergs,3,4
+Norrkoping,Helsingborg,1,0
+Atvidabergs,GAIS,2,1
+Gefle,Syrianska,1,1
+Hacken,Malmo FF,5,0
+Mjallby,Orebro,0,0
+Djurgarden,Sundsvall,1,0
+Helsingborg,Elfsborg,2,1
+Goteborg,Norrkoping,1,2
+Kalmar,AIK,1,2
+Atvidabergs,Gefle,6,1
+GAIS,Djurgarden,0,0
+Orebro,Helsingborg,0,0
+Elfsborg,Norrkoping,2,0
+Hacken,Mjallby,4,2
+Sundsvall,Syrianska,4,0
+AIK,Goteborg,1,1
+Malmo FF,Kalmar,2,0
+Syrianska,AIK,0,1
+Goteborg,Orebro,2,2
+Mjallby,Atvidabergs,2,0
+Gefle,Elfsborg,1,2
+Helsingborg,GAIS,1,1
+Kalmar,Hacken,3,1
+Norrkoping,Sundsvall,2,2
+Djurgarden,Malmo FF,2,3
+Mjallby,Djurgarden,4,3
+Atvidabergs,Helsingborg,1,2
+Kalmar,Gefle,0,1
+GAIS,Norrkoping,2,0
+AIK,Sundsvall,1,1
+Hacken,Goteborg,1,2
+Malmo FF,Syrianska,2,0
+Orebro,Elfsborg,0,2
+Elfsborg,GAIS,2,1
+Gefle,AIK,0,1
+Helsingborg,Mjallby,1,1
+Syrianska,Hacken,1,2
+Goteborg,Atvidabergs,2,1
+Djurgarden,Kalmar,1,1
+Sundsvall,Orebro,3,1
+Norrkoping,Malmo FF,3,2
+Atvidabergs,Hacken,0,3
+Goteborg,Sundsvall,2,0
+Syrianska,Elfsborg,1,4
+Helsingborg,AIK,0,0
+Djurgarden,Orebro,2,1
+Gefle,Norrkoping,0,2
+Mjallby,Malmo FF,2,2
+Kalmar,GAIS,2,2
+Sundsvall,Helsingborg,0,1
+Norrkoping,Syrianska,1,4
+Malmo FF,Atvidabergs,2,1
+GAIS,Mjallby,2,2
+Orebro,Kalmar,0,1
+Elfsborg,Goteborg,1,0
+AIK,Djurgarden,1,1
+Hacken,Gefle,3,0
+Malmo FF,Helsingborg,3,0
+Syrianska,GAIS,2,0
+Djurgarden,Atvidabergs,1,1
+Kalmar,Mjallby,1,2
+Norrkoping,Orebro,3,0
+Elfsborg,AIK,1,0
+Helsingborg,Hacken,3,2
+Gefle,Sundsvall,0,0
+Goteborg,Malmo FF,2,2
+Atvidabergs,Syrianska,1,0
+Hacken,Norrkoping,6,0
+Kalmar,Helsingborg,1,1
+Orebro,AIK,2,2
+GAIS,Sundsvall,1,2
+Mjallby,Goteborg,1,1
+Djurgarden,Gefle,1,1
+Malmo FF,Elfsborg,1,0
+Atvidabergs,Kalmar,3,0
+Hacken,Djurgarden,1,1
+AIK,Norrkoping,5,2
+Mjallby,Gefle,0,0
+Orebro,Syrianska,0,1
+Sundsvall,Elfsborg,0,3
+GAIS,Goteborg,1,1
+Gefle,Orebro,2,1
+Helsingborg,Djurgarden,1,1
+Norrkoping,Atvidabergs,2,2
+Syrianska,Mjallby,2,1
+AIK,GAIS,1,0
+Elfsborg,Hacken,2,0
+Goteborg,Kalmar,1,1
+Sundsvall,Malmo FF,1,1
+Atvidabergs,Elfsborg,5,1
+Hacken,Sundsvall,1,2
+Kalmar,Syrianska,3,0
+Mjallby,Norrkoping,0,2
+Helsingborg,Gefle,4,1
+Malmo FF,AIK,4,0
+Djurgarden,Goteborg,3,2
+GAIS,Orebro,0,1
+Sundsvall,Atvidabergs,3,3
+Syrianska,Djurgarden,1,1
+AIK,Hacken,3,1
+Gefle,GAIS,0,0
+Elfsborg,Mjallby,0,0
+Norrkoping,Kalmar,2,1
+Orebro,Malmo FF,2,1
+Goteborg,Helsingborg,1,1
+Atvidabergs,AIK,2,0
+Goteborg,Gefle,1,1
+Helsingborg,Syrianska,1,0
+Mjallby,Sundsvall,1,0
+Orebro,Hacken,1,2
+Kalmar,Elfsborg,2,1
+Djurgarden,Norrkoping,1,1
+Malmo FF,GAIS,2,0
+Hacken,Orebro,2,1
+Gefle,Goteborg,5,0
+Sundsvall,Mjallby,3,1
+Syrianska,Helsingborg,1,3
+Elfsborg,Kalmar,3,0
+AIK,Atvidabergs,1,0
+GAIS,Malmo FF,2,3
+Norrkoping,Djurgarden,1,1
+Atvidabergs,Orebro,1,1
+Gefle,Malmo FF,0,2
+Helsingborg,Norrkoping,1,2
+Mjallby,AIK,0,1
+Djurgarden,Elfsborg,0,0
+Kalmar,Sundsvall,1,1
+Hacken,GAIS,3,1
+Goteborg,Syrianska,1,0
+GAIS,Atvidabergs,2,2
+Syrianska,Gefle,1,0
+Malmo FF,Hacken,0,0
+AIK,Kalmar,1,2
+Orebro,Mjallby,0,1
+Sundsvall,Djurgarden,0,1
+Norrkoping,Goteborg,0,0
+Gefle,Djurgarden,0,1
+Sundsvall,GAIS,2,0
+Syrianska,Atvidabergs,2,2
+AIK,Orebro,3,0
+Goteborg,Mjallby,4,2
+Helsingborg,Kalmar,7,2
+Elfsborg,Malmo FF,4,1
+Norrkoping,Hacken,1,2
+Elfsborg,Helsingborg,2,1
+Orebro,Gefle,1,2
+Djurgarden,Helsingborg,3,1
+GAIS,AIK,0,1
+Hacken,Elfsborg,4,2
+Kalmar,Goteborg,3,0
+Malmo FF,Sundsvall,2,0
+Mjallby,Syrianska,0,2
+Atvidabergs,Norrkoping,1,1
+Hacken,Atvidabergs,5,2
+Orebro,Djurgarden,2,3
+Malmo FF,Mjallby,1,1
+AIK,Helsingborg,2,1
+GAIS,Kalmar,1,2
+Elfsborg,Syrianska,1,0
+Norrkoping,Gefle,0,1
+Sundsvall,Goteborg,3,3
+Syrianska,Norrkoping,1,2
+Mjallby,GAIS,4,0
+Helsingborg,Sundsvall,4,0
+Djurgarden,AIK,0,3
+Goteborg,Elfsborg,2,1
+Gefle,Hacken,0,2
+Kalmar,Orebro,1,2
+Atvidabergs,Malmo FF,0,1
+Djurgarden,Hacken,0,3
+Syrianska,Orebro,2,2
+Elfsborg,Sundsvall,0,0
+Gefle,Mjallby,1,0
+Kalmar,Atvidabergs,2,0
+Norrkoping,AIK,2,2
+Goteborg,GAIS,0,0
+Helsingborg,Malmo FF,1,1
+Atvidabergs,Djurgarden,2,1
+Mjallby,Kalmar,1,0
+Orebro,Norrkoping,0,1
+Sundsvall,Gefle,0,1
+AIK,Elfsborg,1,1
+Hacken,Helsingborg,2,2
+Malmo FF,Goteborg,1,2
+GAIS,Syrianska,1,4
+Helsingborg,Atvidabergs,3,0
+Sundsvall,AIK,2,3
+Elfsborg,Orebro,1,0
+Gefle,Kalmar,0,0
+Djurgarden,Mjallby,0,1
+Norrkoping,GAIS,7,2
+Syrianska,Malmo FF,0,2
+Goteborg,Hacken,1,1
+Malmo FF,Norrkoping,2,0
+Hacken,Syrianska,5,1
+Atvidabergs,Goteborg,1,2
+AIK,Gefle,0,1
+Kalmar,Djurgarden,2,2
+Mjallby,Helsingborg,0,2
+GAIS,Elfsborg,1,2
+Orebro,Sundsvall,2,2
+Gefle,Atvidabergs,1,2
+Mjallby,Hacken,1,2
+Helsingborg,Orebro,1,1
+Kalmar,Malmo FF,1,2
+Goteborg,AIK,0,1
+Norrkoping,Elfsborg,2,1
+Djurgarden,GAIS,3,0
+Syrianska,Sundsvall,1,1
+Malmo FF,Djurgarden,3,1
+Hacken,Kalmar,1,2
+AIK,Syrianska,1,1
+GAIS,Helsingborg,1,3
+Orebro,Goteborg,1,0
+Sundsvall,Norrkoping,0,4
+Atvidabergs,Mjallby,0,0
+Elfsborg,Gefle,2,0
+Helsingborg,Goteborg,2,0
+Kalmar,Norrkoping,0,2
+Djurgarden,Syrianska,1,1
+Atvidabergs,Sundsvall,2,2
+GAIS,Gefle,2,3
+Mjallby,Elfsborg,2,3
+Hacken,AIK,1,1
+Malmo FF,Orebro,1,1
+AIK,Malmo FF,2,0
+Elfsborg,Atvidabergs,1,1
+Gefle,Helsingborg,2,2
+Goteborg,Djurgarden,1,0
+Norrkoping,Mjallby,2,1
+Orebro,GAIS,4,0
+Sundsvall,Hacken,1,2
+Syrianska,Kalmar,3,0
+Halmstad,Sundsvall,3,0
+Sundsvall,Halmstad,4,3
+Hacken,Goteborg,0,3
+Helsingborg,Djurgarden,3,0
+Syrianska,Kalmar,0,3
+Gefle,Atvidabergs,1,0
+Malmo FF,Halmstad,1,1
+Mjallby,Norrkoping,1,2
+Brommapojkarna,Osters,2,2
+Elfsborg,AIK,2,2
+Atvidabergs,Malmo FF,1,3
+AIK,Syrianska,0,0
+Goteborg,Brommapojkarna,2,0
+Halmstad,Elfsborg,1,1
+Kalmar,Hacken,0,0
+Djurgarden,Mjallby,0,3
+Norrkoping,Gefle,2,1
+Osters,Helsingborg,1,1
+Brommapojkarna,Norrkoping,1,0
+Syrianska,Osters,0,1
+Atvidabergs,AIK,1,0
+Malmo FF,Kalmar,1,0
+Gefle,Halmstad,2,0
+Hacken,Djurgarden,4,0
+Helsingborg,Mjallby,1,2
+Elfsborg,Goteborg,0,0
+Halmstad,Atvidabergs,0,0
+Osters,Hacken,2,0
+AIK,Malmo FF,0,1
+Djurgarden,Brommapojkarna,1,1
+Goteborg,Syrianska,2,0
+Kalmar,Elfsborg,1,1
+Mjallby,Gefle,1,0
+Norrkoping,Helsingborg,1,4
+Atvidabergs,Goteborg,1,2
+Halmstad,Kalmar,1,2
+Brommapojkarna,Helsingborg,0,2
+Hacken,Mjallby,2,0
+Gefle,AIK,1,2
+Malmo FF,Osters,2,0
+Syrianska,Norrkoping,3,1
+Elfsborg,Djurgarden,2,0
+Goteborg,Malmo FF,1,1
+Norrkoping,Hacken,4,2
+Djurgarden,Syrianska,0,1
+Helsingborg,Gefle,5,1
+Kalmar,Atvidabergs,0,0
+AIK,Halmstad,3,3
+Mjallby,Brommapojkarna,4,2
+Osters,Elfsborg,1,3
+Malmo FF,Norrkoping,1,1
+Atvidabergs,Djurgarden,5,1
+Elfsborg,Mjallby,2,1
+Halmstad,Osters,1,0
+Syrianska,Helsingborg,0,1
+Gefle,Kalmar,1,1
+Hacken,Brommapojkarna,1,0
+AIK,Goteborg,3,1
+Norrkoping,Elfsborg,1,2
+Goteborg,Halmstad,1,0
+Kalmar,AIK,2,1
+Mjallby,Syrianska,4,1
+Djurgarden,Malmo FF,3,2
+Brommapojkarna,Gefle,4,1
+Osters,Atvidabergs,0,1
+Helsingborg,Hacken,5,0
+Mjallby,Malmo FF,2,2
+Brommapojkarna,Syrianska,1,1
+Hacken,Gefle,2,2
+Osters,AIK,2,3
+Djurgarden,Halmstad,1,0
+Goteborg,Kalmar,2,0
+Norrkoping,Atvidabergs,2,1
+Helsingborg,Elfsborg,2,1
+Gefle,Goteborg,1,1
+AIK,Djurgarden,1,1
+Atvidabergs,Mjallby,3,0
+Elfsborg,Brommapojkarna,6,0
+Halmstad,Norrkoping,1,1
+Syrianska,Hacken,0,3
+Kalmar,Osters,3,1
+Syrianska,Gefle,2,2
+Malmo FF,Helsingborg,1,1
+Djurgarden,Kalmar,1,0
+Norrkoping,AIK,0,1
+Osters,Goteborg,2,0
+Brommapojkarna,Malmo FF,1,3
+Hacken,Elfsborg,0,1
+Helsingborg,Atvidabergs,3,0
+Mjallby,Halmstad,5,1
+Gefle,Osters,0,0
+Kalmar,Norrkoping,2,2
+Goteborg,Djurgarden,0,0
+Brommapojkarna,Halmstad,1,1
+Elfsborg,Gefle,0,0
+Hacken,Atvidabergs,0,2
+Mjallby,Kalmar,0,2
+Syrianska,Malmo FF,2,3
+Norrkoping,Goteborg,1,2
+Atvidabergs,Syrianska,1,0
+Halmstad,Hacken,0,2
+Kalmar,Helsingborg,1,1
+AIK,Brommapojkarna,4,0
+Gefle,Djurgarden,1,1
+Goteborg,Mjallby,4,2
+Osters,Norrkoping,0,2
+Malmo FF,Elfsborg,2,1
+Malmo FF,Hacken,1,3
+Helsingborg,AIK,1,2
+Elfsborg,Syrianska,5,1
+Djurgarden,Osters,2,0
+AIK,Mjallby,0,0
+Atvidabergs,Brommapojkarna,4,1
+Brommapojkarna,Kalmar,0,1
+Elfsborg,Atvidabergs,0,1
+Mjallby,Osters,1,1
+Malmo FF,Gefle,3,1
+AIK,Hacken,2,0
+Syrianska,Halmstad,1,2
+Helsingborg,Goteborg,1,1
+Brommapojkarna,Goteborg,2,1
+Elfsborg,Halmstad,2,2
+Hacken,Kalmar,0,1
+Gefle,Norrkoping,2,2
+Mjallby,Djurgarden,2,0
+Malmo FF,Atvidabergs,4,0
+Syrianska,AIK,1,2
+Helsingborg,Osters,3,0
+Djurgarden,Norrkoping,1,2
+Hacken,AIK,2,3
+Halmstad,Helsingborg,0,1
+Atvidabergs,Elfsborg,1,1
+Kalmar,Brommapojkarna,2,2
+Osters,Mjallby,1,1
+Gefle,Malmo FF,2,0
+Goteborg,Helsingborg,2,4
+Halmstad,Syrianska,1,1
+Kalmar,Syrianska,1,0
+Osters,Brommapojkarna,0,0
+AIK,Elfsborg,2,1
+Atvidabergs,Gefle,1,1
+Halmstad,Malmo FF,1,3
+Goteborg,Hacken,3,1
+Norrkoping,Mjallby,3,2
+Djurgarden,Helsingborg,2,1
+Atvidabergs,Halmstad,0,1
+Brommapojkarna,Djurgarden,3,0
+Elfsborg,Kalmar,1,0
+Gefle,Mjallby,2,1
+Helsingborg,Norrkoping,0,0
+Syrianska,Goteborg,0,2
+Hacken,Osters,0,2
+Malmo FF,AIK,1,0
+Osters,Syrianska,1,0
+Goteborg,Elfsborg,3,1
+Norrkoping,Brommapojkarna,2,1
+Djurgarden,Hacken,1,1
+Halmstad,Gefle,2,2
+Kalmar,Malmo FF,1,4
+AIK,Atvidabergs,3,2
+Mjallby,Helsingborg,4,3
+Norrkoping,Djurgarden,2,3
+Elfsborg,Osters,2,4
+Gefle,Helsingborg,1,2
+Halmstad,AIK,1,0
+Malmo FF,Goteborg,3,1
+Atvidabergs,Kalmar,0,0
+Brommapojkarna,Mjallby,2,0
+Hacken,Norrkoping,1,0
+Syrianska,Djurgarden,1,3
+Helsingborg,Brommapojkarna,4,2
+AIK,Gefle,3,0
+Goteborg,Atvidabergs,3,0
+Norrkoping,Syrianska,6,1
+Osters,Malmo FF,1,1
+Djurgarden,Elfsborg,1,2
+Kalmar,Halmstad,1,0
+Mjallby,Hacken,1,1
+Atvidabergs,Osters,4,0
+Gefle,Brommapojkarna,1,0
+AIK,Kalmar,0,0
+Elfsborg,Norrkoping,4,1
+Halmstad,Goteborg,0,1
+Hacken,Helsingborg,3,2
+Syrianska,Mjallby,1,2
+Malmo FF,Djurgarden,0,2
+Osters,Halmstad,0,1
+Kalmar,Gefle,0,0
+Brommapojkarna,Hacken,1,0
+Mjallby,Elfsborg,2,2
+Djurgarden,Atvidabergs,2,0
+Helsingborg,Syrianska,2,2
+Norrkoping,Malmo FF,0,2
+Goteborg,AIK,3,1
+Osters,Kalmar,1,2
+Brommapojkarna,Elfsborg,1,0
+Hacken,Syrianska,4,0
+Helsingborg,Malmo FF,0,3
+Goteborg,Gefle,3,1
+Mjallby,Atvidabergs,0,1
+Norrkoping,Halmstad,3,2
+Djurgarden,AIK,2,2
+Syrianska,Brommapojkarna,1,2
+Halmstad,Djurgarden,1,4
+Kalmar,Goteborg,2,1
+Elfsborg,Helsingborg,1,1
+AIK,Osters,2,1
+Gefle,Hacken,0,0
+Malmo FF,Mjallby,1,0
+Atvidabergs,Norrkoping,1,3
+Mjallby,AIK,2,3
+Brommapojkarna,Atvidabergs,0,0
+Norrkoping,Kalmar,0,1
+Djurgarden,Goteborg,2,1
+Osters,Gefle,1,4
+Syrianska,Elfsborg,1,3
+Hacken,Malmo FF,2,0
+Helsingborg,Halmstad,4,2
+Gefle,Syrianska,2,0
+Atvidabergs,Helsingborg,3,0
+Goteborg,Osters,0,0
+Elfsborg,Hacken,0,0
+Malmo FF,Brommapojkarna,2,1
+AIK,Norrkoping,1,0
+Kalmar,Djurgarden,1,2
+Halmstad,Mjallby,1,0
+Hacken,Halmstad,1,3
+Brommapojkarna,AIK,0,6
+Djurgarden,Gefle,1,1
+Mjallby,Goteborg,2,1
+Helsingborg,Kalmar,2,3
+Syrianska,Atvidabergs,4,1
+Norrkoping,Osters,1,1
+Elfsborg,Malmo FF,0,2
+AIK,Helsingborg,2,1
+Atvidabergs,Hacken,2,2
+Gefle,Elfsborg,0,2
+Goteborg,Norrkoping,2,0
+Halmstad,Brommapojkarna,2,2
+Kalmar,Mjallby,2,1
+Malmo FF,Syrianska,3,1
+Osters,Djurgarden,1,1
+Sundsvall,Halmstad,1,1
+Halmstad,Sundsvall,2,1
+Brommapojkarna,Kalmar,1,2
+Helsingborg,Djurgarden,1,1
+Mjallby,Gefle,2,2
+Halmstad,Orebro,1,2
+Malmo FF,Falkenbergs,3,0
+Atvidabergs,Elfsborg,2,1
+Hacken,Norrkoping,2,0
+AIK,Goteborg,0,2
+Elfsborg,Hacken,3,1
+Falkenbergs,Brommapojkarna,1,0
+Djurgarden,Halmstad,3,0
+Gefle,AIK,1,2
+Norrkoping,Helsingborg,2,0
+Kalmar,Atvidabergs,2,2
+Goteborg,Malmo FF,0,3
+Orebro,Mjallby,1,0
+Mjallby,Djurgarden,0,2
+Atvidabergs,Falkenbergs,2,0
+Malmo FF,Gefle,1,0
+AIK,Orebro,1,1
+Halmstad,Norrkoping,0,0
+Helsingborg,Hacken,4,2
+Brommapojkarna,Goteborg,1,1
+Kalmar,Elfsborg,0,0
+Hacken,Halmstad,3,0
+Norrkoping,Mjallby,1,1
+Orebro,Malmo FF,1,2
+Djurgarden,AIK,2,3
+Falkenbergs,Kalmar,1,3
+Gefle,Brommapojkarna,3,0
+Goteborg,Atvidabergs,5,0
+Elfsborg,Helsingborg,1,0
+Halmstad,Helsingborg,2,1
+Kalmar,Goteborg,1,1
+AIK,Norrkoping,1,2
+Mjallby,Hacken,1,4
+Atvidabergs,Gefle,2,2
+Falkenbergs,Elfsborg,2,3
+Brommapojkarna,Orebro,2,2
+Malmo FF,Djurgarden,2,2
+Goteborg,Falkenbergs,1,0
+Orebro,Atvidabergs,3,2
+Djurgarden,Brommapojkarna,3,2
+Helsingborg,Mjallby,3,1
+Hacken,AIK,2,2
+Elfsborg,Halmstad,4,1
+Gefle,Kalmar,0,2
+Norrkoping,Malmo FF,1,2
+Brommapojkarna,Norrkoping,3,0
+Mjallby,Halmstad,2,1
+Atvidabergs,Djurgarden,1,1
+Malmo FF,Hacken,1,2
+Goteborg,Elfsborg,0,0
+Kalmar,Orebro,2,0
+Falkenbergs,Gefle,1,1
+AIK,Helsingborg,2,1
+Djurgarden,Kalmar,0,0
+Elfsborg,Mjallby,3,1
+Hacken,Brommapojkarna,3,1
+Norrkoping,Atvidabergs,2,1
+Gefle,Goteborg,1,1
+Halmstad,AIK,2,2
+Orebro,Falkenbergs,0,0
+Helsingborg,Malmo FF,0,1
+Kalmar,Norrkoping,2,0
+AIK,Mjallby,2,1
+Gefle,Elfsborg,0,1
+Goteborg,Orebro,2,1
+Atvidabergs,Hacken,1,0
+Brommapojkarna,Helsingborg,0,1
+Malmo FF,Halmstad,3,1
+Falkenbergs,Djurgarden,1,0
+Brommapojkarna,Mjallby,0,1
+Norrkoping,Falkenbergs,0,3
+AIK,Elfsborg,2,1
+Halmstad,Brommapojkarna,3,0
+Orebro,Gefle,2,2
+Hacken,Kalmar,4,1
+Helsingborg,Atvidabergs,0,0
+Djurgarden,Goteborg,0,0
+Mjallby,Malmo FF,0,1
+Atvidabergs,Halmstad,1,0
+Elfsborg,Orebro,1,0
+Falkenbergs,Hacken,1,1
+Kalmar,Helsingborg,2,0
+Goteborg,Norrkoping,2,2
+Gefle,Djurgarden,1,1
+Malmo FF,AIK,2,2
+Orebro,Djurgarden,0,1
+Halmstad,Kalmar,1,1
+Mjallby,Atvidabergs,1,0
+Helsingborg,Falkenbergs,1,0
+Elfsborg,Malmo FF,0,1
+AIK,Brommapojkarna,4,2
+Norrkoping,Gefle,1,0
+Hacken,Goteborg,1,1
+Falkenbergs,Halmstad,1,1
+Gefle,Hacken,1,0
+Kalmar,Mjallby,2,1
+Orebro,Norrkoping,2,2
+Brommapojkarna,Malmo FF,1,1
+Goteborg,Helsingborg,6,2
+Atvidabergs,AIK,0,3
+Djurgarden,Elfsborg,1,1
+AIK,Kalmar,3,0
+Mjallby,Falkenbergs,1,1
+Malmo FF,Atvidabergs,3,0
+Helsingborg,Gefle,1,1
+Elfsborg,Brommapojkarna,2,2
+Halmstad,Goteborg,2,2
+Hacken,Orebro,4,1
+Norrkoping,Djurgarden,3,5
+Gefle,Halmstad,2,0
+Kalmar,Malmo FF,1,1
+Falkenbergs,AIK,4,1
+Goteborg,Mjallby,3,1
+Atvidabergs,Brommapojkarna,3,2
+Norrkoping,Elfsborg,4,2
+Orebro,Helsingborg,1,1
+Djurgarden,Hacken,1,2
+Malmo FF,Kalmar,3,1
+Halmstad,Gefle,3,2
+Brommapojkarna,Atvidabergs,2,2
+Mjallby,Goteborg,3,0
+Elfsborg,Norrkoping,3,0
+Helsingborg,Orebro,1,1
+AIK,Falkenbergs,3,0
+Hacken,Djurgarden,2,1
+Falkenbergs,Malmo FF,2,5
+Norrkoping,Hacken,0,0
+Orebro,Halmstad,1,2
+Kalmar,Brommapojkarna,1,1
+Elfsborg,Atvidabergs,1,0
+Djurgarden,Helsingborg,2,2
+Gefle,Mjallby,1,0
+Goteborg,AIK,0,2
+Atvidabergs,Kalmar,3,1
+Mjallby,Orebro,0,1
+Halmstad,Djurgarden,2,1
+Helsingborg,Norrkoping,0,0
+AIK,Gefle,3,1
+Brommapojkarna,Falkenbergs,2,3
+Malmo FF,Goteborg,2,2
+Hacken,Elfsborg,0,2
+Atvidabergs,Goteborg,1,1
+Brommapojkarna,Gefle,1,2
+Malmo FF,Orebro,3,2
+AIK,Djurgarden,1,1
+Halmstad,Hacken,1,4
+Kalmar,Falkenbergs,3,1
+Mjallby,Norrkoping,3,1
+Helsingborg,Elfsborg,4,1
+Gefle,Malmo FF,0,0
+Falkenbergs,Atvidabergs,3,0
+Orebro,AIK,4,2
+Elfsborg,Kalmar,2,0
+Goteborg,Brommapojkarna,3,0
+Djurgarden,Mjallby,4,0
+Norrkoping,Halmstad,1,2
+Hacken,Helsingborg,1,1
+Mjallby,Helsingborg,1,2
+Malmo FF,Norrkoping,3,0
+Falkenbergs,Goteborg,1,2
+AIK,Hacken,1,0
+Halmstad,Elfsborg,1,1
+Atvidabergs,Orebro,1,2
+Kalmar,Gefle,2,1
+Brommapojkarna,Djurgarden,0,4
+Helsingborg,Halmstad,1,4
+Orebro,Brommapojkarna,3,1
+Gefle,Atvidabergs,0,1
+Hacken,Mjallby,1,1
+Goteborg,Kalmar,2,0
+Norrkoping,AIK,2,4
+Djurgarden,Malmo FF,2,0
+Elfsborg,Falkenbergs,1,0
+Hacken,Malmo FF,3,3
+Gefle,Falkenbergs,3,1
+Halmstad,Mjallby,1,2
+Djurgarden,Atvidabergs,0,1
+Elfsborg,Goteborg,0,0
+Norrkoping,Brommapojkarna,3,1
+Orebro,Kalmar,2,0
+Helsingborg,AIK,3,1
+Goteborg,Gefle,4,0
+Brommapojkarna,Hacken,1,5
+Falkenbergs,Orebro,1,3
+AIK,Halmstad,0,1
+Kalmar,Djurgarden,0,4
+Mjallby,Elfsborg,1,0
+Malmo FF,Helsingborg,1,1
+Atvidabergs,Norrkoping,2,2
+Djurgarden,Falkenbergs,1,0
+Elfsborg,Gefle,1,0
+Halmstad,Malmo FF,0,1
+Helsingborg,Brommapojkarna,3,1
+Mjallby,AIK,1,0
+Orebro,Goteborg,3,4
+Hacken,Atvidabergs,0,2
+Norrkoping,Kalmar,0,0
+Malmo FF,Mjallby,4,1
+Kalmar,Hacken,2,3
+Elfsborg,AIK,1,1
+Falkenbergs,Norrkoping,4,2
+Atvidabergs,Helsingborg,1,2
+Brommapojkarna,Halmstad,0,3
+Gefle,Orebro,1,2
+Goteborg,Djurgarden,2,1
+Helsingborg,Kalmar,4,1
+Djurgarden,Gefle,1,2
+Mjallby,Brommapojkarna,0,1
+Halmstad,Atvidabergs,1,3
+Norrkoping,Goteborg,3,0
+Orebro,Elfsborg,5,1
+AIK,Malmo FF,2,3
+Hacken,Falkenbergs,1,2
+Malmo FF,Elfsborg,1,2
+Atvidabergs,Mjallby,2,1
+Kalmar,Halmstad,1,3
+Goteborg,Hacken,3,2
+Brommapojkarna,AIK,0,4
+Gefle,Norrkoping,1,2
+Djurgarden,Orebro,0,3
+Falkenbergs,Helsingborg,2,0
+Hacken,Gefle,3,1
+AIK,Atvidabergs,4,1
+Norrkoping,Orebro,2,0
+Elfsborg,Djurgarden,0,1
+Halmstad,Falkenbergs,4,0
+Malmo FF,Brommapojkarna,2,0
+Mjallby,Kalmar,0,2
+Helsingborg,Goteborg,0,3
+Atvidabergs,Malmo FF,2,1
+Brommapojkarna,Elfsborg,0,1
+Djurgarden,Norrkoping,1,1
+Falkenbergs,Mjallby,1,1
+Gefle,Helsingborg,2,1
+Goteborg,Halmstad,5,1
+Kalmar,AIK,1,1
+Orebro,Hacken,5,2
+Ljungskile,Gefle,1,3
+Gefle,Ljungskile,1,0
+Hammarby,Hacken,2,0
+Kalmar,Helsingborg,0,0
+Falkenbergs,Gefle,0,2
+Goteborg,Atvidabergs,1,0
+Djurgarden,Elfsborg,1,2
+Norrkoping,Orebro,1,1
+AIK,Halmstad,2,1
+Sundsvall,Malmo FF,1,4
+Gefle,Kalmar,2,0
+Helsingborg,Falkenbergs,0,0
+Orebro,Goteborg,0,2
+Elfsborg,Hammarby,1,1
+Atvidabergs,Sundsvall,2,3
+Hacken,Djurgarden,1,1
+Halmstad,Norrkoping,0,3
+Malmo FF,AIK,0,0
+Falkenbergs,Orebro,2,0
+Halmstad,Helsingborg,1,2
+AIK,Gefle,3,1
+Goteborg,Malmo FF,0,1
+Kalmar,Atvidabergs,2,1
+Norrkoping,Elfsborg,0,4
+Sundsvall,Hacken,1,1
+Hammarby,Djurgarden,2,1
+Djurgarden,Kalmar,1,0
+Gefle,Halmstad,0,0
+Atvidabergs,Falkenbergs,3,1
+Hacken,Goteborg,1,2
+Helsingborg,Norrkoping,3,1
+Orebro,Sundsvall,1,3
+Malmo FF,Hammarby,3,1
+Elfsborg,AIK,3,2
+Falkenbergs,Malmo FF,3,3
+Hammarby,Atvidabergs,2,1
+Halmstad,Elfsborg,1,0
+Sundsvall,Djurgarden,0,2
+AIK,Orebro,3,0
+Kalmar,Hacken,0,1
+Norrkoping,Gefle,4,1
+Goteborg,Helsingborg,3,1
+Djurgarden,Falkenbergs,3,1
+Elfsborg,Kalmar,2,1
+Malmo FF,Halmstad,3,1
+Atvidabergs,AIK,1,1
+Hacken,Norrkoping,0,2
+Gefle,Goteborg,0,0
+Helsingborg,Sundsvall,2,0
+Orebro,Hammarby,2,2
+Norrkoping,Atvidabergs,2,1
+Sundsvall,Elfsborg,0,1
+Djurgarden,Gefle,5,1
+Malmo FF,Helsingborg,3,1
+Goteborg,Falkenbergs,2,1
+Halmstad,Hacken,0,2
+Kalmar,Orebro,3,0
+AIK,Hammarby,2,0
+Kalmar,Goteborg,0,2
+Helsingborg,Gefle,1,2
+Falkenbergs,Halmstad,1,0
+AIK,Norrkoping,2,2
+Hacken,Orebro,2,0
+Atvidabergs,Djurgarden,2,3
+Hammarby,Sundsvall,1,2
+Elfsborg,Malmo FF,2,2
+Halmstad,Djurgarden,2,3
+Falkenbergs,Kalmar,1,3
+Elfsborg,Helsingborg,2,1
+Norrkoping,Hammarby,1,0
+Orebro,Atvidabergs,2,1
+Gefle,Sundsvall,3,1
+Malmo FF,Hacken,0,3
+Goteborg,AIK,3,0
+Halmstad,Goteborg,1,2
+Orebro,Gefle,1,0
+Atvidabergs,Elfsborg,1,2
+Kalmar,Malmo FF,2,1
+Hacken,Falkenbergs,0,2
+Helsingborg,Hammarby,1,0
+Sundsvall,Norrkoping,0,1
+Djurgarden,AIK,2,2
+Gefle,Hacken,2,0
+Falkenbergs,Sundsvall,1,1
+Hammarby,Halmstad,2,2
+Norrkoping,Kalmar,2,1
+AIK,Helsingborg,3,1
+Elfsborg,Orebro,2,2
+Malmo FF,Atvidabergs,3,0
+Goteborg,Djurgarden,0,0
+AIK,Falkenbergs,4,3
+Atvidabergs,Hacken,1,1
+Halmstad,Sundsvall,1,0
+Orebro,Helsingborg,0,0
+Gefle,Malmo FF,1,2
+Djurgarden,Norrkoping,1,1
+Kalmar,Hammarby,2,2
+Goteborg,Elfsborg,1,0
+Hacken,AIK,0,0
+Helsingborg,Atvidabergs,3,0
+Orebro,Halmstad,1,1
+Hammarby,Goteborg,0,1
+Sundsvall,Kalmar,1,1
+Elfsborg,Gefle,5,1
+Malmo FF,Djurgarden,1,1
+Norrkoping,Falkenbergs,2,0
+Atvidabergs,Halmstad,0,0
+Djurgarden,Orebro,2,0
+Norrkoping,Malmo FF,3,1
+Falkenbergs,Elfsborg,2,2
+Hacken,Helsingborg,3,2
+Kalmar,AIK,0,0
+Sundsvall,Goteborg,2,2
+Gefle,Hammarby,1,1
+Atvidabergs,Gefle,1,1
+Halmstad,Kalmar,1,0
+Malmo FF,Orebro,2,2
+Elfsborg,Hacken,1,0
+AIK,Sundsvall,4,1
+Goteborg,Norrkoping,0,0
+Hammarby,Falkenbergs,3,0
+Helsingborg,Djurgarden,0,1
+Kalmar,Falkenbergs,4,0
+Orebro,Malmo FF,1,1
+Sundsvall,Halmstad,0,0
+Norrkoping,Goteborg,2,2
+Helsingborg,AIK,3,1
+Djurgarden,Atvidabergs,0,0
+Hacken,Hammarby,3,3
+Atvidabergs,Helsingborg,1,2
+Hacken,Kalmar,3,0
+Malmo FF,Sundsvall,3,0
+Falkenbergs,Goteborg,1,0
+AIK,Elfsborg,4,2
+Halmstad,Gefle,0,1
+Hammarby,Norrkoping,0,1
+Orebro,Djurgarden,0,1
+Helsingborg,Kalmar,1,2
+Atvidabergs,Malmo FF,2,2
+Djurgarden,Hacken,2,1
+Gefle,Falkenbergs,1,0
+Norrkoping,AIK,1,2
+Elfsborg,Halmstad,2,0
+Goteborg,Orebro,6,0
+Sundsvall,Hammarby,3,0
+Falkenbergs,Helsingborg,2,3
+Hacken,Gefle,1,1
+Malmo FF,Goteborg,2,1
+Orebro,Norrkoping,1,3
+Halmstad,Atvidabergs,0,0
+Hammarby,Elfsborg,0,0
+Kalmar,Sundsvall,0,2
+AIK,Djurgarden,1,0
+Gefle,Elfsborg,2,3
+Malmo FF,Gefle,2,0
+Sundsvall,Orebro,1,0
+AIK,Kalmar,2,1
+Goteborg,Hacken,4,0
+Elfsborg,Djurgarden,2,0
+Falkenbergs,Hammarby,0,1
+Helsingborg,Halmstad,2,0
+Atvidabergs,Norrkoping,1,1
+Hacken,Malmo FF,1,0
+Atvidabergs,Goteborg,0,1
+Gefle,AIK,1,2
+Halmstad,Orebro,2,2
+Kalmar,Elfsborg,0,3
+Norrkoping,Helsingborg,3,2
+Sundsvall,Falkenbergs,0,1
+Djurgarden,Hammarby,2,2
+Hammarby,Kalmar,0,0
+Djurgarden,Halmstad,4,2
+Falkenbergs,Norrkoping,0,1
+Orebro,Hacken,2,0
+AIK,Atvidabergs,1,0
+Goteborg,Gefle,3,0
+Elfsborg,Sundsvall,1,2
+Helsingborg,Malmo FF,0,3
+Kalmar,Norrkoping,1,2
+Falkenbergs,AIK,2,4
+Malmo FF,Elfsborg,1,1
+Hammarby,Orebro,1,2
+Helsingborg,Goteborg,1,2
+Hacken,Halmstad,4,1
+Sundsvall,Atvidabergs,0,1
+Gefle,Djurgarden,2,1
+Halmstad,Falkenbergs,0,1
+AIK,Hacken,2,1
+Atvidabergs,Kalmar,1,1
+Djurgarden,Malmo FF,0,2
+Gefle,Helsingborg,2,1
+Goteborg,Hammarby,1,0
+Norrkoping,Sundsvall,5,1
+Orebro,Elfsborg,4,2
+Hammarby,Gefle,3,0
+Kalmar,Halmstad,1,0
+Malmo FF,Falkenbergs,4,3
+Norrkoping,Djurgarden,4,2
+Sundsvall,AIK,0,2
+Hacken,Atvidabergs,3,0
+Helsingborg,Orebro,0,2
+Elfsborg,Goteborg,1,1
+Halmstad,Malmo FF,0,0
+Falkenbergs,Hacken,1,2
+Hammarby,AIK,1,0
+Gefle,Norrkoping,1,2
+Djurgarden,Helsingborg,2,2
+Elfsborg,Atvidabergs,3,1
+Orebro,Kalmar,2,1
+Goteborg,Sundsvall,3,2
+Atvidabergs,Hammarby,0,3
+Orebro,Falkenbergs,2,1
+Sundsvall,Gefle,2,1
+Goteborg,Halmstad,1,1
+Helsingborg,Elfsborg,2,1
+Kalmar,Djurgarden,0,3
+AIK,Malmo FF,2,1
+Norrkoping,Hacken,3,1
+Malmo FF,Kalmar,3,0
+Halmstad,AIK,0,1
+Falkenbergs,Atvidabergs,6,0
+Hammarby,Helsingborg,1,4
+Djurgarden,Goteborg,2,2
+Gefle,Orebro,2,2
+Hacken,Sundsvall,3,1
+Elfsborg,Norrkoping,3,2
+Falkenbergs,Djurgarden,0,2
+Hammarby,Malmo FF,0,1
+Sundsvall,Helsingborg,2,1
+Hacken,Elfsborg,5,2
+Norrkoping,Halmstad,3,1
+Atvidabergs,Orebro,2,3
+Kalmar,Gefle,3,1
+AIK,Goteborg,1,2
+Djurgarden,Sundsvall,4,2
+Elfsborg,Falkenbergs,4,2
+Gefle,Atvidabergs,2,1
+Goteborg,Kalmar,2,2
+Halmstad,Hammarby,2,1
+Helsingborg,Hacken,1,2
+Malmo FF,Norrkoping,0,2
+Orebro,AIK,1,1
+Sirius,Falkenbergs,2,2
+Falkenbergs,Sirius,1,1
+Malmo FF,Norrkoping,3,1
+Kalmar,Jonkopings,0,1
+AIK,Sundsvall,1,1
+Gefle,Helsingborg,1,1
+Hacken,Elfsborg,2,1
+Falkenbergs,Goteborg,0,2
+Orebro,Djurgarden,0,2
+Hammarby,Ostersunds,1,1
+Goteborg,Hacken,1,0
+Jonkopings,Malmo FF,3,2
+Norrkoping,Kalmar,4,1
+Djurgarden,Falkenbergs,5,0
+Elfsborg,Hammarby,4,1
+Helsingborg,Orebro,1,3
+Ostersunds,AIK,0,2
+Sundsvall,Gefle,1,2
+Hacken,Norrkoping,1,2
+Gefle,Djurgarden,1,2
+Hammarby,Helsingborg,5,1
+Falkenbergs,Ostersunds,1,2
+Kalmar,Elfsborg,3,2
+AIK,Goteborg,3,3
+Malmo FF,Sundsvall,1,2
+Orebro,Jonkopings,2,1
+Ostersunds,Hacken,2,1
+Helsingborg,Falkenbergs,3,1
+Jonkopings,Gefle,1,0
+Norrkoping,AIK,4,1
+Goteborg,Kalmar,1,1
+Elfsborg,Malmo FF,0,1
+Sundsvall,Orebro,3,1
+Djurgarden,Hammarby,1,3
+Falkenbergs,Norrkoping,2,1
+Gefle,Ostersunds,0,0
+Hammarby,Jonkopings,1,1
+Hacken,Sundsvall,0,1
+Malmo FF,Djurgarden,1,0
+Orebro,Goteborg,3,2
+AIK,Elfsborg,2,1
+Kalmar,Helsingborg,2,3
+Norrkoping,Hammarby,3,1
+Goteborg,Malmo FF,0,3
+Jonkopings,Falkenbergs,1,1
+Ostersunds,Orebro,2,4
+Elfsborg,Djurgarden,3,0
+Hacken,Gefle,6,1
+Helsingborg,AIK,2,1
+Sundsvall,Kalmar,1,1
+Falkenbergs,Elfsborg,1,2
+Hammarby,Sundsvall,1,1
+Malmo FF,Hacken,3,0
+AIK,Jonkopings,0,0
+Djurgarden,Ostersunds,3,0
+Gefle,Goteborg,2,6
+Kalmar,Orebro,3,2
+Norrkoping,Helsingborg,3,0
+Elfsborg,Gefle,2,0
+Ostersunds,Kalmar,1,0
+Helsingborg,Malmo FF,2,1
+Jonkopings,Norrkoping,0,2
+Hacken,AIK,2,3
+Goteborg,Djurgarden,2,1
+Orebro,Hammarby,3,2
+Sundsvall,Falkenbergs,2,1
+Jonkopings,Helsingborg,1,1
+Kalmar,Hammarby,1,1
+Malmo FF,Gefle,3,0
+Norrkoping,Sundsvall,3,1
+Orebro,Elfsborg,1,0
+Falkenbergs,Hacken,1,4
+Ostersunds,Goteborg,2,0
+AIK,Djurgarden,2,0
+Hacken,Jonkopings,3,1
+Hammarby,Malmo FF,2,3
+Helsingborg,Ostersunds,1,1
+Sundsvall,Elfsborg,1,3
+Djurgarden,Kalmar,0,3
+Gefle,Orebro,0,4
+Goteborg,Norrkoping,1,1
+Falkenbergs,AIK,2,3
+Sundsvall,Ostersunds,5,0
+Kalmar,Hacken,1,1
+Orebro,Norrkoping,2,2
+Djurgarden,Helsingborg,3,0
+Elfsborg,Jonkopings,3,3
+Gefle,AIK,0,1
+Goteborg,Hammarby,2,1
+Malmo FF,Falkenbergs,2,0
+AIK,Orebro,0,0
+Jonkopings,Sundsvall,1,1
+Ostersunds,Malmo FF,1,4
+Falkenbergs,Kalmar,1,2
+Hammarby,Gefle,2,1
+Helsingborg,Goteborg,1,3
+Hacken,Djurgarden,3,1
+Norrkoping,Elfsborg,0,0
+Djurgarden,Norrkoping,0,1
+Gefle,Falkenbergs,1,2
+Hacken,Hammarby,4,2
+Goteborg,Sundsvall,4,1
+Ostersunds,Jonkopings,1,0
+Helsingborg,Elfsborg,2,4
+Kalmar,AIK,1,1
+Malmo FF,Orebro,1,0
+Norrkoping,Ostersunds,3,3
+Sundsvall,Helsingborg,0,2
+Elfsborg,Goteborg,1,1
+AIK,Malmo FF,1,1
+Hammarby,Falkenbergs,3,3
+Orebro,Hacken,0,0
+Gefle,Kalmar,4,2
+Jonkopings,Djurgarden,1,0
+Falkenbergs,Orebro,1,3
+Malmo FF,Kalmar,1,1
+Norrkoping,Gefle,2,0
+Hammarby,AIK,0,3
+Goteborg,Jonkopings,2,1
+Helsingborg,Hacken,0,2
+Djurgarden,Sundsvall,1,3
+Elfsborg,Ostersunds,3,1
+Gefle,Hammarby,0,2
+Ostersunds,Elfsborg,0,0
+Sundsvall,Norrkoping,1,2
+Jonkopings,Goteborg,1,1
+AIK,Falkenbergs,2,0
+Hacken,Helsingborg,1,1
+Kalmar,Djurgarden,2,1
+Orebro,Malmo FF,0,3
+Helsingborg,Gefle,2,3
+Falkenbergs,Jonkopings,0,5
+Ostersunds,Sundsvall,4,0
+Malmo FF,AIK,2,0
+Elfsborg,Hacken,2,4
+Hammarby,Kalmar,2,1
+Norrkoping,Orebro,3,1
+Djurgarden,Goteborg,3,1
+Norrkoping,Hacken,3,1
+Goteborg,Falkenbergs,2,0
+AIK,Helsingborg,2,1
+Gefle,Norrkoping,0,0
+Kalmar,Malmo FF,1,1
+Djurgarden,Elfsborg,2,2
+Hacken,Orebro,0,1
+Jonkopings,Ostersunds,1,1
+Sundsvall,Hammarby,0,0
+Helsingborg,Kalmar,0,1
+Ostersunds,Djurgarden,1,0
+Hammarby,Goteborg,2,0
+Falkenbergs,Gefle,1,1
+Orebro,AIK,0,2
+Elfsborg,Sundsvall,4,0
+Malmo FF,Jonkopings,4,1
+Djurgarden,Gefle,2,1
+Kalmar,Norrkoping,0,1
+AIK,Hammarby,0,0
+Hacken,Ostersunds,3,1
+Jonkopings,Elfsborg,1,0
+Goteborg,Helsingborg,2,0
+Orebro,Falkenbergs,3,2
+Sundsvall,Malmo FF,0,1
+Elfsborg,Kalmar,1,1
+Falkenbergs,Djurgarden,1,2
+Sundsvall,AIK,1,3
+Norrkoping,Jonkopings,5,1
+Ostersunds,Helsingborg,2,0
+Gefle,Hacken,2,2
+Hammarby,Orebro,1,1
+Malmo FF,Goteborg,3,1
+Jonkopings,Hammarby,0,1
+Orebro,Sundsvall,3,3
+Kalmar,Ostersunds,2,0
+AIK,Gefle,1,0
+Elfsborg,Falkenbergs,5,0
+Helsingborg,Norrkoping,1,2
+Djurgarden,Malmo FF,3,1
+Hacken,Goteborg,2,2
+Djurgarden,AIK,0,3
+Gefle,Jonkopings,0,1
+Helsingborg,Sundsvall,2,1
+Kalmar,Falkenbergs,3,0
+Ostersunds,Norrkoping,0,2
+Goteborg,Orebro,3,2
+Hammarby,Hacken,2,3
+Malmo FF,Elfsborg,1,0
+Jonkopings,Kalmar,0,1
+Elfsborg,AIK,2,2
+Malmo FF,Helsingborg,2,0
+Falkenbergs,Hammarby,0,2
+Goteborg,Ostersunds,2,0
+Norrkoping,Djurgarden,1,3
+Orebro,Gefle,2,2
+Sundsvall,Hacken,0,0
+Helsingborg,Hammarby,0,1
+Sundsvall,Jonkopings,3,1
+Hacken,Malmo FF,2,4
+Ostersunds,Falkenbergs,6,1
+Gefle,Elfsborg,2,2
+Kalmar,Goteborg,4,2
+AIK,Norrkoping,6,0
+Djurgarden,Orebro,3,2
+Falkenbergs,Sundsvall,1,1
+AIK,Ostersunds,2,0
+Norrkoping,Malmo FF,1,2
+Orebro,Kalmar,2,1
+Elfsborg,Helsingborg,1,0
+Jonkopings,Hacken,1,1
+Goteborg,Gefle,3,3
+Hammarby,Djurgarden,4,2
+Gefle,Sundsvall,1,1
+Malmo FF,Ostersunds,0,3
+Norrkoping,Falkenbergs,2,1
+Orebro,Helsingborg,0,0
+Hacken,Kalmar,2,3
+Hammarby,Elfsborg,2,4
+Djurgarden,Jonkopings,0,2
+Goteborg,AIK,1,0
+Elfsborg,Norrkoping,2,1
+Falkenbergs,Malmo FF,0,3
+Kalmar,Gefle,0,1
+Ostersunds,Hammarby,2,0
+AIK,Hacken,2,1
+Helsingborg,Djurgarden,1,2
+Jonkopings,Orebro,1,1
+Sundsvall,Goteborg,1,3
+Hammarby,Norrkoping,1,1
+Kalmar,Sundsvall,2,0
+Falkenbergs,Helsingborg,1,4
+Gefle,Malmo FF,1,0
+Djurgarden,Hacken,1,0
+Goteborg,Elfsborg,2,2
+Jonkopings,AIK,0,0
+Orebro,Ostersunds,1,5
+AIK,Kalmar,3,1
+Elfsborg,Orebro,2,1
+Hacken,Falkenbergs,7,0
+Helsingborg,Jonkopings,2,0
+Malmo FF,Hammarby,3,0
+Norrkoping,Goteborg,3,1
+Ostersunds,Gefle,2,4
+Sundsvall,Djurgarden,2,5
+Halmstad,Helsingborg,1,1
+Helsingborg,Halmstad,1,2
+Goteborg,Malmo FF,1,1
+Halmstad,Ostersunds,1,0
+AIK,Hacken,0,0
+Sundsvall,AFC Eskilstuna,3,1
+Norrkoping,Hammarby,2,1
+Djurgarden,Sirius,0,2
+Kalmar,Elfsborg,1,5
+Orebro,Jonkopings,2,1
+AFC Eskilstuna,Orebro,2,2
+Hammarby,Kalmar,1,1
+Ostersunds,Norrkoping,1,0
+Hacken,Djurgarden,0,0
+Jonkopings,Halmstad,2,2
+Sirius,Goteborg,0,2
+Elfsborg,AIK,1,2
+Malmo FF,Sundsvall,2,0
+Halmstad,Malmo FF,0,3
+Orebro,Ostersunds,2,1
+Djurgarden,Elfsborg,3,0
+Sundsvall,Hacken,1,2
+AIK,Hammarby,1,2
+Kalmar,Jonkopings,1,3
+Goteborg,AFC Eskilstuna,1,1
+Norrkoping,Sirius,0,2
+Elfsborg,Orebro,3,0
+Jonkopings,AIK,2,1
+Hacken,Norrkoping,1,2
+Hammarby,Sundsvall,0,0
+AFC Eskilstuna,Halmstad,0,0
+Ostersunds,Goteborg,1,1
+Malmo FF,Djurgarden,3,2
+Sirius,Kalmar,3,0
+AFC Eskilstuna,Ostersunds,1,3
+Goteborg,Hammarby,1,1
+Orebro,Hacken,0,0
+Sundsvall,Elfsborg,1,1
+AIK,Sirius,1,0
+Halmstad,Djurgarden,0,1
+Kalmar,Malmo FF,0,0
+Norrkoping,Jonkopings,3,0
+Hammarby,AFC Eskilstuna,4,0
+AIK,Sundsvall,0,0
+Kalmar,Halmstad,2,0
+Malmo FF,Orebro,2,1
+Djurgarden,Norrkoping,3,3
+Sirius,Jonkopings,1,1
+Elfsborg,Ostersunds,4,4
+Hacken,Goteborg,4,0
+Hacken,Sirius,2,2
+Halmstad,AIK,0,1
+Goteborg,Kalmar,3,0
+Ostersunds,Hammarby,2,1
+Jonkopings,AFC Eskilstuna,1,0
+Orebro,Djurgarden,0,4
+Elfsborg,Malmo FF,1,2
+Norrkoping,Sundsvall,0,0
+AFC Eskilstuna,Norrkoping,1,2
+AIK,Orebro,1,0
+Kalmar,Hacken,0,1
+Halmstad,Hammarby,1,2
+Sundsvall,Jonkopings,0,0
+Malmo FF,Ostersunds,2,1
+Sirius,Elfsborg,4,1
+Djurgarden,Goteborg,1,0
+Norrkoping,Kalmar,2,0
+Hacken,Halmstad,2,1
+Hammarby,Malmo FF,1,1
+Orebro,Sundsvall,0,2
+Ostersunds,Sirius,0,0
+Elfsborg,AFC Eskilstuna,2,1
+Jonkopings,Djurgarden,1,1
+Ostersunds,Kalmar,2,1
+Halmstad,Orebro,0,0
+AFC Eskilstuna,Hacken,0,0
+Sirius,Hammarby,1,1
+Malmo FF,Norrkoping,1,2
+Djurgarden,AIK,0,1
+Elfsborg,Jonkopings,3,0
+Sundsvall,Goteborg,0,4
+Djurgarden,AFC Eskilstuna,4,1
+Kalmar,Sundsvall,3,0
+Norrkoping,Halmstad,3,2
+Hammarby,Jonkopings,2,2
+Goteborg,Elfsborg,1,1
+AIK,Malmo FF,0,1
+Hacken,Ostersunds,0,1
+Orebro,Sirius,2,1
+Norrkoping,AIK,0,0
+Elfsborg,Hacken,2,0
+Kalmar,Orebro,0,1
+Ostersunds,Sundsvall,3,1
+Jonkopings,Malmo FF,1,2
+AFC Eskilstuna,AIK,1,3
+Hammarby,Djurgarden,3,1
+Norrkoping,Goteborg,2,0
+Sirius,Halmstad,2,1
+Malmo FF,AFC Eskilstuna,3,2
+Sundsvall,Sirius,1,2
+Halmstad,Elfsborg,1,1
+Jonkopings,Goteborg,0,2
+AIK,Ostersunds,2,2
+Orebro,Norrkoping,4,2
+Djurgarden,Kalmar,4,1
+Hacken,Hammarby,2,0
+Hammarby,Orebro,3,1
+Sirius,AFC Eskilstuna,1,0
+Hacken,Malmo FF,0,1
+Norrkoping,Elfsborg,1,3
+Kalmar,AIK,0,1
+Ostersunds,Jonkopings,1,1
+Djurgarden,Sundsvall,2,1
+Goteborg,Halmstad,1,1
+AFC Eskilstuna,Kalmar,2,1
+Malmo FF,Sirius,3,3
+Sundsvall,Halmstad,1,0
+Orebro,Goteborg,4,2
+AIK,Norrkoping,1,0
+Ostersunds,Djurgarden,2,1
+Elfsborg,Hammarby,3,0
+Jonkopings,Hacken,0,1
+Halmstad,Sundsvall,2,2
+Malmo FF,Jonkopings,2,0
+Sirius,Hacken,2,2
+Djurgarden,Ostersunds,3,0
+Goteborg,Orebro,2,2
+Kalmar,AFC Eskilstuna,2,0
+Hammarby,Elfsborg,2,1
+Elfsborg,Sirius,0,2
+Jonkopings,Hammarby,1,0
+Sundsvall,Malmo FF,0,1
+Goteborg,Norrkoping,4,1
+Ostersunds,Halmstad,0,0
+AIK,Kalmar,0,1
+AFC Eskilstuna,Djurgarden,1,2
+Hacken,Orebro,1,1
+Halmstad,Jonkopings,6,1
+Orebro,Elfsborg,2,2
+Hammarby,Hacken,1,2
+Kalmar,Goteborg,1,0
+Sundsvall,Ostersunds,1,1
+Sirius,AIK,1,4
+Djurgarden,Malmo FF,0,1
+Norrkoping,AFC Eskilstuna,1,0
+Goteborg,AIK,2,1
+Malmo FF,Kalmar,6,0
+Halmstad,Sirius,0,3
+AIK,AFC Eskilstuna,1,1
+Hammarby,Ostersunds,2,2
+Jonkopings,Orebro,1,2
+Norrkoping,Djurgarden,0,1
+Elfsborg,Goteborg,1,2
+Hacken,Sundsvall,2,0
+Jonkopings,Elfsborg,2,2
+AFC Eskilstuna,Malmo FF,3,1
+Djurgarden,Halmstad,2,1
+Ostersunds,AIK,0,3
+Goteborg,Hacken,1,1
+Sirius,Norrkoping,0,1
+Orebro,Hammarby,0,3
+Sundsvall,Kalmar,1,3
+AFC Eskilstuna,Hammarby,0,0
+AIK,Djurgarden,1,1
+Hacken,Jonkopings,3,1
+Kalmar,Sirius,4,2
+Norrkoping,Ostersunds,0,2
+Elfsborg,Halmstad,1,0
+Malmo FF,Goteborg,2,2
+Sundsvall,Orebro,2,1
+Ostersunds,AFC Eskilstuna,3,0
+Elfsborg,Kalmar,2,2
+Halmstad,Hacken,0,3
+Hammarby,AIK,1,1
+Orebro,Malmo FF,2,1
+Jonkopings,Norrkoping,1,2
+Sirius,Sundsvall,0,1
+Goteborg,Djurgarden,1,3
+Kalmar,Norrkoping,1,1
+Goteborg,Jonkopings,1,1
+Djurgarden,Orebro,4,1
+Hacken,Elfsborg,3,0
+AIK,Halmstad,4,1
+Sirius,Ostersunds,0,5
+Malmo FF,Hammarby,4,0
+AFC Eskilstuna,Sundsvall,1,2
+Elfsborg,Djurgarden,2,2
+Norrkoping,Hacken,4,1
+Halmstad,Kalmar,1,1
+Hammarby,Goteborg,2,1
+Jonkopings,Sirius,3,1
+Ostersunds,Malmo FF,2,2
+Orebro,AFC Eskilstuna,2,3
+Sundsvall,AIK,0,0
+Halmstad,Norrkoping,2,1
+Djurgarden,Hammarby,1,1
+Kalmar,Ostersunds,2,1
+Hacken,AIK,1,6
+Jonkopings,Sundsvall,2,2
+AFC Eskilstuna,Goteborg,1,0
+Malmo FF,Elfsborg,6,0
+Sirius,Orebro,3,4
+Goteborg,Sirius,4,0
+AFC Eskilstuna,Jonkopings,1,1
+Malmo FF,Halmstad,2,0
+Ostersunds,Hacken,0,0
+Sundsvall,Djurgarden,0,5
+AIK,Elfsborg,5,2
+Hammarby,Norrkoping,0,2
+Orebro,Kalmar,1,0
+Halmstad,Goteborg,1,2
+Hacken,AFC Eskilstuna,3,0
+Ostersunds,Orebro,3,0
+AIK,Jonkopings,2,0
+Elfsborg,Sundsvall,2,1
+Sirius,Djurgarden,2,0
+Kalmar,Hammarby,2,0
+Norrkoping,Malmo FF,1,3
+Orebro,Halmstad,0,1
+AFC Eskilstuna,Elfsborg,2,3
+Goteborg,Ostersunds,0,1
+Sundsvall,Norrkoping,2,2
+Djurgarden,Hacken,1,1
+Hammarby,Sirius,3,3
+Jonkopings,Kalmar,2,0
+Malmo FF,AIK,0,0
+Ostersunds,Elfsborg,4,1
+Halmstad,AFC Eskilstuna,1,1
+Sirius,Malmo FF,0,4
+Sundsvall,Hammarby,1,4
+Djurgarden,Jonkopings,0,0
+Hacken,Kalmar,2,0
+AIK,Goteborg,2,1
+Norrkoping,Orebro,2,0
+AFC Eskilstuna,Sirius,1,3
+Elfsborg,Norrkoping,3,3
+Goteborg,Sundsvall,0,3
+Hammarby,Halmstad,1,3
+Jonkopings,Ostersunds,0,0
+Kalmar,Djurgarden,0,2
+Malmo FF,Hacken,1,2
+Orebro,AIK,1,2
+Trelleborgs,Jonkopings,2,0
+Jonkopings,Trelleborgs,1,1
+Hacken,Kalmar,1,0
+Hammarby,Sirius,3,1
+Ostersunds,Djurgarden,0,1
+Trelleborgs,Goteborg,1,3
+AIK,Dalkurd,2,0
+Norrkoping,Brommapojkarna,2,1
+Elfsborg,Malmo FF,1,2
+Sundsvall,Orebro,0,0
+Orebro,Norrkoping,1,1
+Djurgarden,Trelleborgs,1,1
+Kalmar,Elfsborg,1,0
+Dalkurd,Ostersunds,3,0
+Brommapojkarna,Hacken,2,0
+Malmo FF,AIK,1,1
+Goteborg,Hammarby,1,2
+Sundsvall,Malmo FF,2,2
+Trelleborgs,Orebro,1,2
+Elfsborg,Sirius,0,1
+Hacken,Dalkurd,3,0
+AIK,Djurgarden,2,0
+Norrkoping,Kalmar,3,1
+Ostersunds,Goteborg,2,1
+Hammarby,Brommapojkarna,4,0
+Sundsvall,Trelleborgs,1,0
+Djurgarden,Malmo FF,3,0
+Kalmar,Ostersunds,1,1
+Orebro,AIK,1,1
+Sirius,Hacken,0,0
+Brommapojkarna,Elfsborg,0,2
+Goteborg,Dalkurd,1,0
+Hammarby,Norrkoping,2,1
+Ostersunds,Orebro,0,2
+Dalkurd,Sundsvall,2,2
+Hacken,Hammarby,2,2
+AIK,Goteborg,2,0
+Trelleborgs,Kalmar,0,1
+Elfsborg,Djurgarden,2,2
+Malmo FF,Brommapojkarna,3,1
+Norrkoping,Sirius,1,0
+AIK,Sirius,2,0
+Goteborg,Hacken,2,1
+Djurgarden,Hammarby,1,2
+Sundsvall,Elfsborg,2,1
+Kalmar,Malmo FF,3,0
+Norrkoping,Trelleborgs,1,2
+Brommapojkarna,Ostersunds,0,4
+Orebro,Dalkurd,3,2
+Sirius,AIK,2,3
+Malmo FF,Djurgarden,1,0
+Hammarby,Sundsvall,4,3
+Ostersunds,Norrkoping,0,2
+Brommapojkarna,Djurgarden,1,0
+Dalkurd,Kalmar,1,2
+Elfsborg,AIK,0,0
+Trelleborgs,Hacken,0,3
+Malmo FF,Goteborg,1,2
+Sirius,Orebro,2,4
+Sundsvall,Brommapojkarna,3,0
+Djurgarden,Dalkurd,1,0
+Goteborg,Norrkoping,0,2
+Orebro,Hammarby,1,2
+Trelleborgs,Malmo FF,1,0
+AIK,Ostersunds,1,1
+Hacken,Elfsborg,5,0
+Kalmar,Sirius,1,0
+Hammarby,Malmo FF,3,2
+Djurgarden,Orebro,2,0
+Brommapojkarna,Kalmar,2,1
+Sirius,Trelleborgs,1,1
+Sundsvall,Ostersunds,2,3
+Norrkoping,Dalkurd,4,2
+Hammarby,AIK,0,1
+Malmo FF,Hacken,2,0
+Elfsborg,Goteborg,1,1
+Orebro,Kalmar,2,1
+Hacken,AIK,1,1
+Norrkoping,Sundsvall,1,0
+Ostersunds,Sirius,5,2
+Dalkurd,Elfsborg,1,4
+Goteborg,Djurgarden,1,3
+Trelleborgs,Brommapojkarna,2,1
+AIK,Norrkoping,3,3
+Ostersunds,Hacken,2,0
+Kalmar,Hammarby,1,1
+Malmo FF,Dalkurd,1,1
+Sundsvall,Goteborg,2,0
+Brommapojkarna,Orebro,0,0
+Elfsborg,Trelleborgs,2,1
+Sirius,Djurgarden,1,5
+Sirius,Sundsvall,1,3
+Sirius,Malmo FF,0,4
+Dalkurd,Brommapojkarna,3,0
+Hacken,Sundsvall,3,0
+Trelleborgs,AIK,1,4
+Goteborg,Kalmar,1,3
+Djurgarden,Norrkoping,1,1
+Orebro,Elfsborg,1,2
+Hammarby,Ostersunds,1,2
+Brommapojkarna,Sirius,0,1
+Dalkurd,Trelleborgs,2,2
+Malmo FF,Ostersunds,1,1
+Goteborg,Orebro,2,0
+Kalmar,Djurgarden,0,1
+Norrkoping,Hacken,2,1
+Sundsvall,AIK,0,1
+Elfsborg,Hammarby,0,0
+Orebro,Malmo FF,1,2
+Ostersunds,Trelleborgs,4,1
+Kalmar,Sundsvall,0,2
+AIK,Brommapojkarna,5,1
+Djurgarden,Hacken,2,1
+Sirius,Goteborg,3,2
+Hammarby,Dalkurd,4,1
+Norrkoping,Elfsborg,1,0
+Goteborg,Brommapojkarna,3,0
+Ostersunds,Elfsborg,1,0
+Dalkurd,Sirius,1,3
+Malmo FF,Norrkoping,2,1
+AIK,Kalmar,1,0
+Djurgarden,Sundsvall,1,1
+Hacken,Orebro,1,1
+Trelleborgs,Hammarby,1,3
+Brommapojkarna,Dalkurd,2,1
+Kalmar,Goteborg,2,1
+Hammarby,Trelleborgs,1,0
+Orebro,Hacken,1,2
+Elfsborg,Ostersunds,0,2
+Sundsvall,Norrkoping,1,1
+Dalkurd,Malmo FF,0,1
+Goteborg,Sirius,2,3
+Orebro,Brommapojkarna,0,1
+Hacken,Djurgarden,5,0
+Ostersunds,Kalmar,2,0
+AIK,Elfsborg,1,0
+Norrkoping,Hammarby,0,0
+Trelleborgs,Sundsvall,1,6
+Sirius,Dalkurd,2,3
+Malmo FF,Trelleborgs,3,0
+Elfsborg,Norrkoping,0,1
+Sundsvall,Hacken,0,2
+Brommapojkarna,AIK,0,2
+Djurgarden,Kalmar,0,2
+Goteborg,Ostersunds,2,1
+Hammarby,Orebro,2,0
+Hacken,Brommapojkarna,6,0
+Malmo FF,Sirius,5,0
+Ostersunds,Sundsvall,1,2
+AIK,Trelleborgs,2,0
+Djurgarden,Elfsborg,2,2
+Dalkurd,Hammarby,2,3
+Kalmar,Orebro,0,1
+Norrkoping,Goteborg,2,1
+Trelleborgs,Norrkoping,1,1
+AIK,Hacken,3,0
+Orebro,Ostersunds,2,1
+Brommapojkarna,Malmo FF,0,3
+Dalkurd,Goteborg,1,1
+Hammarby,Djurgarden,1,3
+Elfsborg,Kalmar,1,1
+Sundsvall,Sirius,4,0
+Orebro,Sundsvall,2,1
+Ostersunds,Malmo FF,2,3
+Norrkoping,AIK,2,0
+Djurgarden,Brommapojkarna,0,1
+Goteborg,Elfsborg,2,2
+Hacken,Trelleborgs,2,1
+Kalmar,Dalkurd,0,0
+Sirius,Hammarby,1,1
+Brommapojkarna,Sundsvall,1,3
+Elfsborg,Orebro,1,0
+Sirius,Ostersunds,0,1
+Trelleborgs,Djurgarden,0,3
+Dalkurd,Norrkoping,0,2
+AIK,Hammarby,1,0
+Malmo FF,Kalmar,4,0
+Hacken,Goteborg,4,1
+Orebro,Sirius,0,0
+Hammarby,Elfsborg,0,1
+Norrkoping,Malmo FF,3,1
+Ostersunds,Brommapojkarna,3,1
+Sundsvall,Djurgarden,1,1
+Trelleborgs,Dalkurd,0,1
+Goteborg,AIK,0,2
+Kalmar,Hacken,1,2
+Sirius,Norrkoping,1,1
+Dalkurd,AIK,0,4
+Kalmar,Brommapojkarna,1,1
+Djurgarden,Ostersunds,0,2
+Malmo FF,Sundsvall,0,0
+Elfsborg,Hacken,0,3
+Hammarby,Goteborg,3,0
+Orebro,Trelleborgs,4,0
+Ostersunds,Dalkurd,3,0
+Sirius,Elfsborg,4,2
+Goteborg,Trelleborgs,2,2
+Hacken,Malmo FF,1,1
+AIK,Orebro,1,1
+Brommapojkarna,Hammarby,2,4
+Norrkoping,Djurgarden,1,1
+Sundsvall,Kalmar,2,0
+Malmo FF,Hammarby,2,1
+Dalkurd,Orebro,1,0
+Djurgarden,AIK,0,0
+Hacken,Ostersunds,2,0
+Elfsborg,Sundsvall,2,0
+Kalmar,Norrkoping,1,2
+Trelleborgs,Sirius,1,2
+Brommapojkarna,Goteborg,0,2
+Goteborg,Sundsvall,1,2
+Trelleborgs,Elfsborg,2,2
+Dalkurd,Hacken,0,5
+Hammarby,Kalmar,0,0
+Orebro,Djurgarden,1,1
+Norrkoping,Ostersunds,4,2
+Sirius,Brommapojkarna,4,2
+AIK,Malmo FF,1,1
+Elfsborg,Dalkurd,0,0
+Brommapojkarna,Norrkoping,0,1
+Djurgarden,Goteborg,2,0
+Hacken,Sirius,2,1
+Kalmar,Trelleborgs,2,1
+Sundsvall,Hammarby,2,3
+Malmo FF,Orebro,4,0
+Ostersunds,AIK,1,2
+Goteborg,Malmo FF,0,3
+Norrkoping,Orebro,3,2
+AIK,Sundsvall,0,0
+Hammarby,Hacken,1,0
+Dalkurd,Djurgarden,1,2
+Elfsborg,Brommapojkarna,1,2
+Sirius,Kalmar,1,1
+Trelleborgs,Ostersunds,0,1
+Brommapojkarna,Trelleborgs,3,0
+Djurgarden,Sirius,1,0
+Hacken,Norrkoping,0,1
+Kalmar,AIK,0,1
+Malmo FF,Elfsborg,2,0
+Orebro,Goteborg,1,3
+Ostersunds,Hammarby,3,3
+Sundsvall,Dalkurd,0,1
+AFC Eskilstuna,Brommapojkarna,0,1
+Brommapojkarna,AFC Eskilstuna,1,2
+AIK,Ostersunds,0,0
+Falkenbergs,Orebro,1,0
+Kalmar,Sirius,0,2
+AFC Eskilstuna,Goteborg,3,1
+Helsingborg,Norrkoping,3,1
+Djurgarden,Sundsvall,2,2
+Elfsborg,Hammarby,1,1
+Malmo FF,Hacken,1,1
+Hacken,Helsingborg,2,1
+Sundsvall,Malmo FF,3,1
+Goteborg,Elfsborg,3,0
+Ostersunds,Falkenbergs,3,2
+Hammarby,Kalmar,1,1
+Norrkoping,AIK,0,0
+Orebro,Djurgarden,0,3
+Sirius,AFC Eskilstuna,3,2
+AFC Eskilstuna,Orebro,1,1
+Falkenbergs,Hacken,0,3
+Kalmar,Norrkoping,2,2
+AIK,Sirius,2,1
+Elfsborg,Sundsvall,3,1
+Malmo FF,Ostersunds,2,0
+Djurgarden,Goteborg,2,1
+Helsingborg,Hammarby,2,1
+Ostersunds,Elfsborg,1,1
+Norrkoping,Falkenbergs,4,3
+Orebro,AIK,2,1
+Sundsvall,Kalmar,1,2
+Sirius,Malmo FF,0,1
+Hacken,Djurgarden,0,1
+Hammarby,AFC Eskilstuna,3,1
+Goteborg,Helsingborg,3,1
+AFC Eskilstuna,Ostersunds,0,1
+AIK,Hacken,1,0
+Elfsborg,Orebro,4,2
+Falkenbergs,Sirius,0,0
+Malmo FF,Hammarby,4,1
+Djurgarden,Norrkoping,1,1
+Helsingborg,Sundsvall,1,1
+Kalmar,Goteborg,1,1
+Sirius,Elfsborg,2,4
+Hacken,AFC Eskilstuna,3,0
+Hammarby,Djurgarden,2,1
+Norrkoping,Malmo FF,1,1
+Goteborg,AIK,3,0
+Orebro,Kalmar,1,1
+Ostersunds,Helsingborg,3,0
+Sundsvall,Falkenbergs,3,1
+AIK,AFC Eskilstuna,2,1
+Sirius,Goteborg,2,4
+Falkenbergs,Malmo FF,1,2
+Hacken,Sundsvall,1,0
+Kalmar,Ostersunds,1,1
+Orebro,Hammarby,2,3
+Elfsborg,Norrkoping,0,0
+Helsingborg,Djurgarden,1,1
+Hammarby,Sirius,2,0
+Ostersunds,Hacken,1,1
+AFC Eskilstuna,Falkenbergs,0,0
+Kalmar,Helsingborg,1,0
+Sundsvall,Orebro,1,2
+Djurgarden,AIK,0,2
+Malmo FF,Elfsborg,4,1
+Norrkoping,Goteborg,1,2
+Hammarby,Ostersunds,4,0
+Elfsborg,AFC Eskilstuna,1,0
+Falkenbergs,Djurgarden,0,3
+Hacken,Kalmar,1,0
+Helsingborg,AIK,1,3
+Sirius,Sundsvall,1,0
+Goteborg,Malmo FF,0,0
+Orebro,Norrkoping,1,2
+AFC Eskilstuna,Helsingborg,1,1
+Malmo FF,Kalmar,1,0
+Sirius,Hacken,3,4
+Djurgarden,Elfsborg,2,0
+AIK,Falkenbergs,2,0
+Goteborg,Hammarby,0,0
+Norrkoping,Sundsvall,2,0
+Ostersunds,Orebro,1,3
+Sundsvall,AIK,1,1
+Hacken,Goteborg,1,2
+Malmo FF,AFC Eskilstuna,5,0
+Helsingborg,Falkenbergs,1,1
+Djurgarden,Ostersunds,3,1
+Kalmar,Elfsborg,1,1
+Hammarby,Norrkoping,2,2
+Orebro,Sirius,0,2
+Malmo FF,Sundsvall,2,1
+Goteborg,Orebro,0,1
+Sirius,Djurgarden,0,2
+Falkenbergs,Kalmar,0,0
+Ostersunds,Sundsvall,1,1
+AFC Eskilstuna,Norrkoping,0,2
+AIK,Hammarby,2,0
+Elfsborg,Hacken,0,0
+Helsingborg,Malmo FF,0,1
+AIK,Norrkoping,0,2
+Orebro,Helsingborg,0,1
+Ostersunds,Goteborg,0,0
+Falkenbergs,Elfsborg,2,1
+Sundsvall,AFC Eskilstuna,0,0
+AIK,Malmo FF,0,0
+Norrkoping,Sirius,0,1
+Djurgarden,Kalmar,2,0
+Hacken,Hammarby,2,0
+Kalmar,AIK,0,1
+Sirius,Ostersunds,1,1
+Goteborg,Sundsvall,2,1
+Malmo FF,Orebro,2,1
+Hammarby,Falkenbergs,6,2
+Norrkoping,Hacken,2,1
+AFC Eskilstuna,Djurgarden,1,1
+Elfsborg,Helsingborg,1,1
+AIK,Elfsborg,3,0
+Falkenbergs,Goteborg,1,1
+AFC Eskilstuna,Kalmar,3,1
+Hacken,Orebro,3,0
+Ostersunds,Norrkoping,2,1
+Djurgarden,Malmo FF,1,1
+Helsingborg,Sirius,1,0
+Sundsvall,Hammarby,2,3
+AIK,Helsingborg,2,0
+Orebro,Falkenbergs,4,0
+Sundsvall,Hacken,0,1
+Goteborg,AFC Eskilstuna,1,0
+Malmo FF,Sirius,1,1
+Norrkoping,Ostersunds,3,0
+Hammarby,Elfsborg,5,2
+Kalmar,Djurgarden,0,1
+Falkenbergs,Sundsvall,2,0
+Sirius,AIK,0,2
+AFC Eskilstuna,Hammarby,1,6
+Djurgarden,Hacken,2,0
+Ostersunds,Malmo FF,0,0
+Goteborg,Norrkoping,0,0
+Elfsborg,Kalmar,2,1
+Helsingborg,Orebro,1,4
+Ostersunds,AFC Eskilstuna,1,2
+Falkenbergs,Helsingborg,1,1
+Kalmar,Hammarby,2,2
+Hacken,Sirius,4,1
+Elfsborg,Djurgarden,0,1
+Orebro,Goteborg,2,2
+Djurgarden,Sirius,4,0
+Sundsvall,Ostersunds,1,1
+AFC Eskilstuna,AIK,2,4
+Hacken,Malmo FF,1,1
+Hammarby,Helsingborg,2,1
+Norrkoping,Elfsborg,2,0
+Goteborg,Falkenbergs,1,1
+Kalmar,Orebro,1,1
+Hammarby,Sundsvall,3,0
+AIK,Kalmar,1,2
+Orebro,Hacken,1,2
+Sirius,Norrkoping,0,2
+Malmo FF,Falkenbergs,5,0
+Djurgarden,AFC Eskilstuna,3,0
+Elfsborg,Ostersunds,4,1
+Helsingborg,Goteborg,1,2
+Sirius,Orebro,3,4
+AFC Eskilstuna,Hacken,0,2
+Norrkoping,Helsingborg,5,0
+Ostersunds,AIK,1,3
+Malmo FF,Djurgarden,0,1
+Falkenbergs,Hammarby,0,2
+Goteborg,Kalmar,4,0
+Sundsvall,Elfsborg,1,2
+Helsingborg,Ostersunds,2,0
+Elfsborg,Sirius,1,1
+Orebro,AFC Eskilstuna,3,1
+AIK,Djurgarden,1,0
+Kalmar,Malmo FF,0,5
+Sundsvall,Goteborg,0,2
+Hacken,Falkenbergs,4,1
+Norrkoping,Hammarby,2,0
+Sirius,Falkenbergs,2,0
+Orebro,Sundsvall,0,0
+Ostersunds,Kalmar,1,2
+Hacken,AIK,1,2
+Hammarby,Goteborg,6,2
+Malmo FF,Norrkoping,1,0
+AFC Eskilstuna,Elfsborg,2,2
+Djurgarden,Helsingborg,2,0
+Sundsvall,Djurgarden,1,4
+Falkenbergs,Ostersunds,1,0
+Kalmar,Hacken,1,1
+Norrkoping,Orebro,3,0
+Goteborg,Sirius,2,1
+Hammarby,AIK,2,1
+Elfsborg,Malmo FF,0,3
+Helsingborg,AFC Eskilstuna,2,1
+Djurgarden,Falkenbergs,1,0
+Kalmar,Sundsvall,0,2
+AIK,Goteborg,1,0
+Hacken,Elfsborg,1,2
+Orebro,Ostersunds,2,0
+Sirius,Hammarby,1,3
+Malmo FF,Helsingborg,3,0
+Norrkoping,AFC Eskilstuna,4,0
+Elfsborg,AIK,1,1
+Goteborg,Hacken,0,0
+Sundsvall,Sirius,2,1
+AFC Eskilstuna,Malmo FF,0,1
+Falkenbergs,Norrkoping,0,2
+Hammarby,Orebro,5,1
+Helsingborg,Kalmar,2,0
+Ostersunds,Djurgarden,1,2
+Sundsvall,Norrkoping,4,4
+AIK,Orebro,2,0
+Sirius,Helsingborg,2,1
+Djurgarden,Hammarby,1,2
+Hacken,Ostersunds,1,1
+Kalmar,AFC Eskilstuna,0,0
+Elfsborg,Falkenbergs,4,0
+Malmo FF,Goteborg,1,0
+AFC Eskilstuna,Sundsvall,1,0
+Helsingborg,Hacken,0,2
+Ostersunds,Sirius,2,0
+Falkenbergs,AIK,1,5
+Hammarby,Malmo FF,2,0
+Norrkoping,Kalmar,1,0
+Goteborg,Djurgarden,0,1
+Orebro,Elfsborg,2,2
+Sundsvall,Helsingborg,1,2
+Kalmar,Falkenbergs,2,3
+AFC Eskilstuna,Sirius,0,0
+Hacken,Norrkoping,0,1
+Ostersunds,Hammarby,1,2
+Djurgarden,Orebro,3,0
+Elfsborg,Goteborg,2,0
+Malmo FF,AIK,2,0
+AIK,Sundsvall,2,1
+Falkenbergs,AFC Eskilstuna,1,0
+Goteborg,Ostersunds,7,1
+Hammarby,Hacken,4,1
+Helsingborg,Elfsborg,1,2
+Norrkoping,Djurgarden,2,2
+Orebro,Malmo FF,0,5
+Sirius,Kalmar,3,0
+Brage,Kalmar,0,2
+Kalmar,Brage,2,2
+Sirius,Djurgarden,0,2
+Goteborg,Elfsborg,0,1
+Norrkoping,Kalmar,2,1
+Hammarby,Ostersunds,2,0
+Orebro,AIK,0,2
+Falkenbergs,Hacken,1,1
+Helsingborg,Varberg,0,3
+Malmo FF,Mjallby,2,0
+AIK,Norrkoping,1,4
+Djurgarden,Orebro,1,2
+Elfsborg,Hammarby,2,2
+Hacken,Malmo FF,1,1
+Kalmar,Helsingborg,4,0
+Mjallby,Falkenbergs,0,1
+Ostersunds,Sirius,0,2
+Varberg,Goteborg,1,2
+Falkenbergs,Kalmar,0,2
+Malmo FF,Varberg,2,2
+Norrkoping,Djurgarden,3,0
+Hammarby,AIK,0,2
+Orebro,Ostersunds,0,0
+Goteborg,Mjallby,2,2
+Helsingborg,Elfsborg,0,0
+Sirius,Hacken,2,2
+Ostersunds,Norrkoping,2,4
+Djurgarden,Kalmar,5,0
+Mjallby,Hammarby,2,1
+Sirius,Goteborg,2,2
+AIK,Malmo FF,2,2
+Elfsborg,Orebro,1,1
+Hacken,Helsingborg,1,0
+Varberg,Falkenbergs,3,1
+Kalmar,Ostersunds,1,2
+Malmo FF,Djurgarden,1,0
+Norrkoping,Elfsborg,1,1
+Falkenbergs,Sirius,1,2
+Goteborg,AIK,1,0
+Hammarby,Varberg,1,0
+Helsingborg,Mjallby,0,1
+Orebro,Hacken,0,0
+AIK,Falkenbergs,1,1
+Elfsborg,Malmo FF,1,0
+Hacken,Hammarby,3,0
+Sirius,Orebro,2,1
+Djurgarden,Helsingborg,2,2
+Norrkoping,Goteborg,3,1
+Ostersunds,Mjallby,0,1
+Varberg,Kalmar,1,0
+Falkenbergs,Ostersunds,0,1
+Hammarby,Sirius,0,0
+Helsingborg,AIK,2,0
+Orebro,Varberg,1,0
+Goteborg,Djurgarden,1,2
+Mjallby,Hacken,3,1
+Kalmar,Elfsborg,1,2
+Malmo FF,Norrkoping,1,1
+AIK,Sirius,1,0
+Djurgarden,Falkenbergs,1,0
+Goteborg,Helsingborg,1,1
+Hacken,Elfsborg,6,0
+Kalmar,Hammarby,1,2
+Norrkoping,Orebro,2,0
+Ostersunds,Malmo FF,1,2
+Varberg,Mjallby,1,0
+Malmo FF,Kalmar,2,1
+Sirius,Norrkoping,4,2
+Varberg,AIK,2,2
+Elfsborg,Djurgarden,1,0
+Falkenbergs,Helsingborg,2,2
+Ostersunds,Hacken,2,2
+Hammarby,Goteborg,1,1
+Orebro,Mjallby,3,1
+Djurgarden,Ostersunds,0,0
+Hacken,AIK,4,0
+Norrkoping,Varberg,2,0
+Goteborg,Falkenbergs,2,2
+Helsingborg,Orebro,1,1
+Kalmar,Sirius,1,1
+Malmo FF,Hammarby,3,0
+Mjallby,Elfsborg,0,5
+Elfsborg,Varberg,3,3
+Falkenbergs,Norrkoping,3,3
+Hacken,Goteborg,0,0
+AIK,Djurgarden,0,1
+Sirius,Malmo FF,2,5
+Hammarby,Orebro,3,0
+Mjallby,Kalmar,2,2
+Ostersunds,Helsingborg,0,0
+Djurgarden,Hacken,3,1
+Orebro,Falkenbergs,1,2
+Helsingborg,Hammarby,1,1
+Goteborg,Malmo FF,0,3
+Varberg,Ostersunds,1,1
+Kalmar,AIK,0,0
+Elfsborg,Sirius,3,3
+Norrkoping,Mjallby,1,1
+Hammarby,Falkenbergs,1,1
+Malmo FF,Helsingborg,4,1
+Varberg,Djurgarden,1,2
+AIK,Elfsborg,1,2
+Goteborg,Ostersunds,2,2
+Hacken,Norrkoping,2,1
+Kalmar,Orebro,0,3
+Mjallby,Sirius,1,1
+Falkenbergs,Malmo FF,0,1
+Hacken,Kalmar,0,2
+Orebro,Goteborg,1,1
+Djurgarden,Hammarby,1,2
+Mjallby,AIK,3,1
+Ostersunds,Elfsborg,0,1
+Helsingborg,Norrkoping,3,2
+Sirius,Varberg,3,3
+Djurgarden,Mjallby,2,1
+Malmo FF,Orebro,2,1
+AIK,Ostersunds,0,1
+Elfsborg,Falkenbergs,4,2
+Kalmar,Goteborg,1,1
+Norrkoping,Hammarby,1,2
+Sirius,Helsingborg,3,1
+Varberg,Hacken,1,3
+Orebro,Djurgarden,0,3
+Falkenbergs,AIK,1,1
+Hammarby,Elfsborg,2,2
+Mjallby,Malmo FF,2,2
+Goteborg,Norrkoping,1,3
+Hacken,Varberg,2,1
+Helsingborg,Sirius,1,2
+Ostersunds,Kalmar,2,0
+Djurgarden,Goteborg,2,2
+Sirius,Hammarby,3,1
+Elfsborg,Ostersunds,0,1
+Malmo FF,Falkenbergs,2,1
+AIK,Helsingborg,2,0
+Varberg,Orebro,2,1
+Kalmar,Mjallby,1,4
+Norrkoping,Hacken,0,1
+Ostersunds,Falkenbergs,2,1
+Varberg,Sirius,2,0
+AIK,Hacken,0,1
+Helsingborg,Djurgarden,3,1
+Mjallby,Goteborg,1,1
+Hammarby,Kalmar,3,3
+Malmo FF,Elfsborg,1,1
+Orebro,Norrkoping,4,3
+Helsingborg,Kalmar,1,1
+Goteborg,Hammarby,0,4
+Norrkoping,Ostersunds,2,2
+Orebro,Malmo FF,3,2
+Djurgarden,Elfsborg,1,1
+Falkenbergs,Goteborg,0,3
+Hammarby,Helsingborg,2,2
+Malmo FF,AIK,0,0
+Mjallby,Varberg,2,3
+Hacken,Sirius,1,1
+Kalmar,Norrkoping,0,2
+Ostersunds,Orebro,0,0
+Elfsborg,Mjallby,2,2
+Falkenbergs,Varberg,2,0
+AIK,Hammarby,3,0
+Ostersunds,Djurgarden,1,1
+Goteborg,Kalmar,1,2
+Norrkoping,Malmo FF,1,1
+Elfsborg,Hacken,1,1
+Mjallby,Orebro,1,0
+Sirius,Falkenbergs,2,1
+Varberg,Helsingborg,1,3
+Orebro,Sirius,2,1
+Falkenbergs,Hammarby,1,3
+Helsingborg,Ostersunds,0,1
+Malmo FF,Hacken,3,0
+Djurgarden,Norrkoping,1,2
+Elfsborg,Goteborg,0,0
+AIK,Mjallby,1,0
+Kalmar,Varberg,1,1
+Hacken,Falkenbergs,3,0
+Orebro,Elfsborg,3,2
+Hammarby,Djurgarden,1,1
+Mjallby,Helsingborg,3,2
+Ostersunds,AIK,1,2
+Goteborg,Varberg,1,0
+Kalmar,Malmo FF,0,4
+Norrkoping,Sirius,1,2
+Falkenbergs,Orebro,2,1
+Elfsborg,Kalmar,3,1
+Hammarby,Mjallby,4,2
+Sirius,Ostersunds,2,3
+AIK,Goteborg,2,0
+Varberg,Norrkoping,1,3
+Djurgarden,Malmo FF,3,2
+Helsingborg,Hacken,0,0
+Djurgarden,Sirius,4,0
+Hacken,Mjallby,2,2
+Kalmar,Falkenbergs,0,0
+Ostersunds,Hammarby,1,3
+Malmo FF,Goteborg,3,1
+Orebro,Helsingborg,3,2
+Norrkoping,AIK,2,2
+Varberg,Elfsborg,0,0
+Hacken,Djurgarden,0,2
+Sirius,AIK,0,0
+Elfsborg,Norrkoping,2,1
+Mjallby,Ostersunds,3,0
+Sirius,Kalmar,2,2
+Falkenbergs,Djurgarden,3,2
+Goteborg,Orebro,0,1
+Hammarby,Hacken,1,1
+AIK,Varberg,1,0
+Helsingborg,Malmo FF,0,1
+Falkenbergs,Elfsborg,1,3
+Hacken,Ostersunds,2,1
+Mjallby,Norrkoping,2,0
+Djurgarden,AIK,0,1
+Orebro,Kalmar,0,1
+Varberg,Hammarby,5,2
+Helsingborg,Goteborg,0,1
+Malmo FF,Sirius,4,0
+AIK,Orebro,0,2
+Elfsborg,Helsingborg,2,1
+Kalmar,Djurgarden,0,3
+Hammarby,Malmo FF,2,2
+Ostersunds,Varberg,0,4
+Goteborg,Hacken,1,1
+Norrkoping,Falkenbergs,4,1
+Sirius,Mjallby,0,1
+Helsingborg,Falkenbergs,0,0
+Ostersunds,Goteborg,0,4
+Varberg,Malmo FF,3,2
+Hacken,Orebro,3,0
+Mjallby,Djurgarden,2,1
+Sirius,Elfsborg,1,1
+AIK,Kalmar,0,1
+Hammarby,Norrkoping,0,1
+Djurgarden,Varberg,1,0
+Elfsborg,AIK,2,2
+Falkenbergs,Mjallby,2,3
+Goteborg,Sirius,2,0
+Kalmar,Hacken,0,0
+Malmo FF,Ostersunds,4,0
+Norrkoping,Helsingborg,3,4
+Orebro,Hammarby,2,1
+Jonkopings,Kalmar,1,3
+Kalmar,Jonkopings,1,0
+Malmo FF,Hammarby,3,2
+Orebro,Goteborg,0,0
+Halmstad,Hacken,1,0
+Mjallby,Varberg,0,0
+Elfsborg,Djurgarden,0,2
+Norrkoping,Sirius,1,1
+AIK,Degerfors,2,0
+Kalmar,Ostersunds,0,0
+Hammarby,Mjallby,2,0
+Degerfors,Kalmar,0,1
+Hacken,Malmo FF,1,2
+Ostersunds,Orebro,5,0
+Djurgarden,Norrkoping,1,0
+Sirius,Halmstad,1,0
+Goteborg,AIK,2,0
+Varberg,Elfsborg,1,3
+Hacken,Sirius,1,2
+Kalmar,Orebro,1,0
+Norrkoping,Halmstad,2,1
+Varberg,Djurgarden,1,3
+AIK,Hammarby,2,0
+Malmo FF,Ostersunds,1,1
+Elfsborg,Mjallby,1,0
+Goteborg,Degerfors,2,3
+Sirius,Kalmar,1,1
+Hammarby,Hacken,1,1
+Halmstad,Goteborg,1,1
+Orebro,Norrkoping,0,3
+Ostersunds,Varberg,1,2
+AIK,Elfsborg,1,0
+Djurgarden,Malmo FF,3,1
+Mjallby,Degerfors,1,0
+Goteborg,Hacken,1,1
+Hammarby,Sirius,3,2
+Elfsborg,Kalmar,2,2
+Orebro,Halmstad,1,0
+Degerfors,Djurgarden,2,0
+Mjallby,Ostersunds,1,0
+Malmo FF,Varberg,3,2
+Norrkoping,AIK,2,0
+Djurgarden,Ostersunds,2,0
+Hacken,Orebro,2,3
+Kalmar,Goteborg,0,0
+Sirius,Elfsborg,0,2
+Varberg,Hammarby,1,3
+Halmstad,Mjallby,1,1
+AIK,Malmo FF,1,1
+Norrkoping,Degerfors,1,1
+Hammarby,Djurgarden,2,2
+Elfsborg,Halmstad,2,3
+Goteborg,Sirius,2,2
+Malmo FF,Kalmar,3,1
+Mjallby,Hacken,1,1
+Ostersunds,AIK,1,2
+Varberg,Norrkoping,2,1
+Degerfors,Orebro,3,0
+Malmo FF,Elfsborg,2,1
+AIK,Mjallby,2,2
+Ostersunds,Sirius,3,0
+Halmstad,Degerfors,0,0
+Kalmar,Hammarby,2,1
+Djurgarden,Goteborg,0,0
+Hacken,Varberg,3,1
+Elfsborg,Norrkoping,1,0
+Orebro,Malmo FF,1,2
+Norrkoping,Malmo FF,3,2
+Degerfors,Ostersunds,3,1
+Hacken,AIK,2,1
+Varberg,Kalmar,1,1
+Hammarby,Halmstad,1,1
+Sirius,Mjallby,2,1
+Djurgarden,Orebro,3,0
+Goteborg,Elfsborg,0,1
+Malmo FF,Sirius,4,0
+AIK,Varberg,2,1
+Hammarby,Degerfors,5,1
+Mjallby,Norrkoping,0,1
+Elfsborg,Orebro,2,1
+Ostersunds,Goteborg,2,3
+Halmstad,Djurgarden,0,0
+Kalmar,Hacken,2,3
+Degerfors,Malmo FF,0,5
+Elfsborg,Ostersunds,3,0
+Norrkoping,Hacken,0,1
+Orebro,Hammarby,0,2
+AIK,Kalmar,2,0
+Goteborg,Mjallby,3,2
+Djurgarden,Sirius,5,1
+Halmstad,Varberg,1,1
+Mjallby,Malmo FF,0,2
+Sirius,Degerfors,2,0
+Kalmar,Djurgarden,0,1
+Hacken,Elfsborg,1,1
+Hammarby,Norrkoping,2,1
+Orebro,AIK,1,1
+Ostersunds,Halmstad,0,1
+Varberg,Goteborg,2,0
+Degerfors,Varberg,1,1
+Djurgarden,Hacken,2,1
+Kalmar,Mjallby,1,0
+Ostersunds,Hammarby,1,1
+AIK,Halmstad,1,0
+Goteborg,Norrkoping,1,2
+Sirius,Orebro,1,2
+Halmstad,Malmo FF,0,0
+Orebro,Mjallby,2,2
+Djurgarden,AIK,1,4
+Hacken,Ostersunds,5,0
+Elfsborg,Degerfors,3,0
+Goteborg,Hammarby,0,0
+Norrkoping,Kalmar,1,2
+Varberg,Sirius,0,0
+Malmo FF,Goteborg,2,3
+Kalmar,Halmstad,1,1
+Degerfors,Hacken,3,0
+Mjallby,Djurgarden,0,1
+Hammarby,Elfsborg,0,2
+Ostersunds,Norrkoping,1,2
+Sirius,AIK,0,1
+Varberg,Orebro,1,0
+Malmo FF,Degerfors,3,0
+Elfsborg,Hammarby,2,2
+Halmstad,Norrkoping,2,1
+AIK,Hacken,2,1
+Orebro,Sirius,1,1
+Djurgarden,Mjallby,0,0
+Goteborg,Varberg,1,2
+Ostersunds,Kalmar,0,1
+AIK,Orebro,2,0
+Degerfors,Mjallby,0,2
+Varberg,Halmstad,1,0
+Hacken,Goteborg,3,2
+Norrkoping,Ostersunds,3,0
+Sirius,Djurgarden,1,0
+Hammarby,Malmo FF,2,1
+Kalmar,Elfsborg,0,3
+Malmo FF,Norrkoping,1,1
+Sirius,Ostersunds,1,0
+Djurgarden,Hammarby,4,1
+Kalmar,Degerfors,4,1
+Goteborg,Halmstad,2,0
+Elfsborg,Hacken,4,2
+Mjallby,AIK,0,0
+Orebro,Varberg,0,3
+Degerfors,Sirius,1,2
+Malmo FF,Djurgarden,1,1
+Hacken,Mjallby,0,0
+Norrkoping,Orebro,3,0
+Ostersunds,Elfsborg,3,1
+Halmstad,Kalmar,0,1
+AIK,Goteborg,3,1
+Hammarby,Varberg,1,0
+Djurgarden,Degerfors,3,2
+Elfsborg,Malmo FF,0,1
+Orebro,Ostersunds,2,0
+Sirius,Norrkoping,2,4
+Hammarby,Goteborg,3,0
+Kalmar,AIK,1,1
+Mjallby,Halmstad,0,0
+Varberg,Hacken,1,1
+Malmo FF,Orebro,5,1
+Mjallby,Elfsborg,4,0
+Ostersunds,Djurgarden,0,3
+Hacken,Hammarby,1,1
+Norrkoping,Varberg,2,1
+Degerfors,AIK,2,1
+Goteborg,Kalmar,0,2
+Halmstad,Sirius,1,1
+Elfsborg,Goteborg,1,0
+Varberg,Degerfors,0,0
+Halmstad,Ostersunds,1,1
+AIK,Djurgarden,1,0
+Kalmar,Sirius,3,1
+Orebro,Hacken,1,2
+Malmo FF,Mjallby,0,1
+Norrkoping,Hammarby,3,1
+Degerfors,Halmstad,2,1
+Ostersunds,Malmo FF,0,3
+Sirius,Varberg,2,1
+Hammarby,AIK,1,0
+Mjallby,Kalmar,4,0
+Goteborg,Orebro,2,0
+Hacken,Norrkoping,5,0
+Djurgarden,Elfsborg,0,3
+Djurgarden,Kalmar,3,2
+Hacken,Halmstad,2,3
+Elfsborg,Sirius,3,0
+Hammarby,Ostersunds,4,3
+Mjallby,Goteborg,1,3
+AIK,Norrkoping,1,0
+Varberg,Malmo FF,1,1
+Orebro,Degerfors,1,2
+Kalmar,Varberg,2,2
+Malmo FF,AIK,1,0
+Ostersunds,Hacken,1,1
+Sirius,Hammarby,0,1
+Degerfors,Elfsborg,1,2
+Goteborg,Djurgarden,3,0
+Halmstad,Orebro,1,1
+Norrkoping,Mjallby,2,2
+Sirius,Malmo FF,2,3
+Varberg,Ostersunds,3,0
+Hacken,Kalmar,1,4
+Norrkoping,Elfsborg,3,2
+Orebro,Djurgarden,0,1
+Degerfors,Goteborg,0,1
+Halmstad,AIK,1,0
+Mjallby,Hammarby,2,0
+Elfsborg,Varberg,0,0
+Djurgarden,Halmstad,1,0
+Mjallby,Sirius,2,3
+AIK,Ostersunds,3,0
+Hacken,Degerfors,2,0
+Hammarby,Orebro,3,2
+Goteborg,Malmo FF,0,2
+Kalmar,Norrkoping,1,0
+Malmo FF,Hacken,2,2
+Degerfors,Hammarby,1,4
+Halmstad,Elfsborg,0,1
+Sirius,Goteborg,3,3
+Varberg,AIK,0,1
+Norrkoping,Djurgarden,1,1
+Orebro,Kalmar,1,2
+Ostersunds,Mjallby,0,2
+Degerfors,Norrkoping,4,1
+Djurgarden,Varberg,2,3
+Goteborg,Ostersunds,4,0
+Halmstad,Hammarby,0,0
+Kalmar,Malmo FF,0,1
+Elfsborg,AIK,2,4
+Mjallby,Orebro,0,0
+Sirius,Hacken,3,0
+AIK,Sirius,4,2
+Hacken,Djurgarden,0,1
+Hammarby,Kalmar,5,3
+Malmo FF,Halmstad,0,0
+Norrkoping,Goteborg,1,2
+Orebro,Elfsborg,2,3
+Ostersunds,Degerfors,0,1
+Varberg,Mjallby,0,3
+Helsingborg,Halmstad,0,1
+Halmstad,Helsingborg,1,3
+Hammarby,Helsingborg,2,1
+Hacken,AIK,4,2
+Goteborg,Varnamo,2,1
+Sirius,Sundsvall,2,1
+Kalmar,Malmo FF,0,1
+Norrkoping,Varberg,0,1
+Elfsborg,Mjallby,0,2
+Djurgarden,Degerfors,3,1
+Sundsvall,Hammarby,1,5
+Degerfors,Hacken,1,2
+Helsingborg,Goteborg,0,1
+Varberg,Kalmar,0,3
+AIK,Norrkoping,1,0
+Mjallby,Djurgarden,1,0
+Varnamo,Sirius,0,0
+Malmo FF,Elfsborg,1,1
+Hammarby,Mjallby,2,0
+Djurgarden,Norrkoping,2,1
+Varberg,Sundsvall,2,0
+Kalmar,Degerfors,2,0
+Malmo FF,AIK,3,0
+Elfsborg,Varnamo,4,1
+Hacken,Goteborg,0,2
+Sirius,Helsingborg,1,0
+AIK,Varberg,1,0
+Goteborg,Djurgarden,1,1
+Mjallby,Sirius,3,0
+Norrkoping,Hacken,1,1
+Sundsvall,Kalmar,1,0
+Degerfors,Hammarby,0,1
+Helsingborg,Elfsborg,1,0
+Varnamo,Malmo FF,0,0
+AIK,Djurgarden,1,0
+Varberg,Mjallby,0,0
+Helsingborg,Hacken,1,1
+Elfsborg,Sundsvall,3,1
+Sirius,Hammarby,0,3
+Varnamo,Degerfors,2,0
+Malmo FF,Goteborg,1,0
+Kalmar,Norrkoping,1,2
+Djurgarden,Sirius,4,0
+Degerfors,Elfsborg,0,6
+Mjallby,Helsingborg,2,1
+Hacken,Varberg,3,1
+Sundsvall,AIK,0,2
+Goteborg,Kalmar,1,2
+Norrkoping,Varnamo,2,0
+Hammarby,Malmo FF,0,0
+Djurgarden,Helsingborg,2,2
+AIK,Goteborg,1,0
+Malmo FF,Mjallby,2,0
+Kalmar,Hammarby,2,0
+Varberg,Sirius,0,2
+Helsingborg,Norrkoping,0,1
+Sundsvall,Degerfors,2,3
+Varnamo,Hacken,1,2
+Elfsborg,Djurgarden,0,0
+AIK,Malmo FF,2,0
+Mjallby,Varnamo,1,1
+Sirius,Elfsborg,2,0
+Hacken,Kalmar,3,1
+Hammarby,AIK,3,3
+Degerfors,Helsingborg,2,1
+Goteborg,Varberg,1,1
+Norrkoping,Sundsvall,5,1
+Djurgarden,Malmo FF,4,0
+AIK,Sirius,2,2
+Helsingborg,Varnamo,1,4
+Elfsborg,Goteborg,3,1
+Hammarby,Norrkoping,3,0
+Varberg,Degerfors,2,1
+Kalmar,Djurgarden,1,0
+Malmo FF,Hacken,1,2
+Sundsvall,Mjallby,2,0
+Goteborg,Sundsvall,2,0
+Mjallby,Kalmar,1,1
+Hacken,Sirius,4,3
+Degerfors,Malmo FF,0,2
+Djurgarden,Varberg,4,0
+Norrkoping,Elfsborg,2,2
+Helsingborg,AIK,1,2
+Varnamo,Hammarby,1,0
+Degerfors,AIK,1,1
+Hammarby,Hacken,2,2
+Mjallby,Norrkoping,1,1
+Sundsvall,Djurgarden,2,5
+Elfsborg,Varberg,4,1
+Kalmar,Varnamo,1,0
+Sirius,Goteborg,1,2
+Malmo FF,Helsingborg,2,1
+Sundsvall,Malmo FF,2,1
+AIK,Mjallby,0,1
+Helsingborg,Kalmar,1,1
+Djurgarden,Hammarby,1,0
+Varberg,Varnamo,3,0
+Hacken,Elfsborg,1,1
+Norrkoping,Sirius,0,1
+Goteborg,Degerfors,2,0
+Malmo FF,Varberg,3,0
+Degerfors,Norrkoping,1,1
+Elfsborg,AIK,2,2
+Mjallby,Hacken,1,2
+Kalmar,Sirius,1,1
+Hammarby,Goteborg,3,0
+Helsingborg,Djurgarden,0,2
+Varnamo,Sundsvall,1,1
+Norrkoping,Malmo FF,0,2
+Djurgarden,Varnamo,5,0
+AIK,Kalmar,1,0
+Goteborg,Mjallby,1,1
+Hammarby,Elfsborg,3,0
+Sirius,Degerfors,2,0
+Sundsvall,Hacken,1,5
+Varberg,Helsingborg,0,0
+Malmo FF,Sirius,3,1
+Mjallby,Degerfors,2,1
+Helsingborg,Sundsvall,1,0
+Varnamo,AIK,2,3
+Hacken,Djurgarden,1,2
+Kalmar,Elfsborg,1,0
+Norrkoping,Goteborg,0,2
+Varberg,Hammarby,0,3
+Degerfors,Kalmar,2,1
+Sundsvall,Varberg,1,3
+Elfsborg,Hacken,4,4
+Hammarby,Varnamo,1,2
+Sirius,Mjallby,0,1
+Goteborg,Norrkoping,2,0
+Norrkoping,Degerfors,2,0
+Hammarby,Sundsvall,3,0
+Kalmar,AIK,1,0
+Sirius,Malmo FF,2,1
+Mjallby,Elfsborg,1,1
+Varnamo,Djurgarden,0,0
+Hacken,Helsingborg,5,0
+Varberg,Goteborg,0,4
+Helsingborg,Sirius,0,0
+AIK,Varnamo,2,2
+Djurgarden,Kalmar,3,2
+Malmo FF,Sundsvall,3,1
+Degerfors,Varberg,1,1
+Elfsborg,Norrkoping,1,1
+Hacken,Mjallby,1,0
+Goteborg,Hammarby,0,1
+Varberg,Djurgarden,2,2
+Mjallby,Malmo FF,1,1
+Varnamo,Elfsborg,1,1
+Norrkoping,AIK,2,4
+Sundsvall,Helsingborg,1,2
+Kalmar,Goteborg,1,0
+Sirius,Hacken,0,1
+Hammarby,Degerfors,5,1
+Hacken,Varnamo,4,1
+Degerfors,Sundsvall,3,1
+AIK,Hammarby,2,2
+Goteborg,Sirius,2,0
+Varberg,Norrkoping,1,1
+Helsingborg,Mjallby,0,1
+Malmo FF,Kalmar,0,1
+Djurgarden,Elfsborg,2,1
+Hacken,Degerfors,2,2
+Sirius,Djurgarden,0,1
+AIK,Sundsvall,4,0
+Elfsborg,Malmo FF,3,2
+Kalmar,Varberg,1,0
+Mjallby,Goteborg,1,4
+Varnamo,Helsingborg,3,2
+Norrkoping,Hammarby,4,1
+Sirius,Varnamo,2,3
+Degerfors,Mjallby,0,0
+Hammarby,Djurgarden,0,0
+Sundsvall,Elfsborg,0,2
+Malmo FF,Norrkoping,2,1
+Varberg,AIK,2,0
+Kalmar,Hacken,1,1
+Goteborg,Helsingborg,1,3
+Hacken,Hammarby,1,1
+Norrkoping,Kalmar,2,2
+Varnamo,Varberg,1,0
+Elfsborg,Sirius,3,0
+Helsingborg,Malmo FF,1,2
+Mjallby,Sundsvall,1,1
+AIK,Degerfors,1,1
+Djurgarden,Goteborg,3,0
+Malmo FF,Hammarby,0,0
+Degerfors,Djurgarden,3,0
+Sundsvall,Norrkoping,1,3
+Varberg,Hacken,1,1
+Kalmar,Helsingborg,2,0
+Sirius,AIK,1,1
+Varnamo,Mjallby,2,1
+Goteborg,Elfsborg,1,3
+Degerfors,Sirius,0,0
+Elfsborg,Kalmar,0,2
+Malmo FF,Varnamo,0,0
+Sundsvall,Goteborg,3,2
+AIK,Helsingborg,2,0
+Djurgarden,Hacken,0,1
+Norrkoping,Mjallby,2,2
+Hammarby,Varberg,5,1
+Elfsborg,Degerfors,1,1
+Hacken,Sundsvall,4,1
+Helsingborg,Varberg,1,3
+Varnamo,Kalmar,1,3
+Sirius,Norrkoping,2,0
+Djurgarden,AIK,1,2
+Mjallby,Hammarby,0,3
+Goteborg,Malmo FF,2,1
+Varberg,Elfsborg,0,3
+AIK,Hacken,1,2
+Norrkoping,Helsingborg,2,0
+Sundsvall,Varnamo,1,2
+Malmo FF,Djurgarden,2,3
+Degerfors,Goteborg,3,1
+Kalmar,Mjallby,1,2
+Hammarby,Sirius,1,1
+Elfsborg,Hammarby,2,1
+Helsingborg,Degerfors,1,2
+Hacken,Malmo FF,2,1
+Mjallby,Varberg,4,1
+Sirius,Kalmar,0,0
+Varnamo,Norrkoping,1,1
+Djurgarden,Sundsvall,4,0
+Goteborg,AIK,1,0
+Degerfors,Varnamo,0,0
+Goteborg,Hacken,0,4
+Mjallby,AIK,1,2
+Sundsvall,Sirius,2,3
+Hammarby,Kalmar,4,2
+Varberg,Malmo FF,2,5
+Elfsborg,Helsingborg,3,0
+Norrkoping,Djurgarden,0,1
+AIK,Elfsborg,0,1
+Djurgarden,Mjallby,0,1
+Hacken,Norrkoping,3,3
+Helsingborg,Hammarby,0,2
+Kalmar,Sundsvall,4,0
+Malmo FF,Degerfors,2,2
+Sirius,Varberg,2,3
+Varnamo,Goteborg,1,4
+Oster,Varberg,1,2
+Varberg,Oster,2,1
+Malmo FF,Kalmar,1,0
+Djurgarden,Brommapojkarna,3,1
+Hammarby,Degerfors,3,1
+Norrkoping,Sirius,1,1
+Goteborg,Varnamo,0,1
+Halmstad,AIK,2,1
+Mjallby,Varberg,2,2
+Elfsborg,Hacken,0,2
+Brommapojkarna,Malmo FF,1,2
+Degerfors,Halmstad,3,1
+Hacken,Hammarby,3,1
+Kalmar,Goteborg,2,0
+Sirius,Djurgarden,0,0
+Varnamo,Mjallby,0,1
+AIK,Norrkoping,0,3
+Varberg,Elfsborg,0,0
+Elfsborg,Brommapojkarna,5,0
+Hacken,Kalmar,1,3
+AIK,Hammarby,2,0
+Norrkoping,Varnamo,2,1
+Halmstad,Djurgarden,2,0
+Mjallby,Degerfors,2,0
+Varberg,Sirius,1,1
+Goteborg,Malmo FF,0,1
+Hammarby,Varberg,2,0
+Degerfors,Elfsborg,1,2
+Djurgarden,Goteborg,1,0
+Kalmar,Halmstad,2,0
+Sirius,Hacken,1,4
+Brommapojkarna,Mjallby,2,0
+Varnamo,AIK,1,0
+Malmo FF,Norrkoping,3,0
+AIK,Sirius,0,0
+Mjallby,Elfsborg,0,1
+Hacken,Varnamo,3,1
+Halmstad,Brommapojkarna,0,2
+Malmo FF,Hammarby,4,2
+Varberg,Kalmar,0,0
+Degerfors,Djurgarden,2,1
+Goteborg,Norrkoping,1,1
+Elfsborg,Halmstad,6,1
+Hacken,Djurgarden,4,1
+Kalmar,Sirius,2,2
+Mjallby,AIK,0,0
+Goteborg,Degerfors,6,0
+Norrkoping,Hammarby,2,0
+Varberg,Malmo FF,0,6
+Varnamo,Brommapojkarna,0,1
+Malmo FF,AIK,3,1
+Halmstad,Hacken,1,0
+Brommapojkarna,Goteborg,0,0
+Degerfors,Norrkoping,0,2
+Sirius,Elfsborg,3,4
+Djurgarden,Kalmar,3,1
+Hammarby,Mjallby,0,0
+Varnamo,Varberg,3,1
+Hacken,Degerfors,6,1
+Varberg,Norrkoping,1,3
+Elfsborg,Varnamo,2,0
+Hammarby,Djurgarden,4,3
+Mjallby,Sirius,3,0
+Halmstad,Malmo FF,0,1
+Kalmar,Brommapojkarna,1,3
+AIK,Goteborg,2,2
+Degerfors,AIK,2,1
+Brommapojkarna,Varberg,2,1
+Djurgarden,Mjallby,2,0
+Malmo FF,Hacken,2,2
+Goteborg,Hammarby,1,1
+Sirius,Halmstad,1,2
+Varnamo,Kalmar,0,1
+Norrkoping,Elfsborg,1,2
+Djurgarden,Hacken,1,0
+Degerfors,Hammarby,2,2
+Mjallby,Halmstad,0,2
+Brommapojkarna,Sirius,1,2
+Djurgarden,AIK,1,0
+Kalmar,Norrkoping,2,1
+Elfsborg,Malmo FF,3,0
+Degerfors,Varberg,1,1
+Hammarby,Varnamo,0,2
+Hacken,Goteborg,4,1
+Goteborg,Mjallby,0,1
+Norrkoping,Brommapojkarna,0,2
+AIK,Kalmar,1,1
+Halmstad,Hammarby,0,0
+Elfsborg,Djurgarden,1,1
+Sirius,Varnamo,2,0
+Varberg,Hacken,0,2
+Malmo FF,Degerfors,5,0
+Hammarby,Brommapojkarna,2,1
+Kalmar,Degerfors,2,1
+Varnamo,Malmo FF,1,3
+Varberg,Halmstad,1,2
+AIK,Elfsborg,1,2
+Sirius,Goteborg,2,0
+Djurgarden,Norrkoping,2,2
+Hacken,Mjallby,3,0
+Brommapojkarna,AIK,0,2
+Degerfors,Varnamo,0,2
+Malmo FF,Sirius,3,0
+Halmstad,Goteborg,0,0
+Norrkoping,Hacken,2,2
+Djurgarden,Varberg,2,0
+Elfsborg,Hammarby,2,0
+Mjallby,Kalmar,1,1
+AIK,Hacken,1,2
+Varnamo,Djurgarden,1,2
+Brommapojkarna,Degerfors,1,2
+Malmo FF,Mjallby,1,2
+Sirius,Hammarby,1,2
+Kalmar,Elfsborg,0,4
+Goteborg,Varberg,1,2
+Norrkoping,Halmstad,1,2
+Halmstad,Varnamo,2,2
+Degerfors,Sirius,0,3
+Hacken,Brommapojkarna,4,2
+Elfsborg,Goteborg,1,1
+Hammarby,Kalmar,3,1
+Mjallby,Norrkoping,1,2
+Djurgarden,Malmo FF,2,0
+Varberg,AIK,1,2
+Brommapojkarna,Hammarby,1,0
+Djurgarden,Elfsborg,0,4
+Varnamo,Hacken,1,0
+AIK,Malmo FF,0,0
+Norrkoping,Degerfors,1,0
+Goteborg,Halmstad,0,0
+Kalmar,Varberg,1,0
+Sirius,Mjallby,2,3
+Hacken,Elfsborg,3,1
+Degerfors,Brommapojkarna,2,0
+Halmstad,Varberg,0,5
+Hammarby,Norrkoping,2,1
+Mjallby,Djurgarden,0,1
+Goteborg,Kalmar,2,0
+Malmo FF,Varnamo,3,1
+Sirius,AIK,0,1
+Brommapojkarna,Varnamo,0,2
+Elfsborg,Sirius,1,0
+Kalmar,AIK,1,1
+Malmo FF,Halmstad,3,0
+Norrkoping,Goteborg,3,0
+Varberg,Mjallby,0,3
+AIK,Brommapojkarna,2,2
+Goteborg,Djurgarden,2,1
+Sirius,Kalmar,3,0
+Hacken,Varberg,2,0
+Halmstad,Norrkoping,1,3
+Hammarby,Elfsborg,1,0
+Mjallby,Malmo FF,1,0
+Varnamo,Degerfors,0,1
+Brommapojkarna,Halmstad,3,1
+Degerfors,Goteborg,1,2
+Varberg,Varnamo,0,3
+Hacken,Sirius,3,2
+Malmo FF,Djurgarden,0,0
+Elfsborg,Mjallby,2,0
+Kalmar,Hammarby,0,0
+Norrkoping,AIK,3,1
+Brommapojkarna,Kalmar,2,3
+Mjallby,Hammarby,0,3
+Varnamo,Halmstad,0,0
+Djurgarden,Degerfors,4,1
+Goteborg,Hacken,4,2
+AIK,Varberg,3,0
+Elfsborg,Norrkoping,3,2
+Sirius,Malmo FF,1,3
+Halmstad,Sirius,2,1
+Varnamo,Elfsborg,1,0
+Degerfors,Hacken,1,0
+Hammarby,AIK,4,2
+Kalmar,Mjallby,0,2
+Malmo FF,Goteborg,2,2
+Norrkoping,Djurgarden,0,2
+Varberg,Brommapojkarna,4,3
+Goteborg,Brommapojkarna,1,0
+Sirius,Varberg,7,0
+Djurgarden,Varnamo,1,2
+Hammarby,Malmo FF,1,3
+Elfsborg,Kalmar,0,3
+Hacken,Halmstad,3,2
+Norrkoping,Mjallby,0,2
+AIK,Degerfors,2,0
+Degerfors,Malmo FF,1,2
+Brommapojkarna,Norrkoping,2,2
+AIK,Djurgarden,2,0
+Mjallby,Goteborg,0,1
+Kalmar,Hacken,1,0
+Varberg,Hammarby,0,1
+Halmstad,Elfsborg,0,1
+Varnamo,Sirius,0,1
+Djurgarden,Halmstad,1,0
+Norrkoping,Kalmar,1,0
+Hacken,AIK,2,0
+Sirius,Degerfors,3,2
+Hammarby,Goteborg,1,1
+Mjallby,Varnamo,2,3
+Elfsborg,Varberg,2,1
+Malmo FF,Brommapojkarna,2,1
+AIK,Mjallby,1,0
+Halmstad,Degerfors,0,0
+Goteborg,Sirius,0,1
+Brommapojkarna,Elfsborg,0,3
+Kalmar,Malmo FF,1,0
+Varnamo,Norrkoping,2,1
+Hammarby,Hacken,2,2
+Varberg,Djurgarden,0,1
+Degerfors,Kalmar,1,3
+Sirius,Brommapojkarna,3,2
+Djurgarden,Hammarby,0,0
+Halmstad,Mjallby,1,1
+Hacken,Norrkoping,4,1
+Malmo FF,Varberg,5,0
+Varnamo,Goteborg,3,1
+Elfsborg,AIK,3,0
+Brommapojkarna,Djurgarden,1,2
+Varberg,Degerfors,1,1
+Kalmar,Varnamo,1,3
+Mjallby,Hacken,2,1
+Norrkoping,Malmo FF,0,1
+AIK,Halmstad,1,1
+Hammarby,Sirius,2,2
+Goteborg,Elfsborg,1,2
+Varnamo,Hammarby,0,0
+Djurgarden,Sirius,2,4
+Hacken,Malmo FF,4,2
+Halmstad,Kalmar,3,0
+Elfsborg,Degerfors,2,2
+Mjallby,Brommapojkarna,1,2
+Norrkoping,Varberg,4,3
+Goteborg,AIK,1,1
+AIK,Varnamo,3,1
+Brommapojkarna,Hacken,2,1
+Degerfors,Mjallby,1,2
+Hammarby,Halmstad,2,2
+Kalmar,Djurgarden,2,1
+Malmo FF,Elfsborg,1,0
+Sirius,Norrkoping,2,0
+Varberg,Goteborg,1,2
+Norrkoping,Malmo FF,1,5
+GAIS,Brommapojkarna,0,4
+Hammarby,Kalmar,3,1
+Hacken,Mjallby,0,1
+Goteborg,Djurgarden,1,4
+Sirius,Halmstad,3,0
+AIK,Vasteras SK,1,0
+Elfsborg,Varnamo,2,2
+Brommapojkarna,AIK,2,2
+Mjallby,Norrkoping,3,0
+Halmstad,Goteborg,1,0
+Malmo FF,Hammarby,2,0
+Vasteras SK,Elfsborg,0,1
+Kalmar,Sirius,1,2
+Varnamo,GAIS,1,2
+Djurgarden,Hacken,3,3
+Mjallby,AIK,1,1
+Vasteras SK,Halmstad,0,1
+Kalmar,Goteborg,0,1
+Norrkoping,GAIS,1,0
+Djurgarden,Sirius,2,0
+Hacken,Brommapojkarna,4,3
+Varnamo,Malmo FF,0,4
+Hammarby,Elfsborg,3,0
+Goteborg,Norrkoping,1,1
+Sirius,Varnamo,0,1
+Malmo FF,Vasteras SK,1,0
+AIK,Djurgarden,2,0
+GAIS,Mjallby,2,1
+Hacken,Hammarby,2,1
+Halmstad,Brommapojkarna,0,2
+Elfsborg,Kalmar,1,2
+AIK,Varnamo,2,0
+Brommapojkarna,Sirius,1,1
+Goteborg,Hacken,0,1
+Djurgarden,Malmo FF,0,1
+Halmstad,Hammarby,2,1
+Kalmar,GAIS,2,3
+Norrkoping,Elfsborg,4,2
+Vasteras SK,Mjallby,2,1
+Malmo FF,AIK,5,0
+Varnamo,Halmstad,1,3
+Djurgarden,GAIS,1,0
+Hacken,Norrkoping,1,2
+Brommapojkarna,Goteborg,0,3
+Elfsborg,Sirius,2,0
+Mjallby,Kalmar,3,2
+Hammarby,Vasteras SK,2,1
+Kalmar,Halmstad,5,2
+Mjallby,Brommapojkarna,1,1
+Sirius,Hacken,0,3
+Elfsborg,Malmo FF,3,1
+Vasteras SK,Djurgarden,0,2
+AIK,Norrkoping,6,2
+Hammarby,Varnamo,1,2
+GAIS,Goteborg,2,1
+AIK,Sirius,1,3
+Halmstad,Mjallby,1,3
+GAIS,Vasteras SK,2,0
+Hacken,Kalmar,3,1
+Norrkoping,Hammarby,1,2
+Djurgarden,Elfsborg,2,0
+Varnamo,Brommapojkarna,1,1
+Goteborg,Malmo FF,0,3
+Elfsborg,AIK,6,1
+Halmstad,Hacken,3,0
+Mjallby,Hammarby,3,0
+Vasteras SK,Varnamo,0,2
+Brommapojkarna,Djurgarden,0,5
+Kalmar,Norrkoping,1,1
+Malmo FF,GAIS,1,0
+Sirius,Goteborg,2,2
+Brommapojkarna,Norrkoping,2,1
+Hammarby,AIK,2,1
+GAIS,Elfsborg,2,1
+Varnamo,Kalmar,0,2
+Djurgarden,Halmstad,2,0
+Sirius,Vasteras SK,0,0
+Hacken,Malmo FF,2,2
+Goteborg,Mjallby,1,0
+Elfsborg,Halmstad,2,0
+Malmo FF,Kalmar,5,0
+GAIS,Hacken,3,0
+Mjallby,Djurgarden,1,3
+Hammarby,Sirius,3,0
+Vasteras SK,Brommapojkarna,1,1
+Norrkoping,Varnamo,0,4
+AIK,Goteborg,5,2
+Malmo FF,Elfsborg,2,1
+Mjallby,Hacken,2,1
+Brommapojkarna,Malmo FF,2,2
+Goteborg,Elfsborg,1,0
+Halmstad,GAIS,4,0
+Sirius,Norrkoping,5,1
+Djurgarden,Hammarby,0,3
+Kalmar,Vasteras SK,0,4
+Hacken,AIK,4,1
+Varnamo,Mjallby,1,2
+Elfsborg,Brommapojkarna,3,0
+Mjallby,Sirius,3,2
+AIK,Kalmar,1,2
+Varnamo,Goteborg,2,0
+GAIS,Hammarby,0,0
+Malmo FF,Halmstad,5,1
+Norrkoping,Djurgarden,1,3
+Vasteras SK,Hacken,1,2
+Mjallby,Malmo FF,2,1
+Sirius,GAIS,3,1
+Djurgarden,Varnamo,1,0
+Hacken,Elfsborg,3,5
+Kalmar,Brommapojkarna,0,1
+Vasteras SK,Norrkoping,2,1
+Halmstad,AIK,1,2
+Hammarby,Goteborg,0,1
+Sirius,Malmo FF,3,4
+Kalmar,Djurgarden,2,1
+Varnamo,Hacken,2,2
+Brommapojkarna,Hammarby,0,2
+Norrkoping,Halmstad,1,0
+Elfsborg,Mjallby,3,1
+Goteborg,Vasteras SK,1,1
+GAIS,AIK,2,0
+Norrkoping,Kalmar,2,0
+Goteborg,Brommapojkarna,3,4
+Malmo FF,Sirius,0,1
+Halmstad,Varnamo,1,0
+Elfsborg,Djurgarden,1,2
+Hacken,Vasteras SK,4,0
+Hammarby,Mjallby,3,0
+AIK,GAIS,0,1
+GAIS,Norrkoping,0,1
+Vasteras SK,AIK,1,2
+Brommapojkarna,Halmstad,4,1
+Djurgarden,Goteborg,1,1
+Varnamo,Sirius,2,4
+Kalmar,Hammarby,1,4
+Halmstad,Malmo FF,0,1
+Norrkoping,Vasteras SK,2,1
+Goteborg,Varnamo,0,0
+AIK,Mjallby,1,0
+Elfsborg,GAIS,2,1
+Sirius,Kalmar,3,1
+Hammarby,Brommapojkarna,3,3
+Goteborg,Sirius,1,1
+Malmo FF,Norrkoping,2,1
+Varnamo,Hammarby,0,3
+Vasteras SK,Kalmar,2,1
+Brommapojkarna,Hacken,1,3
+Djurgarden,AIK,0,2
+Mjallby,Elfsborg,1,1
+GAIS,Halmstad,3,1
+Kalmar,Malmo FF,2,2
+Elfsborg,Goteborg,3,1
+Sirius,Djurgarden,0,1
+AIK,Brommapojkarna,2,1
+Hacken,Varnamo,1,1
+Halmstad,Vasteras SK,0,1
+Hammarby,GAIS,0,0
+Norrkoping,Mjallby,1,2
+GAIS,Kalmar,1,1
+Varnamo,AIK,0,1
+Mjallby,Halmstad,3,1
+Vasteras SK,Sirius,1,2
+Brommapojkarna,Elfsborg,3,3
+Malmo FF,Djurgarden,4,0
+Goteborg,Hammarby,0,1
+Norrkoping,Hacken,3,3
+Vasteras SK,GAIS,2,3
+AIK,Malmo FF,0,0
+Djurgarden,Mjallby,1,1
+Sirius,Brommapojkarna,3,2
+Hacken,Goteborg,3,3
+Halmstad,Elfsborg,0,1
+Kalmar,Varnamo,3,1
+Hammarby,Norrkoping,1,1
+GAIS,Malmo FF,0,0
+Elfsborg,Norrkoping,2,2
+Hacken,Djurgarden,1,2
+Kalmar,AIK,0,1
+Brommapojkarna,Mjallby,0,0
+Elfsborg,Hammarby,0,0
+GAIS,Djurgarden,3,0
+Varnamo,Vasteras SK,2,0
+Malmo FF,Hacken,4,0
+Goteborg,Halmstad,1,1
+Djurgarden,Brommapojkarna,2,1
+Mjallby,Varnamo,1,1
+Sirius,AIK,0,1
+Halmstad,Kalmar,2,2
+Hammarby,Hacken,2,0
+Vasteras SK,Goteborg,1,1
+AIK,Hammarby,1,0
+Halmstad,Norrkoping,0,0
+Varnamo,Djurgarden,1,1
+Hacken,Sirius,2,0
+Kalmar,Elfsborg,1,3
+Malmo FF,Mjallby,2,0
+Brommapojkarna,Vasteras SK,2,1
+Goteborg,GAIS,2,0
+Norrkoping,Sirius,0,2
+Hammarby,Halmstad,1,0
+Mjallby,Vasteras SK,2,1
+Brommapojkarna,GAIS,2,0
+AIK,Hacken,0,2
+Djurgarden,Kalmar,1,1
+Malmo FF,Varnamo,1,1
+Norrkoping,Goteborg,0,2
+Sirius,Elfsborg,4,1
+Elfsborg,Hacken,1,3
+Vasteras SK,Malmo FF,1,1
+Halmstad,Sirius,3,1
+Kalmar,Mjallby,0,3
+GAIS,Varnamo,0,0
+Hammarby,Djurgarden,2,0
+Norrkoping,Brommapojkarna,1,1
+Goteborg,AIK,1,2
+Mjallby,GAIS,1,1
+Sirius,Hammarby,0,3
+Brommapojkarna,Kalmar,1,2
+AIK,Elfsborg,2,1
+Varnamo,Norrkoping,1,2
+Hacken,Halmstad,0,1
+Djurgarden,Vasteras SK,2,1
+Malmo FF,Goteborg,2,1
+Elfsborg,Vasteras SK,1,0
+Hammarby,Malmo FF,2,2
+Goteborg,Kalmar,1,1
+Brommapojkarna,Varnamo,0,1
+Hacken,GAIS,1,2
+Halmstad,Djurgarden,1,0
+Sirius,Mjallby,1,1
+Norrkoping,AIK,1,0
+AIK,Halmstad,5,1
+Djurgarden,Norrkoping,3,1
+GAIS,Sirius,2,1
+Kalmar,Hacken,1,0
+Malmo FF,Brommapojkarna,2,1
+Mjallby,Goteborg,1,0
+Varnamo,Elfsborg,0,0
+Vasteras SK,Hammarby,1,0
+Landskrona,Varnamo,2,2
+Varnamo,Landskrona,1,0
+Djurgarden,Malmo FF,0,1
+Hacken,Brommapojkarna,2,0
+Elfsborg,Mjallby,2,2
+Hammarby,Goteborg,4,0
+Halmstad,Degerfors,0,5
+Norrkoping,Oster,4,3
+Varnamo,Sirius,1,2
+GAIS,AIK,0,1
+Goteborg,Halmstad,1,0
+Sirius,Djurgarden,0,1
+Oster,Hacken,2,0
+AIK,Norrkoping,4,3
+Brommapojkarna,Hammarby,0,2
+Degerfors,Varnamo,1,0
+Mjallby,GAIS,1,1
+Malmo FF,Elfsborg,2,1
+Hacken,Mjallby,0,3
+Elfsborg,Norrkoping,2,0
+Hammarby,Djurgarden,2,0
+Varnamo,Goteborg,0,1
+GAIS,Degerfors,2,0
+Sirius,Brommapojkarna,0,3
+Halmstad,Oster,1,0
+AIK,Malmo FF,0,0
+Malmo FF,Sirius,1,1
+Mjallby,Hammarby,3,1
+Degerfors,Elfsborg,0,1
+Norrkoping,Halmstad,3,0
+Brommapojkarna,Varnamo,3,2
+Oster,AIK,0,1
+Goteborg,Hacken,2,3
+Djurgarden,GAIS,0,0
+Elfsborg,Sirius,4,3
+Hacken,Degerfors,3,4
+Halmstad,Mjallby,1,3
+Hammarby,Malmo FF,2,0
+Djurgarden,Oster,1,0
+GAIS,Brommapojkarna,1,1
+Norrkoping,Goteborg,2,3
+Varnamo,AIK,1,2
+Hacken,Hammarby,1,1
+Mjallby,Degerfors,4,1
+AIK,Elfsborg,2,0
+Sirius,Halmstad,1,1
+Varnamo,Norrkoping,1,3
+Goteborg,GAIS,1,1
+Malmo FF,Oster,2,0
+Degerfors,Sirius,1,1
+Halmstad,Varnamo,4,2
+Djurgarden,AIK,1,1
+Norrkoping,Hacken,0,2
+Mjallby,Goteborg,1,0
+Oster,Hammarby,0,3
+Malmo FF,Brommapojkarna,1,2
+Elfsborg,GAIS,2,0
+Brommapojkarna,Halmstad,0,1
+GAIS,Varnamo,1,1
+Sirius,Hacken,2,0
+AIK,Mjallby,2,1
+Hammarby,Norrkoping,1,1
+Degerfors,Malmo FF,1,4
+Oster,Elfsborg,0,1
+Goteborg,Djurgarden,1,2
+Hacken,AIK,3,3
+Halmstad,GAIS,1,3
+Hammarby,Sirius,3,2
+Djurgarden,Mjallby,1,3
+Elfsborg,Brommapojkarna,4,3
+Goteborg,Oster,0,1
+Norrkoping,Degerfors,1,2
+Varnamo,Malmo FF,2,2
+AIK,Hammarby,0,0
+Hacken,Varnamo,2,0
+Malmo FF,Halmstad,3,0
+Oster,GAIS,1,1
+Degerfors,Goteborg,1,3
+Mjallby,Brommapojkarna,1,0
+Sirius,Norrkoping,1,2
+Elfsborg,Djurgarden,4,0
+Hammarby,Mjallby,1,2
+Malmo FF,AIK,0,0
+Varnamo,Oster,1,1
+GAIS,Sirius,2,1
+Goteborg,Malmo FF,1,0
+Halmstad,Elfsborg,1,4
+Brommapojkarna,AIK,0,1
+Djurgarden,Hacken,1,1
+Norrkoping,Mjallby,1,1
+Hammarby,Degerfors,1,0
+Brommapojkarna,Djurgarden,0,1
+Degerfors,Oster,1,2
+Elfsborg,Hammarby,0,2
+Norrkoping,GAIS,0,3
+Brommapojkarna,Goteborg,1,3
+Halmstad,Djurgarden,1,0
+Malmo FF,Hacken,3,0
+Mjallby,Varnamo,2,0
+Sirius,AIK,3,1
+Hammarby,Halmstad,2,0
+Oster,Sirius,2,2
+AIK,Goteborg,3,0
+Degerfors,Brommapojkarna,0,3
+Hacken,GAIS,1,3
+Varnamo,Elfsborg,0,0
+Djurgarden,Norrkoping,1,1
+Mjallby,Malmo FF,1,1
+GAIS,Malmo FF,0,0
+Oster,Mjallby,0,1
+Hammarby,Varnamo,1,0
+Goteborg,Sirius,3,1
+Halmstad,AIK,2,0
+Djurgarden,Degerfors,5,1
+Elfsborg,Hacken,0,2
+Norrkoping,Brommapojkarna,0,1
+Goteborg,Elfsborg,1,2
+Malmo FF,Norrkoping,3,1
+Brommapojkarna,Oster,2,0
+GAIS,Hammarby,3,2
+AIK,Degerfors,3,0
+Varnamo,Djurgarden,1,0
+Hacken,Halmstad,4,1
+Sirius,Mjallby,1,2
+Djurgarden,Elfsborg,1,0
+Oster,Malmo FF,0,2
+Degerfors,GAIS,0,3
+Mjallby,AIK,2,0
+Sirius,Goteborg,0,1
+Halmstad,Hacken,0,0
+Hammarby,Brommapojkarna,3,2
+Norrkoping,Varnamo,3,1
+Brommapojkarna,Malmo FF,2,3
+GAIS,Halmstad,3,0
+Degerfors,Norrkoping,0,0
+AIK,Oster,0,0
+Hacken,Djurgarden,1,6
+Mjallby,Sirius,2,1
+Varnamo,Hammarby,2,3
+Elfsborg,Goteborg,4,3
+Brommapojkarna,Norrkoping,6,4
+Varnamo,GAIS,2,2
+Djurgarden,Halmstad,1,1
+Hacken,Elfsborg,1,2
+Sirius,Oster,1,1
+Goteborg,Degerfors,3,0
+Malmo FF,Mjallby,1,3
+Halmstad,Sirius,0,1
+AIK,Djurgarden,0,0
+Degerfors,Hacken,0,0
+Norrkoping,Hammarby,0,2
+Oster,Brommapojkarna,1,1
+Elfsborg,Varnamo,2,2
+GAIS,Goteborg,0,1
+Halmstad,Malmo FF,0,4
+Norrkoping,Elfsborg,2,1
+Brommapojkarna,Sirius,2,4
+Goteborg,AIK,2,1
+Hacken,Oster,0,2
+Hammarby,GAIS,1,2
+Mjallby,Djurgarden,1,1
+Varnamo,Degerfors,3,2
+Djurgarden,Brommapojkarna,1,0
+Sirius,Hammarby,3,1
+Degerfors,AIK,0,1
+Elfsborg,Halmstad,1,2
+Malmo FF,Goteborg,0,0
+Varnamo,Hacken,1,5
+GAIS,Mjallby,0,2
+Oster,Norrkoping,1,2
+Brommapojkarna,Elfsborg,3,0
+Goteborg,Varnamo,1,0
+Mjallby,Halmstad,1,0
+AIK,Sirius,2,1
+Malmo FF,Degerfors,1,1
+Norrkoping,Djurgarden,0,4
+GAIS,Hacken,2,1
+Hammarby,Oster,4,0
+Degerfors,Mjallby,0,1
+Halmstad,Norrkoping,1,1
+Djurgarden,Hammarby,3,3
+Oster,Varnamo,4,3
+Elfsborg,Malmo FF,2,2
+Sirius,GAIS,3,0
+AIK,Brommapojkarna,2,1
+Hacken,Goteborg,1,2
+GAIS,Elfsborg,2,0
+Malmo FF,Djurgarden,0,1
+Mjallby,Oster,1,1
+Goteborg,Brommapojkarna,0,1
+Hammarby,Hacken,4,0
+Sirius,Degerfors,1,3
+Varnamo,Halmstad,1,2
+Norrkoping,AIK,3,1
+Elfsborg,Degerfors,1,2
+Hacken,Norrkoping,2,0
+Brommapojkarna,Mjallby,0,1
+Halmstad,Hammarby,1,0
+AIK,GAIS,1,1
+Malmo FF,Varnamo,3,2
+Djurgarden,Sirius,8,2
+Oster,Goteborg,0,2
+Degerfors,Djurgarden,1,1
+Mjallby,Elfsborg,2,0
+Oster,Halmstad,3,0
+GAIS,Norrkoping,2,1
+AIK,Varnamo,2,3
+Goteborg,Hammarby,1,2
+Brommapojkarna,Hacken,1,3
+Sirius,Malmo FF,5,1
+Norrkoping,Malmo FF,0,2
+Hacken,Sirius,1,1
+GAIS,Djurgarden,3,2
+Hammarby,AIK,2,1
+Elfsborg,Oster,5,1
+Varnamo,Brommapojkarna,1,1
+Degerfors,Halmstad,0,1
+Goteborg,Mjallby,0,2
+Djurgarden,Varnamo,6,2
+Oster,Degerfors,1,2
+Mjallby,Norrkoping,2,1
+Sirius,Elfsborg,4,0
+AIK,Hacken,2,2
+Halmstad,Goteborg,0,3
+Brommapojkarna,GAIS,0,2
+Malmo FF,Hammarby,1,3
+Hacken,Malmo FF,1,1
+Norrkoping,Sirius,1,2
+Elfsborg,AIK,0,3
+Halmstad,Brommapojkarna,0,0
+Djurgarden,Goteborg,0,0
+GAIS,Oster,1,1
+Degerfors,Hammarby,1,1
+Varnamo,Mjallby,0,5
+AIK,Halmstad,0,2
+Brommapojkarna,Degerfors,1,3
+Goteborg,Norrkoping,2,0
+Hammarby,Elfsborg,3,0
+Malmo FF,GAIS,2,1
+Mjallby,Hacken,1,0
+Oster,Djurgarden,1,3
+Sirius,Varnamo,3,1

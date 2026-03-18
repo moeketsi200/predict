@@ -1,0 +1,865 @@
+HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HC,AC,HY,AY,HR,AR
+Kilmarnock,Livingston,2,2,2,0,3,5,2,2,1,0
+Motherwell,Rangers,1,1,0,1,1,12,1,4,0,0
+Falkirk,Dundee United,2,2,0,1,2,4,1,5,0,0
+Dundee,Hibernian,1,2,1,2,3,11,3,1,0,0
+Celtic,St Mirren,1,0,0,0,12,1,2,1,0,0
+Hearts,Aberdeen,2,0,1,0,3,3,3,2,0,0
+Livingston,Falkirk,3,1,2,0,4,5,4,2,0,0
+St Mirren,Motherwell,0,0,0,0,7,4,5,1,0,0
+Rangers,Dundee,1,1,0,0,7,4,2,1,1,0
+Aberdeen,Celtic,0,2,0,1,1,6,2,3,0,0
+Dundee United,Hearts,2,3,2,1,2,9,3,4,0,0
+Hibernian,Kilmarnock,2,2,2,1,4,7,1,2,0,0
+Celtic,Livingston,3,0,0,0,10,4,0,1,0,0
+Hearts,Motherwell,3,3,0,1,9,3,3,2,0,0
+Kilmarnock,Dundee,0,0,0,0,7,3,3,3,0,0
+St Mirren,Rangers,1,1,1,0,6,6,3,3,0,0
+Livingston,Hearts,1,2,1,0,5,9,7,2,0,0
+Motherwell,Kilmarnock,2,2,1,1,9,0,2,5,0,0
+Rangers,Celtic,0,0,0,0,8,1,3,0,0,0
+Dundee,Dundee United,0,2,0,1,3,2,0,1,0,0
+Aberdeen,Falkirk,0,1,0,0,5,6,3,5,1,0
+Hibernian,St Mirren,1,1,0,0,10,7,1,1,0,0
+Aberdeen,Livingston,0,0,0,0,6,6,4,3,0,0
+Dundee,Motherwell,1,1,0,1,2,6,1,1,1,0
+Falkirk,St Mirren,1,2,0,0,4,2,1,2,0,0
+Rangers,Hearts,0,2,0,1,9,2,2,1,0,0
+Hibernian,Dundee United,3,3,1,2,6,4,2,4,0,1
+Kilmarnock,Celtic,1,2,0,0,6,7,2,3,0,0
+Dundee,Livingston,3,2,1,0,8,3,1,3,0,0
+Dundee United,Aberdeen,2,0,1,0,11,3,2,1,0,0
+Falkirk,Hibernian,2,2,1,2,5,5,2,0,0,0
+Celtic,Hibernian,0,0,0,0,7,2,2,1,0,0
+Dundee United,Kilmarnock,0,2,0,1,9,6,4,2,0,0
+Hearts,Falkirk,3,0,2,0,9,5,0,1,0,0
+St Mirren,Dundee,1,0,1,0,5,5,3,2,0,0
+Motherwell,Aberdeen,2,0,0,0,3,4,0,3,0,0
+Livingston,Rangers,1,2,0,1,4,8,4,1,0,0
+Dundee United,Livingston,1,1,0,1,4,5,1,1,0,0
+Kilmarnock,St Mirren,2,0,2,0,4,9,1,2,0,0
+Hearts,Hibernian,1,0,0,0,4,2,2,1,0,0
+Aberdeen,Dundee,4,0,3,0,11,2,1,0,0,0
+Celtic,Motherwell,3,2,1,1,10,0,2,0,0,0
+Falkirk,Rangers,1,1,0,1,7,6,1,4,0,0
+Hibernian,Livingston,4,0,1,0,7,10,1,2,0,0
+Motherwell,Falkirk,1,2,1,0,6,4,1,5,0,0
+Rangers,Dundee United,2,2,1,0,7,2,0,4,0,0
+St Mirren,Aberdeen,0,1,0,0,5,2,2,4,0,0
+Kilmarnock,Hearts,0,3,0,1,4,5,2,2,0,0
+Dundee,Celtic,2,0,2,0,2,12,2,2,0,0
+Dundee United,St Mirren,3,1,1,1,4,12,1,1,0,1
+Falkirk,Dundee,2,1,0,1,5,3,2,2,0,0
+Livingston,Motherwell,1,2,1,0,0,3,2,2,0,0
+Hearts,Celtic,3,1,1,1,5,9,4,1,0,0
+Aberdeen,Hibernian,1,2,0,1,6,3,0,2,0,0
+Rangers,Kilmarnock,3,1,1,1,9,2,1,2,0,0
+Celtic,Falkirk,4,0,2,0,6,3,1,2,0,0
+Hibernian,Rangers,0,1,0,1,5,4,2,3,0,0
+Kilmarnock,Aberdeen,0,1,0,1,7,2,4,6,0,0
+Motherwell,Dundee United,2,0,1,0,4,2,1,2,0,0
+St Mirren,Hearts,2,2,1,1,6,7,2,2,0,0
+Falkirk,Kilmarnock,3,1,3,0,2,6,0,1,0,0
+Hearts,Dundee,4,0,2,0,6,2,0,2,0,0
+Livingston,Hibernian,2,2,1,1,6,1,2,1,0,0
+Falkirk,Livingston,1,1,1,0,6,1,3,2,0,0
+St Mirren,Hibernian,0,3,0,1,5,6,4,1,0,0
+Aberdeen,Motherwell,1,1,0,0,4,6,3,1,0,0
+Dundee,Rangers,0,3,0,2,4,6,0,1,0,0
+Hearts,Dundee United,1,1,1,1,4,3,2,4,0,0
+Celtic,Kilmarnock,4,0,1,0,8,7,2,2,0,0
+Dundee United,Falkirk,0,3,0,2,5,5,3,3,0,0
+Hibernian,Dundee,2,0,1,0,8,3,2,1,0,0
+Kilmarnock,Motherwell,1,3,0,2,3,3,1,5,0,0
+Rangers,Livingston,2,1,1,1,2,1,2,4,0,0
+St Mirren,Celtic,0,1,0,0,2,4,2,1,0,0
+Aberdeen,Hearts,1,0,1,0,6,3,3,4,0,0
+Motherwell,Hibernian,2,0,2,0,0,2,0,1,0,1
+Dundee,St Mirren,3,1,2,1,1,11,0,2,0,0
+Motherwell,Hearts,0,0,0,0,3,4,2,4,0,0
+Kilmarnock,Dundee United,1,1,1,0,3,3,3,2,0,0
+Hibernian,Celtic,1,2,0,2,4,3,3,3,0,0
+Rangers,Falkirk,0,0,0,0,4,5,0,3,0,0
+Livingston,Aberdeen,0,1,0,0,7,4,1,1,0,0
+Aberdeen,St Mirren,3,3,0,0,8,6,0,1,0,0
+Celtic,Dundee,1,0,1,0,6,0,3,0,0,0
+Dundee United,Rangers,2,2,1,1,8,9,3,3,0,0
+Falkirk,Motherwell,0,0,0,0,6,3,2,0,0,0
+Hearts,Kilmarnock,1,1,0,0,9,1,1,2,0,0
+Dundee,Aberdeen,1,3,0,2,6,4,2,1,0,0
+Hibernian,Falkirk,3,0,2,0,10,4,1,4,0,0
+Motherwell,Livingston,3,0,1,0,4,5,2,3,0,0
+St Mirren,Dundee United,2,0,1,0,3,2,2,2,0,0
+Kilmarnock,Rangers,0,3,0,1,7,2,2,2,0,0
+Celtic,Hearts,1,2,0,1,5,3,1,3,0,0
+Dundee United,Motherwell,0,0,0,0,1,4,3,3,0,0
+Livingston,Dundee,2,2,0,2,7,0,2,2,1,0
+Falkirk,Hearts,0,2,0,1,3,7,2,2,0,0
+Aberdeen,Kilmarnock,2,1,0,1,9,3,2,5,0,0
+Rangers,Hibernian,1,0,1,0,5,5,1,3,0,0
+Dundee United,Celtic,2,1,0,1,7,6,2,1,0,0
+Dundee United,Hibernian,1,1,1,1,5,7,2,2,0,0
+Kilmarnock,Falkirk,0,1,0,0,2,2,2,1,0,0
+Motherwell,Dundee,1,0,0,0,2,3,1,2,0,0
+St Mirren,Livingston,1,0,0,0,7,4,0,1,0,0
+Hearts,Rangers,2,1,2,0,6,10,2,1,0,0
+Celtic,Aberdeen,3,1,1,0,8,4,1,2,0,0
+Hibernian,Hearts,3,2,2,0,3,8,1,0,0,0
+Dundee,Falkirk,1,0,1,0,1,9,3,2,0,0
+Livingston,Celtic,2,4,2,4,11,4,1,0,0,0
+Rangers,Motherwell,1,0,0,0,5,1,3,1,0,0
+St Mirren,Kilmarnock,0,0,0,0,11,4,1,0,0,0
+Aberdeen,Dundee United,1,1,0,1,9,5,2,3,0,0
+Dundee,Kilmarnock,2,1,0,1,7,5,2,4,0,0
+Hibernian,Aberdeen,2,0,0,0,4,5,1,2,0,0
+Livingston,Dundee United,1,3,0,1,2,7,4,0,0,0
+Rangers,St Mirren,2,1,1,0,5,4,1,2,0,0
+Motherwell,Celtic,2,0,1,0,1,3,0,4,0,0
+Celtic,Rangers,1,3,1,0,8,5,0,3,0,0
+Dundee United,Dundee,0,1,0,1,8,2,2,1,0,0
+Falkirk,Aberdeen,1,0,0,0,5,4,2,4,0,0
+Hearts,Livingston,1,0,1,0,7,3,0,3,0,0
+Kilmarnock,Hibernian,1,3,0,1,5,3,3,3,1,0
+Motherwell,St Mirren,2,0,1,0,9,8,0,4,0,0
+Rangers,Aberdeen,2,0,2,0,7,4,0,2,0,0
+Celtic,Dundee United,4,0,2,0,12,3,1,0,0,0
+Hibernian,Motherwell,1,1,0,0,4,4,2,5,0,0
+Livingston,Kilmarnock,1,1,1,0,7,5,4,1,0,0
+St Mirren,Falkirk,0,2,0,0,4,8,2,1,0,0
+Dundee,Hearts,0,1,0,1,6,4,2,0,0,1
+Aberdeen,Rangers,0,2,0,1,6,6,2,3,0,0
+Falkirk,Celtic,0,1,0,1,3,4,0,1,0,0
+Hearts,St Mirren,2,0,0,0,3,5,0,1,1,0
+Livingston,St Mirren,1,1,0,0,3,4,3,3,0,0
+Aberdeen,Livingston,6,2,3,2,8,2,4,2,1,1
+Falkirk,Hibernian,4,1,2,0,7,4,2,2,0,0
+Motherwell,Kilmarnock,4,0,2,0,2,1,0,0,0,1
+Hearts,Celtic,2,2,0,1,2,2,3,6,0,1
+Rangers,Dundee,3,0,0,0,7,1,1,1,0,0
+Kilmarnock,Aberdeen,3,0,2,0,7,3,3,3,0,1
+Livingston,Motherwell,0,2,0,2,7,7,1,0,0,0
+St Mirren,Dundee,0,0,0,0,5,6,0,0,1,0
+Dundee United,Hearts,0,3,0,2,0,6,3,1,2,0
+Hibernian,Rangers,0,0,0,0,9,8,3,2,0,0
+Celtic,Falkirk,2,0,1,0,9,4,0,2,0,0
+St Mirren,Hearts,1,0,0,0,7,2,1,1,0,1
+Hibernian,Dundee United,3,2,1,0,4,6,2,0,0,0
+Livingston,Falkirk,1,2,0,2,6,4,3,4,0,0
+Rangers,Kilmarnock,5,1,1,0,10,1,1,1,0,0
+Hearts,Hibernian,1,0,0,0,4,8,0,3,0,0
+Celtic,Livingston,2,1,1,0,10,3,2,3,0,0
+Falkirk,Dundee,1,0,0,0,4,4,3,1,0,0
+Kilmarnock,St Mirren,4,3,2,1,9,4,1,3,0,0
+Motherwell,Rangers,1,1,0,1,6,3,2,5,0,0
+Dundee,Livingston,2,2,2,2,10,2,2,2,0,0
+Falkirk,Dundee United,2,3,1,1,4,5,0,3,1,0
+Hibernian,St Mirren,2,0,1,0,6,8,0,3,0,0
+Kilmarnock,Celtic,2,3,2,0,6,7,1,3,0,0
+Motherwell,Aberdeen,2,0,1,0,4,2,1,6,0,0
+Rangers,Hearts,4,2,2,2,7,3,4,3,0,0
+Aberdeen,Dundee,2,3,1,2,2,9,3,2,1,0
+Dundee United,Kilmarnock,1,1,0,0,6,3,1,3,0,1
+Hearts,Falkirk,1,0,1,0,8,4,1,3,0,0
+St Mirren,Motherwell,0,5,0,2,4,7,4,0,1,0
+Celtic,Hibernian,1,2,1,1,11,1,2,1,1,0
+Livingston,Rangers,2,2,1,0,3,15,3,2,1,0
+Dundee United,Aberdeen,0,0,0,0,4,6,0,0,0,0
+Dundee,Hibernian,3,3,1,1,6,6,1,4,0,0
+Falkirk,Kilmarnock,5,1,3,1,3,2,3,2,0,0
+Hearts,Aberdeen,1,0,1,0,7,4,3,5,0,0
+Livingston,St Mirren,1,1,0,1,7,2,1,2,0,0
+Motherwell,Dundee United,2,0,1,0,5,3,2,3,0,0
+Rangers,Celtic,2,2,2,0,6,7,2,1,0,0
+Dundee United,St Mirren,2,1,1,0,8,4,2,1,0,0
+Aberdeen,Celtic,1,2,1,1,6,6,2,2,0,0
+Dundee,Motherwell,2,1,1,0,3,1,4,2,0,0
+Aberdeen,Falkirk,1,1,0,0,4,10,1,0,0,0
+Celtic,Motherwell,3,1,1,1,2,3,4,2,0,1
+Hibernian,Livingston,0,0,0,0,12,0,2,1,0,0
+Kilmarnock,Hearts,1,0,1,0,2,9,2,2,0,0
+St Mirren,Rangers,0,1,0,1,1,11,0,1,0,0
+Dundee,Dundee United,2,2,0,0,4,7,1,4,0,0
+Hearts,Rangers,0,0,0,0,8,7,3,1,0,0
+Motherwell,Ross County,0,0,0,0,9,3,0,2,0,0
+Dundee United,Dundee,2,2,2,1,5,6,2,0,0,0
+St Mirren,Hibernian,3,0,0,0,4,8,3,1,0,0
+Celtic,Kilmarnock,4,0,2,0,10,1,0,2,0,0
+St Johnstone,Aberdeen,1,2,0,1,12,7,2,1,0,0
+Rangers,Motherwell,2,1,2,1,6,4,2,0,0,0
+Ross County,Dundee United,1,1,0,0,7,5,1,2,0,0
+Dundee,Hearts,3,1,3,0,2,10,3,4,0,0
+Hibernian,Celtic,0,2,0,2,3,5,2,1,0,0
+Aberdeen,St Mirren,3,1,1,1,6,2,2,3,0,0
+Kilmarnock,St Johnstone,0,3,0,2,4,4,3,4,1,0
+Dundee United,St Johnstone,2,0,0,0,2,6,2,2,0,1
+Hibernian,Dundee,2,2,1,1,5,4,4,4,0,0
+Rangers,Ross County,6,0,2,0,5,0,1,3,0,0
+St Mirren,Celtic,0,3,0,2,2,10,2,1,0,0
+Aberdeen,Kilmarnock,2,0,1,0,8,6,3,0,0,1
+Motherwell,Hearts,3,1,1,0,8,7,1,4,0,0
+Dundee,St Mirren,2,2,1,2,6,1,2,4,0,0
+St Johnstone,Motherwell,1,2,0,1,4,13,1,0,1,0
+Ross County,Aberdeen,0,1,0,0,1,12,3,1,0,0
+Celtic,Rangers,3,0,2,0,7,4,4,5,0,0
+Hearts,Dundee United,0,1,0,0,6,4,2,4,0,0
+Kilmarnock,Hibernian,1,1,0,0,4,7,2,3,0,0
+Aberdeen,Motherwell,2,1,1,0,6,5,4,5,0,0
+Celtic,Hearts,2,0,0,0,5,3,1,1,0,0
+Hibernian,St Johnstone,2,0,1,0,5,7,1,4,0,1
+Ross County,Dundee,2,0,2,0,3,8,2,1,0,0
+St Mirren,Kilmarnock,2,2,2,1,3,10,2,3,0,1
+Dundee United,Rangers,0,1,0,1,4,4,4,6,0,0
+Ross County,St Johnstone,3,3,1,1,1,3,2,4,0,0
+St Mirren,Hearts,2,1,2,1,5,4,3,3,0,0
+Dundee,Aberdeen,1,2,1,2,10,4,0,3,0,0
+Hearts,Ross County,1,1,0,1,11,5,1,4,0,0
+Kilmarnock,Dundee United,3,3,0,1,7,3,1,2,0,0
+Motherwell,St Mirren,2,1,2,1,9,6,4,2,1,1
+St Johnstone,Celtic,0,6,0,3,3,13,1,1,0,0
+Rangers,Hibernian,1,0,1,0,4,7,2,2,0,0
+Dundee,Kilmarnock,2,3,1,0,2,10,1,1,1,0
+Hibernian,Motherwell,1,2,0,0,10,5,3,3,1,0
+St Mirren,Dundee United,0,1,0,0,3,3,0,3,0,0
+Ross County,Celtic,1,2,1,0,1,9,3,1,0,0
+Aberdeen,Hearts,3,2,1,1,2,5,1,4,0,1
+Rangers,St Johnstone,2,0,1,0,7,3,1,1,0,0
+Celtic,Aberdeen,2,2,2,0,19,2,1,5,0,0
+Dundee United,Hibernian,3,2,1,1,5,5,2,2,0,1
+Hearts,St Mirren,4,0,1,0,1,6,0,5,0,0
+Motherwell,Dundee,0,1,0,1,3,5,0,2,0,0
+St Johnstone,Ross County,3,0,2,0,5,3,1,0,0,2
+Kilmarnock,Rangers,1,0,0,0,1,6,1,3,0,0
+Dundee,St Johnstone,1,2,1,0,2,3,3,2,0,0
+Ross County,Kilmarnock,2,1,0,1,5,5,1,2,0,1
+Aberdeen,Dundee United,1,0,0,0,8,2,1,3,0,0
+Hibernian,Hearts,1,1,0,0,1,6,2,3,0,0
+Motherwell,Celtic,0,3,0,1,3,10,1,2,1,0
+Rangers,St Mirren,2,1,1,1,7,3,2,2,0,0
+Celtic,Dundee,2,0,0,0,7,2,1,2,0,0
+Dundee United,Motherwell,1,2,1,1,11,3,3,4,0,0
+Hearts,Kilmarnock,1,2,1,0,10,1,1,3,0,0
+Ross County,Hibernian,0,0,0,0,4,2,1,1,0,0
+St Mirren,St Johnstone,3,1,1,1,9,2,2,1,0,0
+Aberdeen,Rangers,2,1,1,0,4,6,5,3,0,0
+St Johnstone,Hearts,1,2,0,1,6,9,2,4,0,0
+St Mirren,Ross County,0,0,0,0,6,5,2,1,0,0
+Dundee,Kilmarnock,3,2,1,2,7,1,2,1,0,0
+Hibernian,Dundee United,1,1,1,0,13,2,0,2,1,0
+Dundee United,Ross County,3,0,0,0,5,3,1,1,0,0
+Hibernian,St Mirren,1,2,0,2,5,5,2,2,0,0
+Motherwell,St Johnstone,2,1,2,0,3,3,1,0,0,0
+Aberdeen,Dundee,4,1,0,0,7,4,3,1,0,0
+Kilmarnock,Celtic,0,2,0,1,6,4,3,3,0,0
+Rangers,Hearts,1,0,1,0,9,6,2,3,0,0
+St Johnstone,Kilmarnock,1,0,0,0,4,14,2,1,0,1
+Ross County,Motherwell,2,1,0,0,12,3,1,1,0,0
+Rangers,Dundee United,1,1,0,1,9,1,1,3,0,0
+St Mirren,Aberdeen,2,1,1,0,7,3,3,5,0,0
+Dundee,Hibernian,4,1,3,1,8,2,3,1,0,1
+Hearts,Celtic,1,4,0,0,1,6,1,1,0,0
+Hibernian,Aberdeen,3,3,1,0,9,6,3,1,0,0
+Celtic,Ross County,5,0,5,0,19,0,0,1,0,0
+Dundee United,St Mirren,2,0,0,0,4,8,2,2,0,1
+Kilmarnock,Dundee,1,1,0,0,6,3,2,2,0,0
+Motherwell,Hibernian,0,3,0,2,3,4,0,0,0,0
+St Johnstone,Rangers,0,1,0,0,3,5,2,2,0,0
+Hearts,Aberdeen,1,1,0,1,9,6,1,5,0,0
+Dundee,Motherwell,4,1,1,1,4,10,2,2,0,0
+Rangers,Kilmarnock,6,0,1,0,7,4,0,2,0,0
+Aberdeen,Celtic,0,1,0,0,2,10,3,1,0,0
+Aberdeen,St Johnstone,1,1,0,1,6,1,5,4,0,0
+Celtic,Hibernian,3,0,1,0,14,7,1,2,0,0
+Dundee United,Kilmarnock,1,1,0,0,9,1,3,1,0,0
+Hearts,Dundee,2,0,2,0,6,4,2,3,0,0
+St Mirren,Motherwell,0,1,0,0,7,2,3,3,1,0
+Ross County,Rangers,0,3,0,2,8,10,1,1,0,0
+Hibernian,Ross County,3,1,1,1,9,15,1,4,0,0
+Motherwell,Dundee United,4,3,3,1,2,3,2,3,0,0
+St Johnstone,St Mirren,2,3,0,1,1,2,2,2,0,0
+Kilmarnock,Hearts,1,0,1,0,3,6,1,2,1,0
+Motherwell,Kilmarnock,1,1,1,0,2,8,1,4,1,0
+Aberdeen,Hibernian,1,3,1,2,5,6,2,2,0,0
+Rangers,Dundee,1,0,0,0,6,3,2,2,0,0
+Ross County,St Mirren,1,2,0,1,4,2,0,2,0,1
+Dundee United,Celtic,0,0,0,0,3,9,2,1,0,0
+Hearts,St Johnstone,2,1,1,0,8,0,2,1,0,0
+Hearts,Hibernian,1,2,1,1,6,3,2,1,0,0
+Celtic,Motherwell,4,0,1,0,6,3,1,5,0,0
+Dundee,Ross County,0,3,0,1,5,5,0,2,0,0
+Kilmarnock,Aberdeen,4,0,1,0,7,3,0,4,0,0
+St Johnstone,Dundee United,1,2,1,0,4,10,2,1,0,1
+St Mirren,Rangers,2,1,1,0,7,6,1,3,0,0
+Celtic,St Johnstone,4,0,1,0,12,2,0,1,0,0
+Hibernian,Kilmarnock,1,0,1,0,5,10,1,2,0,1
+Motherwell,Rangers,2,2,2,0,3,6,4,3,0,0
+Ross County,Hearts,2,2,0,1,10,5,0,0,0,0
+St Mirren,Dundee,1,2,1,1,5,9,1,2,0,0
+Dundee United,Aberdeen,1,0,0,0,9,1,4,3,0,0
+Aberdeen,Ross County,1,2,1,1,9,4,2,3,0,0
+Hearts,Motherwell,1,0,1,0,12,4,3,1,0,0
+Kilmarnock,St Mirren,2,0,1,0,4,2,0,2,0,0
+Rangers,Celtic,3,0,1,0,8,4,2,2,0,0
+St Johnstone,Hibernian,1,1,1,0,4,9,1,3,1,0
+Dundee,Dundee United,1,2,0,0,6,4,1,2,0,0
+Hibernian,Rangers,3,3,1,2,10,8,1,1,0,0
+Motherwell,Aberdeen,2,0,2,0,3,8,2,2,0,1
+Celtic,St Mirren,3,0,2,0,8,3,0,1,0,0
+Dundee United,Hearts,0,1,0,0,5,5,4,2,0,0
+Kilmarnock,Ross County,0,1,0,0,7,6,1,2,0,0
+St Johnstone,Dundee,1,3,0,3,3,5,1,5,0,0
+Celtic,Dundee United,2,0,1,0,13,4,0,0,0,0
+Kilmarnock,Motherwell,0,0,0,0,15,2,1,2,0,0
+Dundee,Rangers,1,1,1,1,3,7,0,2,0,0
+Ross County,Celtic,1,4,0,1,6,7,3,0,0,0
+Hibernian,Motherwell,3,1,2,0,3,6,1,3,0,1
+St Mirren,Dundee United,0,1,0,0,8,5,3,3,0,0
+Aberdeen,Hearts,0,0,0,0,4,3,2,1,0,0
+Rangers,St Johnstone,3,1,3,0,12,2,0,0,0,0
+Dundee,Celtic,3,3,1,1,2,4,2,1,0,0
+Rangers,Aberdeen,3,0,1,0,10,3,1,3,0,0
+Aberdeen,St Mirren,0,3,0,2,6,3,2,5,0,0
+Hearts,Kilmarnock,3,2,1,0,3,7,2,5,0,0
+Ross County,Hibernian,1,1,0,1,2,8,2,2,0,0
+St Johnstone,Motherwell,2,1,0,1,7,3,1,4,0,0
+Dundee United,Rangers,1,3,1,1,3,4,4,1,0,1
+Dundee,Hearts,0,6,0,2,3,9,1,0,0,0
+Hibernian,Aberdeen,2,0,1,0,2,8,0,0,0,0
+St Mirren,St Johnstone,0,1,0,0,5,3,1,2,0,0
+Kilmarnock,Dundee United,1,0,0,0,3,4,1,2,0,0
+Motherwell,Celtic,1,3,1,2,3,10,0,0,0,0
+Rangers,Ross County,4,0,3,0,8,3,0,1,0,0
+Celtic,Dundee,6,0,2,0,6,3,1,4,0,0
+Celtic,Dundee United,3,0,2,0,15,0,0,3,0,0
+Dundee,Aberdeen,1,2,0,1,8,7,2,1,0,0
+Kilmarnock,St Johnstone,3,1,1,0,7,5,1,1,0,0
+Motherwell,Ross County,0,3,0,1,6,3,1,3,0,0
+Hearts,Rangers,1,3,0,1,10,7,1,1,0,0
+St Mirren,Hibernian,0,0,0,0,4,3,4,2,0,1
+Hibernian,Celtic,2,1,2,0,5,10,3,2,0,0
+Aberdeen,Kilmarnock,1,0,0,0,8,5,2,3,0,0
+Dundee United,Motherwell,1,0,1,0,2,7,0,2,0,0
+Rangers,St Mirren,0,2,0,0,11,3,1,2,0,0
+Ross County,Dundee,3,1,1,1,9,6,0,2,0,0
+St Johnstone,Hearts,1,2,0,1,3,6,0,3,0,0
+Celtic,Aberdeen,5,1,3,0,4,3,1,0,0,0
+Dundee United,Hibernian,1,3,1,1,1,10,1,2,0,0
+Hearts,St Mirren,3,1,0,1,5,6,0,4,0,0
+Motherwell,Dundee,2,1,1,0,5,10,1,0,0,0
+St Johnstone,Ross County,1,0,0,0,12,3,2,0,0,0
+Kilmarnock,Rangers,2,4,2,1,6,4,2,4,0,0
+Dundee,St Johnstone,1,1,1,1,4,4,2,0,0,0
+Rangers,Motherwell,1,2,0,2,12,3,2,2,0,0
+Ross County,Kilmarnock,1,0,1,0,5,6,1,0,0,0
+St Mirren,Celtic,2,5,1,2,3,3,3,0,0,0
+Hibernian,Hearts,2,1,1,1,4,6,1,1,0,0
+Aberdeen,Dundee United,2,2,0,2,14,5,1,2,0,0
+Hearts,Ross County,2,0,1,0,6,6,0,2,0,0
+Kilmarnock,Hibernian,1,1,0,1,4,5,2,0,0,0
+Motherwell,St Mirren,2,2,1,2,0,7,3,3,0,1
+St Johnstone,Aberdeen,0,0,0,0,1,6,0,0,0,0
+Celtic,Rangers,2,3,0,2,7,6,0,3,0,0
+Dundee United,Dundee,2,4,1,3,2,4,2,2,1,0
+Aberdeen,Motherwell,4,1,2,1,9,4,1,2,0,0
+Celtic,Hearts,3,0,3,0,6,1,0,1,0,0
+Hibernian,St Johnstone,3,0,2,0,5,2,1,3,0,0
+St Mirren,Kilmarnock,5,1,2,0,4,7,0,2,0,0
+Dundee,Rangers,3,4,2,1,7,3,1,2,0,0
+Ross County,Dundee United,0,1,0,0,4,9,1,2,0,0
+Dundee,St Mirren,2,0,1,0,4,10,1,2,0,0
+Kilmarnock,Motherwell,2,0,1,0,7,2,2,3,0,1
+Rangers,Hibernian,0,2,0,1,5,1,1,3,0,0
+Ross County,Aberdeen,0,1,0,1,9,1,1,3,0,0
+St Johnstone,Celtic,1,0,1,0,4,11,4,2,0,0
+Hearts,Dundee United,0,1,0,0,5,2,1,4,1,0
+Celtic,Kilmarnock,5,1,4,1,10,0,0,0,0,0
+Dundee United,St Johnstone,1,0,1,0,6,5,1,2,0,0
+Motherwell,Hearts,0,0,0,0,4,2,0,3,0,0
+St Mirren,Ross County,3,2,1,1,6,7,1,1,0,0
+Aberdeen,Rangers,2,2,2,0,6,1,1,1,0,1
+Hibernian,Dundee,4,0,1,0,8,3,1,1,0,0
+Dundee United,Celtic,0,5,0,3,1,8,0,0,0,0
+Aberdeen,Hibernian,1,0,0,0,10,5,3,2,0,0
+Hearts,Dundee,0,1,0,1,7,3,1,4,0,0
+Kilmarnock,Ross County,2,0,1,0,5,4,0,2,0,0
+Motherwell,St Johnstone,3,2,2,1,5,9,4,1,0,0
+St Mirren,Rangers,2,2,1,1,3,3,3,1,0,0
+Dundee,Motherwell,1,2,1,0,7,4,1,2,0,1
+Hibernian,Dundee United,3,1,2,0,8,4,1,1,0,0
+Ross County,Hearts,1,3,1,1,4,13,1,1,0,0
+St Johnstone,Kilmarnock,0,2,0,1,6,2,2,1,0,0
+St Mirren,Aberdeen,1,0,0,0,5,11,3,2,0,0
+Rangers,Celtic,1,1,1,0,5,6,1,1,0,0
+Celtic,Hibernian,3,1,2,1,8,3,2,3,0,0
+Dundee United,St Mirren,0,2,0,1,4,6,0,2,0,0
+Hearts,Motherwell,3,0,1,0,6,1,2,2,0,0
+Kilmarnock,Dundee,3,2,1,0,7,2,1,2,0,0
+St Johnstone,Ross County,2,1,1,1,4,4,1,2,0,1
+Rangers,Aberdeen,4,0,0,0,7,2,2,2,0,0
+Dundee,Ross County,1,1,0,0,10,5,3,1,0,0
+Hearts,St Johnstone,2,1,2,0,8,7,1,2,0,0
+Motherwell,Kilmarnock,3,0,0,0,5,4,0,1,0,1
+Rangers,Dundee United,3,1,1,1,9,4,0,1,0,0
+St Mirren,Hibernian,2,2,1,2,5,6,3,3,0,0
+Aberdeen,Celtic,1,5,1,2,6,6,2,0,1,0
+Celtic,St Mirren,1,1,0,0,14,0,0,3,0,0
+Dundee United,Aberdeen,2,1,0,1,8,13,1,2,0,0
+Hibernian,Rangers,2,2,1,1,3,13,3,2,0,0
+Kilmarnock,Hearts,0,1,0,0,3,5,1,1,0,1
+Ross County,Motherwell,1,1,1,0,5,6,2,1,0,0
+St Johnstone,Dundee,0,2,0,1,1,9,3,1,0,0
+Celtic,Ross County,4,2,3,0,4,8,0,4,0,0
+Dundee,Motherwell,1,1,0,1,7,12,0,2,0,0
+Livingston,Aberdeen,0,0,0,0,7,7,3,4,0,0
+St Johnstone,Hearts,0,2,0,0,6,9,2,3,0,0
+Kilmarnock,Rangers,1,0,0,0,2,8,0,0,0,0
+Hibernian,St Mirren,2,3,0,2,2,7,2,2,0,0
+Rangers,Livingston,4,0,1,0,5,4,1,1,0,0
+Ross County,St Johnstone,2,0,1,0,6,7,2,2,0,0
+St Mirren,Dundee,2,1,2,0,4,3,2,3,0,0
+Aberdeen,Celtic,1,3,1,2,9,9,0,2,0,0
+Hearts,Kilmarnock,0,0,0,0,6,5,3,4,0,0
+Motherwell,Hibernian,2,1,0,0,5,2,1,4,0,0
+Ross County,Rangers,0,2,0,2,4,8,3,1,0,0
+Celtic,St Johnstone,0,0,0,0,19,1,1,3,0,0
+Hibernian,Livingston,2,3,0,1,9,3,2,4,0,0
+Motherwell,Kilmarnock,2,1,0,1,1,6,6,3,0,0
+Dundee,Hearts,1,0,0,0,3,8,1,1,0,0
+St Mirren,Aberdeen,2,2,0,1,4,3,2,2,0,0
+Kilmarnock,Ross County,0,1,0,0,14,2,0,5,0,0
+Livingston,St Mirren,1,1,0,0,6,2,3,1,0,0
+St Johnstone,Dundee,2,2,0,1,4,6,3,0,0,0
+Rangers,Celtic,0,1,0,1,6,2,1,1,0,0
+Aberdeen,Hibernian,0,2,0,0,7,5,2,4,0,0
+Hearts,Motherwell,0,1,0,1,16,5,1,2,0,1
+St Johnstone,Rangers,0,2,0,1,3,5,5,2,0,0
+Celtic,Dundee,3,0,0,0,9,1,0,0,0,0
+Hearts,Aberdeen,2,0,1,0,9,3,4,2,0,0
+Kilmarnock,Hibernian,2,2,0,1,4,4,5,4,0,0
+Motherwell,St Mirren,0,1,0,0,8,3,0,5,0,0
+Ross County,Livingston,1,1,0,0,6,2,0,3,0,0
+Livingston,Celtic,0,3,0,1,2,4,5,2,0,1
+Dundee,Kilmarnock,2,2,1,1,4,7,1,3,1,0
+Hibernian,St Johnstone,2,0,1,0,4,4,1,3,0,0
+St Mirren,Hearts,1,0,1,0,4,8,2,1,0,0
+Aberdeen,Ross County,4,0,2,0,5,5,0,4,0,0
+Rangers,Motherwell,1,0,1,0,2,2,2,2,0,0
+Motherwell,Celtic,1,2,0,0,4,6,3,1,0,0
+Hibernian,Dundee,0,0,0,0,14,1,1,4,0,0
+Kilmarnock,St Mirren,1,1,1,1,7,6,2,3,0,0
+Rangers,Aberdeen,1,3,0,1,5,8,2,1,1,0
+Ross County,Hearts,0,1,0,0,5,5,3,2,0,0
+St Johnstone,Livingston,1,1,1,0,5,2,2,2,1,0
+Celtic,Kilmarnock,3,1,2,0,11,1,2,2,0,0
+Hearts,Hibernian,2,2,1,0,7,4,2,1,0,0
+Livingston,Motherwell,2,0,0,0,3,5,1,3,0,1
+St Mirren,Rangers,0,3,0,1,3,10,1,2,1,0
+Aberdeen,St Johnstone,0,0,0,0,5,3,0,2,0,0
+Kilmarnock,Livingston,3,1,2,1,5,4,2,1,0,0
+Rangers,Hibernian,4,0,2,0,5,4,1,2,0,0
+Hearts,Celtic,1,4,0,2,3,5,2,1,0,0
+Dundee,Ross County,0,0,0,0,7,4,1,6,0,0
+Hibernian,Celtic,0,0,0,0,3,6,0,2,0,0
+Livingston,Dundee,0,2,0,0,1,5,0,0,1,0
+Motherwell,Ross County,3,3,0,0,6,4,2,2,0,0
+St Mirren,St Johnstone,4,0,1,0,4,8,2,0,0,0
+Kilmarnock,Aberdeen,2,0,1,0,9,3,1,3,0,0
+Rangers,Hearts,2,1,0,1,11,2,1,5,0,0
+Hibernian,Ross County,2,2,1,0,5,5,1,2,0,0
+Celtic,St Mirren,2,1,1,1,12,2,2,2,0,0
+Dundee,Rangers,0,5,0,1,6,7,4,1,0,0
+Hearts,Livingston,1,0,0,0,12,1,2,4,0,0
+Motherwell,Aberdeen,2,4,0,2,1,4,6,1,0,0
+St Johnstone,Kilmarnock,2,1,2,0,5,12,2,2,1,0
+Ross County,Celtic,0,3,0,1,2,13,0,1,1,0
+Kilmarnock,Motherwell,1,0,0,0,9,3,2,1,0,0
+Dundee,Livingston,1,0,0,0,5,12,2,3,0,0
+St Johnstone,Motherwell,2,2,2,0,6,7,1,2,0,0
+St Mirren,Hibernian,2,2,0,1,3,1,3,2,0,0
+Dundee,St Mirren,4,0,2,0,7,4,1,1,0,0
+Hibernian,Kilmarnock,1,0,1,0,5,10,2,5,0,0
+Motherwell,Hearts,1,2,0,1,4,10,4,2,0,0
+St Johnstone,Ross County,1,0,0,0,3,4,4,3,0,0
+Livingston,Rangers,0,2,0,1,3,9,1,1,0,0
+Celtic,Aberdeen,6,0,2,0,11,0,0,3,0,0
+Celtic,Motherwell,1,1,0,0,13,2,1,4,0,0
+Dundee,Hibernian,1,2,0,1,7,3,2,1,0,1
+Hearts,St Johnstone,1,0,0,0,6,5,2,2,0,0
+Ross County,Kilmarnock,0,0,0,0,9,5,1,0,0,0
+St Mirren,Livingston,1,0,1,0,7,3,1,0,0,0
+Aberdeen,Rangers,1,1,1,0,0,5,4,1,0,0
+Ross County,St Mirren,1,0,0,0,7,5,0,2,0,0
+Kilmarnock,Hearts,0,1,0,1,7,3,2,1,0,0
+Motherwell,Dundee,3,3,1,2,4,4,3,2,1,0
+St Johnstone,Celtic,1,3,1,0,2,12,2,1,0,0
+Hibernian,Aberdeen,2,0,1,0,6,6,3,2,0,0
+Rangers,St Mirren,2,0,1,0,8,5,1,3,0,0
+Ross County,Motherwell,3,0,2,0,6,3,1,2,1,0
+Aberdeen,Kilmarnock,0,1,0,0,4,5,3,1,0,0
+Celtic,Hibernian,4,1,2,0,11,4,2,2,0,0
+St Johnstone,St Mirren,1,0,0,0,0,7,2,1,0,0
+Hearts,Rangers,0,1,0,1,6,5,3,1,0,0
+Aberdeen,Hearts,2,1,0,1,3,8,3,7,0,0
+Livingston,Hibernian,0,1,0,1,6,0,3,1,0,0
+Motherwell,St Johnstone,1,1,0,0,3,2,0,0,0,0
+Rangers,Dundee,3,1,3,1,5,7,1,3,1,0
+St Mirren,Ross County,2,0,0,0,10,4,2,0,0,0
+Kilmarnock,Celtic,2,1,0,1,5,9,3,1,0,0
+Celtic,Hearts,0,2,0,2,18,3,1,0,0,0
+Livingston,Kilmarnock,0,0,0,0,0,8,2,1,0,0
+Ross County,Dundee,0,1,0,0,2,9,1,2,0,0
+St Johnstone,Hibernian,1,0,0,0,5,5,2,3,0,0
+St Mirren,Motherwell,0,0,0,0,6,4,1,1,0,0
+Aberdeen,Livingston,2,1,1,1,1,3,0,3,0,0
+Rangers,St Johnstone,2,0,1,0,10,2,2,2,0,1
+Celtic,Livingston,2,0,0,0,14,0,0,1,0,0
+Hearts,St Mirren,2,0,1,0,8,6,2,3,0,0
+Kilmarnock,St Johnstone,2,1,2,0,5,1,0,1,0,0
+Motherwell,Rangers,0,2,0,2,3,5,3,1,0,0
+Dundee,Celtic,0,3,0,0,1,23,1,1,0,0
+Livingston,St Johnstone,0,0,0,0,6,3,2,2,0,0
+St Mirren,Kilmarnock,0,1,0,1,4,4,3,2,0,0
+Hibernian,Hearts,0,1,0,0,6,5,2,3,0,0
+Celtic,Rangers,2,1,1,0,4,2,7,3,0,1
+Aberdeen,St Mirren,0,3,0,1,13,2,1,0,0,0
+Hearts,Ross County,2,2,0,0,9,5,2,2,0,0
+Kilmarnock,Dundee,2,2,0,1,7,8,2,1,0,0
+Motherwell,Livingston,3,1,3,1,4,3,4,3,0,0
+Hibernian,Motherwell,2,2,1,1,7,3,2,2,0,0
+Livingston,Hearts,1,2,0,0,2,3,1,3,0,0
+Rangers,Kilmarnock,3,1,2,0,7,5,1,3,0,0
+Ross County,Aberdeen,0,3,0,2,4,5,4,3,1,0
+St Mirren,Celtic,0,3,0,2,1,12,0,0,1,0
+Hearts,Dundee,3,2,0,2,7,1,1,6,0,0
+Hibernian,Rangers,0,3,0,2,4,10,1,0,0,0
+St Johnstone,Aberdeen,1,1,0,0,1,4,4,1,0,0
+St Mirren,Rangers,0,1,0,1,4,3,0,2,0,0
+Celtic,Ross County,1,0,1,0,7,7,1,1,0,0
+Hearts,Aberdeen,2,0,0,0,7,7,1,2,0,0
+Kilmarnock,Hibernian,2,2,1,0,7,3,2,1,1,0
+Livingston,Dundee,1,4,0,1,5,3,0,1,0,1
+St Johnstone,Motherwell,1,1,1,1,0,6,2,3,0,0
+Aberdeen,Dundee,1,1,1,0,0,3,2,3,0,0
+Livingston,Ross County,2,2,1,1,5,3,1,2,0,0
+Aberdeen,Celtic,1,1,0,0,1,12,3,1,0,0
+Dundee,Hearts,2,3,1,0,8,5,3,1,0,0
+Hibernian,St Mirren,0,3,0,3,6,7,3,3,0,0
+Motherwell,Kilmarnock,1,1,1,1,6,5,2,5,0,0
+Rangers,Livingston,3,0,2,0,14,0,0,0,0,0
+Ross County,St Johnstone,0,1,0,1,8,4,3,1,0,0
+Motherwell,Ross County,5,0,3,0,3,6,2,2,0,0
+Rangers,Aberdeen,2,1,1,1,13,2,0,2,1,0
+Kilmarnock,Livingston,1,0,0,0,9,2,0,2,0,0
+St Johnstone,Hearts,0,1,0,0,2,4,4,1,0,0
+St Mirren,Dundee,2,0,0,0,6,5,0,1,1,0
+Hibernian,Celtic,1,2,0,1,4,5,4,2,0,0
+Dundee,St Johnstone,2,1,0,1,13,7,4,3,0,0
+Aberdeen,Motherwell,3,3,2,3,7,3,2,4,0,0
+Rangers,Ross County,3,1,2,1,20,3,1,3,0,0
+Aberdeen,Hibernian,2,2,1,1,4,2,1,3,0,0
+Celtic,Kilmarnock,1,1,1,0,8,4,0,3,0,0
+Dundee,Ross County,2,0,1,0,6,2,2,2,0,0
+Hearts,Motherwell,2,0,0,0,9,7,1,2,0,0
+Livingston,St Mirren,1,0,1,0,4,9,1,1,0,0
+St Johnstone,Rangers,0,3,0,1,3,1,3,0,0,0
+Hibernian,Dundee,2,1,1,0,10,2,0,2,0,0
+Kilmarnock,Aberdeen,2,0,1,0,5,3,1,0,0,0
+Rangers,Hearts,5,0,3,0,4,2,2,2,0,0
+Ross County,Livingston,3,2,2,0,6,4,2,1,0,0
+St Mirren,St Johnstone,2,0,1,0,5,6,1,2,0,0
+Motherwell,Celtic,1,3,1,0,4,4,1,2,0,0
+Ross County,St Mirren,1,1,1,0,3,4,2,2,0,0
+Aberdeen,St Johnstone,0,2,0,1,11,7,0,4,0,0
+Celtic,Dundee,7,1,6,0,5,5,2,1,0,1
+Hearts,Hibernian,1,1,1,1,4,9,2,1,0,0
+Kilmarnock,Rangers,1,2,1,0,8,6,3,2,0,0
+Livingston,Motherwell,1,3,1,0,1,4,1,1,0,0
+Dundee,Kilmarnock,2,2,1,1,4,6,3,4,0,1
+Hibernian,Ross County,2,0,0,0,8,2,0,1,0,0
+Rangers,Motherwell,1,2,0,1,15,2,0,3,0,0
+St Johnstone,Livingston,1,1,0,1,2,2,2,2,0,0
+St Mirren,Aberdeen,2,1,0,1,3,2,1,4,0,0
+Hearts,Celtic,2,0,1,0,7,7,2,2,0,1
+Dundee,Aberdeen,1,0,0,0,6,4,2,1,0,0
+Ross County,Hibernian,2,2,1,0,2,6,1,2,0,0
+Celtic,St Johnstone,3,1,1,0,10,2,0,3,0,0
+Hibernian,Livingston,3,0,3,0,3,2,0,6,0,0
+Kilmarnock,St Mirren,5,2,0,2,1,3,3,1,0,0
+Motherwell,Aberdeen,0,1,0,1,6,6,1,2,0,0
+Ross County,Hearts,2,1,1,0,2,15,2,1,0,0
+Aberdeen,Ross County,2,1,1,1,2,8,2,4,0,0
+Hearts,Kilmarnock,1,1,1,0,7,7,2,2,0,0
+Motherwell,St Mirren,1,1,0,1,4,4,1,1,0,0
+Rangers,Hibernian,3,1,2,1,9,4,3,3,0,0
+St Johnstone,Dundee,1,2,0,1,11,2,5,1,0,0
+Livingston,Celtic,0,3,0,0,0,8,1,0,0,0
+Dundee,Motherwell,2,3,1,0,3,11,2,0,0,0
+Hibernian,St Johnstone,1,2,0,0,13,3,1,2,0,0
+Kilmarnock,Ross County,1,0,0,0,4,3,4,4,0,0
+Livingston,Aberdeen,0,0,0,0,2,5,2,0,0,0
+St Mirren,Hearts,1,2,0,1,8,7,1,2,0,0
+Rangers,Celtic,3,3,0,2,3,2,0,4,0,0
+Aberdeen,Dundee,0,0,0,0,3,5,0,3,1,0
+Celtic,St Mirren,3,0,0,0,11,1,0,2,0,0
+Hearts,Livingston,4,2,4,2,5,5,1,0,0,1
+Motherwell,Hibernian,1,1,0,0,4,6,2,4,0,0
+St Johnstone,Kilmarnock,0,2,0,1,2,6,0,0,0,0
+Ross County,Rangers,3,2,0,1,3,17,3,1,0,0
+Dundee,Rangers,0,0,0,0,2,9,1,0,0,0
+Aberdeen,Motherwell,1,0,0,0,10,7,1,0,0,1
+Kilmarnock,Hearts,0,0,0,0,8,4,4,0,0,0
+Livingston,Ross County,2,0,1,0,4,5,1,0,0,0
+St Johnstone,Hibernian,1,3,0,2,1,7,0,1,0,0
+St Mirren,Rangers,1,2,1,1,4,8,1,1,0,0
+Dundee,Celtic,1,2,0,1,8,8,0,1,0,0
+Aberdeen,St Johnstone,1,0,0,0,7,4,1,2,0,0
+Celtic,Hearts,3,0,2,0,17,8,0,2,0,0
+Dundee,St Mirren,1,3,0,1,4,8,2,1,0,0
+Motherwell,Livingston,4,1,2,0,6,2,2,0,0,0
+Ross County,Hibernian,2,1,1,1,5,7,1,0,0,0
+Rangers,Kilmarnock,4,1,1,1,16,1,0,2,0,1
+Celtic,Rangers,2,1,2,1,10,5,3,0,0,1
+Hearts,Dundee,3,0,1,0,2,5,0,3,0,0
+Livingston,St Johnstone,2,1,0,1,4,8,2,1,0,0
+Ross County,Motherwell,1,5,1,2,8,5,3,2,0,0
+St Mirren,Kilmarnock,0,1,0,1,8,5,0,2,0,0
+Hibernian,Aberdeen,0,4,0,2,8,3,2,1,0,0
+Rangers,Dundee,5,2,1,2,6,5,0,0,0,0
+Kilmarnock,Celtic,0,5,0,3,2,9,2,0,0,0
+Aberdeen,Livingston,5,1,0,0,6,3,2,2,0,0
+Hibernian,Motherwell,3,0,2,0,8,4,1,1,0,0
+St Johnstone,Ross County,1,1,0,1,4,4,1,4,0,0
+St Mirren,Hearts,2,2,1,1,4,3,0,0,0,0
+Celtic,St Mirren,3,2,2,2,11,3,0,0,0,0
+Dundee,Kilmarnock,1,1,1,1,4,3,1,3,0,1
+Hearts,Rangers,3,3,1,0,2,6,1,1,0,0
+Livingston,Hibernian,1,1,0,0,4,9,0,1,0,0
+Motherwell,St Johnstone,1,2,0,2,7,3,0,1,0,0
+Ross County,Aberdeen,2,2,1,1,3,7,4,1,0,1
+Livingston,Rangers,1,2,1,0,0,8,3,4,0,0
+Hearts,Ross County,2,1,0,0,4,2,1,2,0,0
+Kilmarnock,Dundee United,1,1,0,1,4,4,2,0,0,1
+St Johnstone,Hibernian,0,1,0,0,3,9,2,4,1,0
+St Mirren,Motherwell,0,1,0,1,8,2,4,4,0,1
+Celtic,Aberdeen,2,0,1,0,9,3,1,2,0,0
+Aberdeen,St Mirren,4,1,3,0,4,4,1,2,0,1
+Motherwell,St Johnstone,1,2,0,1,4,6,1,3,0,0
+Rangers,Kilmarnock,2,0,0,0,8,3,0,6,0,0
+Ross County,Celtic,1,3,0,0,3,12,4,2,0,0
+Hibernian,Hearts,1,1,0,1,7,9,3,1,0,0
+Dundee United,Livingston,0,1,0,0,9,4,2,3,0,0
+Aberdeen,Motherwell,2,3,1,1,5,12,1,2,0,0
+Livingston,Hibernian,2,1,1,0,3,14,1,2,0,0
+Rangers,St Johnstone,4,0,1,0,9,1,1,2,0,0
+St Mirren,Ross County,1,0,0,0,6,5,1,1,0,0
+Kilmarnock,Celtic,0,5,0,3,2,8,4,2,0,0
+Hearts,Dundee United,4,1,1,0,3,2,0,4,0,0
+Hibernian,Rangers,2,2,0,1,5,3,4,2,0,2
+Dundee United,St Mirren,0,3,0,1,6,7,3,2,0,0
+Motherwell,Livingston,1,0,0,0,2,1,1,0,0,1
+Ross County,Kilmarnock,1,0,0,0,1,7,3,4,1,0
+St Johnstone,Aberdeen,0,1,0,0,5,5,5,0,0,0
+Celtic,Hearts,2,0,1,0,4,6,0,3,0,2
+Aberdeen,Livingston,5,0,1,0,8,3,0,4,0,1
+Kilmarnock,Motherwell,2,1,0,1,8,4,2,1,0,0
+Rangers,Ross County,4,0,2,0,7,1,2,2,0,0
+St Mirren,Hibernian,1,0,1,0,4,10,1,3,0,0
+Dundee United,Celtic,0,9,0,4,2,11,1,0,0,0
+Hearts,St Johnstone,3,2,2,1,3,4,0,4,0,0
+Celtic,Rangers,4,0,3,0,3,4,3,3,0,0
+Hibernian,Kilmarnock,1,0,1,0,7,3,2,3,0,1
+Livingston,Hearts,1,0,1,0,3,3,4,2,0,0
+Motherwell,Dundee United,0,0,0,0,3,6,2,1,0,0
+Ross County,Aberdeen,1,1,0,0,3,13,0,2,0,0
+St Johnstone,St Mirren,3,0,1,0,1,9,2,5,0,0
+Hibernian,Aberdeen,3,1,1,1,10,2,2,4,0,1
+Livingston,Kilmarnock,1,0,1,0,5,4,1,2,0,0
+Rangers,Dundee United,2,1,1,0,7,4,3,2,0,0
+St Johnstone,Ross County,0,0,0,0,5,3,4,2,0,0
+St Mirren,Celtic,2,0,1,0,6,7,3,2,0,0
+Motherwell,Hearts,0,3,0,1,6,2,3,2,0,0
+Hearts,Rangers,0,4,0,2,5,7,1,2,1,0
+Aberdeen,Kilmarnock,4,1,3,1,5,5,1,2,0,0
+Celtic,Motherwell,2,1,1,1,7,4,1,4,1,0
+Dundee United,St Johnstone,1,2,0,2,9,0,5,3,0,0
+Ross County,Hibernian,0,2,0,0,6,11,1,0,0,0
+St Mirren,Livingston,2,1,0,0,6,7,3,1,1,0
+Ross County,Motherwell,0,5,0,1,4,3,3,2,0,0
+Kilmarnock,St Johnstone,2,1,1,0,5,5,0,3,0,0
+St Johnstone,Celtic,1,2,0,1,2,8,3,3,0,0
+Hibernian,Motherwell,1,0,0,0,3,7,2,4,0,1
+Livingston,Ross County,0,1,0,0,9,2,0,3,0,0
+Rangers,St Mirren,4,0,2,0,8,5,0,2,0,0
+Dundee United,Aberdeen,4,0,2,0,5,1,2,1,0,0
+Kilmarnock,Hearts,2,2,0,0,6,3,2,1,0,0
+Dundee United,Hibernian,1,0,1,0,5,10,5,2,0,0
+Celtic,Hibernian,6,1,3,0,7,2,1,0,0,0
+Livingston,St Johnstone,1,0,1,0,8,2,3,3,0,0
+Ross County,Dundee United,1,1,1,0,4,10,1,0,0,0
+St Mirren,Kilmarnock,0,0,0,0,6,8,3,2,0,0
+Motherwell,Rangers,1,2,0,0,3,3,3,4,0,0
+Aberdeen,Hearts,2,0,0,0,4,1,3,3,0,0
+Hibernian,St Johnstone,1,2,1,0,1,1,4,1,1,0
+Hearts,Celtic,3,4,1,1,3,6,2,1,0,0
+Kilmarnock,Ross County,1,0,1,0,5,7,2,2,0,0
+Motherwell,Aberdeen,1,2,0,1,4,0,3,2,0,0
+Rangers,Livingston,1,1,0,1,14,1,2,2,0,1
+St Mirren,Dundee United,2,1,1,0,6,6,1,1,0,0
+Dundee United,Motherwell,0,1,0,1,10,5,0,1,1,0
+Hibernian,St Mirren,3,0,1,0,6,6,2,3,0,0
+Rangers,Aberdeen,4,1,2,1,13,4,0,3,0,0
+St Johnstone,Kilmarnock,1,0,1,0,3,6,5,1,0,0
+Livingston,Celtic,0,3,0,1,0,4,2,3,0,0
+Ross County,Hearts,1,2,1,2,6,1,3,2,0,0
+Aberdeen,Hibernian,4,1,1,0,5,4,2,2,0,0
+Kilmarnock,Livingston,2,3,2,1,5,4,3,3,0,0
+Celtic,Dundee United,4,2,2,1,11,2,3,2,0,0
+Ross County,St Mirren,3,2,1,2,7,5,2,3,0,0
+St Johnstone,Rangers,2,1,1,0,0,20,2,0,0,0
+Hearts,Motherwell,3,2,1,0,6,11,2,3,1,0
+Hibernian,Ross County,0,2,0,1,4,3,1,3,0,0
+Livingston,Aberdeen,2,1,2,0,7,8,4,3,0,0
+Dundee United,Kilmarnock,4,0,3,0,3,4,0,1,0,0
+Motherwell,Celtic,1,2,0,1,5,10,2,1,0,0
+Rangers,Hearts,1,0,0,0,7,5,3,1,0,0
+St Mirren,St Johnstone,2,2,1,1,6,3,4,3,0,1
+St Mirren,Rangers,1,1,0,0,6,5,2,1,0,0
+Celtic,Ross County,2,1,0,0,9,0,1,4,0,0
+Hearts,Livingston,1,1,0,0,11,6,1,1,1,0
+Kilmarnock,Hibernian,1,0,0,0,0,5,2,3,0,0
+St Johnstone,Motherwell,1,1,1,1,8,4,2,4,0,0
+Aberdeen,Dundee United,1,0,1,0,3,3,1,0,0,0
+Rangers,Hibernian,3,2,1,2,8,4,1,3,0,0
+Aberdeen,Celtic,0,1,0,0,0,7,1,0,0,0
+Hearts,Kilmarnock,3,1,2,0,7,2,1,1,0,0
+Ross County,St Johnstone,1,2,1,0,0,6,1,1,1,0
+Aberdeen,Rangers,2,3,1,1,3,5,5,5,0,0
+Celtic,Livingston,2,1,2,1,10,1,2,3,0,0
+Ross County,Rangers,0,1,0,1,0,4,2,1,0,0
+Motherwell,Kilmarnock,2,2,1,0,13,1,2,0,0,1
+Celtic,St Johnstone,4,1,3,0,9,1,2,1,1,0
+St Mirren,Aberdeen,3,1,1,1,8,5,4,1,0,1
+Dundee United,Hearts,2,2,1,1,6,9,4,2,0,0
+Hibernian,Livingston,4,0,3,0,9,1,2,4,0,1
+Dundee United,Ross County,3,0,1,0,3,2,2,0,0,1
+Kilmarnock,Aberdeen,2,1,2,0,2,6,2,2,0,0
+Livingston,St Mirren,1,1,0,0,4,5,1,2,1,1
+Rangers,Motherwell,3,0,2,0,7,7,2,3,0,0
+St Johnstone,Hearts,2,3,0,2,4,11,4,1,0,0
+Hibernian,Celtic,0,4,0,2,5,14,0,0,0,0
+Rangers,Celtic,2,2,0,1,5,4,1,1,0,0
+Aberdeen,Ross County,0,0,0,0,11,1,0,4,0,0
+Hearts,Hibernian,3,0,2,0,3,4,2,3,0,0
+Kilmarnock,St Mirren,0,0,0,0,6,4,2,3,0,1
+Livingston,Motherwell,1,1,1,1,5,4,3,2,0,0
+St Johnstone,Dundee United,0,1,0,0,3,2,3,1,0,0
+Aberdeen,St Johnstone,2,0,0,0,9,2,0,3,0,0
+Celtic,Kilmarnock,2,0,1,0,4,3,0,0,0,0
+Ross County,Livingston,0,2,0,0,4,4,0,1,0,0
+St Mirren,Hearts,1,1,1,0,3,4,2,2,1,0
+Motherwell,Hibernian,2,3,0,1,5,2,2,1,0,0
+Dundee United,Rangers,0,2,0,0,1,7,1,0,0,0
+Hearts,St Mirren,1,0,1,0,5,5,2,4,0,0
+Hibernian,Dundee United,2,2,1,2,3,6,2,3,0,0
+Motherwell,Ross County,1,1,0,0,7,3,2,3,0,0
+St Johnstone,Livingston,2,4,0,3,5,3,1,1,0,0
+Celtic,St Mirren,4,0,2,0,8,2,0,0,0,0
+Hearts,Aberdeen,5,0,4,0,3,8,1,1,0,0
+Kilmarnock,Rangers,2,3,1,1,3,4,1,2,1,0
+Hibernian,Aberdeen,6,0,3,0,6,9,2,3,0,1
+Rangers,St Johnstone,2,0,1,0,9,3,3,3,0,1
+Ross County,Kilmarnock,3,0,1,0,0,5,1,1,0,0
+St Mirren,Motherwell,1,0,1,0,6,5,3,2,0,0
+Livingston,Hearts,0,0,0,0,1,5,0,2,0,0
+Dundee United,Celtic,0,2,0,0,1,3,2,0,0,0
+Ross County,Hibernian,1,1,0,1,3,3,3,4,0,0
+Aberdeen,St Mirren,1,3,0,0,2,11,4,2,1,0
+Celtic,Livingston,3,0,3,0,8,0,1,1,0,0
+Hearts,Rangers,0,3,0,2,1,7,3,3,0,0
+Kilmarnock,Dundee United,1,0,1,0,7,2,1,3,0,0
+Motherwell,St Johnstone,0,2,0,1,1,3,2,1,0,0
+Aberdeen,Motherwell,3,1,1,0,9,2,4,3,0,0
+Hearts,Dundee United,3,1,0,1,10,3,3,2,1,1
+Livingston,Kilmarnock,3,1,3,0,5,5,2,2,0,0
+Rangers,Ross County,2,1,1,0,4,6,4,2,0,0
+St Mirren,Hibernian,0,1,0,0,5,4,1,2,0,0
+St Johnstone,Celtic,1,4,1,3,3,4,2,2,1,0
+Motherwell,St Mirren,2,1,2,1,3,2,2,4,0,0
+Celtic,Aberdeen,4,0,2,0,8,0,0,0,0,0
+Dundee United,St Johnstone,1,2,0,1,11,6,2,2,0,0
+Hibernian,Kilmarnock,2,0,1,0,8,4,1,0,0,1
+Livingston,Rangers,0,3,0,1,2,9,2,1,1,0
+St Mirren,Ross County,1,0,1,0,10,8,0,1,0,1
+Motherwell,Hearts,2,0,1,0,5,9,1,1,0,0
+Aberdeen,Livingston,1,0,1,0,8,8,0,3,0,0
+Kilmarnock,Motherwell,1,1,1,0,4,6,3,3,0,0
+Ross County,Dundee United,4,0,2,0,3,2,2,2,0,0
+St Johnstone,St Mirren,1,1,0,0,5,2,1,0,1,0
+Hearts,St Johnstone,3,0,1,0,8,7,0,0,0,0
+Livingston,Hibernian,1,4,1,2,4,3,3,3,1,0
+Rangers,Kilmarnock,3,1,3,0,7,4,1,2,0,0
+Ross County,Motherwell,0,2,0,0,9,4,0,2,1,0
+Dundee United,Aberdeen,1,3,0,0,10,5,2,3,0,0
+St Mirren,Celtic,1,5,1,0,0,6,1,0,1,0
+Celtic,Hearts,3,1,1,1,7,3,0,2,0,0
+Hibernian,Rangers,1,4,1,2,3,7,2,0,0,0
+Livingston,Dundee United,1,1,1,0,4,6,1,6,0,0
+Motherwell,Rangers,2,4,1,1,1,3,1,1,1,0
+Aberdeen,Hearts,3,0,3,0,7,7,3,3,0,0
+Celtic,Hibernian,3,1,0,1,15,0,1,3,0,1
+Dundee United,St Mirren,1,1,1,0,1,4,1,1,0,0
+Kilmarnock,St Johnstone,1,1,1,0,9,5,3,5,0,0
+Livingston,Ross County,2,1,2,0,8,6,3,1,0,0
+Hibernian,Motherwell,1,3,0,1,6,5,3,1,0,0
+Kilmarnock,Hearts,2,1,2,1,2,5,2,2,1,0
+Rangers,Dundee United,2,0,1,0,10,2,1,1,0,0
+St Johnstone,Aberdeen,0,1,0,1,7,7,3,2,1,1
+St Mirren,Livingston,3,0,3,0,4,9,1,3,0,0
+Ross County,Celtic,0,2,0,1,2,9,0,0,0,0
+Celtic,Rangers,3,2,1,1,4,3,4,2,0,0
+Aberdeen,Kilmarnock,2,0,1,0,5,8,1,1,0,0
+Hearts,St Mirren,0,2,0,0,6,8,2,3,1,0
+Motherwell,Livingston,3,0,3,0,4,2,1,1,0,0
+St Johnstone,Ross County,0,2,0,1,7,5,2,3,0,0
+Dundee United,Hibernian,2,1,1,0,0,4,0,2,0,0
+Ross County,Aberdeen,0,1,0,1,10,2,1,2,0,1
+Hibernian,Hearts,1,0,0,0,5,7,6,4,0,0
+Livingston,St Johnstone,2,0,2,0,2,3,2,1,0,0
+Motherwell,Dundee United,1,2,1,0,6,6,3,4,0,0
+Rangers,St Mirren,5,2,1,1,6,4,2,1,0,0
+Kilmarnock,Celtic,1,4,1,4,4,5,0,2,0,0
+Hearts,Ross County,6,1,4,0,8,5,1,3,0,0
+Celtic,Motherwell,1,1,1,0,13,3,1,3,0,0
+Dundee United,Livingston,2,0,1,0,6,3,3,2,0,0
+St Johnstone,Hibernian,1,1,1,1,8,1,2,2,0,1
+St Mirren,Kilmarnock,0,2,0,2,5,1,1,1,1,0
+Aberdeen,Rangers,2,0,0,0,3,7,2,1,0,0
+Hibernian,St Mirren,2,1,2,0,3,5,2,1,0,0
+Motherwell,Kilmarnock,2,0,1,0,8,1,2,2,0,0
+Ross County,Livingston,2,0,1,0,5,3,2,2,0,1
+St Johnstone,Dundee United,1,0,1,0,9,2,2,3,0,1
+Hearts,Celtic,0,2,0,0,6,5,0,1,1,0
+Rangers,Aberdeen,1,0,0,0,12,6,1,2,0,0
+Rangers,Celtic,3,0,2,0,5,5,1,1,0,0
+Aberdeen,Hibernian,0,0,0,0,3,8,2,5,0,0
+Dundee United,Ross County,1,3,1,1,6,5,2,5,0,0
+Kilmarnock,Livingston,2,0,0,0,2,5,1,3,0,0
+St Johnstone,Motherwell,0,2,0,0,6,4,0,1,0,0
+St Mirren,Hearts,2,2,2,0,7,4,2,4,0,1
+Hearts,Aberdeen,2,1,1,1,5,2,1,4,0,0
+Celtic,St Mirren,2,2,1,2,14,2,0,0,0,0
+Kilmarnock,St Johnstone,0,1,0,1,3,8,1,3,1,0
+Livingston,Dundee United,2,1,1,1,1,12,2,1,0,1
+Motherwell,Ross County,1,0,0,0,4,4,3,0,0,1
+Hibernian,Rangers,1,3,0,1,7,5,2,1,0,0
+Aberdeen,St Mirren,3,0,2,0,2,2,0,1,0,1
+Dundee United,Kilmarnock,0,3,0,2,3,5,1,1,0,0
+Hibernian,Celtic,4,2,0,1,8,10,2,1,0,1
+Livingston,Motherwell,1,1,0,1,1,11,2,1,1,0
+Rangers,Hearts,2,2,1,1,9,2,3,4,0,0
+Ross County,St Johnstone,3,3,0,1,6,4,2,0,0,0
+Celtic,Aberdeen,5,0,2,0,10,2,1,2,0,0
+Hearts,Hibernian,1,1,1,1,4,9,3,5,1,0
+St Mirren,Rangers,0,3,0,1,5,3,2,1,0,0
+Kilmarnock,Ross County,3,1,1,0,5,3,4,1,0,0
+Motherwell,Dundee United,3,2,1,1,9,0,2,0,0,0
+St Johnstone,Livingston,2,0,1,0,4,2,0,3,0,0
