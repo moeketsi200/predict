@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 League,Date,Home,Away
 epl,MW1,Liverpool,Bournemouth
 epl,MW1,Aston Villa,Newcastle
@@ -376,3 +377,486 @@ epl,MW38,Nott'm Forest,Bournemouth
 epl,MW38,Sunderland,Chelsea
 epl,MW38,Tottenham,Everton
 epl,MW38,West Ham,Leeds
+=======
+League,Date,Home,Away
+epl,MW1,Liverpool,Bournemouth
+epl,MW1,Aston Villa,Newcastle
+epl,MW1,Brighton,Fulham
+epl,MW1,Sunderland,West Ham
+epl,MW1,Tottenham,Burnley
+epl,MW1,Wolves,Man City
+epl,MW1,Chelsea,Crystal Palace
+epl,MW1,Nott'm Forest,Brentford
+epl,MW1,Man United,Arsenal
+epl,MW1,Leeds,Everton
+epl,MW2,West Ham,Chelsea
+epl,MW2,Man City,Tottenham
+epl,MW2,Bournemouth,Wolves
+epl,MW2,Brentford,Aston Villa
+epl,MW2,Burnley,Sunderland
+epl,MW2,Arsenal,Leeds
+epl,MW2,Crystal Palace,Nott'm Forest
+epl,MW2,Everton,Brighton
+epl,MW2,Fulham,Man United
+epl,MW2,Newcastle,Liverpool
+epl,MW3,Chelsea,Fulham
+epl,MW3,Man United,Burnley
+epl,MW3,Sunderland,Brentford
+epl,MW3,Tottenham,Bournemouth
+epl,MW3,Wolves,Everton
+epl,MW3,Leeds,Newcastle
+epl,MW3,Brighton,Man City
+epl,MW3,Nott'm Forest,West Ham
+epl,MW3,Liverpool,Arsenal
+epl,MW3,Aston Villa,Crystal Palace
+epl,MW4,Arsenal,Nott'm Forest
+epl,MW4,Bournemouth,Brighton
+epl,MW4,Crystal Palace,Sunderland
+epl,MW4,Everton,Aston Villa
+epl,MW4,Fulham,Leeds
+epl,MW4,Newcastle,Wolves
+epl,MW4,West Ham,Tottenham
+epl,MW4,Brentford,Chelsea
+epl,MW4,Burnley,Liverpool
+epl,MW4,Man City,Man United
+epl,MW5,Liverpool,Everton
+epl,MW5,Brighton,Tottenham
+epl,MW5,Burnley,Nott'm Forest
+epl,MW5,West Ham,Crystal Palace
+epl,MW5,Wolves,Leeds
+epl,MW5,Man United,Chelsea
+epl,MW5,Fulham,Brentford
+epl,MW5,Sunderland,Aston Villa
+epl,MW5,Bournemouth,Newcastle
+epl,MW5,Arsenal,Man City
+epl,MW6,Brentford,Man United
+epl,MW6,Chelsea,Brighton
+epl,MW6,Crystal Palace,Liverpool
+epl,MW6,Leeds,Bournemouth
+epl,MW6,Man City,Burnley
+epl,MW6,Nott'm Forest,Sunderland
+epl,MW6,Tottenham,Wolves
+epl,MW6,Aston Villa,Fulham
+epl,MW6,Newcastle,Arsenal
+epl,MW6,Everton,West Ham
+epl,MW7,Bournemouth,Fulham
+epl,MW7,Leeds,Tottenham
+epl,MW7,Arsenal,West Ham
+epl,MW7,Man United,Sunderland
+epl,MW7,Chelsea,Liverpool
+epl,MW7,Everton,Crystal Palace
+epl,MW7,Aston Villa,Burnley
+epl,MW7,Newcastle,Nott'm Forest
+epl,MW7,Wolves,Brighton
+epl,MW7,Brentford,Man City
+epl,MW8,Nott'm Forest,Chelsea
+epl,MW8,Brighton,Newcastle
+epl,MW8,Burnley,Leeds
+epl,MW8,Crystal Palace,Bournemouth
+epl,MW8,Man City,Everton
+epl,MW8,Sunderland,Wolves
+epl,MW8,Fulham,Arsenal
+epl,MW8,Tottenham,Aston Villa
+epl,MW8,Liverpool,Man United
+epl,MW8,West Ham,Brentford
+epl,MW9,Leeds,West Ham
+epl,MW9,Chelsea,Sunderland
+epl,MW9,Newcastle,Fulham
+epl,MW9,Man United,Brighton
+epl,MW9,Brentford,Liverpool
+epl,MW9,Arsenal,Crystal Palace
+epl,MW9,Bournemouth,Nott'm Forest
+epl,MW9,Aston Villa,Man City
+epl,MW9,Wolves,Burnley
+epl,MW9,Everton,Tottenham
+epl,MW10,Brighton,Leeds
+epl,MW10,Burnley,Arsenal
+epl,MW10,Crystal Palace,Brentford
+epl,MW10,Fulham,Wolves
+epl,MW10,Nott'm Forest,Man United
+epl,MW10,Tottenham,Chelsea
+epl,MW10,Liverpool,Aston Villa
+epl,MW10,West Ham,Newcastle
+epl,MW10,Man City,Bournemouth
+epl,MW10,Sunderland,Everton
+epl,MW11,Tottenham,Man United
+epl,MW11,Everton,Fulham
+epl,MW11,West Ham,Burnley
+epl,MW11,Sunderland,Arsenal
+epl,MW11,Chelsea,Wolves
+epl,MW11,Aston Villa,Bournemouth
+epl,MW11,Brentford,Newcastle
+epl,MW11,Crystal Palace,Brighton
+epl,MW11,Nott'm Forest,Leeds
+epl,MW11,Man City,Liverpool
+epl,MW12,Burnley,Chelsea
+epl,MW12,Bournemouth,West Ham
+epl,MW12,Brighton,Brentford
+epl,MW12,Fulham,Sunderland
+epl,MW12,Liverpool,Nott'm Forest
+epl,MW12,Wolves,Crystal Palace
+epl,MW12,Newcastle,Man City
+epl,MW12,Leeds,Aston Villa
+epl,MW12,Arsenal,Tottenham
+epl,MW12,Man United,Everton
+epl,MW13,Brentford,Burnley
+epl,MW13,Man City,Leeds
+epl,MW13,Sunderland,Bournemouth
+epl,MW13,Everton,Newcastle
+epl,MW13,Tottenham,Fulham
+epl,MW13,Crystal Palace,Man United
+epl,MW13,Aston Villa,Wolves
+epl,MW13,Nott'm Forest,Brighton
+epl,MW13,West Ham,Liverpool
+epl,MW13,Chelsea,Arsenal
+epl,MW14,Bournemouth,Everton
+epl,MW14,Fulham,Man City
+epl,MW14,Newcastle,Tottenham
+epl,MW14,Arsenal,Brentford
+epl,MW14,Brighton,Aston Villa
+epl,MW14,Burnley,Crystal Palace
+epl,MW14,Wolves,Nott'm Forest
+epl,MW14,Leeds,Chelsea
+epl,MW14,Liverpool,Sunderland
+epl,MW14,Man United,West Ham
+epl,MW15,Aston Villa,Arsenal
+epl,MW15,Bournemouth,Chelsea
+epl,MW15,Everton,Nott'm Forest
+epl,MW15,Man City,Sunderland
+epl,MW15,Newcastle,Burnley
+epl,MW15,Tottenham,Brentford
+epl,MW15,Leeds,Liverpool
+epl,MW15,Brighton,West Ham
+epl,MW15,Fulham,Crystal Palace
+epl,MW15,Wolves,Man United
+epl,MW16,Chelsea,Everton
+epl,MW16,Liverpool,Brighton
+epl,MW16,Burnley,Fulham
+epl,MW16,Arsenal,Wolves
+epl,MW16,Crystal Palace,Man City
+epl,MW16,Nott'm Forest,Tottenham
+epl,MW16,Sunderland,Newcastle
+epl,MW16,West Ham,Aston Villa
+epl,MW16,Brentford,Leeds
+epl,MW16,Man United,Bournemouth
+epl,MW17,Newcastle,Chelsea
+epl,MW17,Bournemouth,Burnley
+epl,MW17,Brighton,Sunderland
+epl,MW17,Man City,West Ham
+epl,MW17,Wolves,Brentford
+epl,MW17,Tottenham,Liverpool
+epl,MW17,Everton,Arsenal
+epl,MW17,Leeds,Crystal Palace
+epl,MW17,Aston Villa,Man United
+epl,MW17,Fulham,Nott'm Forest
+epl,MW18,Man United,Newcastle
+epl,MW18,Nott'm Forest,Man City
+epl,MW18,Arsenal,Brighton
+epl,MW18,Brentford,Bournemouth
+epl,MW18,Burnley,Everton
+epl,MW18,Liverpool,Wolves
+epl,MW18,West Ham,Fulham
+epl,MW18,Chelsea,Aston Villa
+epl,MW18,Sunderland,Leeds
+epl,MW18,Crystal Palace,Tottenham
+epl,MW19,Burnley,Newcastle
+epl,MW19,Chelsea,Bournemouth
+epl,MW19,Nott'm Forest,Everton
+epl,MW19,West Ham,Brighton
+epl,MW19,Arsenal,Aston Villa
+epl,MW19,Man United,Wolves
+epl,MW19,Crystal Palace,Fulham
+epl,MW19,Liverpool,Leeds
+epl,MW19,Brentford,Tottenham
+epl,MW19,Sunderland,Man City
+epl,MW20,Aston Villa,Nott'm Forest
+epl,MW20,Brighton,Burnley
+epl,MW20,Wolves,West Ham
+epl,MW20,Bournemouth,Arsenal
+epl,MW20,Leeds,Man United
+epl,MW20,Everton,Brentford
+epl,MW20,Fulham,Liverpool
+epl,MW20,Newcastle,Crystal Palace
+epl,MW20,Tottenham,Sunderland
+epl,MW20,Man City,Chelsea
+epl,MW21,West Ham,Nott'm Forest
+epl,MW21,Bournemouth,Tottenham
+epl,MW21,Brentford,Sunderland
+epl,MW21,Crystal Palace,Aston Villa
+epl,MW21,Everton,Wolves
+epl,MW21,Fulham,Chelsea
+epl,MW21,Man City,Brighton
+epl,MW21,Burnley,Man United
+epl,MW21,Newcastle,Leeds
+epl,MW21,Arsenal,Liverpool
+epl,MW22,Man United,Man City
+epl,MW22,Chelsea,Brentford
+epl,MW22,Leeds,Fulham
+epl,MW22,Liverpool,Burnley
+epl,MW22,Sunderland,Crystal Palace
+epl,MW22,Tottenham,West Ham
+epl,MW22,Nott'm Forest,Arsenal
+epl,MW22,Wolves,Newcastle
+epl,MW22,Aston Villa,Everton
+epl,MW22,Brighton,Bournemouth
+epl,MW23,West Ham,Sunderland
+epl,MW23,Burnley,Tottenham
+epl,MW23,Fulham,Brighton
+epl,MW23,Man City,Wolves
+epl,MW23,Bournemouth,Liverpool
+epl,MW23,Brentford,Nott'm Forest
+epl,MW23,Crystal Palace,Chelsea
+epl,MW23,Newcastle,Aston Villa
+epl,MW23,Arsenal,Man United
+epl,MW23,Everton,Leeds
+epl,MW24,Brighton,Everton
+epl,MW24,Leeds,Arsenal
+epl,MW24,Wolves,Bournemouth
+epl,MW24,Chelsea,West Ham
+epl,MW24,Liverpool,Newcastle
+epl,MW24,Aston Villa,Brentford
+epl,MW24,Man United,Fulham
+epl,MW24,Nott'm Forest,Crystal Palace
+epl,MW24,Tottenham,Man City
+epl,MW24,Sunderland,Burnley
+epl,MW25,Leeds,Nott'm Forest
+epl,MW25,Man United,Tottenham
+epl,MW25,Bournemouth,Aston Villa
+epl,MW25,Arsenal,Sunderland
+epl,MW25,Burnley,West Ham
+epl,MW25,Fulham,Everton
+epl,MW25,Wolves,Chelsea
+epl,MW25,Newcastle,Brentford
+epl,MW25,Brighton,Crystal Palace
+epl,MW25,Liverpool,Man City
+epl,MW26,Chelsea,Leeds
+epl,MW26,Everton,Bournemouth
+epl,MW26,Tottenham,Newcastle
+epl,MW26,West Ham,Man United
+epl,MW26,Aston Villa,Brighton
+epl,MW26,Crystal Palace,Burnley
+epl,MW26,Man City,Fulham
+epl,MW26,Nott'm Forest,Wolves
+epl,MW26,Sunderland,Liverpool
+epl,MW26,Brentford,Arsenal
+epl,MW27,Man City,Newcastle
+epl,MW27,Aston Villa,Leeds
+epl,MW27,Brentford,Brighton
+epl,MW27,Chelsea,Burnley
+epl,MW27,Nott'm Forest,Liverpool
+epl,MW27,West Ham,Bournemouth
+epl,MW27,Crystal Palace,Wolves
+epl,MW27,Sunderland,Fulham
+epl,MW27,Tottenham,Arsenal
+epl,MW27,Everton,Man United
+epl,MW28,Bournemouth,Sunderland
+epl,MW28,Brighton,Nott'm Forest
+epl,MW28,Burnley,Brentford
+epl,MW28,Liverpool,West Ham
+epl,MW28,Newcastle,Everton
+epl,MW28,Leeds,Man City
+epl,MW28,Fulham,Tottenham
+epl,MW28,Man United,Crystal Palace
+epl,MW28,Arsenal,Chelsea
+epl,MW28,Bournemouth,Brentford
+epl,MW29,Everton,Burnley
+epl,MW29,Leeds,Sunderland
+epl,MW29,Wolves,Liverpool
+epl,MW29,Aston Villa,Chelsea
+epl,MW29,Brighton,Arsenal
+epl,MW29,Fulham,West Ham
+epl,MW29,Man City,Nott'm Forest
+epl,MW29,Newcastle,Man United
+epl,MW29,Tottenham,Crystal Palace
+epl,MW29,Burnley,Bournemouth
+epl,MW30,Sunderland,Brighton
+epl,MW30,Chelsea,Newcastle
+epl,MW30,Arsenal,Everton
+epl,MW30,West Ham,Man City
+epl,MW30,Crystal Palace,Leeds
+epl,MW30,Man United,Aston Villa
+epl,MW30,Nott'm Forest,Fulham
+epl,MW30,Liverpool,Tottenham
+epl,MW30,Brentford,Wolves
+epl,MW30,Bournemouth,Man United
+epl,MW31,Brighton,Liverpool
+epl,MW31,Fulham,Burnley
+epl,MW31,Everton,Chelsea
+epl,MW31,Leeds,Brentford
+epl,MW31,Newcastle,Sunderland
+epl,MW31,Aston Villa,West Ham
+epl,MW31,Tottenham,Nott'm Forest
+epl,MW31,West Ham,Wolves
+epl,MW31,Arsenal,Bournemouth
+epl,MW31,Brentford,Everton
+epl,MW32,Burnley,Brighton
+epl,MW32,Crystal Palace,Newcastle
+epl,MW32,Nott'm Forest,Aston Villa
+epl,MW32,Liverpool,Fulham
+epl,MW32,Sunderland,Tottenham
+epl,MW32,Chelsea,Man City
+epl,MW32,Man United,Leeds
+epl,MW32,Brentford,Fulham
+epl,MW32,Aston Villa,Sunderland
+epl,MW32,Leeds,Wolves
+epl,MW33,Newcastle,Bournemouth
+epl,MW33,Nott'm Forest,Burnley
+epl,MW33,Tottenham,Brighton
+epl,MW33,Chelsea,Man United
+epl,MW33,Everton,Liverpool
+epl,MW33,Man City,Arsenal
+epl,MW33,Crystal Palace,West Ham
+epl,MW33,Sunderland,Nott'm Forest
+epl,MW33,Fulham,Aston Villa
+epl,MW33,Bournemouth,Leeds
+epl,MW34,Liverpool,Crystal Palace
+epl,MW34,West Ham,Everton
+epl,MW34,Wolves,Tottenham
+epl,MW34,Arsenal,Newcastle
+epl,MW34,Burnley,Man City
+epl,MW34,Brighton,Chelsea
+epl,MW34,Man United,Brentford
+epl,MW34,Bournemouth,Crystal Palace
+epl,MW34,Arsenal,Fulham
+epl,MW34,Aston Villa,Tottenham
+epl,MW35,Brentford,West Ham
+epl,MW35,Chelsea,Nott'm Forest
+epl,MW35,Everton,Man City
+epl,MW35,Leeds,Burnley
+epl,MW35,Man United,Liverpool
+epl,MW35,Newcastle,Brighton
+epl,MW35,Wolves,Sunderland
+epl,MW35,Brighton,Wolves
+epl,MW35,Burnley,Aston Villa
+epl,MW35,Crystal Palace,Everton
+epl,MW36,Fulham,Bournemouth
+epl,MW36,Liverpool,Chelsea
+epl,MW36,Man City,Brentford
+epl,MW36,Nott'm Forest,Newcastle
+epl,MW36,Sunderland,Man United
+epl,MW36,Tottenham,Leeds
+epl,MW36,West Ham,Arsenal
+epl,MW36,Bournemouth,Man City
+epl,MW36,Arsenal,Burnley
+epl,MW36,Aston Villa,Liverpool
+epl,MW37,Brentford,Crystal Palace
+epl,MW37,Chelsea,Tottenham
+epl,MW37,Everton,Sunderland
+epl,MW37,Leeds,Brighton
+epl,MW37,Man United,Nott'm Forest
+epl,MW37,Newcastle,West Ham
+epl,MW37,Wolves,Fulham
+epl,MW37,Brighton,Man United
+epl,MW37,Burnley,Wolves
+epl,MW37,Crystal Palace,Arsenal
+epl,MW38,Fulham,Newcastle
+epl,MW38,Liverpool,Brentford
+epl,MW38,Man City,Aston Villa
+epl,MW38,Nott'm Forest,Bournemouth
+epl,MW38,Sunderland,Chelsea
+epl,MW38,Tottenham,Everton
+epl,MW38,West Ham,Leeds
+
+
+laliga,MW28,Rayo Vallecano,Levante
+laliga,MW29,Villarreal,Real Sociedad
+laliga,MW29,Elche,Mallorca
+laliga,MW29,Espanyol,Getafe
+laliga,MW29,Levante,Oviedo
+laliga,MW29,Osasuna,Girona
+laliga,MW29,Sevilla,Valencia
+laliga,MW29,Barcelona,Rayo Vallecano
+laliga,MW29,Celta Vigo,Alaves
+laliga,MW29,A Bilbao,Real Betis
+laliga,MW29,Real Madrid,Atlético
+laliga,MW30,Alaves,Osasuna
+laliga,MW30,Atlético,Barcelona
+laliga,MW30,Getafe,A Bilbao
+laliga,MW30,Girona,Villarreal
+laliga,MW30,Mallorca,Real Madrid
+laliga,MW30,Oviedo,Sevilla
+laliga,MW30,Rayo Vallecano,Elche
+laliga,MW30,Real Betis,Espanyol
+laliga,MW30,Real Sociedad,Levante
+laliga,MW30,Valencia,Celta Vigo
+laliga,MW31,A Bilbao,Villarreal
+laliga,MW31,Barcelona,Espanyol
+laliga,MW31,Celta Vigo,Oviedo
+laliga,MW31,Elche,Valencia
+laliga,MW31,Levante,Getafe
+laliga,MW31,Mallorca,Rayo Vallecano
+laliga,MW31,Osasuna,Real Betis
+laliga,MW31,Real Madrid,Girona
+laliga,MW31,Real Sociedad,Alaves
+laliga,MW31,Sevilla,Atlético
+laliga,MW32,Alaves,Mallorca
+laliga,MW32,Atlético,A Bilbao
+laliga,MW32,Espanyol,Levante
+laliga,MW32,Getafe,Barcelona
+laliga,MW32,Osasuna,Sevilla
+laliga,MW32,Oviedo,Elche
+laliga,MW32,Rayo Vallecano,Real Sociedad
+laliga,MW32,Real Betis,Real Madrid
+laliga,MW32,Valencia,Girona
+laliga,MW32,Villarreal,Celta Vigo
+laliga,MW33,A Bilbao,Osasuna
+laliga,MW33,Barcelona,Celta Vigo
+laliga,MW33,Elche,Atlético
+laliga,MW33,Girona,Real Betis
+laliga,MW33,Levante,Sevilla
+laliga,MW33,Mallorca,Valencia
+laliga,MW33,Oviedo,Villarreal
+laliga,MW33,Rayo Vallecano,Espanyol
+laliga,MW33,Real Madrid,Alaves
+laliga,MW33,Real Sociedad,Getafe
+laliga,MW34,Alaves,A Bilbao
+laliga,MW34,Celta Vigo,Elche
+laliga,MW34,Espanyol,Real Madrid
+laliga,MW34,Getafe,Rayo Vallecano
+laliga,MW34,Girona,Mallorca
+laliga,MW34,Osasuna,Barcelona
+laliga,MW34,Real Betis,Oviedo
+laliga,MW34,Sevilla,Real Sociedad
+laliga,MW34,Valencia,Atlético
+laliga,MW34,Villarreal,Levante
+laliga,MW35,A Bilbao,Valencia
+laliga,MW35,Atlético,Celta Vigo
+laliga,MW35,Barcelona,Real Madrid
+laliga,MW35,Elche,Alaves
+laliga,MW35,Levante,Osasuna
+laliga,MW35,Mallorca,Villarreal
+laliga,MW35,Oviedo,Getafe
+laliga,MW35,Rayo Vallecano,Girona
+laliga,MW35,Real Sociedad,Real Betis
+laliga,MW35,Sevilla,Espanyol
+laliga,MW36,Alaves,Barcelona
+laliga,MW36,Celta Vigo,Levante
+laliga,MW36,Espanyol,A Bilbao
+laliga,MW36,Getafe,Mallorca
+laliga,MW36,Girona,Real Sociedad
+laliga,MW36,Osasuna,Atlético
+laliga,MW36,Real Betis,Elche
+laliga,MW36,Real Madrid,Oviedo
+laliga,MW36,Valencia,Rayo Vallecano
+laliga,MW36,Villarreal,Sevilla
+laliga,MW37,A Bilbao,Celta Vigo
+laliga,MW37,Atlético,Girona
+laliga,MW37,Barcelona,Real Betis
+laliga,MW37,Elche,Getafe
+laliga,MW37,Levante,Mallorca
+laliga,MW37,Osasuna,Espanyol
+laliga,MW37,Oviedo,Alaves
+laliga,MW37,Rayo Vallecano,Villarreal
+laliga,MW37,Real Sociedad,Valencia
+laliga,MW37,Sevilla,Real Madrid
+laliga,MW38,Alaves,Rayo Vallecano
+laliga,MW38,Celta Vigo,Sevilla
+laliga,MW38,Espanyol,Real Sociedad
+laliga,MW38,Getafe,Osasuna
+laliga,MW38,Girona,Elche
+laliga,MW38,Mallorca,Oviedo
+laliga,MW38,Real Betis,Levante
+laliga,MW38,Real Madrid,A Bilbao
+laliga,MW38,Valencia,Barcelona
+laliga,MW38,Villarreal,Atlético
+>>>>>>> a7db18190fac85214230eab718bb2dc174b1de6b
